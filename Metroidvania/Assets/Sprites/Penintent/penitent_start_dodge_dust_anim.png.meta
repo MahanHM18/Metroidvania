@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 441461fe0d58db543a94e15bcbaa0d89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_start_dodge_dust_anim_0
+  - first:
+      213: 21300002
+    second: penitent_start_dodge_dust_anim_1
+  - first:
+      213: 21300004
+    second: penitent_start_dodge_dust_anim_2
+  - first:
+      213: 21300006
+    second: penitent_start_dodge_dust_anim_3
+  - first:
+      213: 21300008
+    second: penitent_start_dodge_dust_anim_4
+  - first:
+      213: 21300010
+    second: penitent_start_dodge_dust_anim_5
+  - first:
+      213: 21300012
+    second: penitent_start_dodge_dust_anim_6
+  - first:
+      213: 21300014
+    second: penitent_start_dodge_dust_anim_7
+  - first:
+      213: 21300016
+    second: penitent_start_dodge_dust_anim_8
+  - first:
+      213: 21300018
+    second: penitent_start_dodge_dust_anim_9
+  - first:
+      213: 21300020
+    second: penitent_start_dodge_dust_anim_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 34
+        height: 10
+      alignment: 9
+      pivot: {x: 0.9675295, y: -0.009599972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -4.999999}
+        - {x: -17, y: 5.000001}
+        - {x: 17, y: 5.000001}
+        - {x: 17, y: -4.999999}
+      physicsShape:
+      - - {x: -17, y: 5.000001}
+        - {x: -17, y: -2.999999}
+        - {x: -16, y: -4.999999}
+        - {x: 17, y: -4.999999}
+        - {x: 17, y: -1.999999}
+        - {x: 7, y: 5.000001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 111
+        width: 47
+        height: 13
+      alignment: 9
+      pivot: {x: 0.9765107, y: -0.007384594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -6.499999}
+        - {x: -23.5, y: 6.500001}
+        - {x: 23.5, y: 6.500001}
+        - {x: 23.5, y: -6.499999}
+      physicsShape:
+      - - {x: -23.5, y: 6.500001}
+        - {x: -23.5, y: -6.499999}
+        - {x: 23.5, y: -6.499999}
+        - {x: 23.5, y: 2.500001}
+        - {x: 13.5, y: 6.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 55
+        height: 14
+      alignment: 9
+      pivot: {x: 0.9799274, y: -0.006857123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.49999, y: -6.999999}
+        - {x: -27.49999, y: 7.000001}
+        - {x: 27.50001, y: 7.000001}
+        - {x: 27.50001, y: -6.999999}
+      physicsShape:
+      - - {x: -27.49999, y: 7.000001}
+        - {x: -27.49999, y: -4.999999}
+        - {x: -24.49999, y: -6.999999}
+        - {x: 27.50001, y: -6.999999}
+        - {x: 27.50001, y: -1.999999}
+        - {x: 8.500008, y: 7.000001}
+      - - {x: 6.500008, y: -0.999999}
+        - {x: 3.500008, y: -2.999999}
+        - {x: 4.500008, y: -2.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 78
+        width: 66
+        height: 19
+      alignment: 9
+      pivot: {x: 0.9832728, y: -0.005052617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.99999, y: -9.499999}
+        - {x: -32.99999, y: 9.500001}
+        - {x: 33.00001, y: 9.500001}
+        - {x: 33.00001, y: -9.499999}
+      physicsShape:
+      - - {x: 0.000007629395, y: -3.499999}
+        - {x: -4.999992, y: 5.500001}
+        - {x: -20.99999, y: 9.500001}
+        - {x: -32.99999, y: 9.500001}
+        - {x: -32.99999, y: -9.499999}
+        - {x: 33.00001, y: -9.499999}
+        - {x: 33.00001, y: -6.499999}
+        - {x: 11.00001, y: 0.500001}
+      - - {x: 8.000008, y: -1.499999}
+        - {x: 11.00001, y: -0.499999}
+        - {x: 11.00001, y: 2.500001}
+        - {x: 8.000008, y: 3.500001}
+        - {x: 6.000008, y: 1.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 70
+        height: 22
+      alignment: 9
+      pivot: {x: 0.9842286, y: -0.004363623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.99999, y: -11}
+        - {x: -34.99999, y: 11}
+        - {x: 35.00001, y: 11}
+        - {x: 35.00001, y: -11}
+      physicsShape:
+      - - {x: 2.000008, y: -2.999999}
+        - {x: 0.000007629395, y: 2.000001}
+        - {x: -3.999992, y: 8.000001}
+        - {x: -13.99999, y: 11}
+        - {x: -34.99999, y: 11}
+        - {x: -34.99999, y: -4.999999}
+        - {x: -32.99999, y: -5.999999}
+        - {x: -21.99999, y: -9.999999}
+        - {x: -18.99999, y: -11}
+        - {x: 35.00001, y: -11}
+        - {x: 35.00001, y: -7.999999}
+        - {x: 14.00001, y: 4.000001}
+      - - {x: 9.000008, y: -3.999999}
+        - {x: 11.00001, y: -0.999999}
+        - {x: 11.00001, y: 5.000001}
+        - {x: 7.000008, y: 5.000001}
+        - {x: 5.000008, y: 2.000001}
+        - {x: 5.000008, y: -3.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 69
+        height: 24
+      alignment: 9
+      pivot: {x: 1.012986, y: -0.003999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -12}
+        - {x: -34.5, y: 12}
+        - {x: 34.5, y: 12}
+        - {x: 34.5, y: -12}
+      physicsShape:
+      - - {x: 9.5, y: 4.000001}
+        - {x: 0.5, y: -5.999999}
+        - {x: -0.5, y: 3.000001}
+        - {x: -2.5, y: 12}
+        - {x: -31.5, y: 12}
+        - {x: -34.5, y: 9.000001}
+        - {x: -34.5, y: -3.999999}
+        - {x: -32.5, y: -5.999999}
+        - {x: -20.5, y: -12}
+        - {x: 34.5, y: -12}
+        - {x: 34.5, y: -8.999999}
+        - {x: 15.5, y: 4.000001}
+      - - {x: 4.5, y: 6.000001}
+        - {x: 2.5, y: 3.000001}
+        - {x: 2.5, y: -0.999999}
+        - {x: 4.5, y: -2.999999}
+        - {x: 7.5, y: -0.999999}
+        - {x: 9.5, y: 3.000001}
+        - {x: 9.5, y: 5.000001}
+        - {x: 7.5, y: 6.000001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 73
+        height: 31
+      alignment: 9
+      pivot: {x: 0.9711781, y: -0.003096765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -15.5}
+        - {x: -36.5, y: 15.5}
+        - {x: 36.5, y: 15.5}
+        - {x: 36.5, y: -15.5}
+      physicsShape:
+      - - {x: 2.5, y: -3.499999}
+        - {x: -4.5, y: -4.499999}
+        - {x: -23.5, y: 15.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 11.5}
+        - {x: -27.5, y: 14.5}
+        - {x: -27.5, y: 15.5}
+        - {x: -33.5, y: 15.5}
+        - {x: -36.5, y: 11.5}
+        - {x: -36.5, y: -1.499999}
+        - {x: -22.5, y: -15.5}
+        - {x: 36.5, y: -15.5}
+        - {x: 36.5, y: -11.5}
+        - {x: 20.5, y: -6.499999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 32
+      alignment: 9
+      pivot: {x: 0.98528, y: -0.03424999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -16}
+        - {x: -37.5, y: 2}
+        - {x: -37.5, y: 13}
+        - {x: -33.5, y: 16}
+        - {x: -20.5, y: 16}
+        - {x: 37.5, y: -10}
+        - {x: 37.5, y: -16}
+      physicsShape:
+      - - {x: -3.5, y: -3}
+        - {x: -20.5, y: 8}
+        - {x: -23.5, y: 16}
+        - {x: -33.5, y: 16}
+        - {x: -37.5, y: 13}
+        - {x: -37.5, y: 2}
+        - {x: -34.5, y: -1}
+        - {x: -17.5, y: -14}
+        - {x: -7.5, y: -16}
+        - {x: 37.5, y: -16}
+        - {x: 37.5, y: -13}
+        - {x: 22.5, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 73
+        height: 29
+      alignment: 9
+      pivot: {x: 1.012274, y: -0.03779309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -14.5}
+        - {x: -36.5, y: 14.5}
+        - {x: 36.5, y: 14.5}
+        - {x: 36.5, y: -14.5}
+      physicsShape:
+      - - {x: 31.5, y: -13.5}
+        - {x: 31.5, y: -14.5}
+        - {x: 36.5, y: -14.5}
+        - {x: 36.5, y: -11.5}
+        - {x: 33.5, y: -11.5}
+      - - {x: 22.5, y: -2.499999}
+        - {x: 8.5, y: -3.499999}
+        - {x: 2.5, y: 0.500001}
+        - {x: -10.5, y: 2.500001}
+        - {x: -19.5, y: 14.5}
+        - {x: -36.5, y: 14.5}
+        - {x: -36.5, y: 1.500001}
+        - {x: -28.5, y: -0.499999}
+        - {x: -19.5, y: -10.5}
+        - {x: -8.5, y: -13.5}
+        - {x: -0.5, y: -13.5}
+        - {x: 4.5, y: -14.5}
+        - {x: 29.5, y: -14.5}
+        - {x: 31.5, y: -13.5}
+        - {x: 31.5, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 29
+        width: 78
+        height: 27
+      alignment: 9
+      pivot: {x: 0.9986667, y: -0.1517037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.99999, y: -13.5}
+        - {x: -38.99999, y: 13.5}
+        - {x: 39.00001, y: 13.5}
+        - {x: 39.00001, y: -13.5}
+      physicsShape:
+      - - {x: 39.00001, y: -10.5}
+        - {x: 29.00001, y: 0.5}
+        - {x: 17.00001, y: -3.5}
+        - {x: 11.00001, y: 7.5}
+        - {x: 1.000008, y: 1.5}
+        - {x: 0.000007629395, y: -2.5}
+        - {x: -4.999992, y: -1.5}
+        - {x: -8.999992, y: 5.5}
+        - {x: -13.99999, y: 8.5}
+        - {x: -18.99999, y: 13.5}
+        - {x: -37.99999, y: 13.5}
+        - {x: -38.99999, y: 12.5}
+        - {x: -38.99999, y: 5.5}
+        - {x: -35.99999, y: 2.5}
+        - {x: -19.99999, y: -1.5}
+        - {x: -22.99999, y: -7.5}
+        - {x: -16.99999, y: -12.5}
+        - {x: -10.99999, y: -13.5}
+        - {x: 39.00001, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_start_dodge_dust_anim_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 80
+        height: 29
+      alignment: 9
+      pivot: {x: 1.0112, y: -0.1412414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.99999, y: -14.5}
+        - {x: -39.99999, y: 14.5}
+        - {x: 40.00001, y: 14.5}
+        - {x: 40.00001, y: -14.5}
+      physicsShape:
+      - - {x: -0.9999924, y: -5.5}
+        - {x: -0.9999924, y: -8.5}
+        - {x: 0.000007629395, y: -12.5}
+        - {x: 4.000008, y: -12.5}
+        - {x: 7.000008, y: -9.5}
+        - {x: 6.000008, y: -6.5}
+        - {x: 1.000008, y: -4.5}
+      - - {x: 10.00001, y: -7.5}
+        - {x: 19.00001, y: -12.5}
+        - {x: 21.00001, y: -12.5}
+        - {x: 23.00001, y: -11.5}
+        - {x: 23.00001, y: -8.5}
+        - {x: 22.00001, y: -4.5}
+        - {x: 19.00001, y: -1.5}
+        - {x: 14.00001, y: -1.5}
+        - {x: 10.00001, y: -3.5}
+      - - {x: 36.00001, y: -12.5}
+        - {x: 39.00001, y: -11.5}
+        - {x: 39.00001, y: -8.5}
+        - {x: 36.00001, y: -7.5}
+        - {x: 34.00001, y: -9.5}
+      - - {x: -2.999992, y: -0.5}
+        - {x: -19.99999, y: -0.5}
+        - {x: -20.99999, y: -1.5}
+        - {x: -20.99999, y: -8.5}
+        - {x: -15.99999, y: -10.5}
+        - {x: -9.999992, y: -10.5}
+        - {x: -4.999992, y: -7.5}
+        - {x: -2.999992, y: -4.5}
+      - - {x: 31.00001, y: 1.5}
+        - {x: 24.00001, y: -4.5}
+        - {x: 24.00001, y: -6.5}
+        - {x: 26.00001, y: -8.5}
+        - {x: 33.00001, y: -8.5}
+        - {x: 38.00001, y: -5.5}
+        - {x: 38.00001, y: -0.5}
+        - {x: 34.00001, y: 1.5}
+      - - {x: 6.000008, y: 6.5}
+        - {x: 0.000007629395, y: 3.5}
+        - {x: -1.999992, y: -1.5}
+        - {x: -0.9999924, y: -3.5}
+        - {x: 13.00001, y: -3.5}
+        - {x: 13.00001, y: 0.5}
+        - {x: 8.000008, y: 6.5}
+      - - {x: -12.99999, y: 9.5}
+        - {x: -18.99999, y: 9.5}
+        - {x: -23.99999, y: 14.5}
+        - {x: -34.99999, y: 14.5}
+        - {x: -36.99999, y: 9.5}
+        - {x: -36.99999, y: 3.5}
+        - {x: -29.99999, y: -1.5}
+        - {x: -12.99999, y: -1.5}
+        - {x: -11.99999, y: -0.5}
+        - {x: -10.99999, y: 2.5}
+        - {x: -10.99999, y: 6.5}
+      - - {x: -36.99999, y: 2.5}
+        - {x: -36.99999, y: 5.5}
+        - {x: -39.99999, y: 6.5}
+        - {x: -39.99999, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

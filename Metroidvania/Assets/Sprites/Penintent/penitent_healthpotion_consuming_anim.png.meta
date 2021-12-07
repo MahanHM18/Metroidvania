@@ -1,0 +1,2464 @@
+fileFormatVersion: 2
+guid: 59af68ca5a652d34db1ce5c810327582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_healthpotion_consuming_anim_1
+  - first:
+      213: 21300002
+    second: penitent_healthpotion_consuming_anim_2
+  - first:
+      213: 21300004
+    second: penitent_healthpotion_consuming_anim_3
+  - first:
+      213: 21300006
+    second: penitent_healthpotion_consuming_anim_4
+  - first:
+      213: 21300008
+    second: penitent_healthpotion_consuming_anim_5
+  - first:
+      213: 21300010
+    second: penitent_healthpotion_consuming_anim_6
+  - first:
+      213: 21300012
+    second: penitent_healthpotion_consuming_anim_7
+  - first:
+      213: 21300014
+    second: penitent_healthpotion_consuming_anim_8
+  - first:
+      213: 21300016
+    second: penitent_healthpotion_consuming_anim_9
+  - first:
+      213: 21300018
+    second: penitent_healthpotion_consuming_anim_10
+  - first:
+      213: 21300020
+    second: penitent_healthpotion_consuming_anim_11
+  - first:
+      213: 21300022
+    second: penitent_healthpotion_consuming_anim_12
+  - first:
+      213: 21300024
+    second: penitent_healthpotion_consuming_anim_13
+  - first:
+      213: 21300026
+    second: penitent_healthpotion_consuming_anim_14
+  - first:
+      213: 21300028
+    second: penitent_healthpotion_consuming_anim_15
+  - first:
+      213: 21300030
+    second: penitent_healthpotion_consuming_anim_16
+  - first:
+      213: 21300032
+    second: penitent_healthpotion_consuming_anim_17
+  - first:
+      213: 21300034
+    second: penitent_healthpotion_consuming_anim_18
+  - first:
+      213: 21300036
+    second: penitent_healthpotion_consuming_anim_19
+  - first:
+      213: 21300038
+    second: penitent_healthpotion_consuming_anim_20
+  - first:
+      213: 21300040
+    second: penitent_healthpotion_consuming_anim_21
+  - first:
+      213: 21300042
+    second: penitent_healthpotion_consuming_anim_22
+  - first:
+      213: 21300044
+    second: penitent_healthpotion_consuming_anim_23
+  - first:
+      213: 21300046
+    second: penitent_healthpotion_consuming_anim_24
+  - first:
+      213: 21300048
+    second: penitent_healthpotion_consuming_anim_25
+  - first:
+      213: 21300050
+    second: penitent_healthpotion_consuming_anim_26
+  - first:
+      213: 21300052
+    second: penitent_healthpotion_consuming_anim_27
+  - first:
+      213: 21300054
+    second: penitent_healthpotion_consuming_anim_29
+  - first:
+      213: 21300056
+    second: penitent_healthpotion_consuming_anim_30
+  - first:
+      213: 21300058
+    second: penitent_healthpotion_consuming_anim_31
+  - first:
+      213: 21300060
+    second: penitent_healthpotion_consuming_anim_32
+  - first:
+      213: 21300062
+    second: penitent_healthpotion_consuming_anim_33
+  - first:
+      213: 21300064
+    second: penitent_healthpotion_consuming_anim_34
+  - first:
+      213: 21300066
+    second: penitent_healthpotion_consuming_anim_35
+  - first:
+      213: 21300068
+    second: penitent_healthpotion_consuming_anim_36
+  - first:
+      213: 21300070
+    second: penitent_healthpotion_consuming_anim_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7408485, y: 0.0004109683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -36.5}
+        - {x: -33, y: -36.5}
+        - {x: -33, y: -24.5}
+        - {x: 14, y: 36.5}
+        - {x: 23, y: 36.5}
+        - {x: 33, y: -16.5}
+      physicsShape:
+      - - {x: 33, y: -36.5}
+        - {x: 33, y: -31.5}
+        - {x: 30, y: -22.5}
+        - {x: 29, y: 2.5}
+        - {x: 25, y: 13.5}
+        - {x: 21, y: 36.5}
+        - {x: 15, y: 36.5}
+        - {x: 9, y: 14.5}
+        - {x: -2, y: 1.5}
+        - {x: -30, y: -21.5}
+        - {x: -33, y: -25.5}
+        - {x: -33, y: -31.5}
+        - {x: -16, y: -30.5}
+        - {x: -5, y: -31.5}
+        - {x: -5, y: -36.5}
+        - {x: 6, y: -36.5}
+        - {x: 10, y: -26.5}
+        - {x: 19, y: -27.5}
+        - {x: 24, y: -36.5}
+      - - {x: 0, y: -15.5}
+        - {x: 6, y: -9.5}
+        - {x: 8, y: -6.5}
+        - {x: 6, y: -7.5}
+        - {x: -1, y: -14.5}
+        - {x: -1, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7563872, y: 0.0004109683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -36.5}
+        - {x: -31, y: -36.5}
+        - {x: -31, y: -25.5}
+        - {x: 14, y: 36.5}
+        - {x: 20, y: 36.5}
+        - {x: 31, y: -1.5}
+      physicsShape:
+      - - {x: 31, y: -30.5}
+        - {x: 25, y: -15.5}
+        - {x: 31, y: -9.5}
+        - {x: 31, y: -2.5}
+        - {x: 25, y: 15.5}
+        - {x: 20, y: 36.5}
+        - {x: 15, y: 36.5}
+        - {x: 12, y: 33.5}
+        - {x: 10, y: 22.5}
+        - {x: -4, y: 2.5}
+        - {x: -31, y: -26.5}
+        - {x: -31, y: -32.5}
+        - {x: -28, y: -33.5}
+        - {x: -11, y: -26.5}
+        - {x: -5, y: -36.5}
+        - {x: 31, y: -36.5}
+      - - {x: 5, y: -7.5}
+        - {x: 2, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7779201, y: 0.0004000092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.99999, y: -37.5}
+        - {x: -24.99999, y: -37.5}
+        - {x: -24.99999, y: -26.5}
+        - {x: -16.99999, y: -2.5}
+        - {x: 12.00001, y: 37.5}
+        - {x: 17.00001, y: 37.5}
+        - {x: 24.00001, y: 4.5}
+        - {x: 25.00001, y: -8.5}
+        - {x: 25.00001, y: -37.5}
+        - {x: -6.999992, y: -37.5}
+        - {x: -14.99999, y: -29.5}
+      physicsShape:
+      - - {x: 25.00001, y: -30.5}
+        - {x: 21.00001, y: -12.5}
+        - {x: 24.00001, y: 4.5}
+        - {x: 17.00001, y: 11.5}
+        - {x: 17.00001, y: 37.5}
+        - {x: 12.00001, y: 37.5}
+        - {x: 10.00001, y: 33.5}
+        - {x: 3.000008, y: 15.5}
+        - {x: -12.99999, y: -5.5}
+        - {x: -24.99999, y: -28.5}
+        - {x: -24.99999, y: -37.5}
+        - {x: -22.99999, y: -37.5}
+        - {x: -14.99999, y: -29.5}
+        - {x: -2.999992, y: -22.5}
+        - {x: -5.999992, y: -34.5}
+        - {x: -6.999992, y: -37.5}
+        - {x: 4.000008, y: -37.5}
+        - {x: 12.00001, y: -30.5}
+        - {x: 16.00001, y: -37.5}
+        - {x: 25.00001, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 155
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.999992, y: -38.5}
+        - {x: -8.999992, y: -36.5}
+        - {x: -7.999992, y: -31.5}
+        - {x: -11.99999, y: -39.5}
+        - {x: -17.99999, y: -39.5}
+        - {x: -19.99999, y: -36.5}
+        - {x: -19.99999, y: -13.5}
+        - {x: -16.99999, y: -6.5}
+        - {x: 7.000008, y: 39.5}
+        - {x: 18.00001, y: 39.5}
+        - {x: 20.00001, y: 16.5}
+        - {x: 20.00001, y: -39.5}
+        - {x: 13.00001, y: -39.5}
+        - {x: 2.000008, y: -36.5}
+        - {x: 0.000007629395, y: -38.5}
+      physicsShape:
+      - - {x: -8.999992, y: -36.5}
+        - {x: -5.999992, y: -38.5}
+        - {x: 0.000007629395, y: -38.5}
+        - {x: 2.000008, y: -36.5}
+        - {x: 12.00001, y: -38.5}
+        - {x: 20.00001, y: -39.5}
+        - {x: 20.00001, y: -28.5}
+        - {x: 19.00001, y: -20.5}
+        - {x: 20.00001, y: -3.5}
+        - {x: 20.00001, y: 3.5}
+        - {x: 14.00001, y: 19.5}
+        - {x: 14.00001, y: 39.5}
+        - {x: 8.000008, y: 39.5}
+        - {x: 4.000008, y: 25.5}
+        - {x: -3.999992, y: 10.5}
+        - {x: -11.99999, y: -10.5}
+        - {x: -19.99999, y: -14.5}
+        - {x: -19.99999, y: -22.5}
+        - {x: -13.99999, y: -20.5}
+        - {x: -17.99999, y: -35.5}
+        - {x: -17.99999, y: -39.5}
+        - {x: -11.99999, y: -39.5}
+        - {x: -7.999992, y: -31.5}
+        - {x: -2.999992, y: -14.5}
+        - {x: -4.999992, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.999992, y: -38.5}
+        - {x: -8.999992, y: -36.5}
+        - {x: -7.999992, y: -31.5}
+        - {x: -11.99999, y: -39.5}
+        - {x: -19.99999, y: -39.5}
+        - {x: -19.99999, y: 29.5}
+        - {x: 5.000008, y: 39.5}
+        - {x: 18.00001, y: 39.5}
+        - {x: 20.00001, y: 19.5}
+        - {x: 20.00001, y: -39.5}
+        - {x: 5.000008, y: -39.5}
+        - {x: 0.000007629395, y: -38.5}
+      physicsShape:
+      - - {x: -5.999992, y: -38.5}
+        - {x: 0.000007629395, y: -38.5}
+        - {x: 2.000008, y: -36.5}
+        - {x: 12.00001, y: -38.5}
+        - {x: 20.00001, y: -38.5}
+        - {x: 20.00001, y: -29.5}
+        - {x: 18.00001, y: -20.5}
+        - {x: 20.00001, y: -7.5}
+        - {x: 20.00001, y: 6.5}
+        - {x: 14.00001, y: 14.5}
+        - {x: 14.00001, y: 39.5}
+        - {x: 9.000008, y: 39.5}
+        - {x: -0.9999924, y: 17.5}
+        - {x: -8.999992, y: -2.5}
+        - {x: -19.99999, y: -14.5}
+        - {x: -19.99999, y: -22.5}
+        - {x: -13.99999, y: -20.5}
+        - {x: -17.99999, y: -35.5}
+        - {x: -17.99999, y: -39.5}
+        - {x: -11.99999, y: -39.5}
+        - {x: -7.999992, y: -31.5}
+        - {x: -2.999992, y: -14.5}
+        - {x: -8.999992, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 76
+        width: 41
+        height: 79
+      alignment: 9
+      pivot: {x: 0.8023416, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.49999, y: -39.5}
+        - {x: -20.49999, y: -30.5}
+        - {x: -20.49999, y: -7.5}
+        - {x: 4.500008, y: 39.5}
+        - {x: 20.50001, y: 39.5}
+        - {x: 20.50001, y: -39.5}
+      physicsShape:
+      - - {x: 20.50001, y: -39.5}
+        - {x: 20.50001, y: 6.5}
+        - {x: 13.50001, y: 13.5}
+        - {x: 13.50001, y: 39.5}
+        - {x: 6.500008, y: 39.5}
+        - {x: -6.499992, y: 10.5}
+        - {x: -12.49999, y: -10.5}
+        - {x: -20.49999, y: -14.5}
+        - {x: -20.49999, y: -21.5}
+        - {x: -18.49999, y: -21.5}
+        - {x: -12.49999, y: -20.5}
+        - {x: -15.49999, y: -39.5}
+        - {x: 0.5000076, y: -39.5}
+        - {x: 4.500008, y: -26.5}
+        - {x: 9.500008, y: -36.5}
+        - {x: 15.50001, y: -39.5}
+      - - {x: -5.499992, y: -31.5}
+        - {x: -4.499992, y: -27.5}
+        - {x: -1.499992, y: -14.5}
+        - {x: -4.499992, y: -15.5}
+        - {x: -9.499992, y: -33.5}
+        - {x: -7.499992, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 76
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7476364, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.99999, y: -39.5}
+        - {x: -21.99999, y: -30.5}
+        - {x: -21.99999, y: -7.5}
+        - {x: 3.000008, y: 39.5}
+        - {x: 12.00001, y: 39.5}
+        - {x: 22.00001, y: 18.5}
+        - {x: 22.00001, y: -28.5}
+        - {x: 20.00001, y: -39.5}
+      physicsShape:
+      - - {x: 20.00001, y: -35.5}
+        - {x: 15.00001, y: -9.5}
+        - {x: 22.00001, y: -6.5}
+        - {x: 22.00001, y: 6.5}
+        - {x: 12.00001, y: 39.5}
+        - {x: 5.000008, y: 39.5}
+        - {x: -7.999992, y: 10.5}
+        - {x: -13.99999, y: -10.5}
+        - {x: -21.99999, y: -14.5}
+        - {x: -21.99999, y: -21.5}
+        - {x: -19.99999, y: -21.5}
+        - {x: -13.99999, y: -20.5}
+        - {x: -16.99999, y: -39.5}
+        - {x: 0.000007629395, y: -39.5}
+        - {x: 9.000008, y: -36.5}
+        - {x: 13.00001, y: -38.5}
+        - {x: 19.00001, y: -38.5}
+      - - {x: -6.999992, y: -31.5}
+        - {x: -5.999992, y: -27.5}
+        - {x: -2.999992, y: -14.5}
+        - {x: -5.999992, y: -15.5}
+        - {x: -10.99999, y: -33.5}
+        - {x: -8.999992, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7476364, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.99999, y: -39.5}
+        - {x: -21.99999, y: -30.5}
+        - {x: -21.99999, y: -7.5}
+        - {x: 3.000008, y: 39.5}
+        - {x: 12.00001, y: 39.5}
+        - {x: 22.00001, y: 14.5}
+        - {x: 22.00001, y: -39.5}
+      physicsShape:
+      - - {x: 21.00001, y: -39.5}
+        - {x: 20.00001, y: -19.5}
+        - {x: 22.00001, y: -13.5}
+        - {x: 22.00001, y: 11.5}
+        - {x: 12.00001, y: 20.5}
+        - {x: 12.00001, y: 39.5}
+        - {x: 5.000008, y: 39.5}
+        - {x: -7.999992, y: 10.5}
+        - {x: -13.99999, y: -10.5}
+        - {x: -21.99999, y: -14.5}
+        - {x: -21.99999, y: -21.5}
+        - {x: -19.99999, y: -21.5}
+        - {x: -13.99999, y: -20.5}
+        - {x: -16.99999, y: -39.5}
+        - {x: -0.9999924, y: -39.5}
+        - {x: 3.000008, y: -26.5}
+        - {x: 8.000008, y: -36.5}
+        - {x: 14.00001, y: -39.5}
+      - - {x: -6.999992, y: -31.5}
+        - {x: -5.999992, y: -27.5}
+        - {x: -2.999992, y: -14.5}
+        - {x: -5.999992, y: -15.5}
+        - {x: -10.99999, y: -33.5}
+        - {x: -8.999992, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 76
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7476364, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.999992, y: -38.5}
+        - {x: -10.99999, y: -36.5}
+        - {x: -9.999992, y: -31.5}
+        - {x: -13.99999, y: -39.5}
+        - {x: -19.99999, y: -39.5}
+        - {x: -21.99999, y: -37.5}
+        - {x: -21.99999, y: -12.5}
+        - {x: 4.000008, y: 39.5}
+        - {x: 20.00001, y: 39.5}
+        - {x: 22.00001, y: 31.5}
+        - {x: 22.00001, y: -39.5}
+        - {x: 4.000008, y: -39.5}
+        - {x: -1.999992, y: -38.5}
+      physicsShape:
+      - - {x: -7.999992, y: -38.5}
+        - {x: -1.999992, y: -38.5}
+        - {x: 0.000007629395, y: -36.5}
+        - {x: 3.000008, y: -26.5}
+        - {x: 9.000008, y: -36.5}
+        - {x: 13.00001, y: -38.5}
+        - {x: 19.00001, y: -38.5}
+        - {x: 20.00001, y: -35.5}
+        - {x: 16.00001, y: -20.5}
+        - {x: 22.00001, y: -7.5}
+        - {x: 22.00001, y: 13.5}
+        - {x: 15.00001, y: 17.5}
+        - {x: 13.00001, y: 39.5}
+        - {x: 6.000008, y: 39.5}
+        - {x: 0.000007629395, y: 21.5}
+        - {x: -6.999992, y: 10.5}
+        - {x: -13.99999, y: -10.5}
+        - {x: -21.99999, y: -14.5}
+        - {x: -21.99999, y: -31.5}
+        - {x: -19.99999, y: -39.5}
+        - {x: -13.99999, y: -39.5}
+        - {x: -9.999992, y: -31.5}
+        - {x: -4.999992, y: -14.5}
+        - {x: -10.99999, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 236
+        width: 45
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7310223, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -38.5}
+        - {x: -11.5, y: -36.5}
+        - {x: -11.5, y: -31.5}
+        - {x: -15.5, y: -39.5}
+        - {x: -21.5, y: -39.5}
+        - {x: -22.5, y: -37.5}
+        - {x: -22.5, y: -11.5}
+        - {x: -2.5, y: 39.5}
+        - {x: 11.5, y: 39.5}
+        - {x: 22.5, y: 26.5}
+        - {x: 22.5, y: -39.5}
+        - {x: -4.5, y: -39.5}
+      physicsShape:
+      - - {x: -8.5, y: -38.5}
+        - {x: -2.5, y: -38.5}
+        - {x: -0.5, y: -36.5}
+        - {x: 12.5, y: -38.5}
+        - {x: 18.5, y: -38.5}
+        - {x: 19.5, y: -35.5}
+        - {x: 16.5, y: -7.5}
+        - {x: 22.5, y: -2.5}
+        - {x: 22.5, y: 20.5}
+        - {x: 13.5, y: 17.5}
+        - {x: 11.5, y: 39.5}
+        - {x: 6.5, y: 39.5}
+        - {x: 4.5, y: 36.5}
+        - {x: -7.5, y: 10.5}
+        - {x: -15.5, y: -6.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -20.5, y: -21.5}
+        - {x: -21.5, y: -35.5}
+        - {x: -21.5, y: -39.5}
+        - {x: -15.5, y: -39.5}
+        - {x: -11.5, y: -31.5}
+        - {x: -8.5, y: -18.5}
+        - {x: -11.5, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 76
+        width: 49
+        height: 80
+      alignment: 9
+      pivot: {x: 0.671347, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -40}
+        - {x: -24.5, y: -40}
+        - {x: -24.5, y: -33}
+        - {x: -22.5, y: -22}
+        - {x: -24.5, y: -22}
+        - {x: -24.5, y: -12}
+        - {x: 2.5, y: 40}
+        - {x: 8.5, y: 40}
+        - {x: 24.5, y: 29}
+        - {x: 24.5, y: -18}
+        - {x: 17.5, y: -40}
+        - {x: 13.5, y: -40}
+        - {x: -2.5, y: -37}
+        - {x: -4.5, y: -39}
+        - {x: -10.5, y: -39}
+        - {x: -13.5, y: -37}
+        - {x: -14.5, y: -32}
+      physicsShape:
+      - - {x: -10.5, y: -39}
+        - {x: -4.5, y: -39}
+        - {x: -2.5, y: -37}
+        - {x: 6.5, y: -37}
+        - {x: 10.5, y: -39}
+        - {x: 16.5, y: -39}
+        - {x: 17.5, y: -36}
+        - {x: 12.5, y: -10}
+        - {x: 23.5, y: 0}
+        - {x: 24.5, y: 3}
+        - {x: 24.5, y: 20}
+        - {x: 23.5, y: 21}
+        - {x: 8.5, y: 19}
+        - {x: 8.5, y: 37}
+        - {x: 7.5, y: 40}
+        - {x: 2.5, y: 40}
+        - {x: 0.5, y: 31}
+        - {x: -10.5, y: 10}
+        - {x: -18.5, y: -7}
+        - {x: -24.5, y: -14}
+        - {x: -24.5, y: -22}
+        - {x: -22.5, y: -22}
+        - {x: -24.5, y: -33}
+        - {x: -24.5, y: -40}
+        - {x: -18.5, y: -40}
+        - {x: -14.5, y: -32}
+        - {x: -8.5, y: -22}
+        - {x: -13.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 53
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6206793, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: -40}
+        - {x: -26.5, y: -40}
+        - {x: -26.5, y: 2}
+        - {x: -11.5, y: 40}
+        - {x: 14.5, y: 40}
+        - {x: 26.5, y: 34}
+        - {x: 26.5, y: -18}
+      physicsShape:
+      - - {x: -12.5, y: -39}
+        - {x: -6.5, y: -39}
+        - {x: -4.5, y: -37}
+        - {x: -1.5, y: -27}
+        - {x: 4.5, y: -37}
+        - {x: 8.5, y: -39}
+        - {x: 14.5, y: -39}
+        - {x: 15.5, y: -36}
+        - {x: 12.5, y: -21}
+        - {x: 26.5, y: 5}
+        - {x: 26.5, y: 20}
+        - {x: 22.5, y: 21}
+        - {x: 15.5, y: 15}
+        - {x: 9.5, y: 17}
+        - {x: 6.5, y: 40}
+        - {x: 0.5, y: 40}
+        - {x: -3.5, y: 22}
+        - {x: -12.5, y: 10}
+        - {x: -21.5, y: -7}
+        - {x: -26.5, y: -12}
+        - {x: -26.5, y: -40}
+        - {x: -20.5, y: -40}
+        - {x: -13.5, y: -21}
+        - {x: -10.5, y: -22}
+        - {x: -15.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 56
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5874286, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -40}
+        - {x: -28, y: -40}
+        - {x: -28, y: 3}
+        - {x: -13, y: 40}
+        - {x: 14, y: 40}
+        - {x: 26, y: 33}
+        - {x: 28, y: 30}
+        - {x: 28, y: -18}
+      physicsShape:
+      - - {x: -14, y: -39}
+        - {x: -8, y: -39}
+        - {x: -6, y: -37}
+        - {x: -3, y: -27}
+        - {x: 3, y: -37}
+        - {x: 7, y: -39}
+        - {x: 13, y: -39}
+        - {x: 14, y: -36}
+        - {x: 11, y: -21}
+        - {x: 11, y: -3}
+        - {x: 17, y: 2}
+        - {x: 28, y: 12}
+        - {x: 28, y: 22}
+        - {x: 23, y: 25}
+        - {x: 5, y: 37}
+        - {x: 4, y: 40}
+        - {x: -1, y: 40}
+        - {x: -5, y: 22}
+        - {x: -14, y: 10}
+        - {x: -23, y: -7}
+        - {x: -28, y: -12}
+        - {x: -28, y: -40}
+        - {x: -22, y: -40}
+        - {x: -15, y: -21}
+        - {x: -12, y: -22}
+        - {x: -17, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 53
+        height: 76
+      alignment: 9
+      pivot: {x: 0.7904906, y: 0.0003947459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -38}
+        - {x: -26.5, y: -37}
+        - {x: -26.5, y: -17}
+        - {x: -2.5, y: 35}
+        - {x: 4.5, y: 38}
+        - {x: 15.5, y: 38}
+        - {x: 26.5, y: 12}
+        - {x: 26.5, y: -30}
+        - {x: 25.5, y: -38}
+      physicsShape:
+      - - {x: 24.5, y: -37}
+        - {x: 20.5, y: -22}
+        - {x: 21.5, y: -9}
+        - {x: 26.5, y: 1}
+        - {x: 26.5, y: 10}
+        - {x: 19.5, y: 24}
+        - {x: 16.5, y: 25}
+        - {x: 12.5, y: 38}
+        - {x: 6.5, y: 38}
+        - {x: 4.5, y: 33}
+        - {x: -2.5, y: 19}
+        - {x: 1.5, y: 15}
+        - {x: -14.5, y: -5}
+        - {x: -26.5, y: -28}
+        - {x: -26.5, y: -37}
+        - {x: -24.5, y: -38}
+        - {x: -11.5, y: -22}
+        - {x: -2.5, y: -17}
+        - {x: -5.5, y: -38}
+        - {x: 4.5, y: -38}
+        - {x: 7.5, y: -28}
+        - {x: 13.5, y: -38}
+        - {x: 24.5, y: -38}
+      - - {x: 5.5, y: -6}
+        - {x: 3.5, y: -4}
+        - {x: 2.5, y: -5}
+        - {x: 0.5, y: -6}
+        - {x: -1.5, y: -8}
+        - {x: -0.5, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 53
+        height: 76
+      alignment: 9
+      pivot: {x: 0.7904906, y: 0.0003947459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.49999, y: -38}
+        - {x: -26.49999, y: -37}
+        - {x: -26.49999, y: -17}
+        - {x: -2.499992, y: 35}
+        - {x: 4.500008, y: 38}
+        - {x: 15.50001, y: 38}
+        - {x: 26.50001, y: 12}
+        - {x: 26.50001, y: -30}
+        - {x: 25.50001, y: -38}
+      physicsShape:
+      - - {x: 24.50001, y: -37}
+        - {x: 20.50001, y: -22}
+        - {x: 21.50001, y: -9}
+        - {x: 26.50001, y: 1}
+        - {x: 26.50001, y: 10}
+        - {x: 19.50001, y: 24}
+        - {x: 16.50001, y: 25}
+        - {x: 12.50001, y: 38}
+        - {x: 6.500008, y: 38}
+        - {x: 4.500008, y: 33}
+        - {x: -2.499992, y: 19}
+        - {x: 1.500008, y: 15}
+        - {x: -14.49999, y: -5}
+        - {x: -26.49999, y: -28}
+        - {x: -26.49999, y: -37}
+        - {x: -24.49999, y: -38}
+        - {x: -11.49999, y: -22}
+        - {x: -2.499992, y: -17}
+        - {x: -5.499992, y: -38}
+        - {x: 4.500008, y: -38}
+        - {x: 7.500008, y: -28}
+        - {x: 13.50001, y: -38}
+        - {x: 24.50001, y: -38}
+      - - {x: 5.500008, y: -6}
+        - {x: 3.500008, y: -4}
+        - {x: 2.500008, y: -5}
+        - {x: 0.5000076, y: -6}
+        - {x: -1.499992, y: -8}
+        - {x: -0.4999924, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 53
+        height: 76
+      alignment: 9
+      pivot: {x: 0.7904906, y: 0.0003947459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.49999, y: -38}
+        - {x: -26.49999, y: -37}
+        - {x: -26.49999, y: -23}
+        - {x: 1.500008, y: 38}
+        - {x: 13.50001, y: 38}
+        - {x: 24.50001, y: 28}
+        - {x: 26.50001, y: 19}
+        - {x: 26.50001, y: -38}
+      physicsShape:
+      - - {x: 24.50001, y: -37}
+        - {x: 20.50001, y: -22}
+        - {x: 21.50001, y: -9}
+        - {x: 26.50001, y: -3}
+        - {x: 26.50001, y: 11}
+        - {x: 24.50001, y: 15}
+        - {x: 19.50001, y: 15}
+        - {x: 21.50001, y: 17}
+        - {x: 21.50001, y: 27}
+        - {x: 12.50001, y: 38}
+        - {x: 7.500008, y: 38}
+        - {x: 4.500008, y: 35}
+        - {x: -2.499992, y: 20}
+        - {x: -4.499992, y: 7}
+        - {x: -14.49999, y: -5}
+        - {x: -26.49999, y: -28}
+        - {x: -26.49999, y: -37}
+        - {x: -24.49999, y: -38}
+        - {x: -11.49999, y: -22}
+        - {x: -2.499992, y: -17}
+        - {x: -1.499992, y: -23}
+        - {x: -5.499992, y: -38}
+        - {x: 4.500008, y: -38}
+        - {x: 7.500008, y: -28}
+        - {x: 13.50001, y: -38}
+        - {x: 24.50001, y: -38}
+      - - {x: 5.500008, y: -6}
+        - {x: 3.500008, y: -4}
+        - {x: 2.500008, y: -5}
+        - {x: 0.5000076, y: -6}
+        - {x: -1.499992, y: -8}
+        - {x: -0.4999924, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 51
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8018824, y: 0.0003947459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.50001, y: -38}
+        - {x: -25.49999, y: -38}
+        - {x: -25.49999, y: -9}
+        - {x: -3.499992, y: 38}
+        - {x: 16.50001, y: 38}
+        - {x: 25.50001, y: 24}
+      physicsShape:
+      - - {x: 24.50001, y: -37}
+        - {x: 20.50001, y: -22}
+        - {x: 21.50001, y: -9}
+        - {x: 25.50001, y: -4}
+        - {x: 25.50001, y: 8}
+        - {x: 24.50001, y: 12}
+        - {x: 25.50001, y: 19}
+        - {x: 25.50001, y: 22}
+        - {x: 19.50001, y: 32}
+        - {x: 17.50001, y: 36}
+        - {x: 14.50001, y: 38}
+        - {x: 6.500008, y: 38}
+        - {x: 4.500008, y: 32}
+        - {x: -6.499992, y: 24}
+        - {x: 0.5000076, y: 13}
+        - {x: -4.499992, y: 7}
+        - {x: -7.499992, y: -1}
+        - {x: -13.49999, y: -6}
+        - {x: -20.49999, y: -17}
+        - {x: -25.49999, y: -30}
+        - {x: -25.49999, y: -38}
+        - {x: -22.49999, y: -38}
+        - {x: -8.499992, y: -21}
+        - {x: 0.5000076, y: -18}
+        - {x: -1.499992, y: -23}
+        - {x: -5.499992, y: -38}
+        - {x: 4.500008, y: -38}
+        - {x: 7.500008, y: -28}
+        - {x: 13.50001, y: -38}
+        - {x: 24.50001, y: -38}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 155
+        width: 40
+        height: 78
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.02602565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.99999, y: 26}
+        - {x: -11.99999, y: 26}
+        - {x: -11.99999, y: 26}
+        - {x: -4.999992, y: 39}
+        - {x: 14.00001, y: 39}
+        - {x: 20.00001, y: 34}
+        - {x: 20.00001, y: 23}
+        - {x: 20.00001, y: 17}
+        - {x: 20.00001, y: 16}
+        - {x: 20.00001, y: 13}
+        - {x: 20.00001, y: -39}
+        - {x: -19.99999, y: -39}
+        - {x: -19.99999, y: 11}
+      physicsShape:
+      - - {x: -8.999992, y: -37}
+        - {x: -5.999992, y: -39}
+        - {x: 0.000007629395, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 12.00001, y: -39}
+        - {x: 20.00001, y: -39}
+        - {x: 20.00001, y: -30}
+        - {x: 18.00001, y: -21}
+        - {x: 20.00001, y: -8}
+        - {x: 20.00001, y: 8}
+        - {x: 18.00001, y: 9}
+        - {x: 18.00001, y: 23}
+        - {x: 20.00001, y: 28}
+        - {x: 20.00001, y: 30}
+        - {x: 14.00001, y: 39}
+        - {x: 5.000008, y: 39}
+        - {x: 3.000008, y: 36}
+        - {x: -5.999992, y: 24}
+        - {x: -6.999992, y: 18}
+        - {x: -4.999992, y: 10}
+        - {x: -19.99999, y: -14}
+        - {x: -19.99999, y: -39}
+        - {x: -14.99999, y: -39}
+        - {x: -10.99999, y: -31}
+        - {x: -5.999992, y: -17}
+        - {x: -2.999992, y: -17}
+      - - {x: 17.00001, y: 12}
+        - {x: 20.00001, y: 13}
+        - {x: 20.00001, y: 16}
+        - {x: 17.00001, y: 17}
+        - {x: 15.00001, y: 15}
+      - - {x: 15.00001, y: 20}
+        - {x: 16.00001, y: 17}
+        - {x: 20.00001, y: 17}
+        - {x: 20.00001, y: 23}
+        - {x: 18.00001, y: 23}
+      - - {x: 1.000008, y: 20}
+        - {x: 2.000008, y: 20}
+        - {x: 2.000008, y: 21}
+        - {x: -1.999992, y: 21}
+      - - {x: -9.999992, y: 23}
+        - {x: -6.999992, y: 24}
+        - {x: -6.999992, y: 27}
+        - {x: -9.999992, y: 28}
+        - {x: -11.99999, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 76
+        width: 41
+        height: 79
+      alignment: 9
+      pivot: {x: 0.8023416, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.50001, y: 39.5}
+        - {x: 17.50001, y: 39.5}
+        - {x: 20.50001, y: 39.5}
+        - {x: 20.50001, y: 27.5}
+        - {x: 20.50001, y: 24.5}
+        - {x: 20.50001, y: 22.5}
+        - {x: 20.50001, y: 11.5}
+        - {x: 20.50001, y: -39.5}
+        - {x: -7.499992, y: -39.5}
+        - {x: -9.499992, y: -36.5}
+        - {x: -10.49999, y: -31.5}
+        - {x: -14.49999, y: -39.5}
+        - {x: -20.49999, y: -39.5}
+        - {x: -20.49999, y: -11.5}
+        - {x: -8.499992, y: 21.5}
+        - {x: 1.500008, y: 18.5}
+        - {x: 2.500008, y: 22.5}
+        - {x: 0.5000076, y: 20.5}
+        - {x: -4.499992, y: 20.5}
+        - {x: -7.499992, y: 21.5}
+        - {x: -10.49999, y: 23.5}
+        - {x: -10.49999, y: 22.5}
+        - {x: -13.49999, y: 21.5}
+        - {x: -15.49999, y: 24.5}
+        - {x: -13.49999, y: 26.5}
+        - {x: -14.49999, y: 26.5}
+        - {x: 2.500008, y: 39.5}
+      physicsShape:
+      - - {x: -6.499992, y: -38.5}
+        - {x: -0.4999924, y: -38.5}
+        - {x: 1.500008, y: -36.5}
+        - {x: 14.50001, y: -38.5}
+        - {x: 15.50001, y: -39.5}
+        - {x: 20.50001, y: -39.5}
+        - {x: 20.50001, y: 7.5}
+        - {x: 16.50001, y: 16.5}
+        - {x: 16.50001, y: 33.5}
+        - {x: 9.500008, y: 39.5}
+        - {x: 3.500008, y: 39.5}
+        - {x: -7.499992, y: 24.5}
+        - {x: -7.499992, y: 21.5}
+        - {x: -4.499992, y: 20.5}
+        - {x: 0.5000076, y: 20.5}
+        - {x: 2.500008, y: 22.5}
+        - {x: 2.500008, y: 24.5}
+        - {x: 1.500008, y: 18.5}
+        - {x: -8.499992, y: 21.5}
+        - {x: -9.499992, y: 17.5}
+        - {x: -7.499992, y: 15.5}
+        - {x: -7.499992, y: 7.5}
+        - {x: -20.49999, y: -13.5}
+        - {x: -20.49999, y: -21.5}
+        - {x: -18.49999, y: -21.5}
+        - {x: -20.49999, y: -32.5}
+        - {x: -20.49999, y: -39.5}
+        - {x: -14.49999, y: -39.5}
+        - {x: -10.49999, y: -31.5}
+        - {x: -4.499992, y: -21.5}
+        - {x: -9.499992, y: -36.5}
+      - - {x: 16.50001, y: 20.5}
+        - {x: 15.50001, y: 14.5}
+        - {x: 15.50001, y: 10.5}
+        - {x: 19.50001, y: 10.5}
+        - {x: 20.50001, y: 11.5}
+        - {x: 20.50001, y: 22.5}
+        - {x: 18.50001, y: 22.5}
+      - - {x: -13.49999, y: 21.5}
+        - {x: -10.49999, y: 22.5}
+        - {x: -10.49999, y: 25.5}
+        - {x: -13.49999, y: 26.5}
+        - {x: -15.49999, y: 24.5}
+      - - {x: 15.50001, y: 25.5}
+        - {x: 17.50001, y: 23.5}
+        - {x: 20.50001, y: 24.5}
+        - {x: 20.50001, y: 27.5}
+        - {x: 18.50001, y: 29.5}
+        - {x: 15.50001, y: 28.5}
+      - - {x: 17.50001, y: 37.5}
+        - {x: 17.50001, y: 39.5}
+        - {x: 12.50001, y: 39.5}
+        - {x: 14.50001, y: 36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 76
+        width: 42
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7832382, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.999992, y: 39.5}
+        - {x: 11.00001, y: 39.5}
+        - {x: 13.00001, y: 39.5}
+        - {x: 14.00001, y: 38.5}
+        - {x: 14.00001, y: 38.5}
+        - {x: 14.00001, y: 38.5}
+        - {x: 21.00001, y: 27.5}
+        - {x: 21.00001, y: 25.5}
+        - {x: 21.00001, y: 21.5}
+        - {x: 21.00001, y: 19.5}
+        - {x: 21.00001, y: 13.5}
+        - {x: 21.00001, y: -39.5}
+        - {x: 12.00001, y: -39.5}
+        - {x: 1.000008, y: -36.5}
+        - {x: -0.9999924, y: -38.5}
+        - {x: -6.999992, y: -38.5}
+        - {x: -9.999992, y: -36.5}
+        - {x: -10.99999, y: -31.5}
+        - {x: -14.99999, y: -39.5}
+        - {x: -20.99999, y: -39.5}
+        - {x: -20.99999, y: -9.5}
+      - - {x: -18.99999, y: 14.5}
+        - {x: -20.99999, y: 17.5}
+        - {x: -18.99999, y: 19.5}
+        - {x: -15.99999, y: 18.5}
+        - {x: -15.99999, y: 15.5}
+      physicsShape:
+      - - {x: -9.999992, y: -36.5}
+        - {x: -6.999992, y: -38.5}
+        - {x: -0.9999924, y: -38.5}
+        - {x: 1.000008, y: -36.5}
+        - {x: 4.000008, y: -26.5}
+        - {x: 10.00001, y: -36.5}
+        - {x: 14.00001, y: -38.5}
+        - {x: 20.00001, y: -38.5}
+        - {x: 21.00001, y: -35.5}
+        - {x: 17.00001, y: -20.5}
+        - {x: 21.00001, y: 3.5}
+        - {x: 21.00001, y: 11.5}
+        - {x: 20.00001, y: 12.5}
+        - {x: 18.00001, y: 19.5}
+        - {x: 16.00001, y: 22.5}
+        - {x: 9.000008, y: 39.5}
+        - {x: 2.000008, y: 39.5}
+        - {x: -4.999992, y: 24.5}
+        - {x: -7.999992, y: 13.5}
+        - {x: -14.99999, y: -6.5}
+        - {x: -20.99999, y: -13.5}
+        - {x: -20.99999, y: -21.5}
+        - {x: -18.99999, y: -21.5}
+        - {x: -20.99999, y: -32.5}
+        - {x: -20.99999, y: -39.5}
+        - {x: -14.99999, y: -39.5}
+        - {x: -10.99999, y: -31.5}
+        - {x: -7.999992, y: -18.5}
+        - {x: -4.999992, y: -21.5}
+      - - {x: -9.999992, y: 9.5}
+        - {x: -6.999992, y: 10.5}
+        - {x: -6.999992, y: 13.5}
+        - {x: -9.999992, y: 14.5}
+        - {x: -11.99999, y: 12.5}
+      - - {x: 17.00001, y: 17.5}
+        - {x: 17.00001, y: 14.5}
+        - {x: 19.00001, y: 12.5}
+        - {x: 21.00001, y: 13.5}
+        - {x: 21.00001, y: 19.5}
+        - {x: 19.00001, y: 19.5}
+      - - {x: -18.99999, y: 14.5}
+        - {x: -15.99999, y: 15.5}
+        - {x: -15.99999, y: 18.5}
+        - {x: -18.99999, y: 19.5}
+        - {x: -20.99999, y: 17.5}
+      - - {x: -6.999992, y: 16.5}
+        - {x: -3.999992, y: 17.5}
+        - {x: -3.999992, y: 20.5}
+        - {x: -6.999992, y: 21.5}
+        - {x: -8.999992, y: 19.5}
+      - - {x: -5.999992, y: 22.5}
+        - {x: -2.999992, y: 19.5}
+        - {x: 0.000007629395, y: 20.5}
+        - {x: 0.000007629395, y: 22.5}
+        - {x: -2.999992, y: 25.5}
+        - {x: -4.999992, y: 25.5}
+      - - {x: 17.00001, y: 25.5}
+        - {x: 17.00001, y: 22.5}
+        - {x: 19.00001, y: 20.5}
+        - {x: 21.00001, y: 21.5}
+        - {x: 21.00001, y: 25.5}
+        - {x: 20.00001, y: 26.5}
+      - - {x: 14.00001, y: 28.5}
+        - {x: 17.00001, y: 29.5}
+        - {x: 17.00001, y: 32.5}
+        - {x: 14.00001, y: 33.5}
+        - {x: 12.00001, y: 31.5}
+      - - {x: 11.00001, y: 34.5}
+        - {x: 14.00001, y: 35.5}
+        - {x: 14.00001, y: 38.5}
+        - {x: 11.00001, y: 39.5}
+        - {x: 9.000008, y: 37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 43
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7650234, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.49999, y: -10.5}
+        - {x: 0.5000076, y: 39.5}
+        - {x: 8.500008, y: 39.5}
+        - {x: 17.50001, y: 22.5}
+        - {x: 17.50001, y: 22.5}
+        - {x: 20.50001, y: 23.5}
+        - {x: 21.50001, y: 22.5}
+        - {x: 21.50001, y: 18.5}
+        - {x: 19.50001, y: 17.5}
+        - {x: 21.50001, y: 14.5}
+        - {x: 21.50001, y: 8.5}
+        - {x: 21.50001, y: -34.5}
+        - {x: 20.50001, y: -39.5}
+        - {x: 13.50001, y: -39.5}
+        - {x: 0.5000076, y: -36.5}
+        - {x: -1.499992, y: -38.5}
+        - {x: -7.499992, y: -38.5}
+        - {x: -10.49999, y: -36.5}
+        - {x: -11.49999, y: -31.5}
+        - {x: -15.49999, y: -39.5}
+        - {x: -21.49999, y: -39.5}
+        - {x: -21.49999, y: -32.5}
+        - {x: -19.49999, y: -21.5}
+        - {x: -21.49999, y: -21.5}
+      physicsShape:
+      - - {x: -10.49999, y: -36.5}
+        - {x: -7.499992, y: -38.5}
+        - {x: -1.499992, y: -38.5}
+        - {x: 0.5000076, y: -36.5}
+        - {x: 3.500008, y: -26.5}
+        - {x: 9.500008, y: -36.5}
+        - {x: 13.50001, y: -38.5}
+        - {x: 19.50001, y: -38.5}
+        - {x: 20.50001, y: -35.5}
+        - {x: 15.50001, y: -9.5}
+        - {x: 18.50001, y: -6.5}
+        - {x: 21.50001, y: -1.5}
+        - {x: 21.50001, y: 12.5}
+        - {x: 19.50001, y: 16.5}
+        - {x: 8.500008, y: 39.5}
+        - {x: 3.500008, y: 39.5}
+        - {x: 0.5000076, y: 36.5}
+        - {x: 1.500008, y: 21.5}
+        - {x: -11.49999, y: 5.5}
+        - {x: -21.49999, y: -11.5}
+        - {x: -21.49999, y: -21.5}
+        - {x: -19.49999, y: -21.5}
+        - {x: -21.49999, y: -32.5}
+        - {x: -21.49999, y: -39.5}
+        - {x: -15.49999, y: -39.5}
+        - {x: -11.49999, y: -31.5}
+        - {x: -8.499992, y: -18.5}
+        - {x: -5.499992, y: -21.5}
+      - - {x: 17.50001, y: 12.5}
+        - {x: 17.50001, y: 11.5}
+        - {x: 20.50001, y: 8.5}
+        - {x: 21.50001, y: 8.5}
+        - {x: 21.50001, y: 14.5}
+        - {x: 19.50001, y: 14.5}
+      - - {x: -8.499992, y: 10.5}
+        - {x: -5.499992, y: 11.5}
+        - {x: -5.499992, y: 14.5}
+        - {x: -8.499992, y: 15.5}
+        - {x: -10.49999, y: 13.5}
+      - - {x: -7.499992, y: 19.5}
+        - {x: -4.499992, y: 16.5}
+        - {x: -1.499992, y: 17.5}
+        - {x: -1.499992, y: 19.5}
+        - {x: -4.499992, y: 22.5}
+        - {x: -6.499992, y: 22.5}
+      - - {x: 17.50001, y: 22.5}
+        - {x: 17.50001, y: 19.5}
+        - {x: 19.50001, y: 17.5}
+        - {x: 21.50001, y: 18.5}
+        - {x: 21.50001, y: 22.5}
+        - {x: 20.50001, y: 23.5}
+      - - {x: -1.499992, y: 20.5}
+        - {x: 1.500008, y: 21.5}
+        - {x: 1.500008, y: 24.5}
+        - {x: -1.499992, y: 25.5}
+        - {x: -3.499992, y: 23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 155
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.99999, y: -40}
+        - {x: -19.99999, y: -40}
+        - {x: -19.99999, y: -33}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -22}
+        - {x: -19.99999, y: -14}
+        - {x: 7.000008, y: 40}
+        - {x: 13.00001, y: 40}
+        - {x: 20.00001, y: 11}
+        - {x: 20.00001, y: -40}
+        - {x: 17.00001, y: -40}
+        - {x: 2.000008, y: -37}
+        - {x: 0.000007629395, y: -39}
+        - {x: -5.999992, y: -39}
+        - {x: -8.999992, y: -37}
+        - {x: -9.999992, y: -32}
+      physicsShape:
+      - - {x: -8.999992, y: -37}
+        - {x: -5.999992, y: -39}
+        - {x: 0.000007629395, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 12.00001, y: -39}
+        - {x: 20.00001, y: -39}
+        - {x: 20.00001, y: -28}
+        - {x: 19.00001, y: -18}
+        - {x: 20.00001, y: -4}
+        - {x: 20.00001, y: 9}
+        - {x: 15.00001, y: 16}
+        - {x: 13.00001, y: 37}
+        - {x: 12.00001, y: 40}
+        - {x: 7.000008, y: 40}
+        - {x: -1.999992, y: 17}
+        - {x: -14.99999, y: -6}
+        - {x: -19.99999, y: -14}
+        - {x: -19.99999, y: -22}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -33}
+        - {x: -19.99999, y: -40}
+        - {x: -13.99999, y: -40}
+        - {x: -9.999992, y: -32}
+        - {x: -6.999992, y: -19}
+        - {x: -3.999992, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 155
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.99999, y: -40}
+        - {x: -19.99999, y: -40}
+        - {x: -19.99999, y: -33}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -22}
+        - {x: -19.99999, y: -14}
+        - {x: 7.000008, y: 40}
+        - {x: 13.00001, y: 40}
+        - {x: 20.00001, y: 11}
+        - {x: 20.00001, y: -40}
+        - {x: 17.00001, y: -40}
+        - {x: 2.000008, y: -37}
+        - {x: 0.000007629395, y: -39}
+        - {x: -5.999992, y: -39}
+        - {x: -8.999992, y: -37}
+        - {x: -9.999992, y: -32}
+      physicsShape:
+      - - {x: -8.999992, y: -37}
+        - {x: -5.999992, y: -39}
+        - {x: 0.000007629395, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 12.00001, y: -39}
+        - {x: 20.00001, y: -39}
+        - {x: 20.00001, y: -29}
+        - {x: 19.00001, y: -24}
+        - {x: 17.00001, y: -18}
+        - {x: 20.00001, y: -9}
+        - {x: 20.00001, y: 7}
+        - {x: 16.00001, y: 17}
+        - {x: 13.00001, y: 40}
+        - {x: 7.000008, y: 40}
+        - {x: -1.999992, y: 17}
+        - {x: -14.99999, y: -6}
+        - {x: -19.99999, y: -14}
+        - {x: -19.99999, y: -22}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -33}
+        - {x: -19.99999, y: -40}
+        - {x: -13.99999, y: -40}
+        - {x: -9.999992, y: -32}
+        - {x: -6.999992, y: -19}
+        - {x: -3.999992, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 235
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.99999, y: -40}
+        - {x: -19.99999, y: -40}
+        - {x: -19.99999, y: -33}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -22}
+        - {x: -19.99999, y: -14}
+        - {x: 7.000008, y: 40}
+        - {x: 12.00001, y: 40}
+        - {x: 14.00001, y: 38}
+        - {x: 20.00001, y: 11}
+        - {x: 20.00001, y: -39}
+        - {x: 12.00001, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 0.000007629395, y: -39}
+        - {x: -5.999992, y: -39}
+        - {x: -8.999992, y: -37}
+        - {x: -9.999992, y: -32}
+      physicsShape:
+      - - {x: -8.999992, y: -37}
+        - {x: -5.999992, y: -39}
+        - {x: 0.000007629395, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 12.00001, y: -39}
+        - {x: 20.00001, y: -39}
+        - {x: 20.00001, y: -27}
+        - {x: 19.00001, y: -18}
+        - {x: 20.00001, y: -12}
+        - {x: 20.00001, y: 7}
+        - {x: 15.00001, y: 16}
+        - {x: 13.00001, y: 37}
+        - {x: 12.00001, y: 40}
+        - {x: 7.000008, y: 40}
+        - {x: -1.999992, y: 17}
+        - {x: -14.99999, y: -6}
+        - {x: -19.99999, y: -14}
+        - {x: -19.99999, y: -22}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -33}
+        - {x: -19.99999, y: -40}
+        - {x: -13.99999, y: -40}
+        - {x: -9.999992, y: -32}
+        - {x: -6.999992, y: -19}
+        - {x: -3.999992, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 235
+        width: 42
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7832382, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.99999, y: -40}
+        - {x: -20.99999, y: -40}
+        - {x: -20.99999, y: -33}
+        - {x: -18.99999, y: -22}
+        - {x: -20.99999, y: -22}
+        - {x: -20.99999, y: -14}
+        - {x: 6.000008, y: 40}
+        - {x: 12.00001, y: 40}
+        - {x: 21.00001, y: 11}
+        - {x: 21.00001, y: -40}
+        - {x: 12.00001, y: -40}
+        - {x: 1.000008, y: -37}
+        - {x: -0.9999924, y: -39}
+        - {x: -6.999992, y: -39}
+        - {x: -9.999992, y: -37}
+        - {x: -10.99999, y: -32}
+      physicsShape:
+      - - {x: -6.999992, y: -39}
+        - {x: -0.9999924, y: -39}
+        - {x: 1.000008, y: -37}
+        - {x: 4.000008, y: -27}
+        - {x: 10.00001, y: -37}
+        - {x: 14.00001, y: -39}
+        - {x: 20.00001, y: -39}
+        - {x: 21.00001, y: -36}
+        - {x: 17.00001, y: -21}
+        - {x: 21.00001, y: -11}
+        - {x: 21.00001, y: 6}
+        - {x: 20.00001, y: 8}
+        - {x: 15.00001, y: 17}
+        - {x: 12.00001, y: 40}
+        - {x: 6.000008, y: 40}
+        - {x: -2.999992, y: 17}
+        - {x: -15.99999, y: -6}
+        - {x: -20.99999, y: -14}
+        - {x: -20.99999, y: -22}
+        - {x: -18.99999, y: -22}
+        - {x: -20.99999, y: -33}
+        - {x: -20.99999, y: -40}
+        - {x: -14.99999, y: -40}
+        - {x: -10.99999, y: -32}
+        - {x: -4.999992, y: -22}
+        - {x: -9.999992, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 155
+        width: 43
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7650234, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.49999, y: -40}
+        - {x: -21.49999, y: -40}
+        - {x: -21.49999, y: -33}
+        - {x: -19.49999, y: -22}
+        - {x: -21.49999, y: -22}
+        - {x: -21.49999, y: -14}
+        - {x: 5.500008, y: 40}
+        - {x: 10.50001, y: 40}
+        - {x: 21.50001, y: 16}
+        - {x: 21.50001, y: -31}
+        - {x: 20.50001, y: -40}
+        - {x: 17.50001, y: -40}
+        - {x: 13.50001, y: -39}
+        - {x: 0.5000076, y: -37}
+        - {x: -1.499992, y: -39}
+        - {x: -7.499992, y: -39}
+        - {x: -10.49999, y: -37}
+        - {x: -11.49999, y: -32}
+      physicsShape:
+      - - {x: -7.499992, y: -39}
+        - {x: -1.499992, y: -39}
+        - {x: 0.5000076, y: -37}
+        - {x: 3.500008, y: -27}
+        - {x: 9.500008, y: -37}
+        - {x: 13.50001, y: -39}
+        - {x: 19.50001, y: -39}
+        - {x: 20.50001, y: -36}
+        - {x: 17.50001, y: -8}
+        - {x: 21.50001, y: -6}
+        - {x: 21.50001, y: 6}
+        - {x: 11.50001, y: 19}
+        - {x: 11.50001, y: 37}
+        - {x: 10.50001, y: 40}
+        - {x: 5.500008, y: 40}
+        - {x: -3.499992, y: 17}
+        - {x: -16.49999, y: -6}
+        - {x: -21.49999, y: -14}
+        - {x: -21.49999, y: -22}
+        - {x: -19.49999, y: -22}
+        - {x: -21.49999, y: -33}
+        - {x: -21.49999, y: -40}
+        - {x: -15.49999, y: -40}
+        - {x: -11.49999, y: -32}
+        - {x: -5.499992, y: -22}
+        - {x: -10.49999, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 315
+        width: 41
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8023416, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.49999, y: -40}
+        - {x: -20.49999, y: -40}
+        - {x: -20.49999, y: -33}
+        - {x: -18.49999, y: -22}
+        - {x: -20.49999, y: -22}
+        - {x: -20.49999, y: -14}
+        - {x: 6.500008, y: 40}
+        - {x: 18.50001, y: 40}
+        - {x: 20.50001, y: 28}
+        - {x: 20.50001, y: -39}
+        - {x: 14.50001, y: -39}
+        - {x: 1.500008, y: -37}
+        - {x: -0.4999924, y: -39}
+        - {x: -6.499992, y: -39}
+        - {x: -9.499992, y: -37}
+        - {x: -10.49999, y: -32}
+      physicsShape:
+      - - {x: -9.499992, y: -37}
+        - {x: -6.499992, y: -39}
+        - {x: -0.4999924, y: -39}
+        - {x: 1.500008, y: -37}
+        - {x: 4.500008, y: -27}
+        - {x: 10.50001, y: -37}
+        - {x: 14.50001, y: -39}
+        - {x: 20.50001, y: -39}
+        - {x: 20.50001, y: -25}
+        - {x: 19.50001, y: -10}
+        - {x: 20.50001, y: -7}
+        - {x: 20.50001, y: 9}
+        - {x: 15.50001, y: 17}
+        - {x: 12.50001, y: 40}
+        - {x: 6.500008, y: 40}
+        - {x: -2.499992, y: 17}
+        - {x: -15.49999, y: -6}
+        - {x: -20.49999, y: -14}
+        - {x: -20.49999, y: -22}
+        - {x: -18.49999, y: -22}
+        - {x: -20.49999, y: -33}
+        - {x: -20.49999, y: -40}
+        - {x: -14.49999, y: -40}
+        - {x: -10.49999, y: -32}
+        - {x: -7.499992, y: -19}
+        - {x: -4.499992, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 395
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.99999, y: -40}
+        - {x: -19.99999, y: -40}
+        - {x: -19.99999, y: -33}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -22}
+        - {x: -19.99999, y: -14}
+        - {x: 7.000008, y: 40}
+        - {x: 13.00001, y: 40}
+        - {x: 20.00001, y: 10}
+        - {x: 20.00001, y: -39}
+        - {x: 12.00001, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 0.000007629395, y: -39}
+        - {x: -5.999992, y: -39}
+        - {x: -8.999992, y: -37}
+        - {x: -9.999992, y: -32}
+      physicsShape:
+      - - {x: -8.999992, y: -37}
+        - {x: -5.999992, y: -39}
+        - {x: 0.000007629395, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 12.00001, y: -39}
+        - {x: 20.00001, y: -39}
+        - {x: 20.00001, y: -30}
+        - {x: 18.00001, y: -21}
+        - {x: 20.00001, y: -1}
+        - {x: 20.00001, y: 8}
+        - {x: 15.00001, y: 16}
+        - {x: 13.00001, y: 37}
+        - {x: 12.00001, y: 40}
+        - {x: 7.000008, y: 40}
+        - {x: -1.999992, y: 17}
+        - {x: -14.99999, y: -6}
+        - {x: -19.99999, y: -14}
+        - {x: -19.99999, y: -22}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -33}
+        - {x: -19.99999, y: -40}
+        - {x: -13.99999, y: -40}
+        - {x: -9.999992, y: -32}
+        - {x: -6.999992, y: -19}
+        - {x: -3.999992, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 155
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8224001, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.99999, y: -40}
+        - {x: -19.99999, y: -40}
+        - {x: -19.99999, y: -33}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -22}
+        - {x: -19.99999, y: -14}
+        - {x: 7.000008, y: 40}
+        - {x: 14.00001, y: 40}
+        - {x: 20.00001, y: 15}
+        - {x: 20.00001, y: -39}
+        - {x: 12.00001, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 0.000007629395, y: -39}
+        - {x: -5.999992, y: -39}
+        - {x: -8.999992, y: -37}
+        - {x: -9.999992, y: -32}
+      physicsShape:
+      - - {x: -8.999992, y: -37}
+        - {x: -5.999992, y: -39}
+        - {x: 0.000007629395, y: -39}
+        - {x: 2.000008, y: -37}
+        - {x: 12.00001, y: -39}
+        - {x: 20.00001, y: -39}
+        - {x: 20.00001, y: -29}
+        - {x: 17.00001, y: -18}
+        - {x: 20.00001, y: -13}
+        - {x: 20.00001, y: 9}
+        - {x: 16.00001, y: 17}
+        - {x: 13.00001, y: 40}
+        - {x: 7.000008, y: 40}
+        - {x: -1.999992, y: 17}
+        - {x: -14.99999, y: -6}
+        - {x: -19.99999, y: -14}
+        - {x: -19.99999, y: -22}
+        - {x: -17.99999, y: -22}
+        - {x: -19.99999, y: -33}
+        - {x: -19.99999, y: -40}
+        - {x: -13.99999, y: -40}
+        - {x: -9.999992, y: -32}
+        - {x: -6.999992, y: -19}
+        - {x: -3.999992, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 395
+        width: 41
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8023416, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.49999, y: -40}
+        - {x: -20.49999, y: -40}
+        - {x: -20.49999, y: -33}
+        - {x: -18.49999, y: -22}
+        - {x: -20.49999, y: -22}
+        - {x: -20.49999, y: -14}
+        - {x: 6.500008, y: 40}
+        - {x: 11.50001, y: 40}
+        - {x: 20.50001, y: 16}
+        - {x: 20.50001, y: -39}
+        - {x: 14.50001, y: -39}
+        - {x: 1.500008, y: -37}
+        - {x: -0.4999924, y: -39}
+        - {x: -6.499992, y: -39}
+        - {x: -9.499992, y: -37}
+        - {x: -10.49999, y: -32}
+      physicsShape:
+      - - {x: -6.499992, y: -39}
+        - {x: -0.4999924, y: -39}
+        - {x: 1.500008, y: -37}
+        - {x: 10.50001, y: -37}
+        - {x: 14.50001, y: -39}
+        - {x: 20.50001, y: -39}
+        - {x: 20.50001, y: -30}
+        - {x: 19.50001, y: -21}
+        - {x: 20.50001, y: -13}
+        - {x: 20.50001, y: 11}
+        - {x: 15.50001, y: 17}
+        - {x: 12.50001, y: 37}
+        - {x: 11.50001, y: 40}
+        - {x: 6.500008, y: 40}
+        - {x: -2.499992, y: 17}
+        - {x: -15.49999, y: -6}
+        - {x: -20.49999, y: -14}
+        - {x: -20.49999, y: -22}
+        - {x: -18.49999, y: -22}
+        - {x: -20.49999, y: -33}
+        - {x: -20.49999, y: -40}
+        - {x: -14.49999, y: -40}
+        - {x: -10.49999, y: -32}
+        - {x: -4.499992, y: -22}
+        - {x: -9.499992, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 395
+        width: 44
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7476364, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -40}
+        - {x: -22, y: -40}
+        - {x: -22, y: -33}
+        - {x: -20, y: -22}
+        - {x: -22, y: -22}
+        - {x: -22, y: -14}
+        - {x: 5, y: 40}
+        - {x: 10, y: 40}
+        - {x: 22, y: 16}
+        - {x: 22, y: -29}
+        - {x: 21, y: -40}
+        - {x: 11, y: -40}
+        - {x: 0, y: -37}
+        - {x: -2, y: -39}
+        - {x: -8, y: -39}
+        - {x: -11, y: -37}
+        - {x: -12, y: -32}
+      physicsShape:
+      - - {x: -8, y: -39}
+        - {x: -2, y: -39}
+        - {x: 0, y: -37}
+        - {x: 9, y: -37}
+        - {x: 13, y: -39}
+        - {x: 19, y: -39}
+        - {x: 20, y: -36}
+        - {x: 18, y: -8}
+        - {x: 22, y: -1}
+        - {x: 22, y: 11}
+        - {x: 12, y: 19}
+        - {x: 11, y: 37}
+        - {x: 10, y: 40}
+        - {x: 5, y: 40}
+        - {x: -4, y: 17}
+        - {x: -17, y: -6}
+        - {x: -22, y: -14}
+        - {x: -22, y: -22}
+        - {x: -20, y: -22}
+        - {x: -22, y: -33}
+        - {x: -22, y: -40}
+        - {x: -16, y: -40}
+        - {x: -12, y: -32}
+        - {x: -6, y: -22}
+        - {x: -11, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 156
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7310223, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -40}
+        - {x: -22.5, y: -40}
+        - {x: -22.5, y: -33}
+        - {x: -20.5, y: -22}
+        - {x: -22.5, y: -22}
+        - {x: -22.5, y: -14}
+        - {x: 4.5, y: 40}
+        - {x: 10.5, y: 40}
+        - {x: 22.5, y: 16}
+        - {x: 22.5, y: -33}
+        - {x: 21.5, y: -40}
+        - {x: 9.5, y: -40}
+        - {x: -0.5, y: -37}
+        - {x: -2.5, y: -39}
+        - {x: -8.5, y: -39}
+        - {x: -11.5, y: -37}
+        - {x: -12.5, y: -32}
+      physicsShape:
+      - - {x: -8.5, y: -39}
+        - {x: -2.5, y: -39}
+        - {x: -0.5, y: -37}
+        - {x: 2.5, y: -27}
+        - {x: 8.5, y: -37}
+        - {x: 12.5, y: -39}
+        - {x: 13.5, y: -40}
+        - {x: 20.5, y: -40}
+        - {x: 19.5, y: -24}
+        - {x: 16.5, y: -8}
+        - {x: 22.5, y: -2}
+        - {x: 22.5, y: 6}
+        - {x: 13.5, y: 17}
+        - {x: 9.5, y: 40}
+        - {x: 4.5, y: 40}
+        - {x: -4.5, y: 17}
+        - {x: -17.5, y: -6}
+        - {x: -22.5, y: -14}
+        - {x: -22.5, y: -22}
+        - {x: -20.5, y: -22}
+        - {x: -22.5, y: -33}
+        - {x: -22.5, y: -40}
+        - {x: -16.5, y: -40}
+        - {x: -12.5, y: -32}
+        - {x: -6.5, y: -22}
+        - {x: -11.5, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 315
+        width: 44
+        height: 80
+      alignment: 9
+      pivot: {x: 0.7476364, y: 0.03787501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -40}
+        - {x: -22, y: -40}
+        - {x: -22, y: -33}
+        - {x: -20, y: -22}
+        - {x: -22, y: -22}
+        - {x: -22, y: -14}
+        - {x: 5, y: 40}
+        - {x: 11, y: 40}
+        - {x: 22, y: 16}
+        - {x: 22, y: -26}
+        - {x: 20, y: -36}
+        - {x: 19, y: -39}
+        - {x: 13, y: -39}
+        - {x: 0, y: -37}
+        - {x: -2, y: -39}
+        - {x: -8, y: -39}
+        - {x: -11, y: -37}
+        - {x: -12, y: -32}
+      physicsShape:
+      - - {x: -11, y: -37}
+        - {x: -8, y: -39}
+        - {x: -2, y: -39}
+        - {x: 0, y: -37}
+        - {x: 3, y: -27}
+        - {x: 9, y: -37}
+        - {x: 13, y: -39}
+        - {x: 19, y: -39}
+        - {x: 20, y: -36}
+        - {x: 15, y: -10}
+        - {x: 22, y: -5}
+        - {x: 22, y: 6}
+        - {x: 15, y: 17}
+        - {x: 10, y: 40}
+        - {x: 5, y: 40}
+        - {x: -4, y: 17}
+        - {x: -17, y: -6}
+        - {x: -22, y: -14}
+        - {x: -22, y: -22}
+        - {x: -20, y: -22}
+        - {x: -22, y: -33}
+        - {x: -22, y: -40}
+        - {x: -16, y: -40}
+        - {x: -12, y: -32}
+        - {x: -9, y: -19}
+        - {x: -6, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 76
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7476364, y: 0.03835444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.99999, y: -39.5}
+        - {x: -21.99999, y: -39.5}
+        - {x: -21.99999, y: -32.5}
+        - {x: -19.99999, y: -21.5}
+        - {x: -21.99999, y: -21.5}
+        - {x: -21.99999, y: -13.5}
+        - {x: 6.000008, y: 39.5}
+        - {x: 12.00001, y: 39.5}
+        - {x: 17.00001, y: 6.5}
+        - {x: 22.00001, y: 0.5}
+        - {x: 22.00001, y: -29.5}
+        - {x: 21.00001, y: -39.5}
+        - {x: 11.00001, y: -39.5}
+        - {x: 0.000007629395, y: -36.5}
+        - {x: -1.999992, y: -38.5}
+        - {x: -7.999992, y: -38.5}
+        - {x: -10.99999, y: -36.5}
+        - {x: -11.99999, y: -31.5}
+      physicsShape:
+      - - {x: -7.999992, y: -38.5}
+        - {x: -1.999992, y: -38.5}
+        - {x: 0.000007629395, y: -36.5}
+        - {x: 9.000008, y: -36.5}
+        - {x: 13.00001, y: -38.5}
+        - {x: 14.00001, y: -39.5}
+        - {x: 21.00001, y: -39.5}
+        - {x: 21.00001, y: -23.5}
+        - {x: 22.00001, y: -16.5}
+        - {x: 22.00001, y: 0.5}
+        - {x: 17.00001, y: 6.5}
+        - {x: 12.00001, y: 11.5}
+        - {x: 12.00001, y: 39.5}
+        - {x: 6.000008, y: 39.5}
+        - {x: -3.999992, y: 18.5}
+        - {x: -16.99999, y: -6.5}
+        - {x: -21.99999, y: -13.5}
+        - {x: -21.99999, y: -21.5}
+        - {x: -19.99999, y: -21.5}
+        - {x: -21.99999, y: -32.5}
+        - {x: -21.99999, y: -39.5}
+        - {x: -15.99999, y: -39.5}
+        - {x: -11.99999, y: -31.5}
+        - {x: -5.999992, y: -21.5}
+        - {x: -10.99999, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7779201, y: 0.0004000092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.99999, y: -37.5}
+        - {x: -24.99999, y: -37.5}
+        - {x: -24.99999, y: -26.5}
+        - {x: -22.99999, y: -16.5}
+        - {x: 11.00001, y: 37.5}
+        - {x: 22.00001, y: 37.5}
+        - {x: 25.00001, y: 12.5}
+        - {x: 25.00001, y: -37.5}
+        - {x: -6.999992, y: -37.5}
+        - {x: -14.99999, y: -29.5}
+      physicsShape:
+      - - {x: 25.00001, y: -37.5}
+        - {x: 25.00001, y: -28.5}
+        - {x: 23.00001, y: -21.5}
+        - {x: 25.00001, y: -18.5}
+        - {x: 25.00001, y: -5.5}
+        - {x: 18.00001, y: 12.5}
+        - {x: 17.00001, y: 37.5}
+        - {x: 11.00001, y: 37.5}
+        - {x: 3.000008, y: 15.5}
+        - {x: -22.99999, y: -16.5}
+        - {x: -24.99999, y: -26.5}
+        - {x: -24.99999, y: -37.5}
+        - {x: -22.99999, y: -37.5}
+        - {x: -14.99999, y: -29.5}
+        - {x: -2.999992, y: -22.5}
+        - {x: -5.999992, y: -34.5}
+        - {x: -6.999992, y: -37.5}
+        - {x: 3.000008, y: -37.5}
+        - {x: 10.00001, y: -21.5}
+        - {x: 12.00001, y: -30.5}
+        - {x: 16.00001, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_healthpotion_consuming_anim_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7563872, y: 0.0004109683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -36.5}
+        - {x: -31, y: -36.5}
+        - {x: -31, y: -25.5}
+        - {x: 14, y: 36.5}
+        - {x: 20, y: 36.5}
+        - {x: 31, y: -1.5}
+      physicsShape:
+      - - {x: 31, y: -30.5}
+        - {x: 25, y: -15.5}
+        - {x: 31, y: -9.5}
+        - {x: 31, y: -2.5}
+        - {x: 25, y: 15.5}
+        - {x: 20, y: 36.5}
+        - {x: 15, y: 36.5}
+        - {x: 12, y: 33.5}
+        - {x: 10, y: 22.5}
+        - {x: -4, y: 2.5}
+        - {x: -31, y: -26.5}
+        - {x: -31, y: -32.5}
+        - {x: -28, y: -33.5}
+        - {x: -11, y: -26.5}
+        - {x: -5, y: -36.5}
+        - {x: 31, y: -36.5}
+      - - {x: 5, y: -7.5}
+        - {x: 2, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

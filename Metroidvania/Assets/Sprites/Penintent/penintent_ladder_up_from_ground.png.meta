@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 0bebbd4462762a9469b9eef10c6f69ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penintent_ladder_up_from_ground_0
+  - first:
+      213: 21300002
+    second: penintent_ladder_up_from_ground_1
+  - first:
+      213: 21300004
+    second: penintent_ladder_up_from_ground_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penintent_ladder_up_from_ground_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 47
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5944844, y: 0.001392497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -36}
+        - {x: -23.5, y: -36}
+        - {x: -23.5, y: -18}
+        - {x: -15.5, y: 6}
+        - {x: 0.5000038, y: 36}
+        - {x: 9.500004, y: 36}
+        - {x: 23.5, y: 21}
+      physicsShape:
+      - - {x: 23.5, y: -36}
+        - {x: 23.5, y: -30}
+        - {x: 21.5, y: -20}
+        - {x: 20.5, y: 3}
+        - {x: 23.5, y: 10}
+        - {x: 23.5, y: 18}
+        - {x: 12.5, y: 18}
+        - {x: 8.500004, y: 36}
+        - {x: 1.500004, y: 36}
+        - {x: -2.499996, y: 15}
+        - {x: -15.5, y: 6}
+        - {x: -15.5, y: -6}
+        - {x: -23.5, y: -20}
+        - {x: -23.5, y: -28}
+        - {x: -15.5, y: -29}
+        - {x: -16.5, y: -36}
+        - {x: -3.499996, y: -36}
+        - {x: 7.500004, y: -27}
+        - {x: 13.5, y: -35}
+        - {x: 14.5, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_ladder_up_from_ground_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6188155, y: 0.001392523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -36}
+        - {x: -25, y: -34}
+        - {x: -25, y: -3}
+        - {x: -11, y: 36}
+        - {x: 8, y: 36}
+        - {x: 25, y: 21}
+        - {x: 25, y: -36}
+      physicsShape:
+      - - {x: 25, y: -33}
+        - {x: 23, y: -8}
+        - {x: 25, y: -3}
+        - {x: 25, y: 8}
+        - {x: 10, y: 13}
+        - {x: 5, y: 36}
+        - {x: 0, y: 36}
+        - {x: -3, y: 30}
+        - {x: -5, y: 14}
+        - {x: -22, y: 2}
+        - {x: -9, y: -10}
+        - {x: -25, y: -19}
+        - {x: -25, y: -27}
+        - {x: -12, y: -24}
+        - {x: -14, y: -36}
+        - {x: -4, y: -36}
+        - {x: 7, y: -25}
+        - {x: 13, y: -35}
+        - {x: 22, y: -36}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_ladder_up_from_ground_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 33
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4830537, y: 0.001373448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -36.5}
+        - {x: -12.5, y: -35.5}
+        - {x: -11.5, y: -30.5}
+        - {x: -10.5, y: -26.5}
+        - {x: -12.5, y: -28.5}
+        - {x: -15.5, y: -30.5}
+        - {x: -16.5, y: -29.5}
+        - {x: -16.5, y: 24.5}
+        - {x: -12.5, y: 36.5}
+        - {x: 7.5, y: 36.5}
+        - {x: 16.5, y: -1.500004}
+        - {x: 16.5, y: -32.5}
+        - {x: 7.5, y: -30.5}
+        - {x: 3.5, y: -23.5}
+        - {x: -1.5, y: -34.5}
+        - {x: -1.5, y: -35.5}
+        - {x: -2.5, y: -36.5}
+      physicsShape:
+      - - {x: 7.5, y: -30.5}
+        - {x: 16.5, y: -32.5}
+        - {x: 16.5, y: -1.500004}
+        - {x: 7.5, y: 36.5}
+        - {x: -12.5, y: 36.5}
+        - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -29.5}
+        - {x: -15.5, y: -30.5}
+        - {x: -12.5, y: -28.5}
+        - {x: -10.5, y: -26.5}
+        - {x: -11.5, y: -30.5}
+        - {x: -12.5, y: -35.5}
+        - {x: -11.5, y: -36.5}
+        - {x: -2.5, y: -36.5}
+        - {x: -1.5, y: -35.5}
+        - {x: -1.5, y: -34.5}
+        - {x: 3.5, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: a21717cefda20d241b8e5cf7f6199314
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_ladder_down_from_ground_anim_0
+  - first:
+      213: 21300002
+    second: penitent_ladder_down_from_ground_anim_1
+  - first:
+      213: 21300004
+    second: penitent_ladder_down_from_ground_anim_2
+  - first:
+      213: 21300006
+    second: penitent_ladder_down_from_ground_anim_3
+  - first:
+      213: 21300008
+    second: penitent_ladder_down_from_ground_anim_4
+  - first:
+      213: 21300010
+    second: penitent_ladder_down_from_ground_anim_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_ladder_down_from_ground_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 28
+        height: 76
+      alignment: 9
+      pivot: {x: 0.2840535, y: 0.5785275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -37.99999}
+        - {x: -14, y: 38.00001}
+        - {x: 14, y: 38.00001}
+        - {x: 14, y: -37.99999}
+      physicsShape:
+      - - {x: 14, y: 5.000008}
+        - {x: 6, y: 15.00001}
+        - {x: 1, y: 38.00001}
+        - {x: -5, y: 38.00001}
+        - {x: -7, y: 29.00001}
+        - {x: -14, y: 16.00001}
+        - {x: -14, y: -5.999992}
+        - {x: -8, y: -25.99999}
+        - {x: 1, y: -37.99999}
+        - {x: 7, y: -37.99999}
+        - {x: 9, y: -29.99999}
+        - {x: 4, y: -19.99999}
+        - {x: 14, y: -13.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_ladder_down_from_ground_anim_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 25
+        height: 51
+      alignment: 9
+      pivot: {x: 0.23814, y: 0.2542762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -25.5}
+        - {x: -12.5, y: 25.5}
+        - {x: 12.5, y: 25.5}
+        - {x: 12.5, y: -25.5}
+      physicsShape:
+      - - {x: 4.5, y: 25.5}
+        - {x: -1.5, y: 25.5}
+        - {x: -7.5, y: 7.499999}
+        - {x: -12.5, y: 5.499999}
+        - {x: -12.5, y: -25.5}
+        - {x: 0.5, y: -25.5}
+        - {x: 7.5, y: -20.5}
+        - {x: 12.5, y: -18.5}
+        - {x: 12.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_ladder_down_from_ground_anim_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 115
+        width: 32
+        height: 57
+      alignment: 9
+      pivot: {x: 0.2485468, y: -0.0005598905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -28.5}
+        - {x: -16, y: -28.5}
+        - {x: -16, y: 7.5}
+        - {x: 7, y: 28.5}
+        - {x: 16, y: 28.5}
+        - {x: 16, y: -27.5}
+      physicsShape:
+      - - {x: 8, y: 28.5}
+        - {x: 6, y: 24.5}
+        - {x: -3, y: 4.5}
+        - {x: -16, y: -4.5}
+        - {x: -16, y: -20.5}
+        - {x: -12, y: -27.5}
+        - {x: -12, y: -28.5}
+        - {x: 12, y: -28.5}
+        - {x: 16, y: -23.5}
+        - {x: 16, y: 18.5}
+        - {x: 13, y: 28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_ladder_down_from_ground_anim_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 56
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4634553, y: -0.0005231763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -30.5}
+        - {x: -18, y: -30.5}
+        - {x: -18, y: -25.5}
+        - {x: -14, y: -21.5}
+        - {x: -15, y: -21.5}
+        - {x: -26, y: -27.5}
+        - {x: -28, y: -27.5}
+        - {x: -28, y: -19.5}
+        - {x: 5, y: 30.5}
+        - {x: 14, y: 30.5}
+        - {x: 28, y: 13.5}
+        - {x: 28, y: -16.5}
+      physicsShape:
+      - - {x: 22, y: 14.5}
+        - {x: 14, y: 30.5}
+        - {x: 8, y: 30.5}
+        - {x: -1, y: 7.5}
+        - {x: -12, y: 3.5}
+        - {x: -16, y: -3.5}
+        - {x: -28, y: -19.5}
+        - {x: -28, y: -27.5}
+        - {x: -26, y: -27.5}
+        - {x: -15, y: -21.5}
+        - {x: -13, y: -21.5}
+        - {x: -14, y: -21.5}
+        - {x: -18, y: -25.5}
+        - {x: -18, y: -30.5}
+        - {x: 18, y: -30.5}
+        - {x: 28, y: -16.5}
+        - {x: 28, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_ladder_down_from_ground_anim_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5734787, y: -0.0005598905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -20.5, y: -4.5}
+        - {x: 12.5, y: 28.5}
+        - {x: 19.5, y: 28.5}
+        - {x: 23.5, y: 24.5}
+      physicsShape:
+      - - {x: 23.5, y: 20.5}
+        - {x: 18.5, y: 28.5}
+        - {x: 13.5, y: 28.5}
+        - {x: 10.5, y: 19.5}
+        - {x: -10.5, y: 3.5}
+        - {x: -19.5, y: -5.5}
+        - {x: -19.5, y: -9.5}
+        - {x: -23.5, y: -20.5}
+        - {x: -23.5, y: -28.5}
+        - {x: 23.5, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_ladder_down_from_ground_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 54
+      alignment: 9
+      pivot: {x: 0.7493541, y: -0.0005909955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -11}
+        - {x: -36, y: -10}
+        - {x: -36, y: -5}
+        - {x: 22, y: 27}
+        - {x: 28, y: 27}
+        - {x: 34, y: -1}
+        - {x: 36, y: -13}
+        - {x: 36, y: -27}
+        - {x: -17, y: -27}
+      physicsShape:
+      - - {x: 36, y: -23}
+        - {x: 34, y: -21}
+        - {x: 31, y: -2}
+        - {x: 28, y: 27}
+        - {x: 23, y: 27}
+        - {x: 22, y: 25}
+        - {x: 15, y: 6}
+        - {x: 8, y: 7}
+        - {x: -9, y: -3}
+        - {x: -32, y: -4}
+        - {x: -36, y: -5}
+        - {x: -36, y: -10}
+        - {x: -34, y: -11}
+        - {x: -2, y: -15}
+        - {x: -16, y: -22}
+        - {x: -15, y: -27}
+        - {x: 36, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

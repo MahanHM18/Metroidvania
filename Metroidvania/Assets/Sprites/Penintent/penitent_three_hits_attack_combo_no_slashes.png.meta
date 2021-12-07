@@ -1,0 +1,2213 @@
+fileFormatVersion: 2
+guid: fc0772568cdd6e14198de47a18dc77d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_three_hits_attack_combo_no_slashes_1
+  - first:
+      213: 21300002
+    second: penitent_three_hits_attack_combo_no_slashes_2
+  - first:
+      213: 21300004
+    second: penitent_three_hits_attack_combo_no_slashes_3
+  - first:
+      213: 21300006
+    second: penitent_three_hits_attack_combo_no_slashes_4
+  - first:
+      213: 21300008
+    second: penitent_three_hits_attack_combo_no_slashes_5
+  - first:
+      213: 21300010
+    second: penitent_three_hits_attack_combo_no_slashes_6
+  - first:
+      213: 21300012
+    second: penitent_three_hits_attack_combo_no_slashes_7
+  - first:
+      213: 21300014
+    second: penitent_three_hits_attack_combo_no_slashes_8
+  - first:
+      213: 21300016
+    second: penitent_three_hits_attack_combo_no_slashes_9
+  - first:
+      213: 21300018
+    second: penitent_three_hits_attack_combo_no_slashes_10
+  - first:
+      213: 21300020
+    second: penitent_three_hits_attack_combo_no_slashes_11
+  - first:
+      213: 21300022
+    second: penitent_three_hits_attack_combo_no_slashes_12
+  - first:
+      213: 21300024
+    second: penitent_three_hits_attack_combo_no_slashes_13
+  - first:
+      213: 21300026
+    second: penitent_three_hits_attack_combo_no_slashes_14
+  - first:
+      213: 21300028
+    second: penitent_three_hits_attack_combo_no_slashes_15
+  - first:
+      213: 21300030
+    second: penitent_three_hits_attack_combo_no_slashes_16
+  - first:
+      213: 21300032
+    second: penitent_three_hits_attack_combo_no_slashes_17
+  - first:
+      213: 21300034
+    second: penitent_three_hits_attack_combo_no_slashes_18
+  - first:
+      213: 21300036
+    second: penitent_three_hits_attack_combo_no_slashes_19
+  - first:
+      213: 21300038
+    second: penitent_three_hits_attack_combo_no_slashes_20
+  - first:
+      213: 21300040
+    second: penitent_three_hits_attack_combo_no_slashes_21
+  - first:
+      213: 21300042
+    second: penitent_three_hits_attack_combo_no_slashes_22
+  - first:
+      213: 21300044
+    second: penitent_three_hits_attack_combo_no_slashes_23
+  - first:
+      213: 21300046
+    second: penitent_three_hits_attack_combo_no_slashes_24
+  - first:
+      213: 21300048
+    second: penitent_three_hits_attack_combo_no_slashes_25
+  - first:
+      213: 21300050
+    second: penitent_three_hits_attack_combo_no_slashes_26
+  - first:
+      213: 21300052
+    second: penitent_three_hits_attack_combo_no_slashes_27
+  - first:
+      213: 21300054
+    second: penitent_three_hits_attack_combo_no_slashes_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7157552, y: 0.000222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -36.00001}
+        - {x: -33.5, y: -36.00001}
+        - {x: -33.5, y: -6.000008}
+        - {x: -1.5, y: 35.99999}
+        - {x: 19.5, y: 35.99999}
+        - {x: 33.5, y: 12.99999}
+      physicsShape:
+      - - {x: 33.5, y: -36.00001}
+        - {x: 33.5, y: -21.00001}
+        - {x: 31.5, y: 1.999992}
+        - {x: 22.5, y: 16.99999}
+        - {x: 20.5, y: 31.99999}
+        - {x: 19.5, y: 35.99999}
+        - {x: 11.5, y: 35.99999}
+        - {x: 0.5, y: 6.999992}
+        - {x: -5.5, y: 1.999992}
+        - {x: -1.5, y: -4.000008}
+        - {x: -33.5, y: -19.00001}
+        - {x: -33.5, y: -26.00001}
+        - {x: -29.5, y: -26.00001}
+        - {x: -13.5, y: -22.00001}
+        - {x: -14.5, y: -27.00001}
+        - {x: -8.5, y: -29.00001}
+        - {x: -6.5, y: -36.00001}
+        - {x: 3.5, y: -36.00001}
+        - {x: 15.5, y: -22.00001}
+        - {x: 24.5, y: -35.00001}
+        - {x: 25.5, y: -36.00001}
+      - - {x: 5.5, y: -13.00001}
+        - {x: 5.5, y: -12.00001}
+        - {x: 0.5, y: -15.00001}
+        - {x: 1.5, y: -16.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 68
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7052293, y: 0.000222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -35.99999}
+        - {x: -34, y: -20.99999}
+        - {x: -34, y: -11.99999}
+        - {x: 11, y: 36.00001}
+        - {x: 23, y: 36.00001}
+        - {x: 34, y: 8.000008}
+        - {x: 34, y: -7.999992}
+        - {x: 28, y: -9.999992}
+        - {x: 27, y: -8.999992}
+        - {x: 24, y: -6.999992}
+        - {x: 27, y: -9.999992}
+        - {x: 34, y: -22.99999}
+        - {x: 34, y: -35.99999}
+      physicsShape:
+      - - {x: 34, y: -28.99999}
+        - {x: 27, y: -9.999992}
+        - {x: 24, y: -6.999992}
+        - {x: 27, y: -8.999992}
+        - {x: 28, y: -9.999992}
+        - {x: 34, y: -6.999992}
+        - {x: 34, y: 1.000008}
+        - {x: 32, y: 7.000008}
+        - {x: 20, y: 36.00001}
+        - {x: 13, y: 36.00001}
+        - {x: 9, y: 14.00001}
+        - {x: -12, y: -6.999992}
+        - {x: -24, y: -9.999992}
+        - {x: -34, y: -14.99999}
+        - {x: -34, y: -19.99999}
+        - {x: -22, y: -18.99999}
+        - {x: -14, y: -26.99999}
+        - {x: -8, y: -28.99999}
+        - {x: -7, y: -35.99999}
+        - {x: 4, y: -35.99999}
+        - {x: 15, y: -20.99999}
+        - {x: 24, y: -35.99999}
+        - {x: 34, y: -35.99999}
+      - - {x: 5, y: -13.99999}
+        - {x: 7, y: -11.99999}
+        - {x: 2, y: -13.99999}
+        - {x: 3, y: -14.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 78
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6276358, y: 0.000231888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -34.49999}
+        - {x: -11, y: -34.49999}
+        - {x: -10, y: -21.49999}
+        - {x: -5, y: -11.49999}
+        - {x: -39, y: -14.49999}
+        - {x: -39, y: -6.499992}
+        - {x: 7, y: 34.50001}
+        - {x: 30, y: 34.50001}
+        - {x: 39, y: 18.50001}
+        - {x: 39, y: -26.49999}
+        - {x: 34, y: -34.49999}
+        - {x: 19, y: -34.49999}
+        - {x: 8, y: -26.49999}
+      physicsShape:
+      - - {x: 32, y: -34.49999}
+        - {x: 30, y: -18.49999}
+        - {x: 24, y: -6.499992}
+        - {x: 39, y: -0.4999924}
+        - {x: 39, y: 9.500008}
+        - {x: 21, y: 20.50001}
+        - {x: 17, y: 34.50001}
+        - {x: 12, y: 34.50001}
+        - {x: 10, y: 32.50001}
+        - {x: 11, y: 12.50001}
+        - {x: 6, y: 12.50001}
+        - {x: 1, y: 5.500008}
+        - {x: -18, y: -0.4999924}
+        - {x: -39, y: -8.499992}
+        - {x: -39, y: -14.49999}
+        - {x: -5, y: -11.49999}
+        - {x: -10, y: -21.49999}
+        - {x: -11, y: -34.49999}
+        - {x: 0, y: -34.49999}
+        - {x: 8, y: -26.49999}
+        - {x: 13, y: -19.49999}
+        - {x: 19, y: -34.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 74
+        width: 53
+        height: 63
+      alignment: 9
+      pivot: {x: 0.3576528, y: 0.0002539725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -31.5}
+        - {x: -26.5, y: -31.5}
+        - {x: -26.5, y: -11.5}
+        - {x: -18.5, y: 16.5}
+        - {x: 3.5, y: 31.5}
+        - {x: 21.5, y: 31.5}
+        - {x: 26.5, y: 19.5}
+        - {x: 26.5, y: -24.5}
+      physicsShape:
+      - - {x: 14.5, y: -27.5}
+        - {x: 6.5, y: -6.499998}
+        - {x: 16.5, y: -8.499998}
+        - {x: 26.5, y: -3.499998}
+        - {x: 26.5, y: 1.500002}
+        - {x: 24.5, y: 2.500002}
+        - {x: 22.5, y: 15.5}
+        - {x: 20.5, y: 31.5}
+        - {x: 5.5, y: 31.5}
+        - {x: -13.5, y: 12.5}
+        - {x: -22.5, y: -1.499998}
+        - {x: -21.5, y: -4.499998}
+        - {x: -26.5, y: -21.5}
+        - {x: -26.5, y: -31.5}
+        - {x: -16.5, y: -31.5}
+        - {x: -0.5, y: -22.5}
+        - {x: 2.5, y: -31.5}
+        - {x: 12.5, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 430
+        width: 56
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5706357, y: 0.0002352981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -33.99999}
+        - {x: -20, y: -33.99999}
+        - {x: -14, y: -2.999992}
+        - {x: -17, y: 15.00001}
+        - {x: -26, y: 19.00001}
+        - {x: -28, y: 21.00001}
+        - {x: -28, y: 26.00001}
+        - {x: 5, y: 34.00001}
+        - {x: 28, y: 34.00001}
+        - {x: 28, y: -20.99999}
+      physicsShape:
+      - - {x: 25, y: -33.99999}
+        - {x: 24, y: -7.999992}
+        - {x: 28, y: 17.00001}
+        - {x: 28, y: 34.00001}
+        - {x: 24, y: 34.00001}
+        - {x: 6, y: 17.00001}
+        - {x: -22, y: 25.00001}
+        - {x: -28, y: 26.00001}
+        - {x: -28, y: 21.00001}
+        - {x: -26, y: 19.00001}
+        - {x: -17, y: 15.00001}
+        - {x: -7, y: 7.000008}
+        - {x: -14, y: -2.999992}
+        - {x: -7, y: -8.999992}
+        - {x: -8, y: -22.99999}
+        - {x: -16, y: -24.99999}
+        - {x: -17, y: -33.99999}
+        - {x: -6, y: -33.99999}
+        - {x: 12, y: -24.99999}
+        - {x: 14, y: -33.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 203
+        width: 53
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5274641, y: 0.0002352981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -34.00001}
+        - {x: -26.5, y: -34.00001}
+        - {x: -26.5, y: 21.99999}
+        - {x: 6.5, y: 33.99999}
+        - {x: 26.5, y: 33.99999}
+      physicsShape:
+      - - {x: 24.5, y: -4.000008}
+        - {x: 26.5, y: 12.99999}
+        - {x: 26.5, y: 33.99999}
+        - {x: 22.5, y: 33.99999}
+        - {x: 11.5, y: 14.99999}
+        - {x: 2.5, y: 11.99999}
+        - {x: -20.5, y: 21.99999}
+        - {x: -26.5, y: 21.99999}
+        - {x: -26.5, y: 16.99999}
+        - {x: -24.5, y: 14.99999}
+        - {x: -15.5, y: 10.99999}
+        - {x: -14.5, y: -5.000008}
+        - {x: -8.5, y: -5.000008}
+        - {x: -20.5, y: -31.00001}
+        - {x: -19.5, y: -34.00001}
+        - {x: -8.5, y: -34.00001}
+        - {x: 1.5, y: -29.00001}
+        - {x: 10.5, y: -34.00001}
+        - {x: 22.5, y: -34.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 271
+        width: 53
+        height: 68
+      alignment: 9
+      pivot: {x: 0.546332, y: 0.0002352981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -33.99999}
+        - {x: -26.5, y: -26.99999}
+        - {x: -26.5, y: 19.00001}
+        - {x: 16.5, y: 34.00001}
+        - {x: 26.5, y: 34.00001}
+        - {x: 26.5, y: -3.999992}
+        - {x: 24.5, y: -33.99999}
+      physicsShape:
+      - - {x: 22.5, y: -32.99999}
+        - {x: 22.5, y: -30.99999}
+        - {x: 19.5, y: -18.99999}
+        - {x: 26.5, y: 0.000007629395}
+        - {x: 26.5, y: 34.00001}
+        - {x: 21.5, y: 34.00001}
+        - {x: -0.5, y: 10.00001}
+        - {x: -20.5, y: 18.00001}
+        - {x: -26.5, y: 19.00001}
+        - {x: -26.5, y: 14.00001}
+        - {x: -24.5, y: 12.00001}
+        - {x: -5.5, y: -9.999992}
+        - {x: -21.5, y: -30.99999}
+        - {x: -18.5, y: -33.99999}
+        - {x: 21.5, y: -33.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 326
+        width: 57
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5430806, y: 0.0002352981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -31.99999}
+        - {x: -28.5, y: -10.99999}
+        - {x: -28.5, y: 19.00001}
+        - {x: 4.499998, y: 34.00001}
+        - {x: 28.5, y: 34.00001}
+        - {x: 28.5, y: -33.99999}
+        - {x: -19.5, y: -33.99999}
+      physicsShape:
+      - - {x: 22.5, y: -32.99999}
+        - {x: 22.5, y: -30.99999}
+        - {x: 20.5, y: -18.99999}
+        - {x: 15.5, y: -9.999992}
+        - {x: 28.5, y: -0.9999924}
+        - {x: 28.5, y: 34.00001}
+        - {x: 22.5, y: 34.00001}
+        - {x: 8.499998, y: 13.00001}
+        - {x: -27.5, y: 8.000008}
+        - {x: -28.5, y: 7.000008}
+        - {x: -28.5, y: 2.000008}
+        - {x: -6.500002, y: -4.999992}
+        - {x: -21.5, y: -30.99999}
+        - {x: -18.5, y: -33.99999}
+        - {x: -4.500002, y: -33.99999}
+        - {x: 7.499998, y: -24.99999}
+        - {x: 12.5, y: -33.99999}
+        - {x: 21.5, y: -33.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 407
+        width: 41
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4623316, y: 0.0002352981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -33.99999}
+        - {x: -20.5, y: -33.99999}
+        - {x: -20.5, y: 19.00001}
+        - {x: 10.5, y: 34.00001}
+        - {x: 20.5, y: 34.00001}
+      physicsShape:
+      - - {x: 16.5, y: -17.99999}
+        - {x: 13.5, y: -8.999992}
+        - {x: 20.5, y: -4.999992}
+        - {x: 20.5, y: 12.00001}
+        - {x: 19.5, y: 21.00001}
+        - {x: 20.5, y: 28.00001}
+        - {x: 20.5, y: 34.00001}
+        - {x: 14.5, y: 34.00001}
+        - {x: 1.5, y: 13.00001}
+        - {x: -20.5, y: 5.000008}
+        - {x: -20.5, y: -0.9999924}
+        - {x: -7.5, y: -4.999992}
+        - {x: -20.5, y: -24.99999}
+        - {x: -20.5, y: -33.99999}
+        - {x: -10.5, y: -33.99999}
+        - {x: 5.5, y: -24.99999}
+        - {x: 8.5, y: -33.99999}
+        - {x: 19.5, y: -33.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 339
+        width: 46
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5207738, y: 0.0002352981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -33.99999}
+        - {x: -23, y: -33.99999}
+        - {x: -23, y: 20.00001}
+        - {x: 1, y: 32.00001}
+        - {x: 2, y: 34.00001}
+        - {x: 7, y: 34.00001}
+        - {x: 23, y: 6.000008}
+      physicsShape:
+      - - {x: 23, y: 6.000008}
+        - {x: 7, y: 34.00001}
+        - {x: 2, y: 34.00001}
+        - {x: 1, y: 32.00001}
+        - {x: -23, y: 20.00001}
+        - {x: -23, y: 14.00001}
+        - {x: -20, y: 13.00001}
+        - {x: -15, y: 2.000008}
+        - {x: -12, y: -1.999992}
+        - {x: -23, y: -17.99999}
+        - {x: -23, y: -31.99999}
+        - {x: -22, y: -33.99999}
+        - {x: -9, y: -33.99999}
+        - {x: 8, y: -25.99999}
+        - {x: 11, y: -33.99999}
+        - {x: 23, y: -33.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 139
+        width: 68
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7199352, y: 0.0002622995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -30.50001}
+        - {x: -8, y: -30.50001}
+        - {x: -4, y: -19.50001}
+        - {x: -6, y: -17.50001}
+        - {x: -34, y: 9.499994}
+        - {x: -34, y: 23.49999}
+        - {x: -6, y: 30.49999}
+        - {x: 34, y: 30.49999}
+      physicsShape:
+      - - {x: 34, y: -30.50001}
+        - {x: 34, y: -0.5000057}
+        - {x: 31, y: 6.499994}
+        - {x: 23, y: 9.499994}
+        - {x: 23, y: 30.49999}
+        - {x: 17, y: 30.49999}
+        - {x: 11, y: 17.49999}
+        - {x: -8, y: 21.49999}
+        - {x: -34, y: 19.49999}
+        - {x: -34, y: 12.49999}
+        - {x: -22, y: 9.499994}
+        - {x: -8, y: 8.499994}
+        - {x: 10, y: -5.500006}
+        - {x: -6, y: -13.50001}
+        - {x: -6, y: -17.50001}
+        - {x: -4, y: -19.50001}
+        - {x: -1, y: -19.50001}
+        - {x: -7, y: -30.50001}
+        - {x: 4, y: -30.50001}
+        - {x: 12, y: -20.50001}
+        - {x: 22, y: -20.50001}
+        - {x: 26, y: -30.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 139
+        width: 68
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7199352, y: 0.0002622995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -30.50001}
+        - {x: -8, y: -30.50001}
+        - {x: -4, y: -19.50001}
+        - {x: -6, y: -17.50001}
+        - {x: -34, y: 9.499994}
+        - {x: -34, y: 24.49999}
+        - {x: 0, y: 30.49999}
+        - {x: 27, y: 30.49999}
+        - {x: 34, y: -4.500006}
+      physicsShape:
+      - - {x: 34, y: -5.500006}
+        - {x: 31, y: 6.499994}
+        - {x: 23, y: 9.499994}
+        - {x: 23, y: 30.49999}
+        - {x: 17, y: 30.49999}
+        - {x: 12, y: 17.49999}
+        - {x: -8, y: 22.49999}
+        - {x: -34, y: 19.49999}
+        - {x: -34, y: 11.49999}
+        - {x: -8, y: 7.499994}
+        - {x: 10, y: -5.500006}
+        - {x: -6, y: -13.50001}
+        - {x: -6, y: -17.50001}
+        - {x: -4, y: -19.50001}
+        - {x: -8, y: -30.50001}
+        - {x: 6, y: -30.50001}
+        - {x: 22, y: -20.50001}
+        - {x: 26, y: -30.50001}
+        - {x: 34, y: -30.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 139
+        width: 68
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7199352, y: 0.0002622995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -30.50001}
+        - {x: -8, y: -30.50001}
+        - {x: -4, y: -19.50001}
+        - {x: -6, y: -17.50001}
+        - {x: -34, y: 9.499994}
+        - {x: -34, y: 24.49999}
+        - {x: -4, y: 30.49999}
+        - {x: 34, y: 30.49999}
+      physicsShape:
+      - - {x: 34, y: -30.50001}
+        - {x: 34, y: -1.500006}
+        - {x: 30, y: 5.499994}
+        - {x: 23, y: 9.499994}
+        - {x: 23, y: 30.49999}
+        - {x: 17, y: 30.49999}
+        - {x: 12, y: 17.49999}
+        - {x: -8, y: 22.49999}
+        - {x: -34, y: 19.49999}
+        - {x: -34, y: 11.49999}
+        - {x: -8, y: 7.499994}
+        - {x: 10, y: -5.500006}
+        - {x: -6, y: -13.50001}
+        - {x: -6, y: -17.50001}
+        - {x: -4, y: -19.50001}
+        - {x: -8, y: -30.50001}
+        - {x: 4, y: -30.50001}
+        - {x: 12, y: -20.50001}
+        - {x: 22, y: -20.50001}
+        - {x: 26, y: -30.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 139
+        width: 71
+        height: 64
+      alignment: 9
+      pivot: {x: 0.731769, y: 0.0002500042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -32.00001}
+        - {x: -35.5, y: -27.00001}
+        - {x: -35.5, y: 6.999994}
+        - {x: 16.5, y: 28.99999}
+        - {x: 18.5, y: 31.99999}
+        - {x: 23.5, y: 31.99999}
+        - {x: 35.5, y: 2.999994}
+        - {x: 35.5, y: -32.00001}
+      physicsShape:
+      - - {x: 35.5, y: -14.00001}
+        - {x: 34.5, y: -5.000006}
+        - {x: 31.5, y: 5.999994}
+        - {x: 23.5, y: 22.99999}
+        - {x: 23.5, y: 31.99999}
+        - {x: 18.5, y: 31.99999}
+        - {x: 16.5, y: 28.99999}
+        - {x: 9.5, y: 10.99999}
+        - {x: -5.5, y: 13.99999}
+        - {x: -35.5, y: 6.999994}
+        - {x: -35.5, y: 1.999994}
+        - {x: -33.5, y: -0.000005722046}
+        - {x: -1.5, y: 0.9999943}
+        - {x: 10.5, y: -6.000006}
+        - {x: -5.5, y: -14.00001}
+        - {x: -5.5, y: -18.00001}
+        - {x: -4.5, y: -21.00001}
+        - {x: -5.5, y: -32.00001}
+        - {x: 5.5, y: -32.00001}
+        - {x: 14.5, y: -21.00001}
+        - {x: 25.5, y: -32.00001}
+        - {x: 35.5, y: -32.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 203
+        width: 41
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4867219, y: 0.0002500042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -32.00001}
+        - {x: -20.5, y: -32.00001}
+        - {x: -20.5, y: 17.99999}
+        - {x: -17.5, y: 31.99999}
+        - {x: -7.5, y: 31.99999}
+        - {x: 20.5, y: 17.99999}
+      physicsShape:
+      - - {x: 20.5, y: -31.00001}
+        - {x: 16.5, y: -17.00001}
+        - {x: 8.5, y: -7.000006}
+        - {x: 20.5, y: 5.999994}
+        - {x: 20.5, y: 10.99999}
+        - {x: 15.5, y: 10.99999}
+        - {x: -0.5, y: 8.999994}
+        - {x: -10.5, y: 31.99999}
+        - {x: -17.5, y: 31.99999}
+        - {x: -20.5, y: 10.99999}
+        - {x: -20.5, y: -32.00001}
+        - {x: 1.5, y: -32.00001}
+        - {x: 2.5, y: -22.00001}
+        - {x: 11.5, y: -32.00001}
+        - {x: 20.5, y: -32.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 203
+        width: 40
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5238899, y: 0.0002352981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -34.00001}
+        - {x: -20, y: -34.00001}
+        - {x: -20, y: 19.99999}
+        - {x: -13, y: 33.99999}
+        - {x: 8, y: 33.99999}
+        - {x: 20, y: -5.000008}
+        - {x: 20, y: -34.00001}
+        - {x: 1, y: -34.00001}
+        - {x: -7, y: -25.00001}
+        - {x: -8, y: -23.00001}
+        - {x: -8, y: -32.00001}
+      physicsShape:
+      - - {x: -1, y: -31.00001}
+        - {x: 1, y: -32.00001}
+        - {x: 7, y: -34.00001}
+        - {x: 20, y: -34.00001}
+        - {x: 20, y: -16.00001}
+        - {x: 19, y: -2.000008}
+        - {x: 3, y: 11.99999}
+        - {x: -3, y: 33.99999}
+        - {x: -9, y: 33.99999}
+        - {x: -12, y: 30.99999}
+        - {x: -12, y: 11.99999}
+        - {x: -20, y: 8.999992}
+        - {x: -20, y: -6.000008}
+        - {x: -16, y: -11.00001}
+        - {x: -20, y: -33.00001}
+        - {x: -20, y: -34.00001}
+        - {x: -9, y: -34.00001}
+        - {x: -8, y: -32.00001}
+        - {x: -8, y: -23.00001}
+        - {x: -7, y: -25.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 358
+        width: 53
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5274641, y: 0.000222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -30.99999}
+        - {x: -26.5, y: -19.99999}
+        - {x: -26.5, y: 23.00001}
+        - {x: -14.5, y: 36.00001}
+        - {x: 23.5, y: 36.00001}
+        - {x: 26.5, y: 23.00001}
+        - {x: 26.5, y: -35.99999}
+        - {x: -16.5, y: -35.99999}
+      physicsShape:
+      - - {x: 24.5, y: -33.99999}
+        - {x: 20.5, y: -7.999992}
+        - {x: 26.5, y: -1.999992}
+        - {x: 26.5, y: 7.000008}
+        - {x: 16.5, y: 11.00001}
+        - {x: 19.5, y: 19.00001}
+        - {x: 7.5, y: 36.00001}
+        - {x: -2.5, y: 36.00001}
+        - {x: -5.5, y: 16.00001}
+        - {x: -26.5, y: 2.000008}
+        - {x: -26.5, y: -5.999992}
+        - {x: -10.5, y: -4.999992}
+        - {x: -0.5, y: -6.999992}
+        - {x: -18.5, y: -19.99999}
+        - {x: -19.5, y: -30.99999}
+        - {x: -16.5, y: -35.99999}
+        - {x: -6.5, y: -35.99999}
+        - {x: 3.5, y: -23.99999}
+        - {x: 10.5, y: -35.99999}
+        - {x: 22.5, y: -35.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 283
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3128549, y: 0.0002133369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -37.49999}
+        - {x: -9.499999, y: -37.49999}
+        - {x: -9.499999, y: -30.49999}
+        - {x: -8.499999, y: -25.49999}
+        - {x: -10.5, y: -27.49999}
+        - {x: -22.5, y: -32.49999}
+        - {x: -25.5, y: -21.49999}
+        - {x: -25.5, y: 29.50001}
+        - {x: -2.499999, y: 37.50001}
+        - {x: 22.5, y: 37.50001}
+        - {x: 25.5, y: 34.50001}
+        - {x: 25.5, y: -21.49999}
+      physicsShape:
+      - - {x: 25.5, y: 18.50001}
+        - {x: 24.5, y: 19.50001}
+        - {x: 12.5, y: 20.50001}
+        - {x: 12.5, y: 37.50001}
+        - {x: 7.500001, y: 37.50001}
+        - {x: 0.500001, y: 21.50001}
+        - {x: -25.5, y: 20.50001}
+        - {x: -25.5, y: 5.500008}
+        - {x: -14.5, y: -26.49999}
+        - {x: -12.5, y: -27.49999}
+        - {x: -10.5, y: -27.49999}
+        - {x: -8.499999, y: -25.49999}
+        - {x: -9.499999, y: -30.49999}
+        - {x: -9.499999, y: -36.49999}
+        - {x: -8.499999, y: -37.49999}
+        - {x: 10.5, y: -37.49999}
+        - {x: 13.5, y: -7.499992}
+        - {x: 25.5, y: 5.500008}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 122
+        height: 62
+      alignment: 9
+      pivot: {x: -0.0003639596, y: 0.0002580689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -30.99999}
+        - {x: 12, y: -30.99999}
+        - {x: 12, y: -28.99999}
+        - {x: 45, y: -5.99999}
+        - {x: 54, y: -5.99999}
+        - {x: 61, y: -18.99999}
+      - - {x: 2, y: -30.99999}
+        - {x: -61, y: -30.99999}
+        - {x: -61, y: -20.99999}
+        - {x: -40, y: -7.99999}
+        - {x: -48, y: -4.99999}
+        - {x: -47, y: -0.9999905}
+        - {x: -9, y: 31.00001}
+        - {x: 0, y: 31.00001}
+        - {x: 2, y: 28.00001}
+      physicsShape:
+      - - {x: 2, y: -24.99999}
+        - {x: -1, y: -22.99999}
+        - {x: -6, y: -18.99999}
+        - {x: -3, y: -7.99999}
+        - {x: -9, y: 5.00001}
+        - {x: -5, y: 18.00001}
+        - {x: -3, y: 31.00001}
+        - {x: -9, y: 31.00001}
+        - {x: -47, y: -0.9999905}
+        - {x: -48, y: -4.99999}
+        - {x: -40, y: -7.99999}
+        - {x: -61, y: -20.99999}
+        - {x: -61, y: -29.99999}
+        - {x: -60, y: -30.99999}
+        - {x: -41, y: -30.99999}
+        - {x: -27, y: -18.99999}
+        - {x: -25, y: -30.99999}
+        - {x: 2, y: -30.99999}
+      - - {x: 54, y: -5.99999}
+        - {x: 47, y: -5.99999}
+        - {x: 36, y: -14.99999}
+        - {x: 15, y: -26.99999}
+        - {x: 12, y: -28.99999}
+        - {x: 13, y: -30.99999}
+        - {x: 61, y: -30.99999}
+        - {x: 61, y: -18.99999}
+        - {x: 56, y: -9.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 127
+        height: 62
+      alignment: 9
+      pivot: {x: -0.008223646, y: 0.0002580689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: -31.00001}
+        - {x: 11.5, y: -31.00001}
+        - {x: 11.5, y: -20.00001}
+        - {x: 42.5, y: 0.9999943}
+        - {x: 57.5, y: 0.9999943}
+        - {x: 62.5, y: -11.00001}
+        - {x: 63.5, y: -18.00001}
+      - - {x: -60.5, y: -31.00001}
+        - {x: -63.5, y: -29.00001}
+        - {x: -63.5, y: -20.00001}
+        - {x: -45.5, y: -6.000006}
+        - {x: -47.5, y: -4.000006}
+        - {x: -48.5, y: -1.000006}
+        - {x: -12.5, y: 30.99999}
+        - {x: -4.5, y: 30.99999}
+        - {x: -3.5, y: -22.00001}
+        - {x: 2.5, y: -23.00001}
+        - {x: 4.5, y: -24.00001}
+        - {x: 4.5, y: -28.00001}
+        - {x: 3.5, y: -31.00001}
+      physicsShape:
+      - - {x: 4.5, y: -28.00001}
+        - {x: 4.5, y: -24.00001}
+        - {x: 2.5, y: -23.00001}
+        - {x: -3.5, y: -22.00001}
+        - {x: -7.5, y: -10.00001}
+        - {x: -9.5, y: 7.999994}
+        - {x: -4.5, y: 30.99999}
+        - {x: -11.5, y: 30.99999}
+        - {x: -18.5, y: 19.99999}
+        - {x: -48.5, y: -1.000006}
+        - {x: -47.5, y: -4.000006}
+        - {x: -45.5, y: -6.000006}
+        - {x: -63.5, y: -20.00001}
+        - {x: -63.5, y: -29.00001}
+        - {x: -60.5, y: -31.00001}
+        - {x: -43.5, y: -31.00001}
+        - {x: -29.5, y: -19.00001}
+        - {x: -28.5, y: -31.00001}
+        - {x: 3.5, y: -31.00001}
+      - - {x: 56.5, y: -5.000006}
+        - {x: 51.5, y: 0.9999943}
+        - {x: 47.5, y: 0.9999943}
+        - {x: 45.5, y: -10.00001}
+        - {x: 37.5, y: -15.00001}
+        - {x: 36.5, y: -18.00001}
+        - {x: 26.5, y: -27.00001}
+        - {x: 18.5, y: -26.00001}
+        - {x: 11.5, y: -28.00001}
+        - {x: 11.5, y: -31.00001}
+        - {x: 63.5, y: -31.00001}
+        - {x: 63.5, y: -23.00001}
+        - {x: 59.5, y: -14.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 137
+        height: 63
+      alignment: 9
+      pivot: {x: -0.01492265, y: 0.0002539725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: -31.50001}
+        - {x: 43.5, y: -31.50001}
+        - {x: 44.5, y: -30.50001}
+        - {x: 40.5, y: -31.50001}
+        - {x: 11.5, y: -31.50001}
+        - {x: 10.5, y: -29.50001}
+        - {x: 33.5, y: 5.499994}
+        - {x: 35.5, y: 7.499994}
+        - {x: 51.5, y: 7.499994}
+        - {x: 56.5, y: 6.499994}
+        - {x: 68.5, y: -19.50001}
+      - - {x: -67.5, y: -31.50001}
+        - {x: -68.5, y: -30.50001}
+        - {x: -68.5, y: -20.50001}
+        - {x: -50.5, y: -6.500006}
+        - {x: -52.5, y: -4.500006}
+        - {x: -53.5, y: -1.500006}
+        - {x: -40.5, y: 31.49999}
+        - {x: -9.5, y: 31.49999}
+        - {x: -1.5, y: 18.49999}
+        - {x: 5.5, y: -16.50001}
+        - {x: 5.5, y: -31.50001}
+      physicsShape:
+      - - {x: 4.5, y: -31.50001}
+        - {x: 5.5, y: -27.50001}
+        - {x: 5.5, y: -21.50001}
+        - {x: 2.5, y: -19.50001}
+        - {x: -2.5, y: -14.50001}
+        - {x: -13.5, y: -24.50001}
+        - {x: -13.5, y: -0.5000057}
+        - {x: -10.5, y: 31.49999}
+        - {x: -16.5, y: 31.49999}
+        - {x: -24.5, y: 17.49999}
+        - {x: -37.5, y: 9.499994}
+        - {x: -53.5, y: -1.500006}
+        - {x: -52.5, y: -4.500006}
+        - {x: -50.5, y: -6.500006}
+        - {x: -45.5, y: -8.500006}
+        - {x: -68.5, y: -20.50001}
+        - {x: -68.5, y: -25.50001}
+        - {x: -63.5, y: -25.50001}
+        - {x: -58.5, y: -31.50001}
+        - {x: -48.5, y: -31.50001}
+        - {x: -38.5, y: -22.50001}
+        - {x: -30.5, y: -29.50001}
+        - {x: -27.5, y: -31.50001}
+      - - {x: 46.5, y: -28.50001}
+        - {x: 46.5, y: -30.50001}
+        - {x: 48.5, y: -31.50001}
+        - {x: 68.5, y: -31.50001}
+        - {x: 68.5, y: -24.50001}
+        - {x: 67.5, y: -18.50001}
+        - {x: 55.5, y: -8.500006}
+        - {x: 51.5, y: 1.499994}
+        - {x: 43.5, y: 7.499994}
+        - {x: 35.5, y: 7.499994}
+        - {x: 33.5, y: 5.499994}
+        - {x: 41.5, y: -9.500006}
+        - {x: 28.5, y: -12.50001}
+        - {x: 26.5, y: -15.50001}
+        - {x: 29.5, y: -23.50001}
+        - {x: 13.5, y: -27.50001}
+        - {x: 10.5, y: -29.50001}
+        - {x: 11.5, y: -31.50001}
+        - {x: 40.5, y: -31.50001}
+        - {x: 44.5, y: -30.50001}
+        - {x: 50.5, y: -24.50001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 74
+        width: 146
+        height: 63
+      alignment: 9
+      pivot: {x: -0.007153446, y: 0.0002539725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 12, y: -29.5}
+        - {x: 22, y: -24.5}
+        - {x: 19, y: -21.5}
+        - {x: 23, y: 4.500002}
+        - {x: 21, y: 7.500002}
+        - {x: 22, y: 9.500002}
+        - {x: 42, y: 9.500002}
+        - {x: 73, y: -12.5}
+        - {x: 73, y: -31.5}
+        - {x: 39, y: -31.5}
+        - {x: 37, y: -29.5}
+        - {x: 37, y: -27.5}
+        - {x: 46, y: -19.5}
+        - {x: 47, y: -14.5}
+        - {x: 43, y: -21.5}
+        - {x: 37, y: -27.5}
+        - {x: 36, y: -28.5}
+        - {x: 31, y: -30.5}
+      - - {x: -70, y: -31.5}
+        - {x: -73, y: -29.5}
+        - {x: -73, y: -10.5}
+        - {x: -52, y: 12.5}
+        - {x: -21, y: 31.5}
+        - {x: -14, y: 31.5}
+        - {x: -12, y: -14.5}
+        - {x: -11, y: -11.5}
+        - {x: -9, y: -11.5}
+        - {x: 0, y: -17.5}
+        - {x: 3, y: -16.5}
+        - {x: 8, y: -21.5}
+        - {x: 8, y: -31.5}
+      physicsShape:
+      - - {x: 8, y: -21.5}
+        - {x: 3, y: -16.5}
+        - {x: 0, y: -17.5}
+        - {x: -9, y: -11.5}
+        - {x: -11, y: -11.5}
+        - {x: -12, y: -14.5}
+        - {x: -19, y: -15.5}
+        - {x: -16, y: 7.500002}
+        - {x: -14, y: 31.5}
+        - {x: -20, y: 31.5}
+        - {x: -34, y: 11.5}
+        - {x: -49, y: 8.500002}
+        - {x: -58, y: -5.499998}
+        - {x: -73, y: -18.5}
+        - {x: -73, y: -28.5}
+        - {x: -70, y: -31.5}
+        - {x: -52, y: -31.5}
+        - {x: -42, y: -22.5}
+        - {x: -36, y: -31.5}
+        - {x: 8, y: -31.5}
+      - - {x: 47, y: -14.5}
+        - {x: 46, y: -19.5}
+        - {x: 37, y: -27.5}
+        - {x: 37, y: -29.5}
+        - {x: 40, y: -30.5}
+        - {x: 46, y: -27.5}
+        - {x: 48, y: -29.5}
+        - {x: 52, y: -31.5}
+        - {x: 73, y: -31.5}
+        - {x: 73, y: -24.5}
+        - {x: 71, y: -17.5}
+        - {x: 60, y: -7.499998}
+        - {x: 47, y: 5.500002}
+        - {x: 35, y: 8.500002}
+        - {x: 29, y: 9.500002}
+        - {x: 22, y: 9.500002}
+        - {x: 21, y: 7.500002}
+        - {x: 23, y: 4.500002}
+        - {x: 38, y: -7.499998}
+        - {x: 30, y: -12.5}
+        - {x: 24, y: -13.5}
+        - {x: 19, y: -21.5}
+        - {x: 22, y: -24.5}
+        - {x: 12, y: -29.5}
+        - {x: 12, y: -31.5}
+        - {x: 28, y: -31.5}
+        - {x: 31, y: -30.5}
+        - {x: 36, y: -28.5}
+        - {x: 43, y: -21.5}
+      - - {x: -3, y: -24.5}
+        - {x: -4, y: -23.5}
+        - {x: -6, y: -26.5}
+        - {x: -6, y: -27.5}
+        - {x: -5, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 74
+        width: 150
+        height: 64
+      alignment: 9
+      pivot: {x: -0.0002960205, y: 0.0002500042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -11}
+        - {x: -4, y: -13}
+        - {x: 2, y: -13}
+        - {x: 10, y: -18}
+        - {x: 10, y: -26}
+        - {x: 6, y: -30}
+        - {x: -5, y: -30}
+        - {x: -5, y: -25}
+        - {x: -9, y: -31}
+        - {x: -16, y: -31}
+        - {x: -16, y: -32}
+        - {x: -28, y: -32}
+        - {x: -29, y: -30}
+        - {x: -30, y: -24}
+        - {x: -30, y: -26}
+        - {x: -32, y: -32}
+        - {x: -65, y: -32}
+        - {x: -63, y: -17}
+        - {x: -75, y: -18}
+        - {x: -75, y: -13}
+        - {x: -23, y: 32}
+        - {x: -16, y: 32}
+        - {x: -16, y: -11}
+      - - {x: 75, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: -29}
+        - {x: 25, y: -20}
+        - {x: 22, y: -21}
+        - {x: 19, y: -20}
+        - {x: 18, y: 5.000002}
+        - {x: 18, y: 8.000002}
+        - {x: 22, y: 10}
+        - {x: 40, y: 10}
+        - {x: 52, y: 6.000002}
+        - {x: 75, y: -16}
+      physicsShape:
+      - - {x: -28, y: -32}
+        - {x: -17, y: -32}
+        - {x: -16, y: -30}
+        - {x: -16, y: 32}
+        - {x: -22, y: 32}
+        - {x: -37, y: 13}
+        - {x: -58, y: 1.000002}
+        - {x: -75, y: -13}
+        - {x: -75, y: -18}
+        - {x: -63, y: -17}
+        - {x: -65, y: -32}
+        - {x: -32, y: -32}
+        - {x: -30, y: -26}
+        - {x: -30, y: -24}
+        - {x: -29, y: -30}
+      - - {x: 56, y: -32}
+        - {x: 75, y: -32}
+        - {x: 75, y: -17}
+        - {x: 64, y: -8.999998}
+        - {x: 51, y: 5.000002}
+        - {x: 42, y: 8.000002}
+        - {x: 34, y: 10}
+        - {x: 24, y: 10}
+        - {x: 18, y: 8.000002}
+        - {x: 18, y: 5.000002}
+        - {x: 26, y: 3.000002}
+        - {x: 36, y: -3.999998}
+        - {x: 40, y: -14}
+        - {x: 30, y: -11}
+        - {x: 24, y: -11}
+        - {x: 19, y: -20}
+        - {x: 22, y: -21}
+        - {x: 25, y: -20}
+        - {x: 16, y: -29}
+        - {x: 16, y: -32}
+        - {x: 31, y: -32}
+        - {x: 48, y: -25}
+        - {x: 59, y: -16}
+        - {x: 53, y: -25}
+      - - {x: -17, y: -11}
+        - {x: -17, y: -31}
+        - {x: -9, y: -31}
+        - {x: -3, y: -22}
+        - {x: -3, y: -18}
+        - {x: -5, y: -11}
+      - - {x: -5, y: -13}
+        - {x: -5, y: -30}
+        - {x: 6, y: -30}
+        - {x: 10, y: -26}
+        - {x: 10, y: -18}
+        - {x: 2, y: -13}
+      - - {x: 47, y: -17}
+        - {x: 47, y: -15}
+        - {x: 48, y: -14}
+        - {x: 48, y: -9.999998}
+        - {x: 46, y: -3.999998}
+        - {x: 41, y: 1.000002}
+        - {x: 41, y: 0.000001907349}
+        - {x: 44, y: 0.000001907349}
+        - {x: 50, y: -6.999998}
+        - {x: 48, y: -15}
+        - {x: 45, y: -19}
+        - {x: 44, y: -19}
+        - {x: 42, y: -22}
+        - {x: 44, y: -22}
+      - - {x: -46, y: -3.999998}
+        - {x: -45, y: -3.999998}
+        - {x: -44, y: -2.999998}
+        - {x: -45, y: -2.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 158
+        height: 65
+      alignment: 9
+      pivot: {x: -0.0002810321, y: 0.000246158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -31.5}
+        - {x: 76, y: -29.5}
+        - {x: 77, y: -26.5}
+        - {x: 79, y: -26.5}
+        - {x: 79, y: -31.5}
+      - - {x: 29, y: -27.5}
+        - {x: 27, y: -21.5}
+        - {x: 15, y: -21.5}
+        - {x: 15, y: -13.5}
+        - {x: 18, y: -10.5}
+        - {x: 22, y: -10.5}
+        - {x: 17, y: 3.5}
+        - {x: 14, y: 4.5}
+        - {x: 14, y: 9.5}
+        - {x: 58, y: 9.5}
+        - {x: 74, y: 5.5}
+        - {x: 76, y: -1.5}
+        - {x: 76, y: -29.5}
+        - {x: 76, y: -31.5}
+        - {x: 68, y: -31.5}
+        - {x: 65, y: -28.5}
+        - {x: 65, y: -23.5}
+        - {x: 62, y: -24.5}
+        - {x: 47, y: -24.5}
+        - {x: 45, y: -20.5}
+        - {x: 48, y: -5.5}
+        - {x: 44, y: -23.5}
+        - {x: 32, y: -28.5}
+      - - {x: 16, y: -31.5}
+        - {x: 15, y: -28.5}
+        - {x: 17, y: -25.5}
+        - {x: 28, y: -25.5}
+        - {x: 28, y: -30.5}
+        - {x: 24, y: -31.5}
+      - - {x: -21, y: -32.5}
+        - {x: -70, y: -32.5}
+        - {x: -62, y: -12.5}
+        - {x: -55, y: -8.5}
+        - {x: -57, y: -8.5}
+        - {x: -77, y: -6.5}
+        - {x: -79, y: -5.5}
+        - {x: -79, y: 7.5}
+        - {x: -36, y: 32.5}
+        - {x: -21, y: 32.5}
+      physicsShape:
+      - - {x: -21, y: -31.5}
+        - {x: -25, y: -8.5}
+        - {x: -24, y: 15.5}
+        - {x: -25, y: 32.5}
+        - {x: -31, y: 32.5}
+        - {x: -52, y: 6.5}
+        - {x: -75, y: 0.5}
+        - {x: -79, y: -0.5}
+        - {x: -79, y: -5.5}
+        - {x: -77, y: -6.5}
+        - {x: -57, y: -8.5}
+        - {x: -53, y: -8.5}
+        - {x: -55, y: -8.5}
+        - {x: -62, y: -12.5}
+        - {x: -70, y: -32.5}
+        - {x: -50, y: -32.5}
+        - {x: -38, y: -30.5}
+        - {x: -33, y: -32.5}
+        - {x: -21, y: -32.5}
+      - - {x: 17, y: -25.5}
+        - {x: 15, y: -28.5}
+        - {x: 16, y: -31.5}
+        - {x: 24, y: -31.5}
+        - {x: 28, y: -30.5}
+        - {x: 28, y: -25.5}
+      - - {x: 51, y: 9.5}
+        - {x: 14, y: 9.5}
+        - {x: 14, y: 4.5}
+        - {x: 17, y: 3.5}
+        - {x: 37, y: -18.5}
+        - {x: 29, y: -24.5}
+        - {x: 29, y: -27.5}
+        - {x: 32, y: -28.5}
+        - {x: 44, y: -23.5}
+        - {x: 48, y: -5.5}
+        - {x: 45, y: -20.5}
+        - {x: 47, y: -24.5}
+        - {x: 60, y: -22.5}
+        - {x: 62, y: -24.5}
+        - {x: 65, y: -23.5}
+        - {x: 65, y: -28.5}
+        - {x: 68, y: -31.5}
+        - {x: 73, y: -31.5}
+        - {x: 76, y: -28.5}
+        - {x: 76, y: -15.5}
+        - {x: 65, y: -3.5}
+      - - {x: 76, y: -29.5}
+        - {x: 78, y: -31.5}
+        - {x: 79, y: -31.5}
+        - {x: 79, y: -26.5}
+        - {x: 77, y: -26.5}
+      - - {x: 18, y: -10.5}
+        - {x: 15, y: -13.5}
+        - {x: 15, y: -21.5}
+        - {x: 35, y: -21.5}
+        - {x: 35, y: -16.5}
+        - {x: 30, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 162
+        height: 70
+      alignment: 9
+      pivot: {x: -0.01879261, y: 0.0002285753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -26}
+        - {x: 8, y: -24}
+        - {x: 8, y: -18}
+        - {x: 13, y: -12}
+        - {x: 23, y: -12}
+        - {x: 14, y: -5}
+        - {x: 14, y: 9}
+        - {x: 63, y: 9}
+        - {x: 81, y: -11}
+        - {x: 81, y: -19}
+        - {x: 80, y: -24}
+        - {x: 74, y: -27}
+        - {x: 71, y: -27}
+        - {x: 58, y: -20}
+        - {x: 55, y: -18}
+        - {x: 51, y: -12}
+        - {x: 42, y: -27}
+        - {x: 41, y: -27}
+        - {x: 40, y: -26}
+        - {x: 36, y: -31}
+        - {x: 33, y: -32}
+        - {x: 29, y: -32}
+        - {x: 28, y: -30}
+        - {x: 28, y: -28}
+        - {x: 35, y: -23}
+        - {x: 36, y: -23}
+        - {x: 25, y: -14}
+        - {x: 30, y: -19}
+        - {x: 30, y: -22}
+        - {x: 29, y: -24}
+        - {x: 13, y: -25}
+      - - {x: 80, y: -34}
+        - {x: 78, y: -32}
+        - {x: 79, y: -29}
+        - {x: 81, y: -29}
+        - {x: 81, y: -34}
+      - - {x: 73, y: -34}
+        - {x: 71, y: -31}
+        - {x: 73, y: -29}
+        - {x: 76, y: -30}
+        - {x: 76, y: -33}
+      - - {x: -73, y: -35}
+        - {x: -81, y: -9}
+        - {x: -81, y: 27}
+        - {x: -48, y: 35}
+        - {x: -39, y: 35}
+        - {x: -31, y: -6}
+        - {x: -31, y: -35}
+      physicsShape:
+      - - {x: -31, y: -35}
+        - {x: -31, y: -31}
+        - {x: -36, y: -9}
+        - {x: -34, y: 1}
+        - {x: -39, y: 35}
+        - {x: -45, y: 35}
+        - {x: -63, y: 10}
+        - {x: -81, y: 16}
+        - {x: -81, y: 8}
+        - {x: -66, y: 1}
+        - {x: -70, y: -7}
+        - {x: -72, y: -35}
+        - {x: -63, y: -35}
+        - {x: -58, y: -30}
+        - {x: -53, y: -21}
+        - {x: -43, y: -35}
+      - - {x: 73, y: -34}
+        - {x: 76, y: -33}
+        - {x: 76, y: -30}
+        - {x: 73, y: -29}
+        - {x: 71, y: -31}
+      - - {x: 78, y: -32}
+        - {x: 80, y: -34}
+        - {x: 81, y: -34}
+        - {x: 81, y: -29}
+        - {x: 79, y: -29}
+      - - {x: 35, y: -23}
+        - {x: 28, y: -28}
+        - {x: 28, y: -30}
+        - {x: 29, y: -32}
+        - {x: 33, y: -32}
+        - {x: 36, y: -31}
+        - {x: 40, y: -26}
+        - {x: 40, y: -24}
+        - {x: 38, y: -23}
+      - - {x: 63, y: 2}
+        - {x: 55, y: 8}
+        - {x: 52, y: 9}
+        - {x: 47, y: 9}
+        - {x: 25, y: 7}
+        - {x: 14, y: 2}
+        - {x: 14, y: -1}
+        - {x: 17, y: -3}
+        - {x: 37, y: -2}
+        - {x: 38, y: -23}
+        - {x: 41, y: -27}
+        - {x: 42, y: -27}
+        - {x: 51, y: -12}
+        - {x: 51, y: 3}
+        - {x: 55, y: -18}
+        - {x: 58, y: -20}
+        - {x: 72, y: -21}
+        - {x: 70, y: -25}
+        - {x: 72, y: -27}
+        - {x: 74, y: -27}
+        - {x: 80, y: -24}
+        - {x: 81, y: -19}
+        - {x: 81, y: -11}
+        - {x: 78, y: -9}
+      - - {x: 23, y: -12}
+        - {x: 13, y: -12}
+        - {x: 8, y: -18}
+        - {x: 8, y: -24}
+        - {x: 10, y: -26}
+        - {x: 13, y: -25}
+        - {x: 29, y: -24}
+        - {x: 30, y: -22}
+        - {x: 30, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 158
+        height: 72
+      alignment: 9
+      pivot: {x: -0.08888863, y: 0.000222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: -23}
+        - {x: 75, y: -20}
+        - {x: 77, y: -18}
+        - {x: 79, y: -19}
+        - {x: 79, y: -22}
+      - - {x: -2, y: -27}
+        - {x: -3, y: -26}
+        - {x: -3, y: -17}
+        - {x: 5, y: -11}
+        - {x: 5, y: -3}
+        - {x: 13, y: 12}
+        - {x: 26, y: 14}
+        - {x: 60, y: 14}
+        - {x: 60, y: -4}
+        - {x: 76, y: -4}
+        - {x: 79, y: -5}
+        - {x: 79, y: -11}
+        - {x: 78, y: -13}
+        - {x: 79, y: -13}
+        - {x: 79, y: -18}
+        - {x: 78, y: -18}
+        - {x: 76, y: -16}
+        - {x: 77, y: -14}
+        - {x: 76, y: -15}
+        - {x: 60, y: -15}
+        - {x: 60, y: -24}
+        - {x: 30, y: -24}
+        - {x: 30, y: -27}
+        - {x: 27, y: -28}
+        - {x: 25, y: -25}
+        - {x: 26, y: -24}
+        - {x: 11, y: -24}
+        - {x: 4, y: -27}
+      - - {x: -48, y: -36}
+        - {x: -79, y: -36}
+        - {x: -79, y: 31}
+        - {x: -65, y: 36}
+        - {x: -48, y: 36}
+      physicsShape:
+      - - {x: -48, y: -29}
+        - {x: -50, y: -19}
+        - {x: -48, y: -12}
+        - {x: -48, y: 12}
+        - {x: -52, y: 36}
+        - {x: -57, y: 36}
+        - {x: -60, y: 27}
+        - {x: -78, y: 29}
+        - {x: -79, y: 29}
+        - {x: -79, y: 15}
+        - {x: -75, y: -6}
+        - {x: -79, y: -16}
+        - {x: -79, y: -36}
+        - {x: -69, y: -36}
+        - {x: -63, y: -35}
+        - {x: -60, y: -36}
+        - {x: -48, y: -36}
+      - - {x: 27, y: -28}
+        - {x: 30, y: -27}
+        - {x: 30, y: -24}
+        - {x: 27, y: -23}
+        - {x: 25, y: -25}
+      - - {x: 5, y: -11}
+        - {x: -3, y: -17}
+        - {x: -3, y: -26}
+        - {x: -2, y: -27}
+        - {x: 4, y: -27}
+        - {x: 18, y: -21}
+        - {x: 19, y: -19}
+        - {x: 19, y: -16}
+        - {x: 13, y: -11}
+      - - {x: 60, y: -8}
+        - {x: 60, y: 10}
+        - {x: 52, y: 14}
+        - {x: 42, y: 14}
+        - {x: 29, y: 11}
+        - {x: 13, y: 11}
+        - {x: 5, y: -3}
+        - {x: 5, y: -9}
+        - {x: 7, y: -11}
+        - {x: 13, y: -4}
+        - {x: 20, y: 4}
+        - {x: 36, y: -4}
+        - {x: 29, y: -22}
+        - {x: 31, y: -24}
+        - {x: 33, y: -24}
+        - {x: 40, y: -21}
+        - {x: 44, y: -4}
+        - {x: 50, y: 2}
+        - {x: 56, y: -11}
+      - - {x: 75, y: -20}
+        - {x: 77, y: -23}
+        - {x: 79, y: -22}
+        - {x: 79, y: -19}
+        - {x: 77, y: -18}
+      - - {x: 76, y: -16}
+        - {x: 78, y: -18}
+        - {x: 79, y: -18}
+        - {x: 79, y: -13}
+        - {x: 77, y: -13}
+      - - {x: 76, y: -4}
+        - {x: 57, y: -4}
+        - {x: 55, y: -6}
+        - {x: 55, y: -15}
+        - {x: 76, y: -15}
+        - {x: 79, y: -11}
+        - {x: 79, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 163
+        height: 74
+      alignment: 9
+      pivot: {x: -0.06162211, y: 0.0002162199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: 4}
+        - {x: 56.5, y: 7}
+        - {x: 44.5, y: 4}
+        - {x: 39.5, y: 4}
+        - {x: 38.5, y: 5}
+        - {x: 38.5, y: 7}
+        - {x: 42.5, y: 14}
+        - {x: 47.5, y: 15}
+        - {x: 54.5, y: 15}
+        - {x: 58.5, y: 12}
+        - {x: 58.5, y: 10}
+        - {x: 58.5, y: 9}
+        - {x: 58.5, y: 9}
+        - {x: 61.5, y: 8}
+        - {x: 61.5, y: 5}
+      - - {x: 18.5, y: 4}
+        - {x: 16.5, y: 7}
+        - {x: 18.5, y: 9}
+        - {x: 21.5, y: 8}
+        - {x: 21.5, y: 5}
+      - - {x: 35.5, y: 1}
+        - {x: 33.5, y: 4}
+        - {x: 34.5, y: 5}
+        - {x: 35.5, y: 6}
+        - {x: 38.5, y: 5}
+        - {x: 38.5, y: 2}
+      - - {x: 14.5, y: 0}
+        - {x: 12.5, y: 3}
+        - {x: 14.5, y: 5}
+        - {x: 17.5, y: 4}
+        - {x: 17.5, y: 1}
+      - - {x: 60.5, y: -2}
+        - {x: 58.5, y: 1}
+        - {x: 60.5, y: 3}
+        - {x: 63.5, y: 2}
+        - {x: 63.5, y: -1}
+      - - {x: 38.5, y: -3}
+        - {x: 36.5, y: 0}
+        - {x: 38.5, y: 2}
+        - {x: 41.5, y: 1}
+        - {x: 41.5, y: -2}
+      - - {x: 11.5, y: -4}
+        - {x: 9.5, y: -1}
+        - {x: 11.5, y: 1}
+        - {x: 14.5, y: 0}
+        - {x: 14.5, y: -3}
+      - - {x: 79.5, y: -1}
+        - {x: 79.5, y: -3}
+        - {x: 81.5, y: -3}
+        - {x: 81.5, y: -8}
+        - {x: 80.5, y: -8}
+        - {x: 78.5, y: -6}
+        - {x: 79.5, y: -4}
+        - {x: 74.5, y: -8}
+        - {x: 72.5, y: -8}
+        - {x: 71.5, y: -7}
+        - {x: 71.5, y: -5}
+        - {x: 75.5, y: 0}
+        - {x: 77.5, y: 0}
+      - - {x: 40.5, y: -8}
+        - {x: 38.5, y: -5}
+        - {x: 40.5, y: -3}
+        - {x: 43.5, y: -4}
+        - {x: 43.5, y: -7}
+      - - {x: 61.5, y: -9}
+        - {x: 60.5, y: -7}
+        - {x: 60.5, y: -5}
+        - {x: 67.5, y: 1}
+        - {x: 71.5, y: 1}
+        - {x: 72.5, y: -1}
+        - {x: 72.5, y: -3}
+        - {x: 63.5, y: -9}
+      - - {x: 14.5, y: -9}
+        - {x: 12.5, y: -6}
+        - {x: 14.5, y: -4}
+        - {x: 17.5, y: -5}
+        - {x: 17.5, y: -8}
+      - - {x: 40.5, y: -15}
+        - {x: 38.5, y: -12}
+        - {x: 40.5, y: -10}
+        - {x: 43.5, y: -11}
+        - {x: 43.5, y: -14}
+      - - {x: 15.5, y: -16}
+        - {x: 13.5, y: -13}
+        - {x: 15.5, y: -11}
+        - {x: 18.5, y: -12}
+        - {x: 18.5, y: -15}
+      - - {x: 22.5, y: 6}
+        - {x: 21.5, y: 9}
+        - {x: 23.5, y: 11}
+        - {x: 30.5, y: 11}
+        - {x: 34.5, y: 8}
+        - {x: 34.5, y: 5}
+        - {x: 32.5, y: 4}
+        - {x: 29.5, y: 4}
+      - - {x: 79.5, y: -19}
+        - {x: 77.5, y: -16}
+        - {x: 79.5, y: -14}
+        - {x: 81.5, y: -15}
+        - {x: 81.5, y: -18}
+      - - {x: 38.5, y: -22}
+        - {x: 36.5, y: -19}
+        - {x: 38.5, y: -17}
+        - {x: 41.5, y: -18}
+        - {x: 41.5, y: -21}
+      - - {x: 9.5, y: -26}
+        - {x: -0.5, y: -26}
+        - {x: -0.5, y: -15}
+        - {x: 3.5, y: -9}
+        - {x: 13.5, y: -9}
+        - {x: 13.5, y: -13}
+        - {x: 13.5, y: -21}
+      - - {x: -56.5, y: -37}
+        - {x: -81.5, y: -37}
+        - {x: -81.5, y: 13}
+        - {x: -67.5, y: 37}
+        - {x: -55.5, y: 37}
+        - {x: -51.5, y: 15}
+        - {x: -51.5, y: -16}
+      physicsShape:
+      - - {x: -57.5, y: -14}
+        - {x: -51.5, y: -2}
+        - {x: -51.5, y: 4}
+        - {x: -54.5, y: 13}
+        - {x: -55.5, y: 37}
+        - {x: -66.5, y: 37}
+        - {x: -72.5, y: 13}
+        - {x: -78.5, y: 6}
+        - {x: -80.5, y: -7}
+        - {x: -81.5, y: -15}
+        - {x: -81.5, y: -34}
+        - {x: -80.5, y: -37}
+        - {x: -57.5, y: -37}
+      - - {x: -0.5, y: -26}
+        - {x: 9.5, y: -26}
+        - {x: 13.5, y: -21}
+        - {x: 13.5, y: -9}
+        - {x: 3.5, y: -9}
+        - {x: -0.5, y: -15}
+      - - {x: 38.5, y: -22}
+        - {x: 41.5, y: -21}
+        - {x: 41.5, y: -18}
+        - {x: 38.5, y: -17}
+        - {x: 36.5, y: -19}
+      - - {x: 77.5, y: -16}
+        - {x: 79.5, y: -19}
+        - {x: 81.5, y: -18}
+        - {x: 81.5, y: -15}
+        - {x: 79.5, y: -14}
+      - - {x: 15.5, y: -16}
+        - {x: 18.5, y: -15}
+        - {x: 18.5, y: -12}
+        - {x: 15.5, y: -11}
+        - {x: 13.5, y: -13}
+      - - {x: 40.5, y: -15}
+        - {x: 43.5, y: -14}
+        - {x: 43.5, y: -11}
+        - {x: 40.5, y: -10}
+        - {x: 38.5, y: -12}
+      - - {x: 14.5, y: -9}
+        - {x: 17.5, y: -8}
+        - {x: 17.5, y: -5}
+        - {x: 14.5, y: -4}
+        - {x: 12.5, y: -6}
+      - - {x: 60.5, y: -7}
+        - {x: 61.5, y: -9}
+        - {x: 63.5, y: -9}
+        - {x: 72.5, y: -3}
+        - {x: 72.5, y: -1}
+        - {x: 71.5, y: 1}
+        - {x: 67.5, y: 1}
+        - {x: 60.5, y: -5}
+      - - {x: 40.5, y: -8}
+        - {x: 43.5, y: -7}
+        - {x: 43.5, y: -4}
+        - {x: 40.5, y: -3}
+        - {x: 38.5, y: -5}
+      - - {x: 71.5, y: -7}
+        - {x: 72.5, y: -8}
+        - {x: 74.5, y: -8}
+        - {x: 79.5, y: -4}
+        - {x: 79.5, y: -1}
+        - {x: 77.5, y: 0}
+        - {x: 75.5, y: 0}
+        - {x: 71.5, y: -5}
+      - - {x: 78.5, y: -6}
+        - {x: 80.5, y: -8}
+        - {x: 81.5, y: -8}
+        - {x: 81.5, y: -3}
+        - {x: 79.5, y: -3}
+      - - {x: 11.5, y: -4}
+        - {x: 14.5, y: -3}
+        - {x: 14.5, y: 0}
+        - {x: 11.5, y: 1}
+        - {x: 9.5, y: -1}
+      - - {x: 38.5, y: -3}
+        - {x: 41.5, y: -2}
+        - {x: 41.5, y: 1}
+        - {x: 38.5, y: 2}
+        - {x: 36.5, y: 0}
+      - - {x: 60.5, y: -2}
+        - {x: 63.5, y: -1}
+        - {x: 63.5, y: 2}
+        - {x: 60.5, y: 3}
+        - {x: 58.5, y: 1}
+      - - {x: 14.5, y: 0}
+        - {x: 17.5, y: 1}
+        - {x: 17.5, y: 4}
+        - {x: 14.5, y: 5}
+        - {x: 12.5, y: 3}
+      - - {x: 35.5, y: 1}
+        - {x: 38.5, y: 2}
+        - {x: 38.5, y: 5}
+        - {x: 35.5, y: 6}
+        - {x: 33.5, y: 4}
+      - - {x: 18.5, y: 4}
+        - {x: 21.5, y: 5}
+        - {x: 21.5, y: 8}
+        - {x: 18.5, y: 9}
+        - {x: 16.5, y: 7}
+      - - {x: 23.5, y: 11}
+        - {x: 21.5, y: 9}
+        - {x: 22.5, y: 6}
+        - {x: 29.5, y: 4}
+        - {x: 32.5, y: 4}
+        - {x: 34.5, y: 5}
+        - {x: 34.5, y: 8}
+        - {x: 30.5, y: 11}
+      - - {x: 47.5, y: 15}
+        - {x: 42.5, y: 14}
+        - {x: 38.5, y: 7}
+        - {x: 38.5, y: 5}
+        - {x: 39.5, y: 4}
+        - {x: 44.5, y: 4}
+        - {x: 57.5, y: 7}
+        - {x: 58.5, y: 10}
+        - {x: 58.5, y: 12}
+        - {x: 54.5, y: 15}
+      - - {x: 58.5, y: 4}
+        - {x: 61.5, y: 5}
+        - {x: 61.5, y: 8}
+        - {x: 58.5, y: 9}
+        - {x: 56.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_three_hits_attack_combo_no_slashes_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 211
+        width: 58
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3095793, y: 0.000222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -36.00001}
+        - {x: -29, y: -32.00001}
+        - {x: -29, y: -5.000008}
+        - {x: -2, y: 35.99999}
+        - {x: 11, y: 35.99999}
+        - {x: 29, y: 26.99999}
+        - {x: 29, y: 3.999992}
+        - {x: 20, y: -25.00001}
+        - {x: 13, y: -36.00001}
+      physicsShape:
+      - - {x: 29, y: 7.999992}
+        - {x: 29, y: 17.99999}
+        - {x: 11, y: 13.99999}
+        - {x: 8, y: 35.99999}
+        - {x: 2, y: 35.99999}
+        - {x: -10, y: 10.99999}
+        - {x: -20, y: 6.999992}
+        - {x: -21, y: 2.999992}
+        - {x: -13, y: -8.000008}
+        - {x: -29, y: -19.00001}
+        - {x: -29, y: -27.00001}
+        - {x: -15, y: -26.00001}
+        - {x: -14, y: -36.00001}
+        - {x: 12, y: -36.00001}
+        - {x: 14, y: -25.00001}
+        - {x: 12, y: -15.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

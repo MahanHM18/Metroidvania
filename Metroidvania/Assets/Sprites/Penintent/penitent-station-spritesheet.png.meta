@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: 8de6453ebce0ddc41aae32cdcffae64f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent-station-spritesheet_7
+  - first:
+      213: 21300002
+    second: penitent-station-spritesheet_0
+  - first:
+      213: 21300004
+    second: penitent-station-spritesheet_1
+  - first:
+      213: 21300006
+    second: penitent-station-spritesheet_2
+  - first:
+      213: 21300008
+    second: penitent-station-spritesheet_3
+  - first:
+      213: 21300010
+    second: penitent-station-spritesheet_4
+  - first:
+      213: 21300012
+    second: penitent-station-spritesheet_5
+  - first:
+      213: 21300014
+    second: penitent-station-spritesheet_6
+  - first:
+      213: 21300016
+    second: penitent-station-spritesheet_8
+  - first:
+      213: 21300018
+    second: penitent-station-spritesheet_9
+  - first:
+      213: 21300020
+    second: penitent-station-spritesheet_10
+  - first:
+      213: 21300022
+    second: penitent-station-spritesheet_12
+  - first:
+      213: 21300024
+    second: penitent-station-spritesheet_15
+  - first:
+      213: 21300026
+    second: penitent-station-spritesheet_16
+  - first:
+      213: 21300028
+    second: penitent-station-spritesheet_17
+  - first:
+      213: 21300030
+    second: penitent-station-spritesheet_18
+  - first:
+      213: 21300032
+    second: penitent-station-spritesheet_19
+  - first:
+      213: 21300034
+    second: penitent-station-spritesheet_20
+  - first:
+      213: 21300036
+    second: penitent-station-spritesheet_22
+  - first:
+      213: 21300038
+    second: penitent-station-spritesheet_23
+  - first:
+      213: 21300040
+    second: penitent-station-spritesheet_24
+  - first:
+      213: 21300042
+    second: penitent-station-spritesheet_25
+  - first:
+      213: 21300044
+    second: penitent-station-spritesheet_26
+  - first:
+      213: 21300046
+    second: penitent-station-spritesheet_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 754
+        width: 28
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -10}
+        - {x: -14, y: 10}
+        - {x: 14, y: 10}
+        - {x: 14, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 964
+        width: 192
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: -27}
+        - {x: -96, y: -27}
+        - {x: -96, y: 27}
+        - {x: 96, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 957
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -32}
+        - {x: -32, y: -32}
+        - {x: -32, y: 32}
+        - {x: 32, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 973
+        width: 90
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -24}
+        - {x: -45, y: -24}
+        - {x: -45, y: 24}
+        - {x: 45, y: 24}
+        - {x: 45, y: 19}
+        - {x: 28, y: -19}
+        - {x: -31, y: -23}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 962
+        width: 82
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -29}
+        - {x: -41, y: 20}
+        - {x: -41, y: 29}
+        - {x: 41, y: 29}
+        - {x: 41, y: 25}
+        - {x: 13, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 986
+        width: 6
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -17}
+        - {x: -3, y: 17}
+        - {x: 3, y: 17}
+        - {x: 3, y: -17}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 925
+        width: 434
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 31}
+        - {x: 73, y: 36}
+        - {x: 62, y: 36}
+        - {x: 63, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 777
+        width: 30
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -93}
+        - {x: -15, y: 93}
+        - {x: 15, y: 93}
+        - {x: 15, y: -93}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 739
+        width: 64
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -112}
+        - {x: -32, y: -112}
+        - {x: -32, y: 93}
+        - {x: -25, y: 112}
+        - {x: 32, y: 112}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 641
+        width: 60
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -161}
+        - {x: -30, y: -161}
+        - {x: -30, y: 161}
+        - {x: 30, y: 161}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 594
+        width: 70
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -180}
+        - {x: -35, y: -180}
+        - {x: -35, y: 180}
+        - {x: 35, y: 180}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 90
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -123}
+        - {x: -45, y: -123}
+        - {x: -45, y: -97}
+        - {x: -37, y: 68}
+        - {x: -4, y: 123}
+        - {x: 30, y: 123}
+        - {x: 45, y: 94}
+        - {x: 45, y: -61}
+        - {x: 41, y: -118}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3
+        width: 302
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -49}
+        - {x: -151, y: -49}
+        - {x: -151, y: 26}
+        - {x: -143, y: 49}
+        - {x: 151, y: 49}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 718
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 926
+        width: 64
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -14}
+        - {x: -32, y: 14}
+        - {x: 32, y: 14}
+        - {x: 32, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 594
+        width: 110
+        height: 360
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -180}
+        - {x: -55, y: -180}
+        - {x: -55, y: 180}
+        - {x: 55, y: 180}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 111
+        width: 144
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -87}
+        - {x: -72, y: -82}
+        - {x: -72, y: -36}
+        - {x: -41, y: 71}
+        - {x: -8, y: 87}
+        - {x: 12, y: 87}
+        - {x: 51, y: 25}
+        - {x: 72, y: -54}
+        - {x: 72, y: -79}
+        - {x: 64, y: -87}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 640
+        width: 72
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -48}
+        - {x: -36, y: -15}
+        - {x: -36, y: 29}
+        - {x: -33, y: 48}
+        - {x: 36, y: 48}
+        - {x: 36, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 297
+        width: 152
+        height: 270
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -135}
+        - {x: -25, y: -135}
+        - {x: -76, y: 92}
+        - {x: -76, y: 135}
+        - {x: 76, y: 135}
+        - {x: 76, y: 97}
+        - {x: 28, y: 44}
+        - {x: 28, y: 21}
+        - {x: 18, y: -116}
+        - {x: 23, y: -123}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 4
+        width: 188
+        height: 286
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -138}
+        - {x: -94, y: 124}
+        - {x: -94, y: 143}
+        - {x: 94, y: 143}
+        - {x: 94, y: 95}
+        - {x: 17, y: -143}
+        - {x: -38, y: -143}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 573
+        width: 184
+        height: 286
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: -143}
+        - {x: -92, y: -143}
+        - {x: -92, y: 143}
+        - {x: 92, y: 143}
+        - {x: 92, y: 59}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3
+        width: 124
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: -142}
+        - {x: -62, y: -142}
+        - {x: -62, y: 142}
+        - {x: 46, y: 142}
+        - {x: 62, y: -113}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 647
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-station-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 84
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: -117}
+        - {x: -42, y: -113}
+        - {x: -42, y: 75}
+        - {x: -28, y: 117}
+        - {x: 19, y: 117}
+        - {x: 27, y: 103}
+        - {x: 42, y: 79}
+        - {x: 42, y: -117}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

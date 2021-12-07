@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: dda189ad670877a43bb0a4bf78378798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent-jumping-landing-dust-anim_0
+  - first:
+      213: 21300002
+    second: penitent-jumping-landing-dust-anim_1
+  - first:
+      213: 21300004
+    second: penitent-jumping-landing-dust-anim_2
+  - first:
+      213: 21300006
+    second: penitent-jumping-landing-dust-anim_3
+  - first:
+      213: 21300008
+    second: penitent-jumping-landing-dust-anim_4
+  - first:
+      213: 21300010
+    second: penitent-jumping-landing-dust-anim_5
+  - first:
+      213: 21300012
+    second: penitent-jumping-landing-dust-anim_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent-jumping-landing-dust-anim_0
+      rect:
+        serializedVersion: 2
+        x: 26.01291
+        y: 88.07612
+        width: 13.97417
+        height: 10.87256
+      alignment: 9
+      pivot: {x: 0.4742382, y: 0.1401585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -5.512399}
+        - {x: -7, y: -3.512399}
+        - {x: -2, y: 5.487601}
+        - {x: 3, y: 3.487601}
+        - {x: 7, y: -2.512399}
+        - {x: 6, y: -5.512399}
+      physicsShape:
+      - - {x: -7, y: -3.512399}
+        - {x: -6, y: -5.512399}
+        - {x: 6, y: -5.512399}
+        - {x: 7, y: -2.512399}
+        - {x: 3, y: 3.487601}
+        - {x: -2, y: 5.487601}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-jumping-landing-dust-anim_1
+      rect:
+        serializedVersion: 2
+        x: 91.04291
+        y: 91.01291
+        width: 10.94418
+        height: 13.97417
+      alignment: 9
+      pivot: {x: 0.5114218, y: -0.1011086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.485003, y: -6.999994}
+        - {x: -5.514997, y: -6.999994}
+        - {x: -5.514997, y: 2.000006}
+        - {x: -3.514997, y: 6.000006}
+        - {x: -0.514997, y: 7.000006}
+        - {x: 1.485003, y: 5.000006}
+        - {x: 4.485003, y: 0.000005722046}
+        - {x: 5.485003, y: -3.999994}
+        - {x: 5.485003, y: -5.999994}
+      physicsShape:
+      - - {x: 1.485003, y: 5.000006}
+        - {x: -0.514997, y: 7.000006}
+        - {x: -3.514997, y: 6.000006}
+        - {x: -5.514997, y: 2.000006}
+        - {x: -5.514997, y: -6.999994}
+        - {x: 3.485003, y: -6.999994}
+        - {x: 5.485003, y: -5.999994}
+        - {x: 5.485003, y: -3.999994}
+        - {x: 4.485003, y: 0.000005722046}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-jumping-landing-dust-anim_2
+      rect:
+        serializedVersion: 2
+        x: 155.0129
+        y: 90.05132
+        width: 11.8956
+        height: 20.93577
+      alignment: 9
+      pivot: {x: 0.4730397, y: -0.02155712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.039291, y: -10.5192}
+        - {x: -5.960709, y: -10.5192}
+        - {x: -5.960709, y: 10.4808}
+        - {x: 0.03929138, y: 10.4808}
+        - {x: 5.039291, y: 5.480802}
+        - {x: 6.039291, y: -2.519198}
+        - {x: 6.039291, y: -9.519198}
+      physicsShape:
+      - - {x: -5.960709, y: -10.5192}
+        - {x: 5.039291, y: -10.5192}
+        - {x: 6.039291, y: -9.519198}
+        - {x: 6.039291, y: -2.519198}
+        - {x: 5.039291, y: 5.480802}
+        - {x: 0.03929138, y: 10.4808}
+        - {x: -5.960709, y: 10.4808}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-jumping-landing-dust-anim_3
+      rect:
+        serializedVersion: 2
+        x: 221.0129
+        y: 95.01291
+        width: 8.910965
+        height: 18.97417
+      alignment: 9
+      pivot: {x: 0.4070368, y: -0.2852777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.531609, y: -9.499994}
+        - {x: -4.468391, y: -9.499994}
+        - {x: -4.468391, y: 7.500006}
+        - {x: -2.468391, y: 9.500006}
+        - {x: 3.531609, y: 9.500006}
+        - {x: 4.531609, y: 4.500006}
+      physicsShape:
+      - - {x: -2.468391, y: 9.500006}
+        - {x: -4.468391, y: 7.500006}
+        - {x: -4.468391, y: -9.499994}
+        - {x: 4.531609, y: -9.499994}
+        - {x: 4.531609, y: 4.500006}
+        - {x: 3.531609, y: 9.500006}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-jumping-landing-dust-anim_4
+      rect:
+        serializedVersion: 2
+        x: 4.07612
+        y: 23.01291
+        width: 49.84776
+        height: 15.96033
+      alignment: 9
+      pivot: {x: 0.4870004, y: 0.4107112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -6.99308}
+        - {x: -25, y: -3.99308}
+        - {x: -25, y: 7.00692}
+        - {x: -22, y: 8.00692}
+        - {x: -11, y: 8.00692}
+        - {x: -3.999998, y: -1.99308}
+        - {x: -2.999998, y: -1.99308}
+        - {x: -4.999998, y: 0.006919861}
+        - {x: -5.999998, y: 2.00692}
+        - {x: -0.9999981, y: 8.00692}
+        - {x: 19, y: 8.00692}
+        - {x: 25, y: 2.00692}
+        - {x: 25, y: -5.99308}
+        - {x: 22, y: -7.99308}
+        - {x: -18, y: -7.99308}
+      physicsShape:
+      - - {x: 17, y: 8.00692}
+        - {x: -0.9999981, y: 8.00692}
+        - {x: -5.999998, y: 2.00692}
+        - {x: -4.999998, y: 0.006919861}
+        - {x: -2.999998, y: -1.99308}
+        - {x: 0.000001907349, y: -0.9930801}
+        - {x: -2.999998, y: -1.99308}
+        - {x: -3.999998, y: -1.99308}
+        - {x: -11, y: 8.00692}
+        - {x: -22, y: 8.00692}
+        - {x: -25, y: 7.00692}
+        - {x: -25, y: -0.9930801}
+        - {x: -22, y: -5.99308}
+        - {x: -13, y: -7.99308}
+        - {x: 19, y: -7.99308}
+        - {x: 25, y: -3.99308}
+        - {x: 25, y: 1.00692}
+        - {x: 23, y: 4.00692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-jumping-landing-dust-anim_5
+      rect:
+        serializedVersion: 2
+        x: 67.02675
+        y: 23.05132
+        width: 53.9465
+        height: 18.89737
+      alignment: 9
+      pivot: {x: 0.4694513, y: 0.3448461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.999994, y: -1.500001}
+        - {x: -2.999994, y: -2.500001}
+        - {x: -1.999994, y: -2.500001}
+      physicsShape:
+      - - {x: 18.00001, y: 9.499999}
+        - {x: 15.00001, y: 6.499999}
+        - {x: 6.000006, y: 0.499999}
+        - {x: 6.000006, y: -2.500001}
+        - {x: 6.000006, y: -1.500001}
+        - {x: 1.000006, y: 9.499999}
+        - {x: -15.99999, y: 9.499999}
+        - {x: -18.99999, y: 6.499999}
+        - {x: -18.99999, y: 1.499999}
+        - {x: -18.99999, y: 2.499999}
+        - {x: -21.99999, y: 7.499999}
+        - {x: -26.99999, y: 5.499999}
+        - {x: -26.99999, y: -1.500001}
+        - {x: -17.99999, y: -9.500001}
+        - {x: 12.00001, y: -9.500001}
+        - {x: 27.00001, y: -2.500001}
+        - {x: 27.00001, y: 6.499999}
+        - {x: 22.00001, y: 9.499999}
+      - - {x: -14.99999, y: -1.500001}
+        - {x: -18.99999, y: 0.499999}
+        - {x: -17.99999, y: -3.500001}
+        - {x: -14.99999, y: -3.500001}
+      - - {x: -1.999994, y: -1.500001}
+        - {x: -1.999994, y: -2.500001}
+        - {x: -3.999994, y: -2.500001}
+        - {x: -3.999994, y: -3.500001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent-jumping-landing-dust-anim_6
+      rect:
+        serializedVersion: 2
+        x: 131.0267
+        y: 26.01291
+        width: 56.89713
+        height: 17.91096
+      alignment: 9
+      pivot: {x: 0.445106, y: 0.1984867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.52468, y: -4.968395}
+        - {x: 15.52468, y: -1.968395}
+        - {x: 15.52468, y: -3.968395}
+        - {x: 11.52468, y: -7.968395}
+        - {x: 8.524683, y: -8.968395}
+        - {x: -26.47532, y: -8.968395}
+        - {x: -28.47532, y: -3.968395}
+        - {x: -28.47532, y: 4.031605}
+        - {x: -23.47532, y: 9.031605}
+        - {x: 15.52468, y: 9.031605}
+        - {x: 15.52468, y: 6.031605}
+        - {x: 16.52468, y: 9.031605}
+        - {x: 25.52468, y: 9.031605}
+        - {x: 28.52468, y: 3.031605}
+        - {x: 28.52468, y: -0.9683952}
+        - {x: 22.52468, y: -4.968395}
+      physicsShape:
+      - - {x: -21.47532, y: 9.031605}
+        - {x: -28.47532, y: 3.031605}
+        - {x: -28.47532, y: -1.968395}
+        - {x: -24.47532, y: -7.968395}
+        - {x: -20.47532, y: -8.968395}
+        - {x: -18.47532, y: -3.968395}
+        - {x: -5.475317, y: -8.968395}
+        - {x: 2.524683, y: -8.968395}
+        - {x: 5.524683, y: -1.968395}
+        - {x: 5.524683, y: -5.968395}
+        - {x: 8.524683, y: -8.968395}
+        - {x: 11.52468, y: -6.968395}
+        - {x: 15.52468, y: -3.968395}
+        - {x: 15.52468, y: 8.031605}
+        - {x: 11.52468, y: 9.031605}
+      - - {x: 16.52468, y: 9.031605}
+        - {x: 15.52468, y: 6.031605}
+        - {x: 15.52468, y: -1.968395}
+        - {x: 19.52468, y: -4.968395}
+        - {x: 22.52468, y: -4.968395}
+        - {x: 28.52468, y: -0.9683952}
+        - {x: 28.52468, y: 3.031605}
+        - {x: 25.52468, y: 9.031605}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

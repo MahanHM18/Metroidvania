@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: c3ef4333c77084045b17c43b66da1f63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_rangeAttack_projectile_anim_0
+  - first:
+      213: 21300002
+    second: penitent_rangeAttack_projectile_anim_1
+  - first:
+      213: 21300004
+    second: penitent_rangeAttack_projectile_anim_2
+  - first:
+      213: 21300006
+    second: penitent_rangeAttack_projectile_anim_3
+  - first:
+      213: 21300008
+    second: penitent_rangeAttack_projectile_anim_4
+  - first:
+      213: 21300010
+    second: penitent_rangeAttack_projectile_anim_5
+  - first:
+      213: 21300012
+    second: penitent_rangeAttack_projectile_anim_6
+  - first:
+      213: 21300014
+    second: penitent_rangeAttack_projectile_anim_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_0
+      rect:
+        serializedVersion: 2
+        x: 32.02675
+        y: 48.07612
+        width: 61.9465
+        height: 32.87256
+      alignment: 9
+      pivot: {x: 0.5161429, y: 0.4844124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -13.5124}
+        - {x: -31, y: -4.512403}
+        - {x: -31, y: 7.487597}
+        - {x: -21, y: 14.4876}
+        - {x: -8.000004, y: 14.4876}
+        - {x: -8.000004, y: 15.4876}
+        - {x: -3.000004, y: 16.4876}
+        - {x: 19, y: 16.4876}
+        - {x: 23, y: 14.4876}
+        - {x: 31, y: 8.487597}
+        - {x: 31, y: -8.512403}
+        - {x: 23, y: -13.5124}
+        - {x: 13, y: -15.5124}
+        - {x: 12, y: -15.5124}
+        - {x: 11, y: -13.5124}
+        - {x: -5.000004, y: 8.487597}
+        - {x: 1.999996, y: -8.512403}
+        - {x: 2.999996, y: -10.5124}
+        - {x: 2.999996, y: -12.5124}
+        - {x: -0.000003814697, y: -16.5124}
+        - {x: -12, y: -16.5124}
+      physicsShape:
+      - - {x: -7.000004, y: 11.4876}
+        - {x: -8.000004, y: 14.4876}
+        - {x: -21, y: 14.4876}
+        - {x: -31, y: 7.487597}
+        - {x: -31, y: -4.512403}
+        - {x: -27, y: -13.5124}
+        - {x: -12, y: -16.5124}
+        - {x: -0.000003814697, y: -16.5124}
+        - {x: 2.999996, y: -12.5124}
+        - {x: 2.999996, y: -10.5124}
+        - {x: 1.999996, y: -8.512403}
+      - - {x: 19, y: 16.4876}
+        - {x: -3.000004, y: 16.4876}
+        - {x: -8.000004, y: 15.4876}
+        - {x: -8.000004, y: 11.4876}
+        - {x: -7.000004, y: 10.4876}
+        - {x: 11, y: -13.5124}
+        - {x: 12, y: -15.5124}
+        - {x: 13, y: -15.5124}
+        - {x: 23, y: -13.5124}
+        - {x: 31, y: -8.512403}
+        - {x: 31, y: 8.487597}
+        - {x: 23, y: 14.4876}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_1
+      rect:
+        serializedVersion: 2
+        x: 161.0267
+        y: 48.07612
+        width: 63.9465
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.4843619, y: 0.4847782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.999998, y: -13.5}
+        - {x: -12, y: -16.5}
+        - {x: -15, y: -16.5}
+        - {x: -28, y: -12.5}
+        - {x: -32, y: -2.500002}
+        - {x: -32, y: 7.499998}
+        - {x: -25, y: 15.5}
+        - {x: -17, y: 16.5}
+        - {x: 21, y: 16.5}
+        - {x: 32, y: 9.499998}
+        - {x: 32, y: -6.500002}
+        - {x: 24, y: -16.5}
+        - {x: -9.999998, y: -16.5}
+      physicsShape:
+      - - {x: 27, y: 11.5}
+        - {x: 16, y: 14.5}
+        - {x: 8.000002, y: 16.5}
+        - {x: -13, y: 16.5}
+        - {x: -24, y: 15.5}
+        - {x: -32, y: 7.499998}
+        - {x: -32, y: -2.500002}
+        - {x: -28, y: -12.5}
+        - {x: -15, y: -16.5}
+        - {x: -12, y: -16.5}
+        - {x: -9.999998, y: -13.5}
+        - {x: -12, y: -8.500002}
+        - {x: -5.999998, y: 6.499998}
+        - {x: 10, y: 4.499998}
+        - {x: -7.999998, y: -11.5}
+        - {x: -9.999998, y: -13.5}
+        - {x: -9.999998, y: -16.5}
+        - {x: 14, y: -16.5}
+        - {x: 21, y: -15.5}
+        - {x: 31, y: -7.500002}
+        - {x: 32, y: -2.500002}
+        - {x: 32, y: 4.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_2
+      rect:
+        serializedVersion: 2
+        x: 290.0761
+        y: 47.07612
+        width: 63.82946
+        height: 34.84776
+      alignment: 9
+      pivot: {x: 0.46881, y: 0.4856518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.99084, y: -17.5}
+        - {x: -26.99084, y: -9.500002}
+        - {x: -22.99084, y: -1.500002}
+        - {x: -26.99084, y: -4.500002}
+        - {x: -29.99084, y: -5.500002}
+        - {x: -31.99084, y: -3.500002}
+        - {x: -31.99084, y: 17.5}
+        - {x: 32.00916, y: 17.5}
+        - {x: 32.00916, y: -8.500002}
+        - {x: 21.00916, y: -17.5}
+      physicsShape:
+      - - {x: 31.00916, y: 5.499998}
+        - {x: 10.00916, y: 17.5}
+        - {x: -22.99084, y: 17.5}
+        - {x: -26.99084, y: 16.5}
+        - {x: -31.99084, y: 4.499998}
+        - {x: -31.99084, y: -3.500002}
+        - {x: -29.99084, y: -5.500002}
+        - {x: -26.99084, y: -4.500002}
+        - {x: -22.99084, y: -1.500002}
+        - {x: 9.009157, y: 5.499998}
+        - {x: 16.00916, y: -2.500002}
+        - {x: -23.99084, y: -6.500002}
+        - {x: -26.99084, y: -9.500002}
+        - {x: -17.99084, y: -17.5}
+        - {x: 17.00916, y: -17.5}
+        - {x: 26.00916, y: -12.5}
+        - {x: 32.00916, y: -5.500002}
+        - {x: 32.00916, y: 3.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_3
+      rect:
+        serializedVersion: 2
+        x: 418.0597
+        y: 45.07612
+        width: 59.86415
+        height: 36.84776
+      alignment: 9
+      pivot: {x: 0.500137, y: 0.5135693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.9918, y: -13.5}
+        - {x: -29.9918, y: -2.500002}
+        - {x: -29.9918, y: 5.499998}
+        - {x: -23.9918, y: 5.499998}
+        - {x: -23.9918, y: 10.5}
+        - {x: -12.9918, y: 18.5}
+        - {x: 16.0082, y: 18.5}
+        - {x: 30.0082, y: 10.5}
+        - {x: 30.0082, y: -4.500002}
+        - {x: 27.0082, y: -4.500002}
+        - {x: 27.0082, y: -10.5}
+        - {x: 19.0082, y: -18.5}
+        - {x: -16.9918, y: -18.5}
+      physicsShape:
+      - - {x: -17.9918, y: 5.499998}
+        - {x: -27.9918, y: 5.499998}
+        - {x: -29.9918, y: 4.499998}
+        - {x: -29.9918, y: -2.500002}
+        - {x: -25.9918, y: -10.5}
+        - {x: -12.9918, y: -18.5}
+        - {x: 11.0082, y: -18.5}
+        - {x: 27.0082, y: -8.500002}
+        - {x: 27.0082, y: -2.500002}
+        - {x: 19.0082, y: 0.4999981}
+      - - {x: -6.9918, y: 18.5}
+        - {x: -23.9918, y: 10.5}
+        - {x: -23.9918, y: 5.499998}
+        - {x: 5.0082, y: -4.500002}
+        - {x: 30.0082, y: -4.500002}
+        - {x: 30.0082, y: 10.5}
+        - {x: 16.0082, y: 18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_4
+      rect:
+        serializedVersion: 2
+        x: 546.0267
+        y: 47.07612
+        width: 61.9465
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.4838573, y: 0.5152217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.999983, y: 15.5}
+        - {x: -2.999983, y: 9.499998}
+        - {x: -2.999983, y: 12.5}
+        - {x: 1.000017, y: 16.5}
+        - {x: 19.00002, y: 16.5}
+        - {x: 31.00002, y: 6.499998}
+        - {x: 31.00002, y: -14.5}
+        - {x: 8.000017, y: -14.5}
+        - {x: 8.000017, y: -16.5}
+        - {x: -23.99998, y: -16.5}
+        - {x: -30.99998, y: -7.500002}
+        - {x: -30.99998, y: 12.5}
+        - {x: -26.99998, y: 15.5}
+      physicsShape:
+      - - {x: -9.999983, y: 15.5}
+        - {x: -23.99998, y: 15.5}
+        - {x: -30.99998, y: 9.499998}
+        - {x: -30.99998, y: -6.500002}
+        - {x: -19.99998, y: -16.5}
+        - {x: 8.000017, y: -16.5}
+        - {x: 8.000017, y: -8.500002}
+        - {x: -5.999983, y: 4.499998}
+      - - {x: 1.000017, y: 16.5}
+        - {x: -2.999983, y: 12.5}
+        - {x: -2.999983, y: -10.5}
+        - {x: 6.000017, y: -14.5}
+        - {x: 31.00002, y: -14.5}
+        - {x: 31.00002, y: 6.499998}
+        - {x: 19.00002, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_5
+      rect:
+        serializedVersion: 2
+        x: 671.0267
+        y: 47.07612
+        width: 63.9465
+        height: 32.84776
+      alignment: 9
+      pivot: {x: 0.5156383, y: 0.5152217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.00002, y: 13.5}
+        - {x: 12.00002, y: 16.5}
+        - {x: 14.00002, y: 16.5}
+        - {x: 26.00002, y: 11.5}
+        - {x: 32.00002, y: 7.499998}
+        - {x: 32.00002, y: -9.500002}
+        - {x: 29.00002, y: -16.5}
+        - {x: -17.99998, y: -16.5}
+        - {x: -31.99998, y: -8.500002}
+        - {x: -31.99998, y: 6.499998}
+        - {x: -20.99998, y: 16.5}
+        - {x: 10.00002, y: 16.5}
+      physicsShape:
+      - - {x: 26.00002, y: 11.5}
+        - {x: 14.00002, y: 16.5}
+        - {x: 12.00002, y: 16.5}
+        - {x: 11.00002, y: 13.5}
+        - {x: 14.00002, y: 5.499998}
+        - {x: 6.000015, y: -6.500002}
+        - {x: 8.000015, y: 11.5}
+        - {x: 10.00002, y: 13.5}
+        - {x: 9.000015, y: 16.5}
+        - {x: -20.99998, y: 16.5}
+        - {x: -31.99998, y: 6.499998}
+        - {x: -31.99998, y: -8.500002}
+        - {x: -15.99998, y: -15.5}
+        - {x: -12.99998, y: -16.5}
+        - {x: 13.00002, y: -16.5}
+        - {x: 24.00002, y: -15.5}
+        - {x: 31.00002, y: -9.500002}
+        - {x: 32.00002, y: -3.500002}
+        - {x: 32.00002, y: 4.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_6
+      rect:
+        serializedVersion: 2
+        x: 798.0944
+        y: 47.07612
+        width: 60.82947
+        height: 33.84776
+      alignment: 9
+      pivot: {x: 0.5573874, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.49084, y: -14}
+        - {x: 15.49084, y: -17}
+        - {x: -15.50916, y: -17}
+        - {x: -30.50916, y: -3.000002}
+        - {x: -30.50916, y: 7.999998}
+        - {x: -19.50916, y: 17}
+        - {x: 19.49084, y: 17}
+        - {x: 28.49084, y: 8.999998}
+        - {x: 25.49084, y: 5.999998}
+        - {x: 17.49084, y: -0.000001907349}
+        - {x: 29.49084, y: 7.999998}
+        - {x: 30.49084, y: 3.999998}
+        - {x: 30.49084, y: -2.000002}
+        - {x: 29.49084, y: -6.000002}
+      physicsShape:
+      - - {x: 30.49084, y: 3.999998}
+        - {x: 29.49084, y: 7.999998}
+        - {x: 17.49084, y: -0.000001907349}
+        - {x: -10.50916, y: -5.000002}
+        - {x: -14.50916, y: 1.999998}
+        - {x: 25.49084, y: 5.999998}
+        - {x: 28.49084, y: 8.999998}
+        - {x: 19.49084, y: 17}
+        - {x: -18.50916, y: 17}
+        - {x: -30.50916, y: 6.999998}
+        - {x: -30.50916, y: -3.000002}
+        - {x: -28.50916, y: -5.000002}
+        - {x: -14.50916, y: -16}
+        - {x: -5.509157, y: -17}
+        - {x: 15.49084, y: -17}
+        - {x: 23.49084, y: -14}
+        - {x: 29.49084, y: -6.000002}
+        - {x: 30.49084, y: -2.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_anim_7
+      rect:
+        serializedVersion: 2
+        x: 930.0761
+        y: 46.07612
+        width: 59.86415
+        height: 36.84776
+      alignment: 9
+      pivot: {x: 0.4998633, y: 0.4864306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.00818, y: 4.499998}
+        - {x: -27.00818, y: 4.499998}
+        - {x: -27.00818, y: 13.5}
+        - {x: -11.00818, y: 18.5}
+        - {x: 19.99182, y: 18.5}
+        - {x: 29.99182, y: 6.499998}
+        - {x: 29.99182, y: -5.500002}
+        - {x: 23.99182, y: -5.500002}
+        - {x: 23.99182, y: -13.5}
+        - {x: 18.99182, y: -18.5}
+        - {x: -26.00818, y: -18.5}
+        - {x: -30.00818, y: -5.500002}
+      physicsShape:
+      - - {x: -8.008184, y: -7.500002}
+        - {x: -25.00818, y: 4.499998}
+        - {x: -30.00818, y: 4.499998}
+        - {x: -30.00818, y: -5.500002}
+        - {x: -26.00818, y: -18.5}
+        - {x: 17.99182, y: -18.5}
+        - {x: 23.99182, y: -11.5}
+        - {x: 23.99182, y: -5.500002}
+        - {x: 17.99182, y: -3.500002}
+      - - {x: -12.00818, y: 18.5}
+        - {x: -27.00818, y: 8.499998}
+        - {x: -27.00818, y: 2.499998}
+        - {x: -19.00818, y: -0.5000019}
+        - {x: 20.99182, y: 1.499998}
+        - {x: 25.99182, y: -5.500002}
+        - {x: 27.99182, y: -5.500002}
+        - {x: 29.99182, y: -4.500002}
+        - {x: 29.99182, y: 5.499998}
+        - {x: 14.99182, y: 18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

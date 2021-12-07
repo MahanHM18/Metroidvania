@@ -1,0 +1,4358 @@
+fileFormatVersion: 2
+guid: c14443069ec80cc419fbd6146b55a40e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_waitingModeBloodTears_0
+  - first:
+      213: 21300002
+    second: penitent_waitingModeBloodTears_1
+  - first:
+      213: 21300004
+    second: penitent_waitingModeBloodTears_2
+  - first:
+      213: 21300006
+    second: penitent_waitingModeBloodTears_3
+  - first:
+      213: 21300008
+    second: penitent_waitingModeBloodTears_4
+  - first:
+      213: 21300010
+    second: penitent_waitingModeBloodTears_5
+  - first:
+      213: 21300012
+    second: penitent_waitingModeBloodTears_6
+  - first:
+      213: 21300014
+    second: penitent_waitingModeBloodTears_7
+  - first:
+      213: 21300016
+    second: penitent_waitingModeBloodTears_8
+  - first:
+      213: 21300018
+    second: penitent_waitingModeBloodTears_9
+  - first:
+      213: 21300020
+    second: penitent_waitingModeBloodTears_10
+  - first:
+      213: 21300022
+    second: penitent_waitingModeBloodTears_11
+  - first:
+      213: 21300024
+    second: penitent_waitingModeBloodTears_12
+  - first:
+      213: 21300026
+    second: penitent_waitingModeBloodTears_13
+  - first:
+      213: 21300028
+    second: penitent_waitingModeBloodTears_14
+  - first:
+      213: 21300030
+    second: penitent_waitingModeBloodTears_15
+  - first:
+      213: 21300032
+    second: penitent_waitingModeBloodTears_16
+  - first:
+      213: 21300034
+    second: penitent_waitingModeBloodTears_17
+  - first:
+      213: 21300036
+    second: penitent_waitingModeBloodTears_18
+  - first:
+      213: 21300038
+    second: penitent_waitingModeBloodTears_19
+  - first:
+      213: 21300040
+    second: penitent_waitingModeBloodTears_20
+  - first:
+      213: 21300042
+    second: penitent_waitingModeBloodTears_21
+  - first:
+      213: 21300044
+    second: penitent_waitingModeBloodTears_22
+  - first:
+      213: 21300046
+    second: penitent_waitingModeBloodTears_23
+  - first:
+      213: 21300048
+    second: penitent_waitingModeBloodTears_24
+  - first:
+      213: 21300050
+    second: penitent_waitingModeBloodTears_25
+  - first:
+      213: 21300052
+    second: penitent_waitingModeBloodTears_26
+  - first:
+      213: 21300054
+    second: penitent_waitingModeBloodTears_27
+  - first:
+      213: 21300056
+    second: penitent_waitingModeBloodTears_28
+  - first:
+      213: 21300058
+    second: penitent_waitingModeBloodTears_29
+  - first:
+      213: 21300060
+    second: penitent_waitingModeBloodTears_30
+  - first:
+      213: 21300062
+    second: penitent_waitingModeBloodTears_31
+  - first:
+      213: 21300064
+    second: penitent_waitingModeBloodTears_32
+  - first:
+      213: 21300066
+    second: penitent_waitingModeBloodTears_33
+  - first:
+      213: 21300068
+    second: penitent_waitingModeBloodTears_34
+  - first:
+      213: 21300070
+    second: penitent_waitingModeBloodTears_35
+  - first:
+      213: 21300072
+    second: penitent_waitingModeBloodTears_36
+  - first:
+      213: 21300074
+    second: penitent_waitingModeBloodTears_37
+  - first:
+      213: 21300076
+    second: penitent_waitingModeBloodTears_38
+  - first:
+      213: 21300078
+    second: penitent_waitingModeBloodTears_39
+  - first:
+      213: 21300080
+    second: penitent_waitingModeBloodTears_40
+  - first:
+      213: 21300082
+    second: penitent_waitingModeBloodTears_41
+  - first:
+      213: 21300084
+    second: penitent_waitingModeBloodTears_42
+  - first:
+      213: 21300086
+    second: penitent_waitingModeBloodTears_43
+  - first:
+      213: 21300088
+    second: penitent_waitingModeBloodTears_44
+  - first:
+      213: 21300090
+    second: penitent_waitingModeBloodTears_45
+  - first:
+      213: 21300092
+    second: penitent_waitingModeBloodTears_46
+  - first:
+      213: 21300094
+    second: penitent_waitingModeBloodTears_47
+  - first:
+      213: 21300096
+    second: penitent_waitingModeBloodTears_48
+  - first:
+      213: 21300098
+    second: penitent_waitingModeBloodTears_49
+  - first:
+      213: 21300100
+    second: penitent_waitingModeBloodTears_50
+  - first:
+      213: 21300102
+    second: penitent_waitingModeBloodTears_51
+  - first:
+      213: 21300104
+    second: penitent_waitingModeBloodTears_52
+  - first:
+      213: 21300106
+    second: penitent_waitingModeBloodTears_53
+  - first:
+      213: 21300108
+    second: penitent_waitingModeBloodTears_54
+  - first:
+      213: 21300110
+    second: penitent_waitingModeBloodTears_55
+  - first:
+      213: 21300112
+    second: penitent_waitingModeBloodTears_56
+  - first:
+      213: 21300114
+    second: penitent_waitingModeBloodTears_57
+  - first:
+      213: 21300116
+    second: penitent_waitingModeBloodTears_58
+  - first:
+      213: 21300118
+    second: penitent_waitingModeBloodTears_59
+  - first:
+      213: 21300120
+    second: penitent_waitingModeBloodTears_60
+  - first:
+      213: 21300122
+    second: penitent_waitingModeBloodTears_61
+  - first:
+      213: 21300124
+    second: penitent_waitingModeBloodTears_62
+  - first:
+      213: 21300126
+    second: penitent_waitingModeBloodTears_63
+  - first:
+      213: 21300128
+    second: penitent_waitingModeBloodTears_64
+  - first:
+      213: 21300130
+    second: penitent_waitingModeBloodTears_65
+  - first:
+      213: 21300132
+    second: penitent_waitingModeBloodTears_66
+  - first:
+      213: 21300134
+    second: penitent_waitingModeBloodTears_67
+  - first:
+      213: 21300136
+    second: penitent_waitingModeBloodTears_68
+  - first:
+      213: 21300138
+    second: penitent_waitingModeBloodTears_69
+  - first:
+      213: 21300140
+    second: penitent_waitingModeBloodTears_70
+  - first:
+      213: 21300142
+    second: penitent_waitingModeBloodTears_71
+  - first:
+      213: 21300144
+    second: penitent_waitingModeBloodTears_72
+  - first:
+      213: 21300146
+    second: penitent_waitingModeBloodTears_73
+  - first:
+      213: 21300148
+    second: penitent_waitingModeBloodTears_74
+  - first:
+      213: 21300150
+    second: penitent_waitingModeBloodTears_75
+  - first:
+      213: 21300152
+    second: penitent_waitingModeBloodTears_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1408
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_0
+      rect:
+        serializedVersion: 2
+        x: 15.01291
+        y: 1064.027
+        width: 70.97418
+        height: 75.96034
+      alignment: 9
+      pivot: {x: 0.717262, y: 0.02729407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -38.00688}
+        - {x: -25.5, y: -38.00688}
+        - {x: -35.5, y: -32.00688}
+        - {x: -35.5, y: -12.00688}
+        - {x: 7.499996, y: 37.99312}
+        - {x: 23.5, y: 37.99312}
+        - {x: 31.5, y: 1.993118}
+        - {x: 35.5, y: -32.00688}
+      physicsShape:
+      - - {x: 35.5, y: -38.00688}
+        - {x: 35.5, y: -35.00688}
+        - {x: 33.5, y: -21.00688}
+        - {x: 31.5, y: 1.993118}
+        - {x: 20.5, y: 16.99312}
+        - {x: 20.5, y: 32.99312}
+        - {x: 17.5, y: 37.99312}
+        - {x: 12.5, y: 37.99312}
+        - {x: 9.499996, y: 15.99312}
+        - {x: -3.500004, y: 4.993118}
+        - {x: -5.500004, y: -6.006882}
+        - {x: -32.5, y: -22.00688}
+        - {x: -35.5, y: -26.00688}
+        - {x: -34.5, y: -29.00688}
+        - {x: -29.5, y: -29.00688}
+        - {x: -15.5, y: -27.00688}
+        - {x: -9.500004, y: -29.00688}
+        - {x: -5.500004, y: -38.00688}
+        - {x: 3.499996, y: -38.00688}
+        - {x: 14.5, y: -22.00688}
+        - {x: 22.5, y: -37.00688}
+        - {x: 24.5, y: -38.00688}
+      - - {x: 4.499996, y: -12.00688}
+        - {x: 3.499996, y: -12.00688}
+        - {x: 1.499996, y: -14.00688}
+        - {x: 2.499996, y: -15.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_1
+      rect:
+        serializedVersion: 2
+        x: 144.0129
+        y: 1064.027
+        width: 69.97418
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.7132215, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -38.50688}
+        - {x: -19, y: -38.50688}
+        - {x: -35, y: -32.50688}
+        - {x: -35, y: -10.50688}
+        - {x: 9, y: 38.49312}
+        - {x: 28, y: 38.49312}
+        - {x: 29, y: 36.49312}
+        - {x: 35, y: -4.506882}
+      physicsShape:
+      - - {x: 27, y: -38.50688}
+        - {x: 34, y: -38.50688}
+        - {x: 35, y: -35.50688}
+        - {x: 30, y: 3.493118}
+        - {x: 24, y: 33.49312}
+        - {x: 20, y: 38.49312}
+        - {x: 15, y: 38.49312}
+        - {x: 12, y: 17.49312}
+        - {x: -11, y: -8.506882}
+        - {x: -30, y: -22.50688}
+        - {x: -35, y: -28.50688}
+        - {x: -34, y: -31.50688}
+        - {x: -30, y: -31.50688}
+        - {x: -24, y: -28.50688}
+        - {x: -16, y: -23.50688}
+        - {x: -13, y: -28.50688}
+        - {x: -6, y: -34.50688}
+        - {x: -4, y: -38.50688}
+        - {x: 5, y: -38.50688}
+        - {x: 11, y: -28.50688}
+        - {x: 19, y: -27.50688}
+        - {x: 24, y: -36.50688}
+      - - {x: 0, y: -15.50688}
+        - {x: 6, y: -9.506882}
+        - {x: 8, y: -6.506882}
+        - {x: 6, y: -7.506882}
+        - {x: -1, y: -14.50688}
+        - {x: -1, y: -15.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_2
+      rect:
+        serializedVersion: 2
+        x: 276.0198
+        y: 1064.027
+        width: 65.9673
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6958026, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.99659, y: -38.50688}
+        - {x: -33.00341, y: -38.50688}
+        - {x: -33.00341, y: 6.493118}
+        - {x: 9.99659, y: 38.49312}
+        - {x: 17.99659, y: 38.49312}
+        - {x: 20.99659, y: 37.49312}
+        - {x: 28.99659, y: 3.493118}
+        - {x: 32.99659, y: -29.50688}
+      physicsShape:
+      - - {x: 32.99659, y: -31.50688}
+        - {x: 30.99659, y: -20.50688}
+        - {x: 28.99659, y: -7.506882}
+        - {x: 28.99659, y: 3.493118}
+        - {x: 19.99659, y: 15.49312}
+        - {x: 19.99659, y: 36.49312}
+        - {x: 17.99659, y: 38.49312}
+        - {x: 14.99659, y: 37.49312}
+        - {x: 10.99659, y: 33.49312}
+        - {x: 8.99659, y: 16.49312}
+        - {x: -4.00341, y: 2.493118}
+        - {x: -33.00341, y: -29.50688}
+        - {x: -33.00341, y: -34.50688}
+        - {x: -20.00341, y: -30.50688}
+        - {x: -0.003410339, y: -21.50688}
+        - {x: -6.00341, y: -34.50688}
+        - {x: -4.00341, y: -38.50688}
+        - {x: 3.99659, y: -38.50688}
+        - {x: 13.99659, y: -24.50688}
+        - {x: 22.99659, y: -38.50688}
+        - {x: 32.99659, y: -38.50688}
+      - - {x: 4.99659, y: -7.506882}
+        - {x: 1.99659, y: -10.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_3
+      rect:
+        serializedVersion: 2
+        x: 414.0761
+        y: 1064.027
+        width: 55.91097
+        height: 78.96034
+      alignment: 9
+      pivot: {x: 0.6410886, y: 0.02625707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.96842, y: -39.50688}
+        - {x: -24.03158, y: -39.50688}
+        - {x: -25.03158, y: -38.50688}
+        - {x: -28.03158, y: -39.50688}
+        - {x: -28.03158, y: -30.50688}
+        - {x: 1.968418, y: 39.49312}
+        - {x: 12.96842, y: 39.49312}
+        - {x: 16.96842, y: 34.49312}
+        - {x: 27.96842, y: -11.50688}
+      physicsShape:
+      - - {x: 26.96842, y: -39.50688}
+        - {x: 27.96842, y: -36.50688}
+        - {x: 21.96842, y: -15.50688}
+        - {x: 24.96842, y: -9.506882}
+        - {x: 24.96842, y: 2.493118}
+        - {x: 15.96842, y: 34.49312}
+        - {x: 12.96842, y: 39.49312}
+        - {x: 8.968418, y: 39.49312}
+        - {x: 7.968418, y: 38.49312}
+        - {x: 4.968418, y: 18.49312}
+        - {x: -9.031582, y: 2.493118}
+        - {x: -28.03158, y: -31.50688}
+        - {x: -28.03158, y: -37.50688}
+        - {x: -25.03158, y: -38.50688}
+        - {x: -19.03158, y: -32.50688}
+        - {x: -3.031582, y: -22.50688}
+        - {x: -9.031582, y: -35.50688}
+        - {x: -7.031582, y: -39.50688}
+        - {x: 2.968418, y: -39.50688}
+        - {x: 9.968418, y: -23.50688}
+        - {x: 17.96842, y: -39.50688}
+      - - {x: -0.03158188, y: -8.506882}
+        - {x: -1.031582, y: -9.506882}
+        - {x: -1.031582, y: -10.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_4
+      rect:
+        serializedVersion: 2
+        x: 543.0761
+        y: 1064.027
+        width: 54.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6345524, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.53158, y: -29.00688}
+        - {x: -3.531582, y: 30.99312}
+        - {x: 8.468418, y: 39.99312}
+        - {x: 18.46842, y: 39.99312}
+        - {x: 27.46842, y: -8.006882}
+        - {x: 27.46842, y: -40.00688}
+        - {x: -27.53158, y: -40.00688}
+      physicsShape:
+      - - {x: 26.46842, y: -40.00688}
+        - {x: 27.46842, y: -37.00688}
+        - {x: 24.46842, y: 3.993118}
+        - {x: 16.46842, y: 18.99312}
+        - {x: 13.46842, y: 38.99312}
+        - {x: 10.46842, y: 39.99312}
+        - {x: 7.468418, y: 38.99312}
+        - {x: 4.468418, y: 28.99312}
+        - {x: 2.468418, y: 15.99312}
+        - {x: -7.531582, y: 3.993118}
+        - {x: -27.53158, y: -31.00688}
+        - {x: -27.53158, y: -38.00688}
+        - {x: -24.53158, y: -39.00688}
+        - {x: -18.53158, y: -33.00688}
+        - {x: -2.531582, y: -23.00688}
+        - {x: -8.531582, y: -36.00688}
+        - {x: -6.531582, y: -40.00688}
+        - {x: 2.468418, y: -40.00688}
+        - {x: 10.46842, y: -25.00688}
+        - {x: 17.46842, y: -40.00688}
+      - - {x: 0.4684181, y: -9.006882}
+        - {x: -0.5315819, y: -10.00688}
+        - {x: -0.5315819, y: -11.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_5
+      rect:
+        serializedVersion: 2
+        x: 672.0761
+        y: 1064.027
+        width: 53.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -40.00688}
+        - {x: -27.03158, y: -40.00688}
+        - {x: -27.03158, y: -31.00688}
+        - {x: 3.96842, y: 39.99312}
+        - {x: 22.96842, y: 39.99312}
+        - {x: 26.96842, y: 2.993118}
+      physicsShape:
+      - - {x: 1.96842, y: -40.00688}
+        - {x: 9.96842, y: -25.00688}
+        - {x: 16.96842, y: -40.00688}
+        - {x: 25.96842, y: -40.00688}
+        - {x: 26.96842, y: -37.00688}
+        - {x: 20.96842, y: -17.00688}
+        - {x: 24.96842, y: -14.00688}
+        - {x: 21.96842, y: 3.993118}
+        - {x: 12.96842, y: 34.99312}
+        - {x: 9.96842, y: 39.99312}
+        - {x: 7.96842, y: 39.99312}
+        - {x: 5.96842, y: 38.99312}
+        - {x: 2.96842, y: 28.99312}
+        - {x: 1.96842, y: 15.99312}
+        - {x: -7.03158, y: 3.993118}
+        - {x: -27.03158, y: -32.00688}
+        - {x: -27.03158, y: -40.00688}
+        - {x: -23.03158, y: -40.00688}
+        - {x: -14.03158, y: -33.00688}
+        - {x: -3.03158, y: -23.00688}
+        - {x: -9.03158, y: -36.00688}
+        - {x: -7.03158, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_6
+      rect:
+        serializedVersion: 2
+        x: 800.0761
+        y: 1064.027
+        width: 53.91097
+        height: 78.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02625707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -39.50688}
+        - {x: -27.03158, y: -39.50688}
+        - {x: -27.03158, y: -24.50688}
+        - {x: 3.96842, y: 38.49312}
+        - {x: 6.96842, y: 39.49312}
+        - {x: 8.96842, y: 37.49312}
+        - {x: 21.96842, y: 4.493118}
+        - {x: 26.96842, y: -22.50688}
+      physicsShape:
+      - - {x: 1.96842, y: -39.50688}
+        - {x: 9.96842, y: -24.50688}
+        - {x: 16.96842, y: -39.50688}
+        - {x: 25.96842, y: -39.50688}
+        - {x: 26.96842, y: -36.50688}
+        - {x: 20.96842, y: -16.50688}
+        - {x: 23.96842, y: -12.50688}
+        - {x: 21.96842, y: 4.493118}
+        - {x: 8.96842, y: 37.49312}
+        - {x: 6.96842, y: 39.49312}
+        - {x: 3.96842, y: 38.49312}
+        - {x: -1.03158, y: 12.49312}
+        - {x: -7.03158, y: 4.493118}
+        - {x: -27.03158, y: -31.50688}
+        - {x: -27.03158, y: -39.50688}
+        - {x: -23.03158, y: -39.50688}
+        - {x: -14.03158, y: -32.50688}
+        - {x: -3.03158, y: -22.50688}
+        - {x: -9.03158, y: -35.50688}
+        - {x: -7.03158, y: -39.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_7
+      rect:
+        serializedVersion: 2
+        x: 928.0761
+        y: 1064.027
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -27.03158, y: -29.48768}
+        - {x: 1.96842, y: 37.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 26.96842, y: -21.48768}
+      physicsShape:
+      - - {x: -7.03158, y: -38.48768}
+        - {x: 1.96842, y: -38.48768}
+        - {x: 9.96842, y: -23.48768}
+        - {x: 16.96842, y: -38.48768}
+        - {x: 25.96842, y: -38.48768}
+        - {x: 26.96842, y: -35.48768}
+        - {x: 20.96842, y: -15.48768}
+        - {x: 23.96842, y: -11.48768}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 1.96842, y: 37.51232}
+        - {x: -7.03158, y: 5.512321}
+        - {x: -19.03158, y: -18.48768}
+        - {x: -27.03158, y: -30.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -23.03158, y: -38.48768}
+        - {x: -14.03158, y: -31.48768}
+        - {x: -11.03158, y: -22.48768}
+        - {x: -3.03158, y: -21.48768}
+        - {x: -9.03158, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_8
+      rect:
+        serializedVersion: 2
+        x: 1056.076
+        y: 1064.027
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -38.48768}
+        - {x: -27.0317, y: -38.48768}
+        - {x: -27.0317, y: -29.48768}
+        - {x: 1.968298, y: 37.51232}
+        - {x: 3.968298, y: 38.51232}
+        - {x: 5.968298, y: 38.51232}
+        - {x: 21.9683, y: 5.512321}
+        - {x: 26.9683, y: -21.48768}
+      physicsShape:
+      - - {x: -7.031702, y: -38.48768}
+        - {x: 1.968298, y: -38.48768}
+        - {x: 9.968298, y: -23.48768}
+        - {x: 16.9683, y: -38.48768}
+        - {x: 25.9683, y: -38.48768}
+        - {x: 26.9683, y: -35.48768}
+        - {x: 20.9683, y: -15.48768}
+        - {x: 23.9683, y: -11.48768}
+        - {x: 21.9683, y: 5.512321}
+        - {x: 5.968298, y: 38.51232}
+        - {x: 3.968298, y: 38.51232}
+        - {x: 1.968298, y: 37.51232}
+        - {x: -7.031702, y: 5.512321}
+        - {x: -19.0317, y: -18.48768}
+        - {x: -27.0317, y: -30.48768}
+        - {x: -27.0317, y: -38.48768}
+        - {x: -23.0317, y: -38.48768}
+        - {x: -14.0317, y: -31.48768}
+        - {x: -11.0317, y: -22.48768}
+        - {x: -3.031702, y: -21.48768}
+        - {x: -9.031702, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_9
+      rect:
+        serializedVersion: 2
+        x: 1184.076
+        y: 1064.027
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -38.48768}
+        - {x: -27.0317, y: -38.48768}
+        - {x: -27.0317, y: -29.48768}
+        - {x: 1.968298, y: 37.51232}
+        - {x: 3.968298, y: 38.51232}
+        - {x: 5.968298, y: 38.51232}
+        - {x: 21.9683, y: 5.512321}
+        - {x: 26.9683, y: -21.48768}
+      physicsShape:
+      - - {x: -7.031702, y: -38.48768}
+        - {x: 1.968298, y: -38.48768}
+        - {x: 9.968298, y: -23.48768}
+        - {x: 16.9683, y: -38.48768}
+        - {x: 25.9683, y: -38.48768}
+        - {x: 26.9683, y: -35.48768}
+        - {x: 20.9683, y: -15.48768}
+        - {x: 23.9683, y: -11.48768}
+        - {x: 21.9683, y: 5.512321}
+        - {x: 5.968298, y: 38.51232}
+        - {x: 3.968298, y: 38.51232}
+        - {x: 1.968298, y: 37.51232}
+        - {x: -7.031702, y: 5.512321}
+        - {x: -19.0317, y: -18.48768}
+        - {x: -27.0317, y: -30.48768}
+        - {x: -27.0317, y: -38.48768}
+        - {x: -23.0317, y: -38.48768}
+        - {x: -14.0317, y: -31.48768}
+        - {x: -11.0317, y: -22.48768}
+        - {x: -3.031702, y: -21.48768}
+        - {x: -9.031702, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_10
+      rect:
+        serializedVersion: 2
+        x: 1312.076
+        y: 1064.027
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -38.48768}
+        - {x: -27.0317, y: -38.48768}
+        - {x: -27.0317, y: -29.48768}
+        - {x: 1.968298, y: 37.51232}
+        - {x: 3.968298, y: 38.51232}
+        - {x: 5.968298, y: 38.51232}
+        - {x: 21.9683, y: 5.512321}
+        - {x: 26.9683, y: -21.48768}
+      physicsShape:
+      - - {x: -7.031702, y: -38.48768}
+        - {x: 1.968298, y: -38.48768}
+        - {x: 9.968298, y: -23.48768}
+        - {x: 16.9683, y: -38.48768}
+        - {x: 25.9683, y: -38.48768}
+        - {x: 26.9683, y: -35.48768}
+        - {x: 20.9683, y: -15.48768}
+        - {x: 23.9683, y: -11.48768}
+        - {x: 21.9683, y: 5.512321}
+        - {x: 5.968298, y: 38.51232}
+        - {x: 3.968298, y: 38.51232}
+        - {x: 1.968298, y: 37.51232}
+        - {x: -7.031702, y: 5.512321}
+        - {x: -19.0317, y: -18.48768}
+        - {x: -27.0317, y: -30.48768}
+        - {x: -27.0317, y: -38.48768}
+        - {x: -23.0317, y: -38.48768}
+        - {x: -14.0317, y: -31.48768}
+        - {x: -11.0317, y: -22.48768}
+        - {x: -3.031702, y: -21.48768}
+        - {x: -9.031702, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_11
+      rect:
+        serializedVersion: 2
+        x: 32.07612
+        y: 889.0267
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277735, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96839, y: -38.48768}
+        - {x: -27.03161, y: -38.48768}
+        - {x: -27.03161, y: -29.48768}
+        - {x: 1.968393, y: 37.51232}
+        - {x: 3.968393, y: 38.51232}
+        - {x: 5.968393, y: 38.51232}
+        - {x: 21.96839, y: 5.512321}
+        - {x: 26.96839, y: -21.48768}
+      physicsShape:
+      - - {x: -7.031607, y: -38.48768}
+        - {x: 1.968393, y: -38.48768}
+        - {x: 9.968393, y: -23.48768}
+        - {x: 16.96839, y: -38.48768}
+        - {x: 25.96839, y: -38.48768}
+        - {x: 26.96839, y: -35.48768}
+        - {x: 20.96839, y: -15.48768}
+        - {x: 23.96839, y: -11.48768}
+        - {x: 21.96839, y: 5.512321}
+        - {x: 5.968393, y: 38.51232}
+        - {x: 3.968393, y: 38.51232}
+        - {x: 1.968393, y: 37.51232}
+        - {x: -7.031607, y: 5.512321}
+        - {x: -19.03161, y: -18.48768}
+        - {x: -27.03161, y: -30.48768}
+        - {x: -27.03161, y: -38.48768}
+        - {x: -23.03161, y: -38.48768}
+        - {x: -14.03161, y: -31.48768}
+        - {x: -11.03161, y: -22.48768}
+        - {x: -3.031607, y: -21.48768}
+        - {x: -9.031607, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_12
+      rect:
+        serializedVersion: 2
+        x: 160.0761
+        y: 889.0267
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277734, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96839, y: -38.48768}
+        - {x: -27.03161, y: -38.48768}
+        - {x: -27.03161, y: -29.48768}
+        - {x: 1.96839, y: 37.51232}
+        - {x: 3.96839, y: 38.51232}
+        - {x: 5.96839, y: 38.51232}
+        - {x: 21.96839, y: 5.512321}
+        - {x: 26.96839, y: -21.48768}
+      physicsShape:
+      - - {x: -7.03161, y: -38.48768}
+        - {x: 1.96839, y: -38.48768}
+        - {x: 9.96839, y: -23.48768}
+        - {x: 16.96839, y: -38.48768}
+        - {x: 25.96839, y: -38.48768}
+        - {x: 26.96839, y: -35.48768}
+        - {x: 20.96839, y: -15.48768}
+        - {x: 23.96839, y: -11.48768}
+        - {x: 21.96839, y: 5.512321}
+        - {x: 5.96839, y: 38.51232}
+        - {x: 3.96839, y: 38.51232}
+        - {x: 1.96839, y: 37.51232}
+        - {x: -7.03161, y: 5.512321}
+        - {x: -19.03161, y: -18.48768}
+        - {x: -27.03161, y: -30.48768}
+        - {x: -27.03161, y: -38.48768}
+        - {x: -23.03161, y: -38.48768}
+        - {x: -14.03161, y: -31.48768}
+        - {x: -11.03161, y: -22.48768}
+        - {x: -3.03161, y: -21.48768}
+        - {x: -9.03161, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_13
+      rect:
+        serializedVersion: 2
+        x: 288.0761
+        y: 889.0267
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -27.03158, y: -29.48768}
+        - {x: 1.96842, y: 37.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 26.96842, y: -21.48768}
+      physicsShape:
+      - - {x: -7.03158, y: -38.48768}
+        - {x: 1.96842, y: -38.48768}
+        - {x: 9.96842, y: -23.48768}
+        - {x: 16.96842, y: -38.48768}
+        - {x: 25.96842, y: -38.48768}
+        - {x: 26.96842, y: -35.48768}
+        - {x: 20.96842, y: -15.48768}
+        - {x: 23.96842, y: -11.48768}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 1.96842, y: 37.51232}
+        - {x: -7.03158, y: 5.512321}
+        - {x: -19.03158, y: -18.48768}
+        - {x: -27.03158, y: -30.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -23.03158, y: -38.48768}
+        - {x: -14.03158, y: -31.48768}
+        - {x: -11.03158, y: -22.48768}
+        - {x: -3.03158, y: -21.48768}
+        - {x: -9.03158, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_14
+      rect:
+        serializedVersion: 2
+        x: 416.0761
+        y: 889.0267
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -27.03158, y: -29.48768}
+        - {x: 1.96842, y: 37.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 26.96842, y: -21.48768}
+      physicsShape:
+      - - {x: -7.03158, y: -38.48768}
+        - {x: 1.96842, y: -38.48768}
+        - {x: 9.96842, y: -23.48768}
+        - {x: 16.96842, y: -38.48768}
+        - {x: 25.96842, y: -38.48768}
+        - {x: 26.96842, y: -35.48768}
+        - {x: 20.96842, y: -15.48768}
+        - {x: 23.96842, y: -11.48768}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 1.96842, y: 37.51232}
+        - {x: -7.03158, y: 5.512321}
+        - {x: -19.03158, y: -18.48768}
+        - {x: -27.03158, y: -30.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -23.03158, y: -38.48768}
+        - {x: -14.03158, y: -31.48768}
+        - {x: -11.03158, y: -22.48768}
+        - {x: -3.03158, y: -21.48768}
+        - {x: -9.03158, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_15
+      rect:
+        serializedVersion: 2
+        x: 544.0761
+        y: 889.0267
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -27.03158, y: -29.48768}
+        - {x: 1.96842, y: 37.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 26.96842, y: -21.48768}
+      physicsShape:
+      - - {x: -7.03158, y: -38.48768}
+        - {x: 1.96842, y: -38.48768}
+        - {x: 9.96842, y: -23.48768}
+        - {x: 16.96842, y: -38.48768}
+        - {x: 25.96842, y: -38.48768}
+        - {x: 26.96842, y: -35.48768}
+        - {x: 20.96842, y: -15.48768}
+        - {x: 23.96842, y: -11.48768}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 1.96842, y: 37.51232}
+        - {x: -7.03158, y: 5.512321}
+        - {x: -19.03158, y: -18.48768}
+        - {x: -27.03158, y: -30.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -23.03158, y: -38.48768}
+        - {x: -14.03158, y: -31.48768}
+        - {x: -11.03158, y: -22.48768}
+        - {x: -3.03158, y: -21.48768}
+        - {x: -9.03158, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_16
+      rect:
+        serializedVersion: 2
+        x: 672.0761
+        y: 889.0267
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -27.03158, y: -29.48768}
+        - {x: 1.96842, y: 37.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 26.96842, y: -21.48768}
+      physicsShape:
+      - - {x: -7.03158, y: -38.48768}
+        - {x: 1.96842, y: -38.48768}
+        - {x: 9.96842, y: -23.48768}
+        - {x: 16.96842, y: -38.48768}
+        - {x: 25.96842, y: -38.48768}
+        - {x: 26.96842, y: -35.48768}
+        - {x: 20.96842, y: -15.48768}
+        - {x: 23.96842, y: -11.48768}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 1.96842, y: 37.51232}
+        - {x: -7.03158, y: 5.512321}
+        - {x: -19.03158, y: -18.48768}
+        - {x: -27.03158, y: -30.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -23.03158, y: -38.48768}
+        - {x: -14.03158, y: -31.48768}
+        - {x: -11.03158, y: -22.48768}
+        - {x: -3.03158, y: -21.48768}
+        - {x: -9.03158, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_17
+      rect:
+        serializedVersion: 2
+        x: 800.0761
+        y: 889.0267
+        width: 53.91097
+        height: 76.92194
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02695287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -27.03158, y: -29.48768}
+        - {x: 1.96842, y: 37.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 6.96842, y: 38.51232}
+        - {x: 26.96842, y: 21.51232}
+      physicsShape:
+      - - {x: -7.03158, y: -38.48768}
+        - {x: 1.96842, y: -38.48768}
+        - {x: 9.96842, y: -23.48768}
+        - {x: 16.96842, y: -38.48768}
+        - {x: 25.96842, y: -38.48768}
+        - {x: 26.96842, y: -35.48768}
+        - {x: 23.96842, y: -26.48768}
+        - {x: 25.96842, y: -10.48768}
+        - {x: 21.96842, y: 5.512321}
+        - {x: 5.96842, y: 38.51232}
+        - {x: 3.96842, y: 38.51232}
+        - {x: 1.96842, y: 37.51232}
+        - {x: -7.03158, y: 5.512321}
+        - {x: -19.03158, y: -18.48768}
+        - {x: -27.03158, y: -30.48768}
+        - {x: -27.03158, y: -38.48768}
+        - {x: -23.03158, y: -38.48768}
+        - {x: -14.03158, y: -31.48768}
+        - {x: -11.03158, y: -22.48768}
+        - {x: -3.03158, y: -21.48768}
+        - {x: -9.03158, y: -34.48768}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_18
+      rect:
+        serializedVersion: 2
+        x: 928.0761
+        y: 889.0267
+        width: 53.91097
+        height: 78.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02625707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -39.50688}
+        - {x: -27.03158, y: -39.50688}
+        - {x: -27.03158, y: -17.50688}
+        - {x: 3.96842, y: 39.49312}
+        - {x: 15.96842, y: 39.49312}
+        - {x: 26.96842, y: 28.49312}
+      physicsShape:
+      - - {x: 1.96842, y: -39.50688}
+        - {x: 9.96842, y: -24.50688}
+        - {x: 16.96842, y: -39.50688}
+        - {x: 25.96842, y: -39.50688}
+        - {x: 26.96842, y: -36.50688}
+        - {x: 20.96842, y: -13.50688}
+        - {x: 26.96842, y: -11.50688}
+        - {x: 22.96842, y: 5.493118}
+        - {x: 17.96842, y: 15.49312}
+        - {x: 7.96842, y: 39.49312}
+        - {x: 5.96842, y: 39.49312}
+        - {x: 3.96842, y: 38.49312}
+        - {x: 3.96842, y: 17.49312}
+        - {x: -1.03158, y: 12.49312}
+        - {x: -7.03158, y: 4.493118}
+        - {x: -27.03158, y: -31.50688}
+        - {x: -27.03158, y: -39.50688}
+        - {x: -23.03158, y: -39.50688}
+        - {x: -14.03158, y: -32.50688}
+        - {x: -3.03158, y: -22.50688}
+        - {x: -9.03158, y: -35.50688}
+        - {x: -7.03158, y: -39.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_19
+      rect:
+        serializedVersion: 2
+        x: 1056.076
+        y: 889.0267
+        width: 53.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -40.00688}
+        - {x: -27.0317, y: -40.00688}
+        - {x: -27.0317, y: -31.00688}
+        - {x: 3.968298, y: 39.99312}
+        - {x: 10.9683, y: 39.99312}
+        - {x: 26.9683, y: 1.993118}
+      physicsShape:
+      - - {x: 1.968298, y: -40.00688}
+        - {x: 9.968298, y: -25.00688}
+        - {x: 16.9683, y: -40.00688}
+        - {x: 26.9683, y: -40.00688}
+        - {x: 26.9683, y: -35.00688}
+        - {x: 24.9683, y: -21.00688}
+        - {x: 25.9683, y: -12.00688}
+        - {x: 26.9683, y: -7.006882}
+        - {x: 26.9683, y: -2.006882}
+        - {x: 16.9683, y: 14.99312}
+        - {x: 12.9683, y: 34.99312}
+        - {x: 9.968298, y: 39.99312}
+        - {x: 7.968298, y: 39.99312}
+        - {x: 5.968298, y: 38.99312}
+        - {x: 2.968298, y: 28.99312}
+        - {x: 1.968298, y: 15.99312}
+        - {x: -7.031702, y: 3.993118}
+        - {x: -19.0317, y: -20.00688}
+        - {x: -27.0317, y: -32.00688}
+        - {x: -27.0317, y: -40.00688}
+        - {x: -23.0317, y: -40.00688}
+        - {x: -14.0317, y: -33.00688}
+        - {x: -3.031702, y: -23.00688}
+        - {x: -9.031702, y: -36.00688}
+        - {x: -7.031702, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_20
+      rect:
+        serializedVersion: 2
+        x: 1184.076
+        y: 889.0267
+        width: 53.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -40.00688}
+        - {x: -27.0317, y: -40.00688}
+        - {x: -27.0317, y: -30.00688}
+        - {x: 7.968298, y: 38.99312}
+        - {x: 8.968298, y: 39.99312}
+        - {x: 12.9683, y: 39.99312}
+        - {x: 26.9683, y: 4.993118}
+      physicsShape:
+      - - {x: 1.968298, y: -40.00688}
+        - {x: 9.968298, y: -25.00688}
+        - {x: 16.9683, y: -40.00688}
+        - {x: 25.9683, y: -40.00688}
+        - {x: 26.9683, y: -37.00688}
+        - {x: 20.9683, y: -15.00688}
+        - {x: 25.9683, y: -4.006882}
+        - {x: 26.9683, y: 0.9931183}
+        - {x: 17.9683, y: 14.99312}
+        - {x: 14.9683, y: 34.99312}
+        - {x: 11.9683, y: 39.99312}
+        - {x: 9.968298, y: 39.99312}
+        - {x: 7.968298, y: 38.99312}
+        - {x: 4.968298, y: 28.99312}
+        - {x: -6.031702, y: 6.993118}
+        - {x: -13.0317, y: -8.006882}
+        - {x: -27.0317, y: -32.00688}
+        - {x: -27.0317, y: -40.00688}
+        - {x: -23.0317, y: -40.00688}
+        - {x: -14.0317, y: -33.00688}
+        - {x: -3.031702, y: -23.00688}
+        - {x: -9.031702, y: -36.00688}
+        - {x: -7.031702, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_21
+      rect:
+        serializedVersion: 2
+        x: 1312.076
+        y: 889.0267
+        width: 53.91097
+        height: 78.96034
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02625707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -39.50688}
+        - {x: -27.0317, y: -39.50688}
+        - {x: -27.0317, y: -29.50688}
+        - {x: -0.03170204, y: 39.49312}
+        - {x: 15.9683, y: 39.49312}
+        - {x: 26.9683, y: 15.49312}
+      physicsShape:
+      - - {x: 1.968298, y: -39.50688}
+        - {x: 9.968298, y: -24.50688}
+        - {x: 16.9683, y: -39.50688}
+        - {x: 25.9683, y: -39.50688}
+        - {x: 26.9683, y: -36.50688}
+        - {x: 20.9683, y: -14.50688}
+        - {x: 25.9683, y: -2.506882}
+        - {x: 23.9683, y: 8.493118}
+        - {x: 15.9683, y: 16.49312}
+        - {x: 16.9683, y: 28.49312}
+        - {x: 16.9683, y: 37.49312}
+        - {x: 14.9683, y: 39.49312}
+        - {x: 11.9683, y: 38.49312}
+        - {x: 8.968298, y: 29.49312}
+        - {x: -1.031702, y: 12.49312}
+        - {x: -7.031702, y: 4.493118}
+        - {x: -13.0317, y: -7.506882}
+        - {x: -27.0317, y: -31.50688}
+        - {x: -27.0317, y: -39.50688}
+        - {x: -23.0317, y: -39.50688}
+        - {x: -14.0317, y: -32.50688}
+        - {x: -3.031702, y: -22.50688}
+        - {x: -9.031702, y: -35.50688}
+        - {x: -7.031702, y: -39.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_22
+      rect:
+        serializedVersion: 2
+        x: 32.07612
+        y: 714.0267
+        width: 53.91097
+        height: 77.96034
+      alignment: 9
+      pivot: {x: 0.6277735, y: 0.02659387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96839, y: -39.00688}
+        - {x: -27.03161, y: -39.00688}
+        - {x: -27.03161, y: -24.00688}
+        - {x: 13.96839, y: 38.99312}
+        - {x: 24.96839, y: 38.99312}
+        - {x: 26.96839, y: 4.993118}
+      physicsShape:
+      - - {x: -7.031607, y: -39.00688}
+        - {x: 1.968393, y: -39.00688}
+        - {x: 9.968393, y: -24.00688}
+        - {x: 16.96839, y: -39.00688}
+        - {x: 25.96839, y: -39.00688}
+        - {x: 26.96839, y: -36.00688}
+        - {x: 22.96839, y: -28.00688}
+        - {x: 20.96839, y: -6.006882}
+        - {x: 24.96839, y: 1.993118}
+        - {x: 22.96839, y: 10.99312}
+        - {x: 19.96839, y: 23.99312}
+        - {x: 22.96839, y: 37.99312}
+        - {x: 21.96839, y: 38.99312}
+        - {x: 17.96839, y: 38.99312}
+        - {x: 7.968393, y: 22.99312}
+        - {x: -6.031607, y: 7.993118}
+        - {x: -19.03161, y: -19.00688}
+        - {x: -27.03161, y: -31.00688}
+        - {x: -27.03161, y: -39.00688}
+        - {x: -23.03161, y: -39.00688}
+        - {x: -14.03161, y: -32.00688}
+        - {x: -11.03161, y: -23.00688}
+        - {x: -3.031607, y: -22.00688}
+        - {x: -9.031607, y: -35.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_23
+      rect:
+        serializedVersion: 2
+        x: 160.0761
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277734, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96839, y: -38.50688}
+        - {x: -27.03161, y: -38.50688}
+        - {x: -27.03161, y: -30.50688}
+        - {x: -7.03161, y: 5.493118}
+        - {x: 17.96839, y: 38.49312}
+        - {x: 26.96839, y: 38.49312}
+      physicsShape:
+      - - {x: 1.96839, y: -38.50688}
+        - {x: 9.96839, y: -23.50688}
+        - {x: 16.96839, y: -38.50688}
+        - {x: 25.96839, y: -38.50688}
+        - {x: 26.96839, y: -35.50688}
+        - {x: 20.96839, y: -5.506882}
+        - {x: 25.96839, y: 2.493118}
+        - {x: 23.96839, y: 11.49312}
+        - {x: 19.96839, y: 23.49312}
+        - {x: 22.96839, y: 37.49312}
+        - {x: 20.96839, y: 38.49312}
+        - {x: 17.96839, y: 38.49312}
+        - {x: 7.96839, y: 22.49312}
+        - {x: 0.9683895, y: 15.49312}
+        - {x: -7.03161, y: 5.493118}
+        - {x: -13.03161, y: -6.506882}
+        - {x: -27.03161, y: -30.50688}
+        - {x: -27.03161, y: -38.50688}
+        - {x: -23.03161, y: -38.50688}
+        - {x: -14.03161, y: -31.50688}
+        - {x: -3.03161, y: -21.50688}
+        - {x: -9.03161, y: -34.50688}
+        - {x: -7.03161, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_24
+      rect:
+        serializedVersion: 2
+        x: 288.0761
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -27.03158, y: -15.50688}
+        - {x: 11.96842, y: 38.49312}
+        - {x: 22.96842, y: 38.49312}
+        - {x: 26.96842, y: 22.49312}
+      physicsShape:
+      - - {x: 1.96842, y: -38.50688}
+        - {x: 9.96842, y: -23.50688}
+        - {x: 16.96842, y: -38.50688}
+        - {x: 25.96842, y: -38.50688}
+        - {x: 26.96842, y: -35.50688}
+        - {x: 22.96842, y: -27.50688}
+        - {x: 22.96842, y: -5.506882}
+        - {x: 26.96842, y: 6.493118}
+        - {x: 26.96842, y: 9.493118}
+        - {x: 17.96842, y: 14.49312}
+        - {x: 19.96842, y: 23.49312}
+        - {x: 22.96842, y: 37.49312}
+        - {x: 20.96842, y: 38.49312}
+        - {x: 17.96842, y: 38.49312}
+        - {x: 2.96842, y: 17.49312}
+        - {x: -1.03158, y: 13.49312}
+        - {x: -7.03158, y: 5.493118}
+        - {x: -27.03158, y: -30.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -23.03158, y: -38.50688}
+        - {x: -14.03158, y: -31.50688}
+        - {x: -3.03158, y: -21.50688}
+        - {x: -9.03158, y: -34.50688}
+        - {x: -7.03158, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_25
+      rect:
+        serializedVersion: 2
+        x: 416.0761
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -27.03158, y: -16.50688}
+        - {x: 12.96842, y: 38.49312}
+        - {x: 26.96842, y: 38.49312}
+      physicsShape:
+      - - {x: 1.96842, y: -38.50688}
+        - {x: 9.96842, y: -23.50688}
+        - {x: 16.96842, y: -38.50688}
+        - {x: 25.96842, y: -38.50688}
+        - {x: 26.96842, y: -35.50688}
+        - {x: 22.96842, y: -27.50688}
+        - {x: 20.96842, y: -5.506882}
+        - {x: 23.96842, y: -0.5068817}
+        - {x: 26.96842, y: 7.493118}
+        - {x: 26.96842, y: 10.49312}
+        - {x: 20.96842, y: 14.49312}
+        - {x: 22.96842, y: 37.49312}
+        - {x: 20.96842, y: 38.49312}
+        - {x: 17.96842, y: 38.49312}
+        - {x: 2.96842, y: 17.49312}
+        - {x: -1.03158, y: 13.49312}
+        - {x: -7.03158, y: 5.493118}
+        - {x: -19.03158, y: -18.50688}
+        - {x: -27.03158, y: -30.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -23.03158, y: -38.50688}
+        - {x: -14.03158, y: -31.50688}
+        - {x: -3.03158, y: -21.50688}
+        - {x: -9.03158, y: -34.50688}
+        - {x: -7.03158, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_26
+      rect:
+        serializedVersion: 2
+        x: 544.0761
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -27.03158, y: -23.50688}
+        - {x: 13.96842, y: 38.49312}
+        - {x: 25.96842, y: 38.49312}
+        - {x: 26.96842, y: 32.49312}
+      physicsShape:
+      - - {x: 1.96842, y: -38.50688}
+        - {x: 9.96842, y: -23.50688}
+        - {x: 16.96842, y: -38.50688}
+        - {x: 25.96842, y: -38.50688}
+        - {x: 26.96842, y: -35.50688}
+        - {x: 22.96842, y: -27.50688}
+        - {x: 20.96842, y: -5.506882}
+        - {x: 17.96842, y: -0.5068817}
+        - {x: 26.96842, y: 4.493118}
+        - {x: 26.96842, y: 8.493118}
+        - {x: 25.96842, y: 12.49312}
+        - {x: 22.96842, y: 37.49312}
+        - {x: 21.96842, y: 38.49312}
+        - {x: 17.96842, y: 38.49312}
+        - {x: 2.96842, y: 17.49312}
+        - {x: -1.03158, y: 13.49312}
+        - {x: -7.03158, y: 5.493118}
+        - {x: -19.03158, y: -18.50688}
+        - {x: -27.03158, y: -30.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -23.03158, y: -38.50688}
+        - {x: -14.03158, y: -31.50688}
+        - {x: -3.03158, y: -21.50688}
+        - {x: -9.03158, y: -34.50688}
+        - {x: -7.03158, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_27
+      rect:
+        serializedVersion: 2
+        x: 672.0761
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -27.03158, y: -15.50688}
+        - {x: 12.96842, y: 38.49312}
+        - {x: 22.96842, y: 38.49312}
+        - {x: 26.96842, y: 25.49312}
+      physicsShape:
+      - - {x: 1.96842, y: -38.50688}
+        - {x: 9.96842, y: -23.50688}
+        - {x: 16.96842, y: -38.50688}
+        - {x: 25.96842, y: -38.50688}
+        - {x: 26.96842, y: -35.50688}
+        - {x: 20.96842, y: -5.506882}
+        - {x: 22.96842, y: -0.5068817}
+        - {x: 26.96842, y: 6.493118}
+        - {x: 26.96842, y: 12.49312}
+        - {x: 18.96842, y: 15.49312}
+        - {x: 19.96842, y: 23.49312}
+        - {x: 22.96842, y: 37.49312}
+        - {x: 20.96842, y: 38.49312}
+        - {x: 17.96842, y: 38.49312}
+        - {x: 2.96842, y: 17.49312}
+        - {x: -1.03158, y: 13.49312}
+        - {x: -7.03158, y: 5.493118}
+        - {x: -19.03158, y: -18.50688}
+        - {x: -27.03158, y: -30.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -23.03158, y: -38.50688}
+        - {x: -14.03158, y: -31.50688}
+        - {x: -3.03158, y: -21.50688}
+        - {x: -9.03158, y: -34.50688}
+        - {x: -7.03158, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_28
+      rect:
+        serializedVersion: 2
+        x: 800.0761
+        y: 714.0267
+        width: 54.84776
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6170514, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.50002, y: -38.50688}
+        - {x: -27.49998, y: -38.50688}
+        - {x: -27.49998, y: -16.50688}
+        - {x: 12.50002, y: 38.49312}
+        - {x: 27.50002, y: 38.49312}
+      physicsShape:
+      - - {x: 1.500025, y: -38.50688}
+        - {x: 9.500025, y: -23.50688}
+        - {x: 16.50002, y: -38.50688}
+        - {x: 25.50002, y: -38.50688}
+        - {x: 26.50002, y: -35.50688}
+        - {x: 20.50002, y: -5.506882}
+        - {x: 27.50002, y: 4.493118}
+        - {x: 27.50002, y: 10.49312}
+        - {x: 26.50002, y: 12.49312}
+        - {x: 17.50002, y: 14.49312}
+        - {x: 19.50002, y: 23.49312}
+        - {x: 22.50002, y: 37.49312}
+        - {x: 20.50002, y: 38.49312}
+        - {x: 17.50002, y: 38.49312}
+        - {x: 2.500025, y: 17.49312}
+        - {x: -1.499975, y: 13.49312}
+        - {x: -7.499975, y: 5.493118}
+        - {x: -19.49998, y: -18.50688}
+        - {x: -27.49998, y: -30.50688}
+        - {x: -27.49998, y: -38.50688}
+        - {x: -23.49998, y: -38.50688}
+        - {x: -14.49998, y: -31.50688}
+        - {x: -3.499975, y: -21.50688}
+        - {x: -9.499975, y: -34.50688}
+        - {x: -7.499975, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_29
+      rect:
+        serializedVersion: 2
+        x: 928.0761
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -38.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -27.03158, y: -15.50688}
+        - {x: 12.96842, y: 38.49312}
+        - {x: 22.96842, y: 38.49312}
+        - {x: 26.96842, y: 25.49312}
+      physicsShape:
+      - - {x: 1.96842, y: -38.50688}
+        - {x: 9.96842, y: -23.50688}
+        - {x: 16.96842, y: -38.50688}
+        - {x: 25.96842, y: -38.50688}
+        - {x: 26.96842, y: -35.50688}
+        - {x: 20.96842, y: -5.506882}
+        - {x: 22.96842, y: -0.5068817}
+        - {x: 26.96842, y: 6.493118}
+        - {x: 26.96842, y: 12.49312}
+        - {x: 18.96842, y: 15.49312}
+        - {x: 19.96842, y: 23.49312}
+        - {x: 22.96842, y: 37.49312}
+        - {x: 20.96842, y: 38.49312}
+        - {x: 17.96842, y: 38.49312}
+        - {x: 2.96842, y: 17.49312}
+        - {x: -1.03158, y: 13.49312}
+        - {x: -7.03158, y: 5.493118}
+        - {x: -19.03158, y: -18.50688}
+        - {x: -27.03158, y: -30.50688}
+        - {x: -27.03158, y: -38.50688}
+        - {x: -23.03158, y: -38.50688}
+        - {x: -14.03158, y: -31.50688}
+        - {x: -3.03158, y: -21.50688}
+        - {x: -9.03158, y: -34.50688}
+        - {x: -7.03158, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_30
+      rect:
+        serializedVersion: 2
+        x: 1056.076
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -38.50688}
+        - {x: -27.0317, y: -38.50688}
+        - {x: -27.0317, y: -23.50688}
+        - {x: 13.9683, y: 38.49312}
+        - {x: 25.9683, y: 38.49312}
+        - {x: 26.9683, y: 32.49312}
+      physicsShape:
+      - - {x: 1.968298, y: -38.50688}
+        - {x: 9.968298, y: -23.50688}
+        - {x: 16.9683, y: -38.50688}
+        - {x: 25.9683, y: -38.50688}
+        - {x: 26.9683, y: -35.50688}
+        - {x: 22.9683, y: -27.50688}
+        - {x: 20.9683, y: -5.506882}
+        - {x: 17.9683, y: -0.5068817}
+        - {x: 26.9683, y: 4.493118}
+        - {x: 26.9683, y: 8.493118}
+        - {x: 25.9683, y: 12.49312}
+        - {x: 22.9683, y: 37.49312}
+        - {x: 21.9683, y: 38.49312}
+        - {x: 17.9683, y: 38.49312}
+        - {x: 2.968298, y: 17.49312}
+        - {x: -1.031702, y: 13.49312}
+        - {x: -7.031702, y: 5.493118}
+        - {x: -19.0317, y: -18.50688}
+        - {x: -27.0317, y: -30.50688}
+        - {x: -27.0317, y: -38.50688}
+        - {x: -23.0317, y: -38.50688}
+        - {x: -14.0317, y: -31.50688}
+        - {x: -3.031702, y: -21.50688}
+        - {x: -9.031702, y: -34.50688}
+        - {x: -7.031702, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_31
+      rect:
+        serializedVersion: 2
+        x: 1184.076
+        y: 714.0267
+        width: 53.91097
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02693942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -38.50688}
+        - {x: -27.0317, y: -38.50688}
+        - {x: -27.0317, y: -16.50688}
+        - {x: 12.9683, y: 38.49312}
+        - {x: 26.9683, y: 38.49312}
+      physicsShape:
+      - - {x: 1.968298, y: -38.50688}
+        - {x: 9.968298, y: -23.50688}
+        - {x: 16.9683, y: -38.50688}
+        - {x: 25.9683, y: -38.50688}
+        - {x: 26.9683, y: -35.50688}
+        - {x: 22.9683, y: -27.50688}
+        - {x: 20.9683, y: -5.506882}
+        - {x: 23.9683, y: -0.5068817}
+        - {x: 26.9683, y: 7.493118}
+        - {x: 26.9683, y: 10.49312}
+        - {x: 20.9683, y: 14.49312}
+        - {x: 22.9683, y: 37.49312}
+        - {x: 20.9683, y: 38.49312}
+        - {x: 17.9683, y: 38.49312}
+        - {x: 2.968298, y: 17.49312}
+        - {x: -1.031702, y: 13.49312}
+        - {x: -7.031702, y: 5.493118}
+        - {x: -19.0317, y: -18.50688}
+        - {x: -27.0317, y: -30.50688}
+        - {x: -27.0317, y: -38.50688}
+        - {x: -23.0317, y: -38.50688}
+        - {x: -14.0317, y: -31.50688}
+        - {x: -3.031702, y: -21.50688}
+        - {x: -9.031702, y: -34.50688}
+        - {x: -7.031702, y: -38.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_32
+      rect:
+        serializedVersion: 2
+        x: 1312.076
+        y: 714.0267
+        width: 53.91097
+        height: 77.96034
+      alignment: 9
+      pivot: {x: 0.6277726, y: 0.02659387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.9683, y: -39.00688}
+        - {x: -27.0317, y: -39.00688}
+        - {x: -27.0317, y: -30.00688}
+        - {x: -7.031702, y: 7.993118}
+        - {x: 17.9683, y: 38.99312}
+        - {x: 25.9683, y: 38.99312}
+        - {x: 26.9683, y: 30.99312}
+      physicsShape:
+      - - {x: -7.031702, y: -39.00688}
+        - {x: 1.968298, y: -39.00688}
+        - {x: 9.968298, y: -24.00688}
+        - {x: 16.9683, y: -39.00688}
+        - {x: 25.9683, y: -39.00688}
+        - {x: 26.9683, y: -36.00688}
+        - {x: 22.9683, y: -28.00688}
+        - {x: 20.9683, y: -6.006882}
+        - {x: 23.9683, y: -2.006882}
+        - {x: 26.9683, y: 4.993118}
+        - {x: 26.9683, y: 8.993118}
+        - {x: 17.9683, y: 14.99312}
+        - {x: 23.9683, y: 37.99312}
+        - {x: 21.9683, y: 38.99312}
+        - {x: 17.9683, y: 38.99312}
+        - {x: -7.031702, y: 7.993118}
+        - {x: -6.031702, y: 3.993118}
+        - {x: -13.0317, y: -7.006882}
+        - {x: -27.0317, y: -31.00688}
+        - {x: -27.0317, y: -39.00688}
+        - {x: -23.0317, y: -39.00688}
+        - {x: -14.0317, y: -32.00688}
+        - {x: -11.0317, y: -23.00688}
+        - {x: -3.031702, y: -22.00688}
+        - {x: -9.031702, y: -35.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_33
+      rect:
+        serializedVersion: 2
+        x: 32.07612
+        y: 539.0267
+        width: 53.91097
+        height: 78.96034
+      alignment: 9
+      pivot: {x: 0.6277735, y: 0.02625707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96839, y: -39.50688}
+        - {x: -27.03161, y: -39.50688}
+        - {x: -27.03161, y: -29.50688}
+        - {x: -0.03160667, y: 39.49312}
+        - {x: 15.96839, y: 39.49312}
+        - {x: 26.96839, y: 15.49312}
+      physicsShape:
+      - - {x: 1.968393, y: -39.50688}
+        - {x: 9.968393, y: -24.50688}
+        - {x: 16.96839, y: -39.50688}
+        - {x: 25.96839, y: -39.50688}
+        - {x: 26.96839, y: -36.50688}
+        - {x: 20.96839, y: -14.50688}
+        - {x: 25.96839, y: -2.506882}
+        - {x: 23.96839, y: 8.493118}
+        - {x: 15.96839, y: 16.49312}
+        - {x: 16.96839, y: 28.49312}
+        - {x: 16.96839, y: 37.49312}
+        - {x: 14.96839, y: 39.49312}
+        - {x: 11.96839, y: 38.49312}
+        - {x: 8.968393, y: 29.49312}
+        - {x: -1.031607, y: 12.49312}
+        - {x: -7.031607, y: 4.493118}
+        - {x: -13.03161, y: -7.506882}
+        - {x: -27.03161, y: -31.50688}
+        - {x: -27.03161, y: -39.50688}
+        - {x: -23.03161, y: -39.50688}
+        - {x: -14.03161, y: -32.50688}
+        - {x: -3.031607, y: -22.50688}
+        - {x: -9.031607, y: -35.50688}
+        - {x: -7.031607, y: -39.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_34
+      rect:
+        serializedVersion: 2
+        x: 160.0761
+        y: 539.0267
+        width: 53.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6277734, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96839, y: -40.00688}
+        - {x: -27.03161, y: -40.00688}
+        - {x: -27.03161, y: -30.00688}
+        - {x: 7.96839, y: 38.99312}
+        - {x: 8.96839, y: 39.99312}
+        - {x: 12.96839, y: 39.99312}
+        - {x: 26.96839, y: 4.993118}
+      physicsShape:
+      - - {x: 1.96839, y: -40.00688}
+        - {x: 9.96839, y: -25.00688}
+        - {x: 16.96839, y: -40.00688}
+        - {x: 25.96839, y: -40.00688}
+        - {x: 26.96839, y: -37.00688}
+        - {x: 20.96839, y: -15.00688}
+        - {x: 25.96839, y: -4.006882}
+        - {x: 26.96839, y: 0.9931183}
+        - {x: 17.96839, y: 14.99312}
+        - {x: 14.96839, y: 34.99312}
+        - {x: 11.96839, y: 39.99312}
+        - {x: 9.96839, y: 39.99312}
+        - {x: 7.96839, y: 38.99312}
+        - {x: 4.96839, y: 28.99312}
+        - {x: -6.03161, y: 6.993118}
+        - {x: -13.03161, y: -8.006882}
+        - {x: -27.03161, y: -32.00688}
+        - {x: -27.03161, y: -40.00688}
+        - {x: -23.03161, y: -40.00688}
+        - {x: -14.03161, y: -33.00688}
+        - {x: -3.03161, y: -23.00688}
+        - {x: -9.03161, y: -36.00688}
+        - {x: -7.03161, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_35
+      rect:
+        serializedVersion: 2
+        x: 288.0761
+        y: 539.0267
+        width: 53.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6277737, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.96842, y: -40.00688}
+        - {x: -27.03158, y: -40.00688}
+        - {x: -27.03158, y: -31.00688}
+        - {x: 3.96842, y: 39.99312}
+        - {x: 10.96842, y: 39.99312}
+        - {x: 26.96842, y: 1.993118}
+      physicsShape:
+      - - {x: 1.96842, y: -40.00688}
+        - {x: 9.96842, y: -25.00688}
+        - {x: 16.96842, y: -40.00688}
+        - {x: 26.96842, y: -40.00688}
+        - {x: 26.96842, y: -35.00688}
+        - {x: 24.96842, y: -21.00688}
+        - {x: 25.96842, y: -12.00688}
+        - {x: 26.96842, y: -7.006882}
+        - {x: 26.96842, y: -2.006882}
+        - {x: 16.96842, y: 14.99312}
+        - {x: 12.96842, y: 34.99312}
+        - {x: 9.96842, y: 39.99312}
+        - {x: 7.96842, y: 39.99312}
+        - {x: 5.96842, y: 38.99312}
+        - {x: 2.96842, y: 28.99312}
+        - {x: 1.96842, y: 15.99312}
+        - {x: -7.03158, y: 3.993118}
+        - {x: -19.03158, y: -20.00688}
+        - {x: -27.03158, y: -32.00688}
+        - {x: -27.03158, y: -40.00688}
+        - {x: -23.03158, y: -40.00688}
+        - {x: -14.03158, y: -33.00688}
+        - {x: -3.03158, y: -23.00688}
+        - {x: -9.03158, y: -36.00688}
+        - {x: -7.03158, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_36
+      rect:
+        serializedVersion: 2
+        x: 412.0761
+        y: 539.0267
+        width: 57.91097
+        height: 78.96034
+      alignment: 9
+      pivot: {x: 0.6534839, y: 0.02625707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.03158, y: -33.50688}
+        - {x: -29.03158, y: -31.50688}
+        - {x: -29.03158, y: -25.50688}
+        - {x: 12.96842, y: 39.49312}
+        - {x: 19.96842, y: 39.49312}
+        - {x: 28.96842, y: 8.493118}
+        - {x: 28.96842, y: -39.50688}
+        - {x: -22.03158, y: -39.50688}
+      physicsShape:
+      - - {x: 28.96842, y: -38.50688}
+        - {x: 28.96842, y: -27.50688}
+        - {x: 26.96842, y: -4.506882}
+        - {x: 24.96842, y: 4.493118}
+        - {x: 18.96842, y: 9.493118}
+        - {x: 19.96842, y: 38.49312}
+        - {x: 16.96842, y: 39.49312}
+        - {x: 13.96842, y: 38.49312}
+        - {x: -0.03158188, y: 7.493118}
+        - {x: -11.03158, y: -6.506882}
+        - {x: -29.03158, y: -28.50688}
+        - {x: -29.03158, y: -31.50688}
+        - {x: -27.03158, y: -33.50688}
+        - {x: -23.03158, y: -32.50688}
+        - {x: -5.031582, y: -22.50688}
+        - {x: -5.031582, y: -39.50688}
+        - {x: 3.968418, y: -39.50688}
+        - {x: 11.96842, y: -22.50688}
+        - {x: 17.96842, y: -39.50688}
+        - {x: 27.96842, y: -39.50688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_37
+      rect:
+        serializedVersion: 2
+        x: 536.0198
+        y: 539.0267
+        width: 61.9673
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6761666, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.99659, y: -40.00688}
+        - {x: -31.00341, y: -40.00688}
+        - {x: -31.00341, y: -1.006882}
+        - {x: 14.99659, y: 38.99312}
+        - {x: 18.99659, y: 39.99312}
+        - {x: 24.99659, y: 39.99312}
+        - {x: 30.99659, y: -9.006882}
+      physicsShape:
+      - - {x: 30.99659, y: -40.00688}
+        - {x: 30.99659, y: -31.00688}
+        - {x: 29.99659, y: -21.00688}
+        - {x: 29.99659, y: -8.006882}
+        - {x: 27.99659, y: 4.993118}
+        - {x: 20.99659, y: 16.99312}
+        - {x: 21.99659, y: 38.99312}
+        - {x: 18.99659, y: 39.99312}
+        - {x: 15.99659, y: 38.99312}
+        - {x: 2.996588, y: 7.993118}
+        - {x: -7.003412, y: -6.006882}
+        - {x: -31.00341, y: -27.00688}
+        - {x: -31.00341, y: -34.00688}
+        - {x: 1.996588, y: -21.00688}
+        - {x: -2.003412, y: -38.00688}
+        - {x: -1.003412, y: -40.00688}
+        - {x: 6.996588, y: -40.00688}
+        - {x: 9.996588, y: -39.00688}
+        - {x: 14.99659, y: -23.00688}
+        - {x: 20.99659, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_38
+      rect:
+        serializedVersion: 2
+        x: 671.0761
+        y: 539.0267
+        width: 54.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6345524, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.53158, y: -33.00688}
+        - {x: -27.53158, y: -30.00688}
+        - {x: -27.53158, y: -23.00688}
+        - {x: 12.46842, y: 39.99312}
+        - {x: 23.46842, y: 39.99312}
+        - {x: 27.46842, y: 33.99312}
+        - {x: 27.46842, y: -40.00688}
+        - {x: -15.53158, y: -40.00688}
+      physicsShape:
+      - - {x: 27.46842, y: -2.006882}
+        - {x: 23.46842, y: 3.993118}
+        - {x: 19.46842, y: 38.99312}
+        - {x: 16.46842, y: 39.99312}
+        - {x: 13.46842, y: 38.99312}
+        - {x: -1.531582, y: 2.993118}
+        - {x: -8.531582, y: -4.006882}
+        - {x: -27.53158, y: -26.00688}
+        - {x: -27.53158, y: -29.00688}
+        - {x: -26.53158, y: -33.00688}
+        - {x: 1.468418, y: -19.00688}
+        - {x: -4.531582, y: -39.00688}
+        - {x: -1.531582, y: -40.00688}
+        - {x: 9.468418, y: -40.00688}
+        - {x: 16.46842, y: -38.00688}
+        - {x: 19.46842, y: -40.00688}
+        - {x: 27.46842, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_39
+      rect:
+        serializedVersion: 2
+        x: 804.0761
+        y: 539.0267
+        width: 49.91097
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.5979425, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.03158, y: -40.00688}
+        - {x: -25.03158, y: -34.00688}
+        - {x: -25.03158, y: -18.00688}
+        - {x: 11.96842, y: 38.99312}
+        - {x: 14.96842, y: 39.99312}
+        - {x: 17.96842, y: 38.99312}
+        - {x: 24.96842, y: 10.99312}
+        - {x: 24.96842, y: -40.00688}
+        - {x: 10.96842, y: -40.00688}
+        - {x: 4.96842, y: -38.00688}
+        - {x: 2.96842, y: -40.00688}
+      physicsShape:
+      - - {x: 23.96842, y: -40.00688}
+        - {x: 24.96842, y: -37.00688}
+        - {x: 24.96842, y: -5.006882}
+        - {x: 17.96842, y: 17.99312}
+        - {x: 17.96842, y: 38.99312}
+        - {x: 14.96842, y: 39.99312}
+        - {x: 11.96842, y: 38.99312}
+        - {x: -7.03158, y: -0.006881714}
+        - {x: -25.03158, y: -22.00688}
+        - {x: -25.03158, y: -26.00688}
+        - {x: -22.03158, y: -28.00688}
+        - {x: -1.03158, y: -23.00688}
+        - {x: -5.03158, y: -38.00688}
+        - {x: -3.03158, y: -40.00688}
+        - {x: 2.96842, y: -40.00688}
+        - {x: 4.96842, y: -38.00688}
+        - {x: 14.96842, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_40
+      rect:
+        serializedVersion: 2
+        x: 931.0198
+        y: 539.0267
+        width: 50.9673
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.6062754, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.50341, y: -18.00688}
+        - {x: -20.50341, y: -19.00688}
+        - {x: -24.50341, y: -18.00688}
+        - {x: -25.50341, y: -15.00688}
+        - {x: -25.50341, y: -14.00688}
+        - {x: 12.49659, y: 38.99312}
+        - {x: 15.49659, y: 39.99312}
+        - {x: 18.49659, y: 38.99312}
+        - {x: 25.49659, y: 10.99312}
+        - {x: 25.49659, y: -40.00688}
+        - {x: 11.49659, y: -40.00688}
+        - {x: 5.496586, y: -38.00688}
+        - {x: 3.496586, y: -40.00688}
+        - {x: -2.503414, y: -40.00688}
+        - {x: -17.50341, y: -24.00688}
+        - {x: -18.50341, y: -21.00688}
+      physicsShape:
+      - - {x: 24.49659, y: -40.00688}
+        - {x: 25.49659, y: -37.00688}
+        - {x: 21.49659, y: -21.00688}
+        - {x: 25.49659, y: -10.00688}
+        - {x: 25.49659, y: -5.006882}
+        - {x: 18.49659, y: 17.99312}
+        - {x: 18.49659, y: 38.99312}
+        - {x: 15.49659, y: 39.99312}
+        - {x: 12.49659, y: 38.99312}
+        - {x: -4.503414, y: 2.993118}
+        - {x: -25.50341, y: -14.00688}
+        - {x: -25.50341, y: -15.00688}
+        - {x: -24.50341, y: -18.00688}
+        - {x: -20.50341, y: -19.00688}
+        - {x: -13.50341, y: -14.00688}
+        - {x: -18.50341, y: -17.00688}
+        - {x: -18.50341, y: -21.00688}
+        - {x: -17.50341, y: -24.00688}
+        - {x: -4.503414, y: -38.00688}
+        - {x: -2.503414, y: -40.00688}
+        - {x: 3.496586, y: -40.00688}
+        - {x: 5.496586, y: -38.00688}
+        - {x: 15.49659, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_41
+      rect:
+        serializedVersion: 2
+        x: 1061.013
+        y: 539.0267
+        width: 48.97418
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.590251, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.50007, y: -40.00688}
+        - {x: -24.50007, y: -29.00688}
+        - {x: -24.50007, y: -19.00688}
+        - {x: -19.50007, y: -15.00688}
+        - {x: -23.50007, y: -15.00688}
+        - {x: -24.50007, y: -12.00688}
+        - {x: -24.50007, y: -11.00688}
+        - {x: 11.49993, y: 38.99312}
+        - {x: 14.49993, y: 39.99312}
+        - {x: 16.49993, y: 37.99312}
+        - {x: 24.49993, y: -2.006882}
+        - {x: 24.49993, y: -40.00688}
+        - {x: 10.49993, y: -40.00688}
+        - {x: 4.499926, y: -38.00688}
+        - {x: 2.499926, y: -40.00688}
+      physicsShape:
+      - - {x: 23.49993, y: -40.00688}
+        - {x: 24.49993, y: -37.00688}
+        - {x: 19.49993, y: -14.00688}
+        - {x: 24.49993, y: -9.006882}
+        - {x: 24.49993, y: -2.006882}
+        - {x: 16.49993, y: 37.99312}
+        - {x: 14.49993, y: 39.99312}
+        - {x: 11.49993, y: 38.99312}
+        - {x: -4.500074, y: 2.993118}
+        - {x: -13.50007, y: -1.006882}
+        - {x: -24.50007, y: -11.00688}
+        - {x: -24.50007, y: -12.00688}
+        - {x: -23.50007, y: -15.00688}
+        - {x: -19.50007, y: -15.00688}
+        - {x: -19.50007, y: -21.00688}
+        - {x: -18.50007, y: -24.00688}
+        - {x: -3.500074, y: -40.00688}
+        - {x: 2.499926, y: -40.00688}
+        - {x: 4.499926, y: -38.00688}
+        - {x: 14.49993, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_42
+      rect:
+        serializedVersion: 2
+        x: 1194.013
+        y: 539.0267
+        width: 44.96034
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.5317366, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.50685, y: -40.00688}
+        - {x: -22.49315, y: -40.00688}
+        - {x: -22.49315, y: -2.006882}
+        - {x: 5.506845, y: 34.99312}
+        - {x: 8.506845, y: 38.99312}
+        - {x: 11.50685, y: 39.99312}
+        - {x: 21.50685, y: 39.99312}
+        - {x: 22.50685, y: 37.99312}
+      physicsShape:
+      - - {x: 20.50685, y: -40.00688}
+        - {x: 21.50685, y: -37.00688}
+        - {x: 21.50685, y: -8.006882}
+        - {x: 22.50685, y: -2.006882}
+        - {x: 22.50685, y: 16.99312}
+        - {x: 13.50685, y: 18.99312}
+        - {x: 13.50685, y: 37.99312}
+        - {x: 11.50685, y: 39.99312}
+        - {x: 8.506845, y: 38.99312}
+        - {x: 5.506845, y: 34.99312}
+        - {x: -7.493155, y: 5.993118}
+        - {x: -22.49315, y: -3.006882}
+        - {x: -22.49315, y: -7.006882}
+        - {x: -21.49315, y: -9.006882}
+        - {x: -11.49315, y: -10.00688}
+        - {x: -22.49315, y: -17.00688}
+        - {x: -22.49315, y: -24.00688}
+        - {x: -21.49315, y: -24.00688}
+        - {x: -6.493155, y: -40.00688}
+        - {x: -0.4931545, y: -40.00688}
+        - {x: 1.506845, y: -38.00688}
+        - {x: 11.50685, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_43
+      rect:
+        serializedVersion: 2
+        x: 1322.013
+        y: 539.0267
+        width: 44.96034
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.5317366, y: 0.02592869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.493155, y: -40.00688}
+        - {x: -22.49315, y: -34.00688}
+        - {x: -22.49315, y: 9.993118}
+        - {x: -6.493155, y: 39.99312}
+        - {x: 12.50685, y: 39.99312}
+        - {x: 22.50685, y: 16.99312}
+        - {x: 22.50685, y: -40.00688}
+        - {x: 7.506845, y: -40.00688}
+        - {x: 1.506845, y: -38.00688}
+        - {x: -0.4931545, y: -40.00688}
+      physicsShape:
+      - - {x: 20.50685, y: -40.00688}
+        - {x: 21.50685, y: -37.00688}
+        - {x: 17.50685, y: -21.00688}
+        - {x: 20.50685, y: -8.006882}
+        - {x: 22.50685, y: 5.993118}
+        - {x: 22.50685, y: 14.99312}
+        - {x: 20.50685, y: 17.99312}
+        - {x: 13.50685, y: 37.99312}
+        - {x: 11.50685, y: 39.99312}
+        - {x: 8.506845, y: 38.99312}
+        - {x: -0.4931545, y: 15.99312}
+        - {x: -20.49315, y: 8.993118}
+        - {x: -22.49315, y: 4.993118}
+        - {x: -21.49315, y: 0.9931183}
+        - {x: -8.493155, y: -6.006882}
+        - {x: -22.49315, y: -17.00688}
+        - {x: -22.49315, y: -21.00688}
+        - {x: -21.49315, y: -24.00688}
+        - {x: -6.493155, y: -40.00688}
+        - {x: -0.4931545, y: -40.00688}
+        - {x: 1.506845, y: -38.00688}
+        - {x: 11.50685, y: -40.00688}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_44
+      rect:
+        serializedVersion: 2
+        x: 42.07612
+        y: 364.0268
+        width: 48.89713
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.4876335, y: 0.02592831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.52469, y: -40.00694}
+        - {x: -24.52469, y: -35.00694}
+        - {x: -24.52469, y: 18.99306}
+        - {x: 2.475313, y: 39.99306}
+        - {x: 16.47531, y: 39.99306}
+        - {x: 24.47531, y: 24.99306}
+        - {x: 24.47531, y: -17.00694}
+        - {x: 20.47531, y: -40.00694}
+        - {x: 5.475313, y: -40.00694}
+        - {x: -0.5246868, y: -38.00694}
+        - {x: -2.524687, y: -40.00694}
+      physicsShape:
+      - - {x: 18.47531, y: -40.00694}
+        - {x: 20.47531, y: -37.00694}
+        - {x: 19.47531, y: 2.993057}
+        - {x: 24.47531, y: 8.993057}
+        - {x: 24.47531, y: 16.99306}
+        - {x: 13.47531, y: 19.99306}
+        - {x: 11.47531, y: 37.99306}
+        - {x: 9.475313, y: 39.99306}
+        - {x: 5.475313, y: 39.99306}
+        - {x: -0.5246868, y: 22.99306}
+        - {x: -7.524687, y: 16.99306}
+        - {x: -22.52469, y: 12.99306}
+        - {x: -22.52469, y: 7.993057}
+        - {x: -10.52469, y: -6.006943}
+        - {x: -24.52469, y: -17.00694}
+        - {x: -24.52469, y: -21.00694}
+        - {x: -23.52469, y: -24.00694}
+        - {x: -8.524687, y: -40.00694}
+        - {x: -2.524687, y: -40.00694}
+        - {x: -0.5246868, y: -38.00694}
+        - {x: 9.475313, y: -40.00694}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_45
+      rect:
+        serializedVersion: 2
+        x: 170.0761
+        y: 364.0268
+        width: 48.89713
+        height: 79.96034
+      alignment: 9
+      pivot: {x: 0.4876334, y: 0.02592831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.52469, y: -40.00694}
+        - {x: -24.52469, y: -35.00694}
+        - {x: -24.52469, y: 18.99306}
+        - {x: 2.475309, y: 39.99306}
+        - {x: 16.47531, y: 39.99306}
+        - {x: 24.47531, y: 24.99306}
+        - {x: 24.47531, y: -17.00694}
+        - {x: 20.47531, y: -40.00694}
+        - {x: 5.475309, y: -40.00694}
+        - {x: -0.5246906, y: -38.00694}
+        - {x: -2.524691, y: -40.00694}
+      physicsShape:
+      - - {x: 18.47531, y: -40.00694}
+        - {x: 20.47531, y: -37.00694}
+        - {x: 19.47531, y: 2.993057}
+        - {x: 24.47531, y: 8.993057}
+        - {x: 24.47531, y: 16.99306}
+        - {x: 13.47531, y: 19.99306}
+        - {x: 11.47531, y: 37.99306}
+        - {x: 9.475309, y: 39.99306}
+        - {x: 5.475309, y: 39.99306}
+        - {x: -0.5246906, y: 22.99306}
+        - {x: -7.524691, y: 16.99306}
+        - {x: -22.52469, y: 12.99306}
+        - {x: -22.52469, y: 7.993057}
+        - {x: -10.52469, y: -6.006943}
+        - {x: -24.52469, y: -17.00694}
+        - {x: -24.52469, y: -21.00694}
+        - {x: -23.52469, y: -24.00694}
+        - {x: -8.524691, y: -40.00694}
+        - {x: -2.524691, y: -40.00694}
+        - {x: -0.5246906, y: -38.00694}
+        - {x: 9.475309, y: -40.00694}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_46
+      rect:
+        serializedVersion: 2
+        x: 301.0761
+        y: 364.0513
+        width: 82.92387
+        height: 81.93578
+      alignment: 9
+      pivot: {x: 0.2513617, y: 0.02500336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.46197, y: -41.01923}
+        - {x: -40.53803, y: -41.01923}
+        - {x: -41.53803, y: -38.01923}
+        - {x: -41.53803, y: -16.01923}
+        - {x: -29.53803, y: 16.98077}
+        - {x: -11.53803, y: 40.98077}
+        - {x: 6.461967, y: 40.98077}
+        - {x: 9.461967, y: 39.98077}
+        - {x: 9.461967, y: 31.98077}
+        - {x: 5.461967, y: 29.98077}
+        - {x: 7.461967, y: 27.98077}
+        - {x: 9.461967, y: 31.98077}
+        - {x: 11.46197, y: 35.98077}
+        - {x: 13.46197, y: 38.98077}
+        - {x: 27.46197, y: 34.98077}
+        - {x: 41.46197, y: 25.98077}
+        - {x: 41.46197, y: -11.01923}
+      physicsShape:
+      - - {x: -1.538033, y: -41.01923}
+        - {x: -0.5380325, y: -38.01923}
+        - {x: 4.461967, y: -11.01923}
+        - {x: 13.46197, y: -5.019226}
+        - {x: 40.46197, y: -2.019226}
+        - {x: 41.46197, y: -0.01922607}
+        - {x: 41.46197, y: 15.98077}
+        - {x: 27.46197, y: 34.98077}
+        - {x: 13.46197, y: 38.98077}
+        - {x: 11.46197, y: 35.98077}
+        - {x: 7.461967, y: 27.98077}
+        - {x: 8.461967, y: 26.98077}
+        - {x: 5.461967, y: 29.98077}
+        - {x: 9.461967, y: 31.98077}
+        - {x: 9.461967, y: 39.98077}
+        - {x: 6.461967, y: 40.98077}
+        - {x: -9.538033, y: 38.98077}
+        - {x: -14.53803, y: 32.98077}
+        - {x: -15.53803, y: 20.98077}
+        - {x: -21.53803, y: 13.98077}
+        - {x: -27.53803, y: -9.019226}
+        - {x: -41.53803, y: -19.01923}
+        - {x: -41.53803, y: -23.01923}
+        - {x: -40.53803, y: -26.01923}
+        - {x: -29.53803, y: -41.01923}
+        - {x: -20.53803, y: -41.01923}
+        - {x: -12.53803, y: -25.01923}
+        - {x: -12.53803, y: -37.01923}
+        - {x: -7.538033, y: -41.01923}
+      - - {x: 33.46197, y: 13.98077}
+        - {x: 28.46197, y: 20.98077}
+        - {x: 24.46197, y: 21.98077}
+        - {x: 21.46197, y: 18.98077}
+        - {x: 21.46197, y: 17.98077}
+        - {x: 18.46197, y: 13.98077}
+        - {x: 23.46197, y: 19.98077}
+        - {x: 26.46197, y: 22.98077}
+        - {x: 31.46197, y: 18.98077}
+        - {x: 29.46197, y: 16.98077}
+        - {x: 29.46197, y: 15.98077}
+        - {x: 33.46197, y: 6.980774}
+        - {x: 34.46197, y: 8.980774}
+      - - {x: -5.538033, y: 28.98077}
+        - {x: -5.538033, y: 25.98077}
+        - {x: -6.538033, y: 24.98077}
+        - {x: -5.538033, y: 24.98077}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_47
+      rect:
+        serializedVersion: 2
+        x: 409.0198
+        y: 356.0761
+        width: 91.94392
+        height: 87.91097
+      alignment: 9
+      pivot: {x: 0.4448388, y: 0.1140232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.00828, y: -21.0316}
+        - {x: 39.00828, y: -19.0316}
+        - {x: 39.00828, y: -17.0316}
+        - {x: 41.00828, y: -10.0316}
+        - {x: 44.00828, y: -9.031601}
+        - {x: 46.00828, y: -11.0316}
+        - {x: 44.00828, y: -20.0316}
+      - - {x: -44.99172, y: -34.0316}
+        - {x: -45.99172, y: -31.0316}
+        - {x: -4.991722, y: 43.9684}
+        - {x: 10.00828, y: 43.9684}
+        - {x: 37.00828, y: -22.0316}
+        - {x: 40.00828, y: -23.0316}
+        - {x: 40.00828, y: -26.0316}
+        - {x: 27.00828, y: -38.0316}
+        - {x: 14.00828, y: -42.0316}
+        - {x: 11.00828, y: -40.0316}
+        - {x: 8.008278, y: -36.0316}
+        - {x: 3.008278, y: -26.0316}
+        - {x: 6.008278, y: -34.0316}
+        - {x: 3.008278, y: -38.0316}
+        - {x: 8.008278, y: -38.0316}
+        - {x: 10.00828, y: -44.0316}
+        - {x: -18.99172, y: -44.0316}
+        - {x: -27.99172, y: -42.0316}
+      physicsShape:
+      - - {x: 3.008278, y: -38.0316}
+        - {x: 6.008278, y: -34.0316}
+        - {x: 3.008278, y: -26.0316}
+        - {x: 8.008278, y: -36.0316}
+        - {x: 11.00828, y: -40.0316}
+        - {x: 14.00828, y: -42.0316}
+        - {x: 27.00828, y: -38.0316}
+        - {x: 40.00828, y: -26.0316}
+        - {x: 40.00828, y: -23.0316}
+        - {x: 37.00828, y: -22.0316}
+        - {x: 22.00828, y: -18.0316}
+        - {x: 23.00828, y: -15.0316}
+        - {x: 22.00828, y: 1.968399}
+        - {x: 8.008278, y: 19.9684}
+        - {x: 4.008278, y: 42.9684}
+        - {x: 3.008278, y: 43.9684}
+        - {x: 1.008278, y: 43.9684}
+        - {x: -4.991722, y: 38.9684}
+        - {x: -5.991722, y: 18.9684}
+        - {x: -12.99172, y: -0.03160095}
+        - {x: -18.99172, y: -5.031601}
+        - {x: -45.99172, y: -31.0316}
+        - {x: -44.99172, y: -34.0316}
+        - {x: -32.99172, y: -39.0316}
+        - {x: -27.99172, y: -41.0316}
+        - {x: -23.99172, y: -41.0316}
+        - {x: -19.99172, y: -40.0316}
+        - {x: -20.99172, y: -23.0316}
+        - {x: -15.99172, y: -18.0316}
+        - {x: -18.99172, y: -36.0316}
+        - {x: -13.99172, y: -44.0316}
+        - {x: 8.008278, y: -44.0316}
+        - {x: 9.008278, y: -41.0316}
+        - {x: 8.008278, y: -38.0316}
+        - {x: 1.008278, y: -38.0316}
+      - - {x: 39.00828, y: -17.0316}
+        - {x: 39.00828, y: -19.0316}
+        - {x: 41.00828, y: -21.0316}
+        - {x: 44.00828, y: -20.0316}
+        - {x: 46.00828, y: -11.0316}
+        - {x: 44.00828, y: -9.031601}
+        - {x: 41.00828, y: -10.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_48
+      rect:
+        serializedVersion: 2
+        x: 537.0198
+        y: 357.0761
+        width: 78.87463
+        height: 85.91097
+      alignment: 9
+      pivot: {x: 0.5185472, y: 0.1050377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.54292, y: -37.0316}
+        - {x: 26.54292, y: -35.0316}
+        - {x: 19.54292, y: -43.0316}
+        - {x: -30.45708, y: -43.0316}
+        - {x: -39.45708, y: -33.0316}
+        - {x: -39.45708, y: -29.0316}
+        - {x: 3.542923, y: 42.9684}
+        - {x: 13.54292, y: 42.9684}
+        - {x: 30.54292, y: -6.031601}
+        - {x: 30.54292, y: -29.0316}
+        - {x: 35.54292, y: -27.0316}
+        - {x: 36.54292, y: -27.0316}
+        - {x: 39.54292, y: -28.0316}
+        - {x: 39.54292, y: -30.0316}
+        - {x: 35.54292, y: -35.0316}
+        - {x: 30.54292, y: -37.0316}
+      physicsShape:
+      - - {x: 14.54292, y: -37.0316}
+        - {x: 25.54292, y: -35.0316}
+        - {x: 27.54292, y: -30.0316}
+        - {x: 30.54292, y: -27.0316}
+        - {x: 30.54292, y: -21.0316}
+        - {x: 17.54292, y: -13.0316}
+        - {x: 26.54292, y: -19.0316}
+        - {x: 30.54292, y: -17.0316}
+        - {x: 30.54292, y: -14.0316}
+        - {x: 27.54292, y: 0.968399}
+        - {x: 22.54292, y: 7.968399}
+        - {x: 14.54292, y: 18.9684}
+        - {x: 10.54292, y: 41.9684}
+        - {x: 9.542923, y: 42.9684}
+        - {x: 7.542923, y: 42.9684}
+        - {x: 1.542923, y: 37.9684}
+        - {x: 0.542923, y: 17.9684}
+        - {x: -6.457077, y: -1.031601}
+        - {x: -12.45708, y: -6.031601}
+        - {x: -20.45708, y: -17.0316}
+        - {x: -32.45708, y: -25.0316}
+        - {x: -39.45708, y: -32.0316}
+        - {x: -38.45708, y: -35.0316}
+        - {x: -26.45708, y: -38.0316}
+        - {x: -18.45708, y: -33.0316}
+        - {x: -19.45708, y: -26.0316}
+        - {x: -7.457077, y: -15.0316}
+        - {x: -9.457077, y: -32.0316}
+        - {x: -8.457077, y: -38.0316}
+        - {x: -5.457077, y: -43.0316}
+        - {x: 4.542923, y: -43.0316}
+        - {x: 11.54292, y: -36.0316}
+        - {x: 5.542923, y: -24.0316}
+        - {x: 6.542923, y: -19.0316}
+      - - {x: 35.54292, y: -27.0316}
+        - {x: 26.54292, y: -31.0316}
+        - {x: 26.54292, y: -35.0316}
+        - {x: 27.54292, y: -37.0316}
+        - {x: 30.54292, y: -37.0316}
+        - {x: 35.54292, y: -35.0316}
+        - {x: 39.54292, y: -30.0316}
+        - {x: 39.54292, y: -28.0316}
+        - {x: 36.54292, y: -27.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_49
+      rect:
+        serializedVersion: 2
+        x: 665.0198
+        y: 364.0761
+        width: 67.9041
+        height: 79.91097
+      alignment: 9
+      pivot: {x: 0.6023234, y: 0.0253268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.97181, y: -38.0316}
+        - {x: -33.97181, y: -37.0316}
+        - {x: -33.97181, y: -22.0316}
+        - {x: 8.028191, y: 39.9684}
+        - {x: 20.02819, y: 39.9684}
+        - {x: 34.02819, y: 0.968399}
+        - {x: 34.02819, y: -31.0316}
+        - {x: 32.02819, y: -40.0316}
+        - {x: -22.97181, y: -40.0316}
+        - {x: -25.97181, y: -37.0316}
+        - {x: -28.97181, y: -38.0316}
+      physicsShape:
+      - - {x: 30.02819, y: -39.0316}
+        - {x: 24.02819, y: -22.0316}
+        - {x: 32.02819, y: -20.0316}
+        - {x: 34.02819, y: -19.0316}
+        - {x: 34.02819, y: -8.031601}
+        - {x: 32.02819, y: -3.031601}
+        - {x: 31.02819, y: -0.03160095}
+        - {x: 28.02819, y: 4.968399}
+        - {x: 16.02819, y: 38.9684}
+        - {x: 15.02819, y: 39.9684}
+        - {x: 13.02819, y: 39.9684}
+        - {x: 7.028191, y: 34.9684}
+        - {x: 6.028191, y: 14.9684}
+        - {x: -6.971809, y: -9.031601}
+        - {x: -33.97181, y: -35.0316}
+        - {x: -32.97181, y: -38.0316}
+        - {x: -28.97181, y: -38.0316}
+        - {x: -25.97181, y: -37.0316}
+        - {x: -10.97181, y: -26.0316}
+        - {x: 0.02819061, y: -23.0316}
+        - {x: -4.971809, y: -35.0316}
+        - {x: -2.971809, y: -40.0316}
+        - {x: 5.028191, y: -40.0316}
+        - {x: 12.02819, y: -24.0316}
+        - {x: 20.02819, y: -40.0316}
+        - {x: 27.02819, y: -40.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_50
+      rect:
+        serializedVersion: 2
+        x: 793.0198
+        y: 364.0761
+        width: 67.9041
+        height: 78.91097
+      alignment: 9
+      pivot: {x: 0.6023234, y: 0.02564776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.02819, y: -39.5316}
+        - {x: -33.97181, y: -39.5316}
+        - {x: -33.97181, y: -34.5316}
+        - {x: 7.028191, y: 34.4684}
+        - {x: 13.02819, y: 39.4684}
+        - {x: 15.02819, y: 39.4684}
+        - {x: 16.02819, y: 38.4684}
+        - {x: 28.02819, y: 4.468399}
+        - {x: 33.02819, y: -2.531601}
+        - {x: 34.02819, y: -6.531601}
+        - {x: 34.02819, y: -29.5316}
+      physicsShape:
+      - - {x: 30.02819, y: -38.5316}
+        - {x: 25.02819, y: -28.5316}
+        - {x: 23.02819, y: -16.5316}
+        - {x: 32.02819, y: -22.5316}
+        - {x: 34.02819, y: -21.5316}
+        - {x: 34.02819, y: -7.531601}
+        - {x: 33.02819, y: -2.531601}
+        - {x: 28.02819, y: 4.468399}
+        - {x: 20.02819, y: 15.4684}
+        - {x: 16.02819, y: 38.4684}
+        - {x: 15.02819, y: 39.4684}
+        - {x: 13.02819, y: 39.4684}
+        - {x: 7.028191, y: 34.4684}
+        - {x: 6.028191, y: 14.4684}
+        - {x: -1.971809, y: -4.531601}
+        - {x: -15.97181, y: -19.5316}
+        - {x: -33.97181, y: -34.5316}
+        - {x: -33.97181, y: -36.5316}
+        - {x: -32.97181, y: -39.5316}
+        - {x: -25.97181, y: -38.5316}
+        - {x: -1.971809, y: -18.5316}
+        - {x: -0.9718094, y: -28.5316}
+        - {x: -4.971809, y: -34.5316}
+        - {x: -2.971809, y: -39.5316}
+        - {x: 5.028191, y: -39.5316}
+        - {x: 12.02819, y: -23.5316}
+        - {x: 20.02819, y: -39.5316}
+        - {x: 27.02819, y: -39.5316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_51
+      rect:
+        serializedVersion: 2
+        x: 921.0198
+        y: 364.0761
+        width: 67.9041
+        height: 79.91097
+      alignment: 9
+      pivot: {x: 0.6023234, y: 0.0253268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.97181, y: -38.0316}
+        - {x: -33.97181, y: -37.0316}
+        - {x: -33.97181, y: -22.0316}
+        - {x: 8.028191, y: 39.9684}
+        - {x: 20.02819, y: 39.9684}
+        - {x: 34.02819, y: 0.968399}
+        - {x: 34.02819, y: -31.0316}
+        - {x: 32.02819, y: -40.0316}
+        - {x: -22.97181, y: -40.0316}
+        - {x: -25.97181, y: -37.0316}
+        - {x: -28.97181, y: -38.0316}
+      physicsShape:
+      - - {x: 30.02819, y: -39.0316}
+        - {x: 24.02819, y: -22.0316}
+        - {x: 32.02819, y: -20.0316}
+        - {x: 34.02819, y: -19.0316}
+        - {x: 34.02819, y: -8.031601}
+        - {x: 32.02819, y: -3.031601}
+        - {x: 31.02819, y: -0.03160095}
+        - {x: 28.02819, y: 4.968399}
+        - {x: 16.02819, y: 38.9684}
+        - {x: 15.02819, y: 39.9684}
+        - {x: 13.02819, y: 39.9684}
+        - {x: 7.028191, y: 34.9684}
+        - {x: 6.028191, y: 14.9684}
+        - {x: -6.971809, y: -9.031601}
+        - {x: -33.97181, y: -35.0316}
+        - {x: -32.97181, y: -38.0316}
+        - {x: -28.97181, y: -38.0316}
+        - {x: -25.97181, y: -37.0316}
+        - {x: -10.97181, y: -26.0316}
+        - {x: 0.02819061, y: -23.0316}
+        - {x: -4.971809, y: -35.0316}
+        - {x: -2.971809, y: -40.0316}
+        - {x: 5.028191, y: -40.0316}
+        - {x: 12.02819, y: -24.0316}
+        - {x: 20.02819, y: -40.0316}
+        - {x: 27.02819, y: -40.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_52
+      rect:
+        serializedVersion: 2
+        x: 1049.02
+        y: 364.0761
+        width: 67.9041
+        height: 79.91097
+      alignment: 9
+      pivot: {x: 0.6023234, y: 0.0253268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.97187, y: -38.0316}
+        - {x: -33.97187, y: -35.0316}
+        - {x: 7.02813, y: 39.9684}
+        - {x: 19.02813, y: 39.9684}
+        - {x: 34.02813, y: -1.031601}
+        - {x: 34.02813, y: -28.0316}
+        - {x: 30.02813, y: -39.0316}
+        - {x: 29.02813, y: -40.0316}
+        - {x: -12.97187, y: -40.0316}
+        - {x: -25.97187, y: -37.0316}
+        - {x: -28.97187, y: -38.0316}
+      physicsShape:
+      - - {x: 30.02813, y: -39.0316}
+        - {x: 23.02813, y: -17.0316}
+        - {x: 33.02813, y: -22.0316}
+        - {x: 34.02813, y: -19.0316}
+        - {x: 34.02813, y: -8.031601}
+        - {x: 29.02813, y: 4.968399}
+        - {x: 21.02813, y: 13.9684}
+        - {x: 16.02813, y: 38.9684}
+        - {x: 15.02813, y: 39.9684}
+        - {x: 13.02813, y: 39.9684}
+        - {x: 7.02813, y: 34.9684}
+        - {x: 6.02813, y: 14.9684}
+        - {x: -0.9718704, y: -4.031601}
+        - {x: -6.97187, y: -9.031601}
+        - {x: -26.97187, y: -28.0316}
+        - {x: -33.97187, y: -35.0316}
+        - {x: -32.97187, y: -38.0316}
+        - {x: -28.97187, y: -38.0316}
+        - {x: -25.97187, y: -37.0316}
+        - {x: -10.97187, y: -26.0316}
+        - {x: 0.02812958, y: -23.0316}
+        - {x: -4.97187, y: -35.0316}
+        - {x: -2.97187, y: -40.0316}
+        - {x: 5.02813, y: -40.0316}
+        - {x: 12.02813, y: -24.0316}
+        - {x: 20.02813, y: -40.0316}
+        - {x: 27.02813, y: -40.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_53
+      rect:
+        serializedVersion: 2
+        x: 1177.02
+        y: 364.0761
+        width: 67.9041
+        height: 79.91097
+      alignment: 9
+      pivot: {x: 0.6023234, y: 0.0253268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.97187, y: -38.0316}
+        - {x: -33.97187, y: -35.0316}
+        - {x: 7.02813, y: 39.9684}
+        - {x: 25.02813, y: 39.9684}
+        - {x: 34.02813, y: 24.9684}
+        - {x: 34.02813, y: -38.0316}
+        - {x: 31.02813, y: -40.0316}
+        - {x: -26.97187, y: -40.0316}
+        - {x: -28.97187, y: -38.0316}
+      physicsShape:
+      - - {x: 30.02813, y: -39.0316}
+        - {x: 25.02813, y: -22.0316}
+        - {x: 34.02813, y: -19.0316}
+        - {x: 34.02813, y: -12.0316}
+        - {x: 29.02813, y: 4.968399}
+        - {x: 18.02813, y: 22.9684}
+        - {x: 16.02813, y: 38.9684}
+        - {x: 15.02813, y: 39.9684}
+        - {x: 13.02813, y: 39.9684}
+        - {x: 7.02813, y: 34.9684}
+        - {x: 6.02813, y: 14.9684}
+        - {x: -0.9718704, y: -4.031601}
+        - {x: -6.97187, y: -9.031601}
+        - {x: -33.97187, y: -35.0316}
+        - {x: -32.97187, y: -38.0316}
+        - {x: -28.97187, y: -38.0316}
+        - {x: -25.97187, y: -37.0316}
+        - {x: -10.97187, y: -26.0316}
+        - {x: 0.02812958, y: -23.0316}
+        - {x: -4.97187, y: -35.0316}
+        - {x: -2.97187, y: -40.0316}
+        - {x: 5.02813, y: -40.0316}
+        - {x: 12.02813, y: -24.0316}
+        - {x: 20.02813, y: -40.0316}
+        - {x: 27.02813, y: -40.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_54
+      rect:
+        serializedVersion: 2
+        x: 1304.02
+        y: 364.0268
+        width: 64.9041
+        height: 76.96034
+      alignment: 9
+      pivot: {x: 0.6455713, y: 0.02693902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.52813, y: -38.50694}
+        - {x: -32.47187, y: -38.50694}
+        - {x: -32.47187, y: -27.50694}
+        - {x: 12.52813, y: 38.49306}
+        - {x: 22.52813, y: 38.49306}
+        - {x: 32.52813, y: -4.506943}
+      physicsShape:
+      - - {x: 30.52813, y: -38.50694}
+        - {x: 31.52813, y: -35.50694}
+        - {x: 27.52813, y: -21.50694}
+        - {x: 32.52813, y: -16.50694}
+        - {x: 32.52813, y: -9.506943}
+        - {x: 22.52813, y: 38.49306}
+        - {x: 14.52813, y: 38.49306}
+        - {x: 11.52813, y: 33.49306}
+        - {x: 9.52813, y: 16.49306}
+        - {x: -3.47187, y: 2.493057}
+        - {x: -7.47187, y: -4.506943}
+        - {x: -32.47187, y: -29.50694}
+        - {x: -31.47187, y: -32.50694}
+        - {x: -27.47187, y: -33.50694}
+        - {x: -15.47187, y: -27.50694}
+        - {x: 0.5281296, y: -22.50694}
+        - {x: -3.47187, y: -34.50694}
+        - {x: -1.47187, y: -38.50694}
+        - {x: 6.52813, y: -38.50694}
+        - {x: 14.52813, y: -25.50694}
+        - {x: 21.52813, y: -38.50694}
+      - - {x: 5.52813, y: -7.506943}
+        - {x: 2.52813, y: -10.50694}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_55
+      rect:
+        serializedVersion: 2
+        x: 30.07612
+        y: 189.0267
+        width: 57.91097
+        height: 78.96034
+      alignment: 9
+      pivot: {x: 0.618948, y: 0.02625687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.9684, y: -39.50693}
+        - {x: -29.0316, y: -39.50693}
+        - {x: -29.0316, y: -25.50693}
+        - {x: 12.9684, y: 38.49307}
+        - {x: 16.9684, y: 39.49307}
+        - {x: 22.9684, y: 39.49307}
+        - {x: 28.9684, y: 19.49307}
+      physicsShape:
+      - - {x: 28.9684, y: -35.50693}
+        - {x: 26.9684, y: -21.50693}
+        - {x: 28.9684, y: -17.50693}
+        - {x: 28.9684, y: -10.50693}
+        - {x: 23.9684, y: 4.493073}
+        - {x: 18.9684, y: 9.493073}
+        - {x: 19.9684, y: 38.49307}
+        - {x: 16.9684, y: 39.49307}
+        - {x: 13.9684, y: 38.49307}
+        - {x: -0.03160477, y: 7.493073}
+        - {x: -11.0316, y: -6.506927}
+        - {x: -29.0316, y: -28.50693}
+        - {x: -29.0316, y: -31.50693}
+        - {x: -27.0316, y: -33.50693}
+        - {x: -23.0316, y: -32.50693}
+        - {x: -5.031605, y: -22.50693}
+        - {x: -5.031605, y: -39.50693}
+        - {x: 3.968395, y: -39.50693}
+        - {x: 11.9684, y: -22.50693}
+        - {x: 17.9684, y: -39.50693}
+        - {x: 28.9684, y: -39.50693}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_56
+      rect:
+        serializedVersion: 2
+        x: 168.0761
+        y: 186.0761
+        width: 45.84776
+        height: 82.91097
+      alignment: 9
+      pivot: {x: 0.5636889, y: 0.0605936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.000006, y: -38.53162}
+        - {x: -9.000006, y: -36.53162}
+        - {x: -7.000006, y: -28.53162}
+        - {x: -14.00001, y: -41.53162}
+        - {x: -23.00001, y: -41.53162}
+        - {x: -23.00001, y: -4.531616}
+        - {x: 6.999994, y: 40.46838}
+        - {x: 7.999994, y: 41.46838}
+        - {x: 12.99999, y: 41.46838}
+        - {x: 22.99999, y: 0.4683838}
+        - {x: 22.99999, y: -35.53162}
+        - {x: 21.99999, y: -41.53162}
+        - {x: 18.99999, y: -41.53162}
+        - {x: 0.9999943, y: -36.53162}
+        - {x: -1.000006, y: -38.53162}
+      physicsShape:
+      - - {x: -1.000006, y: -38.53162}
+        - {x: 0.9999943, y: -36.53162}
+        - {x: 10.99999, y: -38.53162}
+        - {x: 19.99999, y: -39.53162}
+        - {x: 20.99999, y: -35.53162}
+        - {x: 16.99999, y: -19.53162}
+        - {x: 16.99999, y: -13.53162}
+        - {x: 22.99999, y: -11.53162}
+        - {x: 22.99999, y: -4.531616}
+        - {x: 13.99999, y: 13.46838}
+        - {x: 12.99999, y: 39.46838}
+        - {x: 10.99999, y: 41.46838}
+        - {x: 7.999994, y: 40.46838}
+        - {x: -10.00001, y: -2.531616}
+        - {x: -13.00001, y: -10.53162}
+        - {x: -23.00001, y: -15.53162}
+        - {x: -23.00001, y: -19.53162}
+        - {x: -22.00001, y: -21.53162}
+        - {x: -15.00001, y: -21.53162}
+        - {x: -21.00001, y: -40.53162}
+        - {x: -19.00001, y: -41.53162}
+        - {x: -14.00001, y: -41.53162}
+        - {x: -7.000006, y: -28.53162}
+        - {x: -9.000006, y: -36.53162}
+        - {x: -7.000006, y: -38.53162}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_57
+      rect:
+        serializedVersion: 2
+        x: 294.0761
+        y: 186.0335
+        width: 45.84776
+        height: 83.95359
+      alignment: 9
+      pivot: {x: 0.6073118, y: 0.06034872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.99998, y: -42.01031}
+        - {x: -22.99998, y: -27.01031}
+        - {x: -22.99998, y: -13.01031}
+        - {x: 4.000025, y: 41.98969}
+        - {x: 12.00002, y: 41.98969}
+        - {x: 23.00002, y: 5.989693}
+        - {x: 23.00002, y: -42.01031}
+      physicsShape:
+      - - {x: 20.00002, y: -35.01031}
+        - {x: 18.00002, y: -14.01031}
+        - {x: 23.00002, y: -12.01031}
+        - {x: 23.00002, y: -4.010307}
+        - {x: 15.00002, y: 13.98969}
+        - {x: 13.00002, y: 39.98969}
+        - {x: 11.00002, y: 41.98969}
+        - {x: 8.000025, y: 40.98969}
+        - {x: -5.999975, y: 10.98969}
+        - {x: -8.999975, y: 0.9896927}
+        - {x: -22.99998, y: -15.01031}
+        - {x: -22.99998, y: -21.01031}
+        - {x: -4.999975, y: -42.01031}
+        - {x: -1.999975, y: -42.01031}
+        - {x: 2.000025, y: -40.01031}
+        - {x: 9.000025, y: -35.01031}
+        - {x: 13.00002, y: -38.01031}
+        - {x: 19.00002, y: -38.01031}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_58
+      rect:
+        serializedVersion: 2
+        x: 422.0761
+        y: 187.0129
+        width: 43.84776
+        height: 83.97418
+      alignment: 9
+      pivot: {x: 0.6350128, y: 0.04867081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.99997, y: -42.00001}
+        - {x: -21.99997, y: -23.00001}
+        - {x: -21.99997, y: -6.000008}
+        - {x: 7.000027, y: 40.99999}
+        - {x: 10.00003, y: 41.99999}
+        - {x: 12.00003, y: 39.99999}
+        - {x: 22.00003, y: 0.9999924}
+        - {x: 22.00003, y: -42.00001}
+      physicsShape:
+      - - {x: 19.00003, y: -42.00001}
+        - {x: 18.00003, y: -13.00001}
+        - {x: 22.00003, y: -12.00001}
+        - {x: 22.00003, y: -4.000008}
+        - {x: 14.00003, y: 13.99999}
+        - {x: 12.00003, y: 39.99999}
+        - {x: 10.00003, y: 41.99999}
+        - {x: 7.000027, y: 40.99999}
+        - {x: -11.99997, y: 3.999992}
+        - {x: -21.99997, y: -15.00001}
+        - {x: -21.99997, y: -20.00001}
+        - {x: -16.99997, y: -22.00001}
+        - {x: -5.999973, y: -39.00001}
+        - {x: 3.000027, y: -42.00001}
+        - {x: 6.000027, y: -41.00001}
+        - {x: 6.000027, y: -36.00001}
+        - {x: 11.00003, y: -39.00001}
+        - {x: 18.00003, y: -42.00001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_59
+      rect:
+        serializedVersion: 2
+        x: 549.0761
+        y: 189.0363
+        width: 41.84776
+        height: 82.95081
+      alignment: 9
+      pivot: {x: 0.6892576, y: 0.02487878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.999975, y: -41.5117}
+        - {x: -20.99998, y: -32.5117}
+        - {x: -20.99998, y: -10.5117}
+        - {x: -6.999975, y: 9.488304}
+        - {x: 8.000025, y: 40.4883}
+        - {x: 9.000025, y: 41.4883}
+        - {x: 14.00002, y: 41.4883}
+        - {x: 21.00002, y: 19.4883}
+        - {x: 21.00002, y: -37.5117}
+        - {x: 19.00002, y: -41.5117}
+        - {x: 11.00002, y: -41.5117}
+        - {x: 8.000025, y: -38.5117}
+        - {x: 8.000025, y: -39.5117}
+        - {x: 6.000025, y: -41.5117}
+      physicsShape:
+      - - {x: 16.00002, y: -41.5117}
+        - {x: 20.00002, y: -39.5117}
+        - {x: 21.00002, y: -34.5117}
+        - {x: 21.00002, y: 7.488304}
+        - {x: 19.00002, y: 17.4883}
+        - {x: 13.00002, y: 41.4883}
+        - {x: 9.000025, y: 41.4883}
+        - {x: 8.000025, y: 40.4883}
+        - {x: -6.999975, y: 9.488304}
+        - {x: -13.99998, y: -7.511696}
+        - {x: -20.99998, y: -14.5117}
+        - {x: -20.99998, y: -24.5117}
+        - {x: -7.999975, y: -22.5117}
+        - {x: -2.999975, y: -41.5117}
+        - {x: 6.000025, y: -41.5117}
+        - {x: 8.000025, y: -39.5117}
+        - {x: 8.000025, y: -38.5117}
+        - {x: 12.00002, y: -40.5117}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_60
+      rect:
+        serializedVersion: 2
+        x: 676.0761
+        y: 189.0761
+        width: 47.91097
+        height: 82.91097
+      alignment: 9
+      pivot: {x: 0.622903, y: 0.02441021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.031578, y: -41.53162}
+        - {x: -24.03158, y: -30.53162}
+        - {x: -24.03158, y: -11.53162}
+        - {x: 6.968422, y: 40.46838}
+        - {x: 10.96842, y: 41.46838}
+        - {x: 13.96842, y: 40.46838}
+        - {x: 23.96842, y: -16.53162}
+        - {x: 23.96842, y: -41.53162}
+      physicsShape:
+      - - {x: 23.96842, y: -30.53162}
+        - {x: 16.96842, y: -23.53162}
+        - {x: 17.96842, y: -1.531616}
+        - {x: 11.96842, y: 16.46838}
+        - {x: 13.96842, y: 40.46838}
+        - {x: 10.96842, y: 41.46838}
+        - {x: 6.968422, y: 40.46838}
+        - {x: -1.031578, y: 23.46838}
+        - {x: -20.03158, y: -5.531616}
+        - {x: -24.03158, y: -18.53162}
+        - {x: -24.03158, y: -23.53162}
+        - {x: -19.03158, y: -24.53162}
+        - {x: -4.031578, y: -41.53162}
+        - {x: 9.968422, y: -41.53162}
+        - {x: 10.96842, y: -38.53162}
+        - {x: 22.96842, y: -35.53162}
+        - {x: 23.96842, y: -32.53162}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_61
+      rect:
+        serializedVersion: 2
+        x: 803.0761
+        y: 189.0429
+        width: 47.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.643775, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.03158, y: -28.51501}
+        - {x: -24.03158, y: -23.51501}
+        - {x: -24.03158, y: -15.51501}
+        - {x: 4.968418, y: 41.48499}
+        - {x: 10.96842, y: 41.48499}
+        - {x: 13.96842, y: 40.48499}
+        - {x: 23.96842, y: -17.51501}
+        - {x: 23.96842, y: -41.51501}
+        - {x: -4.031582, y: -41.51501}
+      physicsShape:
+      - - {x: 15.96842, y: -1.515007}
+        - {x: 12.96842, y: 39.48499}
+        - {x: 10.96842, y: 41.48499}
+        - {x: 6.968418, y: 40.48499}
+        - {x: -19.03158, y: -5.515007}
+        - {x: -24.03158, y: -17.51501}
+        - {x: -24.03158, y: -22.51501}
+        - {x: -19.03158, y: -24.51501}
+        - {x: -7.031582, y: -16.51501}
+        - {x: -5.031582, y: -40.51501}
+        - {x: -3.031582, y: -41.51501}
+        - {x: 19.96842, y: -41.51501}
+        - {x: 23.96842, y: -39.51501}
+        - {x: 23.96842, y: -29.51501}
+        - {x: 15.96842, y: -13.51501}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_62
+      rect:
+        serializedVersion: 2
+        x: 931.0761
+        y: 189.0429
+        width: 46.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6574984, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.53158, y: -41.51501}
+        - {x: -23.53158, y: -30.51501}
+        - {x: -23.53158, y: -17.51501}
+        - {x: -13.53158, y: -10.51501}
+        - {x: -15.53158, y: -8.515007}
+        - {x: -16.53158, y: 11.48499}
+        - {x: 6.46842, y: 41.48499}
+        - {x: 15.46842, y: 41.48499}
+        - {x: 23.46842, y: -21.51501}
+        - {x: 23.46842, y: -39.51501}
+        - {x: 20.46842, y: -41.51501}
+      physicsShape:
+      - - {x: 12.46842, y: 39.48499}
+        - {x: 10.46842, y: 41.48499}
+        - {x: 6.46842, y: 40.48499}
+        - {x: -10.53158, y: 8.484993}
+        - {x: -15.53158, y: -5.515007}
+        - {x: -15.53158, y: -8.515007}
+        - {x: -13.53158, y: -10.51501}
+        - {x: -23.53158, y: -17.51501}
+        - {x: -23.53158, y: -26.51501}
+        - {x: -8.53158, y: -29.51501}
+        - {x: -3.53158, y: -40.51501}
+        - {x: -1.53158, y: -41.51501}
+        - {x: 18.46842, y: -41.51501}
+        - {x: 23.46842, y: -39.51501}
+        - {x: 23.46842, y: -28.51501}
+        - {x: 15.46842, y: -1.515007}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_63
+      rect:
+        serializedVersion: 2
+        x: 1059.076
+        y: 189.0429
+        width: 46.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6574971, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.531702, y: -41.51501}
+        - {x: -23.5317, y: -30.51501}
+        - {x: -23.5317, y: -11.51501}
+        - {x: 6.468298, y: 41.48499}
+        - {x: 12.4683, y: 41.48499}
+        - {x: 23.4683, y: -25.51501}
+        - {x: 23.4683, y: -39.51501}
+        - {x: 20.4683, y: -41.51501}
+      physicsShape:
+      - - {x: 23.4683, y: -28.51501}
+        - {x: 15.4683, y: -1.515007}
+        - {x: 12.4683, y: 39.48499}
+        - {x: 10.4683, y: 41.48499}
+        - {x: 6.468298, y: 40.48499}
+        - {x: -20.5317, y: -5.515007}
+        - {x: -23.5317, y: -11.51501}
+        - {x: -23.5317, y: -22.51501}
+        - {x: -19.5317, y: -24.51501}
+        - {x: -4.531702, y: -24.51501}
+        - {x: -3.531702, y: -40.51501}
+        - {x: -0.531702, y: -41.51501}
+        - {x: 5.468298, y: -41.51501}
+        - {x: 9.468298, y: -38.51501}
+        - {x: 22.4683, y: -35.51501}
+        - {x: 23.4683, y: -32.51501}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_64
+      rect:
+        serializedVersion: 2
+        x: 1187.076
+        y: 189.0429
+        width: 45.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6718183, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.0317, y: -41.51501}
+        - {x: -23.0317, y: -32.51501}
+        - {x: -23.0317, y: -10.51501}
+        - {x: -16.0317, y: 5.484993}
+        - {x: 5.968298, y: 41.48499}
+        - {x: 13.9683, y: 41.48499}
+        - {x: 22.9683, y: 5.484993}
+        - {x: 22.9683, y: -37.51501}
+        - {x: 14.9683, y: -41.51501}
+      physicsShape:
+      - - {x: 17.9683, y: -13.51501}
+        - {x: 13.9683, y: 40.48499}
+        - {x: 10.9683, y: 41.48499}
+        - {x: 6.968298, y: 40.48499}
+        - {x: -14.0317, y: 4.484993}
+        - {x: -17.0317, y: -9.515007}
+        - {x: -23.0317, y: -17.51501}
+        - {x: -23.0317, y: -22.51501}
+        - {x: -18.0317, y: -24.51501}
+        - {x: -7.031702, y: -20.51501}
+        - {x: -4.031702, y: -40.51501}
+        - {x: -0.03170204, y: -41.51501}
+        - {x: 7.968298, y: -41.51501}
+        - {x: 9.968298, y: -38.51501}
+        - {x: 21.9683, y: -35.51501}
+        - {x: 22.9683, y: -31.51501}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_65
+      rect:
+        serializedVersion: 2
+        x: 1315.076
+        y: 189.0429
+        width: 45.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6718183, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.968298, y: 41.48499}
+        - {x: 13.9683, y: 41.48499}
+        - {x: 13.9683, y: 40.48499}
+        - {x: 22.9683, y: -31.51501}
+        - {x: 22.9683, y: -38.51501}
+        - {x: 19.9683, y: -41.51501}
+        - {x: -12.0317, y: -41.51501}
+        - {x: -23.0317, y: -35.51501}
+        - {x: -23.0317, y: 0.484993}
+        - {x: -20.0317, y: 6.484993}
+      physicsShape:
+      - - {x: 17.9683, y: -13.51501}
+        - {x: 13.9683, y: 40.48499}
+        - {x: 10.9683, y: 41.48499}
+        - {x: 6.968298, y: 40.48499}
+        - {x: 0.968298, y: 22.48499}
+        - {x: -18.0317, y: 5.484993}
+        - {x: -19.0317, y: -11.51501}
+        - {x: -23.0317, y: -18.51501}
+        - {x: -23.0317, y: -23.51501}
+        - {x: -18.0317, y: -24.51501}
+        - {x: -7.031702, y: -20.51501}
+        - {x: -4.031702, y: -40.51501}
+        - {x: -0.03170204, y: -41.51501}
+        - {x: 7.968298, y: -41.51501}
+        - {x: 9.968298, y: -38.51501}
+        - {x: 21.9683, y: -35.51501}
+        - {x: 22.9683, y: -31.51501}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_66
+      rect:
+        serializedVersion: 2
+        x: 35.07612
+        y: 14.04291
+        width: 43.91097
+        height: 83.94418
+      alignment: 9
+      pivot: {x: 0.7024185, y: 0.02450548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.031605, y: -42.015}
+        - {x: -22.0316, y: -29.015}
+        - {x: -22.0316, y: -12.015}
+        - {x: -18.0316, y: -5.014999}
+        - {x: -12.0316, y: -4.014999}
+        - {x: -13.0316, y: -4.014999}
+        - {x: -16.0316, y: -0.01499939}
+        - {x: -20.0316, y: 11.985}
+        - {x: 5.968395, y: 41.985}
+        - {x: 14.9684, y: 41.985}
+        - {x: 21.9684, y: -13.015}
+        - {x: 21.9684, y: -41.015}
+        - {x: 19.9684, y: -42.015}
+      physicsShape:
+      - - {x: 18.9684, y: -0.01499939}
+        - {x: 14.9684, y: 40.985}
+        - {x: 11.9684, y: 41.985}
+        - {x: 7.968395, y: 40.985}
+        - {x: -15.0316, y: 8.985001}
+        - {x: -16.0316, y: 5.985001}
+        - {x: -16.0316, y: -0.01499939}
+        - {x: -13.0316, y: -4.014999}
+        - {x: -12.0316, y: -4.014999}
+        - {x: -18.0316, y: -5.014999}
+        - {x: -22.0316, y: -13.015}
+        - {x: -22.0316, y: -25.015}
+        - {x: -5.031605, y: -26.015}
+        - {x: -3.031605, y: -41.015}
+        - {x: -1.031605, y: -42.015}
+        - {x: 19.9684, y: -42.015}
+        - {x: 21.9684, y: -41.015}
+        - {x: 21.9684, y: -32.015}
+        - {x: 16.9684, y: -26.015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_67
+      rect:
+        serializedVersion: 2
+        x: 163.0761
+        y: 14.04291
+        width: 43.91097
+        height: 83.94418
+      alignment: 9
+      pivot: {x: 0.7024184, y: 0.02450548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.03161, y: -42.015}
+        - {x: -22.03161, y: -29.015}
+        - {x: -22.03161, y: 0.9850006}
+        - {x: -18.03161, y: 17.985}
+        - {x: 5.96839, y: 41.985}
+        - {x: 14.96839, y: 41.985}
+        - {x: 20.96839, y: -0.01499939}
+        - {x: 21.96839, y: -16.015}
+        - {x: 21.96839, y: -41.015}
+        - {x: 20.96839, y: -42.015}
+      physicsShape:
+      - - {x: 18.96839, y: -0.01499939}
+        - {x: 12.96839, y: 20.985}
+        - {x: 14.96839, y: 40.985}
+        - {x: 11.96839, y: 41.985}
+        - {x: 7.96839, y: 40.985}
+        - {x: 1.96839, y: 22.985}
+        - {x: -14.03161, y: 15.985}
+        - {x: -20.03161, y: 0.9850006}
+        - {x: -18.03161, y: -10.015}
+        - {x: -22.03161, y: -18.015}
+        - {x: -22.03161, y: -24.015}
+        - {x: -18.03161, y: -25.015}
+        - {x: -2.03161, y: -22.015}
+        - {x: -3.03161, y: -33.015}
+        - {x: -3.03161, y: -41.015}
+        - {x: -1.03161, y: -42.015}
+        - {x: 19.96839, y: -42.015}
+        - {x: 21.96839, y: -41.015}
+        - {x: 21.96839, y: -32.015}
+        - {x: 16.96839, y: -26.015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_68
+      rect:
+        serializedVersion: 2
+        x: 291.0761
+        y: 14.04291
+        width: 42.91097
+        height: 83.94418
+      alignment: 9
+      pivot: {x: 0.718788, y: 0.02450548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.46842, y: -42.015}
+        - {x: -6.53158, y: -42.015}
+        - {x: -21.53158, y: -30.015}
+        - {x: -21.53158, y: 10.985}
+        - {x: -20.53158, y: 17.985}
+        - {x: 6.46842, y: 41.985}
+        - {x: 16.46842, y: 41.985}
+        - {x: 19.46842, y: -1.014999}
+        - {x: 21.46842, y: -21.015}
+      physicsShape:
+      - - {x: 19.46842, y: -1.014999}
+        - {x: 12.46842, y: 19.985}
+        - {x: 17.46842, y: 30.985}
+        - {x: 14.46842, y: 41.985}
+        - {x: 9.46842, y: 41.985}
+        - {x: 8.46842, y: 40.985}
+        - {x: -7.53158, y: 13.985}
+        - {x: -14.53158, y: 13.985}
+        - {x: -20.53158, y: 4.985001}
+        - {x: -17.53158, y: -9.014999}
+        - {x: -21.53158, y: -19.015}
+        - {x: -21.53158, y: -24.015}
+        - {x: -17.53158, y: -25.015}
+        - {x: -2.53158, y: -25.015}
+        - {x: -2.53158, y: -41.015}
+        - {x: 1.46842, y: -42.015}
+        - {x: 9.46842, y: -42.015}
+        - {x: 11.46842, y: -39.015}
+        - {x: 20.46842, y: -37.015}
+        - {x: 21.46842, y: -34.015}
+      - - {x: -0.53158, y: -6.014999}
+        - {x: -1.53158, y: -7.014999}
+        - {x: -1.53158, y: -8.014999}
+        - {x: -0.53158, y: -8.014999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_69
+      rect:
+        serializedVersion: 2
+        x: 419.0761
+        y: 14.04291
+        width: 42.91097
+        height: 83.94418
+      alignment: 9
+      pivot: {x: 0.718788, y: 0.02450548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.46842, y: -42.015}
+        - {x: -1.53158, y: -42.015}
+        - {x: -2.53158, y: -41.015}
+        - {x: -21.53158, y: -29.015}
+        - {x: -21.53158, y: 18.985}
+        - {x: 5.46842, y: 41.985}
+        - {x: 18.46842, y: 41.985}
+        - {x: 21.46842, y: 31.985}
+      physicsShape:
+      - - {x: 19.46842, y: -1.014999}
+        - {x: 12.46842, y: 19.985}
+        - {x: 17.46842, y: 30.985}
+        - {x: 14.46842, y: 41.985}
+        - {x: 9.46842, y: 41.985}
+        - {x: 8.46842, y: 40.985}
+        - {x: 2.46842, y: 22.985}
+        - {x: -21.53158, y: 10.985}
+        - {x: -13.53158, y: 1.985001}
+        - {x: -21.53158, y: -18.015}
+        - {x: -21.53158, y: -23.015}
+        - {x: -17.53158, y: -25.015}
+        - {x: -2.53158, y: -25.015}
+        - {x: -2.53158, y: -41.015}
+        - {x: 1.46842, y: -42.015}
+        - {x: 9.46842, y: -42.015}
+        - {x: 11.46842, y: -39.015}
+        - {x: 20.46842, y: -37.015}
+        - {x: 21.46842, y: -34.015}
+      - - {x: -0.53158, y: -6.014999}
+        - {x: -1.53158, y: -7.014999}
+        - {x: -1.53158, y: -8.014999}
+        - {x: -0.53158, y: -8.014999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_70
+      rect:
+        serializedVersion: 2
+        x: 547.0761
+        y: 14.04291
+        width: 43.91097
+        height: 83.94418
+      alignment: 9
+      pivot: {x: 0.7024187, y: 0.02450548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.03158, y: -42.015}
+        - {x: -22.03158, y: -29.015}
+        - {x: -22.03158, y: 9.985001}
+        - {x: -21.03158, y: 15.985}
+        - {x: 5.96842, y: 41.985}
+        - {x: 14.96842, y: 41.985}
+        - {x: 20.96842, y: -0.01499939}
+        - {x: 21.96842, y: -16.015}
+        - {x: 21.96842, y: -41.015}
+        - {x: 19.96842, y: -42.015}
+      physicsShape:
+      - - {x: 18.96842, y: -0.01499939}
+        - {x: 12.96842, y: 20.985}
+        - {x: 14.96842, y: 40.985}
+        - {x: 11.96842, y: 41.985}
+        - {x: 7.96842, y: 40.985}
+        - {x: 1.96842, y: 22.985}
+        - {x: -21.03158, y: 15.985}
+        - {x: -20.03158, y: -11.015}
+        - {x: -22.03158, y: -19.015}
+        - {x: -22.03158, y: -23.015}
+        - {x: -18.03158, y: -25.015}
+        - {x: -2.03158, y: -22.015}
+        - {x: -3.03158, y: -33.015}
+        - {x: -3.03158, y: -41.015}
+        - {x: -1.03158, y: -42.015}
+        - {x: 19.96842, y: -42.015}
+        - {x: 21.96842, y: -41.015}
+        - {x: 21.96842, y: -32.015}
+        - {x: 16.96842, y: -26.015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_71
+      rect:
+        serializedVersion: 2
+        x: 675.0761
+        y: 14.04291
+        width: 43.91097
+        height: 83.94418
+      alignment: 9
+      pivot: {x: 0.7024187, y: 0.02450548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.03158, y: -41.015}
+        - {x: -22.03158, y: -29.015}
+        - {x: -22.03158, y: 15.985}
+        - {x: 5.96842, y: 41.985}
+        - {x: 14.96842, y: 41.985}
+        - {x: 14.96842, y: 40.985}
+        - {x: 21.96842, y: -26.015}
+        - {x: 21.96842, y: -41.015}
+        - {x: 19.96842, y: -42.015}
+        - {x: -1.03158, y: -42.015}
+      physicsShape:
+      - - {x: 18.96842, y: -0.01499939}
+        - {x: 12.96842, y: 20.985}
+        - {x: 14.96842, y: 40.985}
+        - {x: 11.96842, y: 41.985}
+        - {x: 7.96842, y: 40.985}
+        - {x: -8.03158, y: 11.985}
+        - {x: -12.03158, y: 15.985}
+        - {x: -17.03158, y: 12.985}
+        - {x: -17.03158, y: 5.985001}
+        - {x: -18.03158, y: -10.015}
+        - {x: -22.03158, y: -16.015}
+        - {x: -22.03158, y: -25.015}
+        - {x: -5.03158, y: -26.015}
+        - {x: -3.03158, y: -41.015}
+        - {x: -1.03158, y: -42.015}
+        - {x: 19.96842, y: -42.015}
+        - {x: 21.96842, y: -41.015}
+        - {x: 21.96842, y: -32.015}
+        - {x: 16.96842, y: -26.015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_72
+      rect:
+        serializedVersion: 2
+        x: 803.0761
+        y: 14.04291
+        width: 45.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6718196, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.96842, y: 41.485}
+        - {x: 13.96842, y: 41.485}
+        - {x: 13.96842, y: 40.485}
+        - {x: 22.96842, y: -31.515}
+        - {x: 22.96842, y: -37.515}
+        - {x: 14.96842, y: -41.515}
+        - {x: -10.03158, y: -41.515}
+        - {x: -23.03158, y: -30.515}
+        - {x: -23.03158, y: -0.5149994}
+        - {x: -20.03158, y: 11.485}
+      physicsShape:
+      - - {x: 17.96842, y: -13.515}
+        - {x: 13.96842, y: 40.485}
+        - {x: 10.96842, y: 41.485}
+        - {x: 6.96842, y: 40.485}
+        - {x: -3.03158, y: 18.485}
+        - {x: -20.03158, y: 11.485}
+        - {x: -20.03158, y: -10.515}
+        - {x: -23.03158, y: -17.515}
+        - {x: -23.03158, y: -22.515}
+        - {x: -18.03158, y: -24.515}
+        - {x: -7.03158, y: -20.515}
+        - {x: -4.03158, y: -40.515}
+        - {x: -0.03157997, y: -41.515}
+        - {x: 7.96842, y: -41.515}
+        - {x: 9.96842, y: -38.515}
+        - {x: 21.96842, y: -35.515}
+        - {x: 22.96842, y: -31.515}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_73
+      rect:
+        serializedVersion: 2
+        x: 931.0761
+        y: 14.04291
+        width: 45.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6718196, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.96842, y: 41.485}
+        - {x: 13.96842, y: 41.485}
+        - {x: 13.96842, y: 40.485}
+        - {x: 22.96842, y: -31.515}
+        - {x: 22.96842, y: -37.515}
+        - {x: 14.96842, y: -41.515}
+        - {x: -13.03158, y: -41.515}
+        - {x: -23.03158, y: -32.515}
+        - {x: -23.03158, y: 11.485}
+      physicsShape:
+      - - {x: 17.96842, y: -13.515}
+        - {x: 13.96842, y: 40.485}
+        - {x: 10.96842, y: 41.485}
+        - {x: 6.96842, y: 40.485}
+        - {x: -10.03158, y: 9.485001}
+        - {x: -18.03158, y: 7.485001}
+        - {x: -18.03158, y: -9.514999}
+        - {x: -23.03158, y: -17.515}
+        - {x: -23.03158, y: -22.515}
+        - {x: -18.03158, y: -24.515}
+        - {x: -7.03158, y: -20.515}
+        - {x: -4.03158, y: -40.515}
+        - {x: -0.03157997, y: -41.515}
+        - {x: 7.96842, y: -41.515}
+        - {x: 9.96842, y: -38.515}
+        - {x: 21.96842, y: -35.515}
+        - {x: 22.96842, y: -31.515}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_74
+      rect:
+        serializedVersion: 2
+        x: 1059.076
+        y: 14.04291
+        width: 46.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6574971, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.531702, y: -41.515}
+        - {x: -23.5317, y: -32.515}
+        - {x: -23.5317, y: 7.485001}
+        - {x: 6.468298, y: 41.485}
+        - {x: 14.4683, y: 41.485}
+        - {x: 23.4683, y: -23.515}
+        - {x: 23.4683, y: -39.515}
+        - {x: 18.4683, y: -41.515}
+      physicsShape:
+      - - {x: 23.4683, y: -28.515}
+        - {x: 15.4683, y: -1.514999}
+        - {x: 12.4683, y: 39.485}
+        - {x: 10.4683, y: 41.485}
+        - {x: 6.468298, y: 40.485}
+        - {x: -17.5317, y: 1.485001}
+        - {x: -17.5317, y: -9.514999}
+        - {x: -23.5317, y: -17.515}
+        - {x: -23.5317, y: -22.515}
+        - {x: -19.5317, y: -24.515}
+        - {x: -4.531702, y: -24.515}
+        - {x: -3.531702, y: -40.515}
+        - {x: -0.531702, y: -41.515}
+        - {x: 5.468298, y: -41.515}
+        - {x: 9.468298, y: -38.515}
+        - {x: 22.4683, y: -35.515}
+        - {x: 23.4683, y: -32.515}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_75
+      rect:
+        serializedVersion: 2
+        x: 1187.076
+        y: 14.04291
+        width: 46.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6574971, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.531702, y: -41.515}
+        - {x: -23.5317, y: -30.515}
+        - {x: -23.5317, y: -17.515}
+        - {x: -13.5317, y: -10.515}
+        - {x: -15.5317, y: -8.514999}
+        - {x: -16.5317, y: 11.485}
+        - {x: 6.468298, y: 41.485}
+        - {x: 15.4683, y: 41.485}
+        - {x: 23.4683, y: -21.515}
+        - {x: 23.4683, y: -39.515}
+        - {x: 20.4683, y: -41.515}
+      physicsShape:
+      - - {x: 12.4683, y: 39.485}
+        - {x: 10.4683, y: 41.485}
+        - {x: 6.468298, y: 40.485}
+        - {x: -10.5317, y: 8.485001}
+        - {x: -14.5317, y: -2.514999}
+        - {x: -15.5317, y: -6.514999}
+        - {x: -15.5317, y: -8.514999}
+        - {x: -13.5317, y: -10.515}
+        - {x: -23.5317, y: -17.515}
+        - {x: -23.5317, y: -26.515}
+        - {x: -8.531702, y: -29.515}
+        - {x: -3.531702, y: -40.515}
+        - {x: -1.531702, y: -41.515}
+        - {x: 18.4683, y: -41.515}
+        - {x: 23.4683, y: -39.515}
+        - {x: 23.4683, y: -28.515}
+        - {x: 15.4683, y: -1.514999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_waitingModeBloodTears_76
+      rect:
+        serializedVersion: 2
+        x: 1315.076
+        y: 14.04291
+        width: 46.91097
+        height: 82.94418
+      alignment: 9
+      pivot: {x: 0.6574971, y: 0.02480093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.531702, y: -41.515}
+        - {x: -23.5317, y: -30.515}
+        - {x: -23.5317, y: -17.515}
+        - {x: -13.5317, y: -10.515}
+        - {x: -15.5317, y: -8.514999}
+        - {x: -16.5317, y: 11.485}
+        - {x: 6.468298, y: 41.485}
+        - {x: 15.4683, y: 41.485}
+        - {x: 23.4683, y: -21.515}
+        - {x: 23.4683, y: -39.515}
+        - {x: 20.4683, y: -41.515}
+      physicsShape:
+      - - {x: 12.4683, y: 39.485}
+        - {x: 10.4683, y: 41.485}
+        - {x: 6.468298, y: 40.485}
+        - {x: -10.5317, y: 8.485001}
+        - {x: -15.5317, y: -5.514999}
+        - {x: -15.5317, y: -8.514999}
+        - {x: -13.5317, y: -10.515}
+        - {x: -23.5317, y: -17.515}
+        - {x: -23.5317, y: -26.515}
+        - {x: -8.531702, y: -29.515}
+        - {x: -3.531702, y: -40.515}
+        - {x: -1.531702, y: -41.515}
+        - {x: 18.4683, y: -41.515}
+        - {x: 23.4683, y: -39.515}
+        - {x: 23.4683, y: -28.515}
+        - {x: 15.4683, y: -1.514999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

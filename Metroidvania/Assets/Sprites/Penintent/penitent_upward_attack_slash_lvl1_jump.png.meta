@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: ea2ac4ef3b0f27749a651356efa9493b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_upward_attack_slash_lvl1_jump_0
+  - first:
+      213: 21300002
+    second: penitent_upward_attack_slash_lvl1_jump_1
+  - first:
+      213: 21300004
+    second: penitent_upward_attack_slash_lvl1_jump_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_upward_attack_slash_lvl1_jump_0
+      rect:
+        serializedVersion: 2
+        x: 20.07612
+        y: 29.05132
+        width: 70.92388
+        height: 106.9219
+      alignment: 9
+      pivot: {x: 0.6048721, y: -0.1134035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.53806, y: -46.51229}
+        - {x: -35.53806, y: -36.51229}
+        - {x: -35.53806, y: 12.48771}
+        - {x: -18.53806, y: 52.48771}
+        - {x: -13.53806, y: 53.48771}
+        - {x: 21.46194, y: 53.48771}
+        - {x: 35.46194, y: 39.48771}
+        - {x: 35.46194, y: 15.48771}
+        - {x: -28.53806, y: -47.51229}
+        - {x: -31.53806, y: -48.51229}
+      - - {x: -30.53806, y: -53.51229}
+        - {x: -32.53806, y: -50.51229}
+        - {x: -30.53806, y: -48.51229}
+        - {x: -27.53806, y: -49.51229}
+        - {x: -27.53806, y: -52.51229}
+      physicsShape:
+      - - {x: -30.53806, y: -53.51229}
+        - {x: -27.53806, y: -52.51229}
+        - {x: -27.53806, y: -49.51229}
+        - {x: -30.53806, y: -48.51229}
+        - {x: -32.53806, y: -50.51229}
+      - - {x: 34.46194, y: 24.48771}
+        - {x: 35.46194, y: 24.48771}
+        - {x: 35.46194, y: 34.48771}
+        - {x: 20.46194, y: 53.48771}
+        - {x: -3.538063, y: 53.48771}
+        - {x: -14.53806, y: 48.48771}
+        - {x: -31.53806, y: 20.48771}
+        - {x: -35.53806, y: -0.512291}
+        - {x: -35.53806, y: -35.51229}
+        - {x: -34.53806, y: -41.51229}
+        - {x: -33.53806, y: -46.51229}
+        - {x: -31.53806, y: -48.51229}
+        - {x: -28.53806, y: -47.51229}
+        - {x: -28.53806, y: -42.51229}
+        - {x: -20.53806, y: 14.48771}
+        - {x: 5.461937, y: 39.48771}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_upward_attack_slash_lvl1_jump_1
+      rect:
+        serializedVersion: 2
+        x: 148.0761
+        y: 65.01291
+        width: 80.84776
+        height: 70.96034
+      alignment: 9
+      pivot: {x: 0.5306254, y: -0.6776589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -35.49308}
+        - {x: -40.5, y: -34.49308}
+        - {x: -40.5, y: -17.49308}
+        - {x: -34.5, y: 1.50692}
+        - {x: -22.5, y: 33.50692}
+        - {x: -12.5, y: 35.50692}
+        - {x: 35.5, y: 35.50692}
+        - {x: 40.5, y: 21.50692}
+        - {x: 40.5, y: -35.49308}
+      physicsShape:
+      - - {x: 23.5, y: 8.50692}
+        - {x: 28.5, y: -2.49308}
+        - {x: 35.5, y: -34.49308}
+        - {x: 37.5, y: -35.49308}
+        - {x: 40.5, y: -35.49308}
+        - {x: 40.5, y: -15.49308}
+        - {x: 34.5, y: 2.50692}
+        - {x: 27.5, y: 17.50692}
+        - {x: 18.5, y: 29.50692}
+        - {x: 6.499996, y: 35.50692}
+        - {x: -6.500004, y: 35.50692}
+        - {x: -18.5, y: 29.50692}
+        - {x: -26.5, y: 20.50692}
+        - {x: -34.5, y: 1.50692}
+        - {x: -40.5, y: -17.49308}
+        - {x: -40.5, y: -34.49308}
+        - {x: -39.5, y: -35.49308}
+        - {x: -36.5, y: -35.49308}
+        - {x: -34.5, y: -34.49308}
+        - {x: -23.5, y: 8.50692}
+        - {x: -3.500004, y: 25.50692}
+        - {x: 9.499996, y: 23.50692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_upward_attack_slash_lvl1_jump_2
+      rect:
+        serializedVersion: 2
+        x: 329.0129
+        y: 60.01291
+        width: 27.91097
+        height: 67.97418
+      alignment: 9
+      pivot: {x: -0.3596044, y: -0.6338717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.96841, y: 28.99999}
+        - {x: -13.96841, y: 31.99999}
+        - {x: -13.96841, y: 33.99999}
+        - {x: -8.968407, y: 33.99999}
+        - {x: 8.031593, y: 19.99999}
+        - {x: 14.03159, y: -8.000008}
+        - {x: 14.03159, y: -33.00001}
+        - {x: 11.03159, y: -34.00001}
+        - {x: 9.031593, y: -32.00001}
+      physicsShape:
+      - - {x: -13.96841, y: 33.99999}
+        - {x: -13.96841, y: 31.99999}
+        - {x: -12.96841, y: 28.99999}
+        - {x: 5.031593, y: -4.000008}
+        - {x: 7.031593, y: -23.00001}
+        - {x: 9.031593, y: -32.00001}
+        - {x: 11.03159, y: -34.00001}
+        - {x: 14.03159, y: -33.00001}
+        - {x: 14.03159, y: -8.000008}
+        - {x: 8.031593, y: 19.99999}
+        - {x: -8.968407, y: 33.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

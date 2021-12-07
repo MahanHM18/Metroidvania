@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: e3d68d6e8b209b54690ba20cae64706d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Penitent-attack-dust_0
+  - first:
+      213: 21300002
+    second: Penitent-attack-dust_1
+  - first:
+      213: 21300004
+    second: Penitent-attack-dust_2
+  - first:
+      213: 21300006
+    second: Penitent-attack-dust_3
+  - first:
+      213: 21300008
+    second: Penitent-attack-dust_4
+  - first:
+      213: 21300010
+    second: Penitent-attack-dust_5
+  - first:
+      213: 21300012
+    second: Penitent-attack-dust_6
+  - first:
+      213: 21300014
+    second: Penitent-attack-dust_7
+  - first:
+      213: 21300016
+    second: Penitent-attack-dust_8
+  - first:
+      213: 21300018
+    second: Penitent-attack-dust_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 160
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Penitent-attack-dust_0
+      rect:
+        serializedVersion: 2
+        x: 0.05131668
+        y: 34.02675
+        width: 13.87256
+        height: 10.89713
+      alignment: 9
+      pivot: {x: 0.1384127, y: 0.182826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.987598, y: -5.475317}
+        - {x: -6.987598, y: -2.475317}
+        - {x: -2.987598, y: 3.524683}
+        - {x: 3.012402, y: 5.524683}
+        - {x: 7.012402, y: 5.524683}
+        - {x: 7.012402, y: -1.475317}
+        - {x: 6.012402, y: -5.475317}
+      physicsShape:
+      - - {x: 3.012402, y: 5.524683}
+        - {x: -2.987598, y: 3.524683}
+        - {x: -6.987598, y: -2.475317}
+        - {x: -5.987598, y: -5.475317}
+        - {x: 6.012402, y: -5.475317}
+        - {x: 7.012402, y: -1.475317}
+        - {x: 7.012402, y: 5.524683}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_1
+      rect:
+        serializedVersion: 2
+        x: 35.01291
+        y: 35.07612
+        width: 18.96034
+        height: 13.87256
+      alignment: 9
+      pivot: {x: -0.05492819, y: 0.06796957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.50692, y: -7.012401}
+        - {x: -9.49308, y: -7.012401}
+        - {x: -9.49308, y: -4.012401}
+        - {x: -5.49308, y: 6.987599}
+        - {x: 0.5069199, y: 6.987599}
+        - {x: 3.50692, y: 5.987599}
+        - {x: 6.50692, y: 6.987599}
+        - {x: 9.50692, y: 3.987599}
+        - {x: 9.50692, y: -1.012401}
+      physicsShape:
+      - - {x: 3.50692, y: 5.987599}
+        - {x: 0.5069199, y: 6.987599}
+        - {x: -5.49308, y: 6.987599}
+        - {x: -9.49308, y: -4.012401}
+        - {x: -9.49308, y: -7.012401}
+        - {x: 7.50692, y: -7.012401}
+        - {x: 9.50692, y: -1.012401}
+        - {x: 9.50692, y: 3.987599}
+        - {x: 6.50692, y: 6.987599}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_2
+      rect:
+        serializedVersion: 2
+        x: 72.01291
+        y: 36.0335
+        width: 16.96034
+        height: 15.89038
+      alignment: 9
+      pivot: {x: -0.3562107, y: -0.0009106202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.50692, y: -7.978691}
+        - {x: -8.49308, y: -7.978691}
+        - {x: -8.49308, y: 6.021309}
+        - {x: -4.49308, y: 8.021309}
+        - {x: 8.50692, y: 8.021309}
+      physicsShape:
+      - - {x: -4.49308, y: 8.021309}
+        - {x: -8.49308, y: 6.021309}
+        - {x: -8.49308, y: -7.978691}
+        - {x: 8.50692, y: -7.978691}
+        - {x: 8.50692, y: 8.021309}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_3
+      rect:
+        serializedVersion: 2
+        x: 103.0129
+        y: 37.05132
+        width: 17.9508
+        height: 17.85932
+      alignment: 9
+      pivot: {x: -0.2808484, y: -0.05780091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.011687, y: -3.980974}
+        - {x: -0.9883127, y: -4.980974}
+        - {x: -8.988313, y: 6.019026}
+        - {x: -7.988313, y: 9.019026}
+        - {x: -5.988313, y: 9.019026}
+        - {x: 1.011687, y: 1.019026}
+        - {x: 1.011687, y: 8.019026}
+        - {x: 7.011687, y: 8.019026}
+        - {x: 9.011687, y: 2.019026}
+        - {x: 9.011687, y: -4.980974}
+        - {x: 4.011687, y: -7.980974}
+        - {x: 3.011687, y: -7.980974}
+        - {x: 1.011687, y: -6.980974}
+      - - {x: -3.988313, y: -8.980974}
+        - {x: -5.988313, y: -5.980974}
+        - {x: -3.988313, y: -3.980974}
+        - {x: -0.9883127, y: -4.980974}
+        - {x: -0.9883127, y: -7.980974}
+      physicsShape:
+      - - {x: -3.988313, y: -8.980974}
+        - {x: -0.9883127, y: -7.980974}
+        - {x: -0.9883127, y: -4.980974}
+        - {x: -3.988313, y: -3.980974}
+        - {x: -5.988313, y: -5.980974}
+      - - {x: 1.011687, y: 8.019026}
+        - {x: 1.011687, y: -6.980974}
+        - {x: 3.011687, y: -7.980974}
+        - {x: 4.011687, y: -7.980974}
+        - {x: 9.011687, y: -4.980974}
+        - {x: 9.011687, y: 2.019026}
+        - {x: 7.011687, y: 8.019026}
+      - - {x: -8.988313, y: 6.019026}
+        - {x: -0.9883127, y: -4.980974}
+        - {x: 2.011687, y: -3.980974}
+        - {x: 2.011687, y: 0.0190258}
+        - {x: -5.988313, y: 9.019026}
+        - {x: -7.988313, y: 9.019026}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_4
+      rect:
+        serializedVersion: 2
+        x: 135.0129
+        y: 38.01291
+        width: 16.91097
+        height: 19.97417
+      alignment: 9
+      pivot: {x: -0.2981174, y: -0.09982301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.468388, y: 9.999999}
+        - {x: 1.531612, y: 6.999999}
+        - {x: 4.531612, y: 9.999999}
+        - {x: 8.531612, y: 9.999999}
+        - {x: 8.531612, y: -8.000001}
+        - {x: 2.531612, y: -10}
+        - {x: -4.468388, y: -10}
+        - {x: -4.468388, y: -7.000001}
+        - {x: -1.468388, y: -2.000001}
+        - {x: -5.468388, y: 2.999999}
+        - {x: -8.468388, y: 6.999999}
+        - {x: -8.468388, y: 9.999999}
+      physicsShape:
+      - - {x: 1.531612, y: 6.999999}
+        - {x: 1.531612, y: 2.999999}
+        - {x: -1.468388, y: -1.000001}
+        - {x: -4.468388, y: -7.000001}
+        - {x: -4.468388, y: -10}
+        - {x: 2.531612, y: -10}
+        - {x: 8.531612, y: -8.000001}
+        - {x: 8.531612, y: 9.999999}
+        - {x: 4.531612, y: 9.999999}
+      - - {x: -8.468388, y: 9.999999}
+        - {x: -8.468388, y: 6.999999}
+        - {x: -5.468388, y: 2.999999}
+        - {x: -1.468388, y: -2.000001}
+        - {x: 1.531612, y: -1.000001}
+        - {x: 1.531612, y: 6.999999}
+        - {x: -5.468388, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_5
+      rect:
+        serializedVersion: 2
+        x: 8.051316
+        y: 1.012913
+        width: 14.92193
+        height: 9.974174
+      alignment: 9
+      pivot: {x: 0.1124015, y: 0.2066872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.512283, y: -5}
+        - {x: -7.512283, y: -2}
+        - {x: -2.512283, y: 3}
+        - {x: 3.487717, y: 5}
+        - {x: 4.487717, y: 5}
+        - {x: 7.487717, y: 4}
+        - {x: 7.487717, y: -0.9999998}
+        - {x: 4.487717, y: -5}
+      physicsShape:
+      - - {x: 4.487717, y: 5}
+        - {x: 3.487717, y: 5}
+        - {x: -2.512283, y: 3}
+        - {x: -7.512283, y: -2}
+        - {x: -6.512283, y: -5}
+        - {x: 4.487717, y: -5}
+        - {x: 7.487717, y: -0.9999998}
+        - {x: 7.487717, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_6
+      rect:
+        serializedVersion: 2
+        x: 41.07612
+        y: 2.012913
+        width: 14.89713
+        height: 13.91097
+      alignment: 9
+      pivot: {x: 0.04379668, y: 0.07630916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.524681, y: -6.968396}
+        - {x: -7.524681, y: -5.968396}
+        - {x: -7.524681, y: -0.9683962}
+        - {x: -4.524681, y: 7.031604}
+        - {x: 6.475319, y: 7.031604}
+        - {x: 7.475319, y: 6.031604}
+        - {x: 7.475319, y: -4.968396}
+        - {x: 3.475319, y: -6.968396}
+      physicsShape:
+      - - {x: 6.475319, y: 7.031604}
+        - {x: -4.524681, y: 7.031604}
+        - {x: -7.524681, y: -0.9683962}
+        - {x: -7.524681, y: -5.968396}
+        - {x: -6.524681, y: -6.968396}
+        - {x: 3.475319, y: -6.968396}
+        - {x: 7.475319, y: -4.968396}
+        - {x: 7.475319, y: 6.031604}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_7
+      rect:
+        serializedVersion: 2
+        x: 72.14935
+        y: 3.026751
+        width: 19.77453
+        height: 16.93975
+      alignment: 9
+      pivot: {x: 0.07986082, y: 0.002815605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.036616, y: -7.496625}
+        - {x: -10.03662, y: -2.496625}
+        - {x: -10.03662, y: 7.503375}
+        - {x: -6.036616, y: 8.503374}
+        - {x: 5.963384, y: 8.503374}
+        - {x: 9.963384, y: 6.503375}
+        - {x: 9.963384, y: -7.496625}
+        - {x: 7.963384, y: -8.496625}
+        - {x: -6.036616, y: -8.496625}
+      physicsShape:
+      - - {x: -6.036616, y: 8.503374}
+        - {x: -10.03662, y: 7.503375}
+        - {x: -10.03662, y: -2.496625}
+        - {x: -9.036616, y: -7.496625}
+        - {x: -6.036616, y: -8.496625}
+        - {x: 7.963384, y: -8.496625}
+        - {x: 9.963384, y: -7.496625}
+        - {x: 9.963384, y: 6.503375}
+        - {x: 5.963384, y: 8.503374}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_8
+      rect:
+        serializedVersion: 2
+        x: 102.0363
+        y: 3.07612
+        width: 24.9508
+        height: 18.91097
+      alignment: 9
+      pivot: {x: 0.1479823, y: -0.00008850412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.511684, y: -9.531604}
+        - {x: -8.511684, y: -5.531604}
+        - {x: -6.511684, y: -1.531604}
+        - {x: -8.511684, y: -3.531604}
+        - {x: -9.511684, y: -3.531604}
+        - {x: -12.51168, y: -0.5316038}
+        - {x: -12.51168, y: 4.468396}
+        - {x: -7.511684, y: 6.468396}
+        - {x: -2.511684, y: 6.468396}
+        - {x: 0.4883156, y: 3.468396}
+        - {x: 0.4883156, y: 2.468396}
+        - {x: 5.488316, y: 9.468395}
+        - {x: 11.48832, y: 9.468395}
+        - {x: 12.48832, y: 6.468396}
+        - {x: 12.48832, y: -8.531604}
+        - {x: 10.48832, y: -9.531604}
+        - {x: -0.5116844, y: -9.531604}
+        - {x: -0.5116844, y: -7.531604}
+        - {x: -4.511684, y: -9.531604}
+      physicsShape:
+      - - {x: -7.511684, y: 6.468396}
+        - {x: -12.51168, y: 4.468396}
+        - {x: -12.51168, y: -0.5316038}
+        - {x: -9.511684, y: -3.531604}
+        - {x: -8.511684, y: -3.531604}
+        - {x: -6.511684, y: -1.531604}
+        - {x: -8.511684, y: -5.531604}
+        - {x: -6.511684, y: -9.531604}
+        - {x: -4.511684, y: -9.531604}
+        - {x: 0.4883156, y: -6.531604}
+        - {x: 0.4883156, y: 3.468396}
+        - {x: -2.511684, y: 6.468396}
+      - - {x: 5.488316, y: 9.468395}
+        - {x: -0.5116844, y: 1.468396}
+        - {x: -0.5116844, y: -9.531604}
+        - {x: 10.48832, y: -9.531604}
+        - {x: 12.48832, y: -8.531604}
+        - {x: 12.48832, y: 6.468396}
+        - {x: 11.48832, y: 9.468395}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penitent-attack-dust_9
+      rect:
+        serializedVersion: 2
+        x: 134.0363
+        y: 6.051317
+        width: 24.92743
+        height: 18.93577
+      alignment: 9
+      pivot: {x: 0.1481211, y: -0.1572088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.500002, y: 1.480798}
+        - {x: 6.500002, y: 3.480798}
+        - {x: 7.500002, y: 8.480797}
+        - {x: 10.5, y: 9.480797}
+        - {x: 12.5, y: 7.480797}
+        - {x: 11.5, y: 2.480798}
+      - - {x: 0.5000019, y: -9.519202}
+        - {x: -0.4999981, y: -7.519202}
+        - {x: -0.4999981, y: -5.519202}
+        - {x: -8.499998, y: -5.519202}
+        - {x: -12.5, y: -1.519202}
+        - {x: -12.5, y: 3.480798}
+        - {x: -7.499998, y: 5.480797}
+        - {x: -3.499998, y: 5.480797}
+        - {x: -0.4999981, y: 2.480798}
+        - {x: 0.5000019, y: -0.5192022}
+        - {x: 0.5000019, y: -3.519202}
+        - {x: 4.500002, y: 1.480798}
+        - {x: 7.500002, y: 1.480798}
+        - {x: 9.500002, y: 0.4807978}
+        - {x: 9.500002, y: -4.519202}
+        - {x: 5.500002, y: -9.519202}
+      physicsShape:
+      - - {x: 7.500002, y: 1.480798}
+        - {x: 4.500002, y: 1.480798}
+        - {x: -0.4999981, y: -4.519202}
+        - {x: -0.4999981, y: -7.519202}
+        - {x: 0.5000019, y: -9.519202}
+        - {x: 5.500002, y: -9.519202}
+        - {x: 9.500002, y: -4.519202}
+        - {x: 9.500002, y: 0.4807978}
+      - - {x: -3.499998, y: 5.480797}
+        - {x: -7.499998, y: 5.480797}
+        - {x: -12.5, y: 3.480798}
+        - {x: -12.5, y: -1.519202}
+        - {x: -8.499998, y: -5.519202}
+        - {x: 0.5000019, y: -5.519202}
+        - {x: 0.5000019, y: -0.5192022}
+        - {x: -0.4999981, y: 2.480798}
+      - - {x: 6.500002, y: 3.480798}
+        - {x: 8.500002, y: 1.480798}
+        - {x: 11.5, y: 2.480798}
+        - {x: 12.5, y: 7.480797}
+        - {x: 10.5, y: 9.480797}
+        - {x: 7.500002, y: 8.480797}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

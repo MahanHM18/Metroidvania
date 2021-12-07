@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 84cf4f73b4f5d5d428a740abe2cf60cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_charged_attackLVL3_projectile_vanish_anim_0
+  - first:
+      213: 21300002
+    second: penitent_charged_attackLVL3_projectile_vanish_anim_1
+  - first:
+      213: 21300004
+    second: penitent_charged_attackLVL3_projectile_vanish_anim_2
+  - first:
+      213: 21300006
+    second: penitent_charged_attackLVL3_projectile_vanish_anim_3
+  - first:
+      213: 21300008
+    second: penitent_charged_attackLVL3_projectile_vanish_anim_4
+  - first:
+      213: 21300010
+    second: penitent_charged_attackLVL3_projectile_vanish_anim_5
+  - first:
+      213: 21300012
+    second: penitent_charged_attackLVL3_projectile_vanish_anim_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_charged_attackLVL3_projectile_vanish_anim_0
+      rect:
+        serializedVersion: 2
+        x: 45.07612
+        y: 26.07612
+        width: 63.84776
+        height: 84.91097
+      alignment: 9
+      pivot: {x: 0.2963906, y: 0.4466311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.999998, y: -42.5316}
+        - {x: -32, y: -42.5316}
+        - {x: -32, y: -18.5316}
+        - {x: -21, y: 19.4684}
+        - {x: -3.000002, y: 42.4684}
+        - {x: 6.999998, y: 42.4684}
+        - {x: 31, y: 36.4684}
+        - {x: 32, y: 27.4684}
+        - {x: 32, y: -33.5316}
+      physicsShape:
+      - - {x: 32, y: 3.468395}
+        - {x: 22, y: 28.4684}
+        - {x: 1.999998, y: 42.4684}
+        - {x: -2.000002, y: 42.4684}
+        - {x: -3.000002, y: 40.4684}
+        - {x: -2.000002, y: 37.4684}
+        - {x: 14, y: 11.4684}
+        - {x: 6.999998, y: -17.5316}
+        - {x: -5.000002, y: -27.5316}
+        - {x: -17, y: -33.5316}
+        - {x: -28, y: -32.5316}
+        - {x: -32, y: -35.5316}
+        - {x: -32, y: -37.5316}
+        - {x: -31, y: -40.5316}
+        - {x: -22, y: -42.5316}
+        - {x: 4.999998, y: -42.5316}
+        - {x: 26, y: -25.5316}
+        - {x: 29, y: -14.5316}
+        - {x: 32, y: -5.531605}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_charged_attackLVL3_projectile_vanish_anim_1
+      rect:
+        serializedVersion: 2
+        x: 188.0129
+        y: 26.05132
+        width: 47.96034
+        height: 82.93578
+      alignment: 9
+      pivot: {x: 0.08313309, y: 0.4575671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.9930782, y: 40.4808}
+        - {x: -0.9930782, y: 39.4808}
+        - {x: 5.006922, y: 39.4808}
+        - {x: 22.00692, y: 28.4808}
+        - {x: 24.00692, y: 14.4808}
+        - {x: 24.00692, y: -20.5192}
+        - {x: 22.00692, y: -30.5192}
+        - {x: -5.993078, y: -41.5192}
+        - {x: -23.99308, y: -41.5192}
+        - {x: -23.99308, y: -31.5192}
+        - {x: -1.993078, y: 37.4808}
+        - {x: -3.993078, y: 36.4808}
+        - {x: -5.993078, y: 39.4808}
+        - {x: -3.993078, y: 41.4808}
+      physicsShape:
+      - - {x: 22.00692, y: 28.4808}
+        - {x: 5.006922, y: 39.4808}
+        - {x: -0.9930782, y: 39.4808}
+        - {x: -1.993078, y: 37.4808}
+        - {x: 10.00692, y: 12.4808}
+        - {x: 9.006922, y: -8.519203}
+        - {x: -8.993078, y: -28.5192}
+        - {x: -23.99308, y: -36.5192}
+        - {x: -23.99308, y: -40.5192}
+        - {x: -22.99308, y: -41.5192}
+        - {x: -4.993078, y: -41.5192}
+        - {x: 16.00692, y: -25.5192}
+        - {x: 24.00692, y: -9.519203}
+        - {x: 24.00692, y: 14.4808}
+      - - {x: -3.993078, y: 36.4808}
+        - {x: -0.9930782, y: 37.4808}
+        - {x: -0.9930782, y: 40.4808}
+        - {x: -3.993078, y: 41.4808}
+        - {x: -5.993078, y: 39.4808}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_charged_attackLVL3_projectile_vanish_anim_2
+      rect:
+        serializedVersion: 2
+        x: 333.0513
+        y: 30.05973
+        width: 30.87257
+        height: 75.86415
+      alignment: 9
+      pivot: {x: -0.4227485, y: 0.4473822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.512386, y: -37.99181}
+        - {x: -15.48761, y: -37.99181}
+        - {x: -15.48761, y: -34.99181}
+        - {x: -6.487614, y: 35.00819}
+        - {x: -2.487614, y: 38.00819}
+        - {x: 0.5123863, y: 38.00819}
+        - {x: 15.51239, y: 29.00819}
+        - {x: 15.51239, y: -15.99181}
+      physicsShape:
+      - - {x: 10.51239, y: 27.00819}
+        - {x: 0.5123863, y: 38.00819}
+        - {x: -2.487614, y: 38.00819}
+        - {x: -3.487614, y: 35.00819}
+        - {x: -15.48761, y: -34.99181}
+        - {x: -14.48761, y: -37.99181}
+        - {x: -8.487614, y: -37.99181}
+        - {x: -2.487614, y: -36.99181}
+        - {x: 15.51239, y: -9.991806}
+        - {x: 15.51239, y: 17.00819}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_charged_attackLVL3_projectile_vanish_anim_3
+      rect:
+        serializedVersion: 2
+        x: 469.0761
+        y: 38.07612
+        width: 22.84776
+        height: 64.82947
+      alignment: 9
+      pivot: {x: -0.9224584, y: 0.399878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.499992, y: -32.49086}
+        - {x: -11.49999, y: -32.49086}
+        - {x: -11.49999, y: -21.49086}
+        - {x: -3.499992, y: 32.50914}
+        - {x: 2.500008, y: 32.50914}
+        - {x: 9.500008, y: 27.50914}
+        - {x: 11.50001, y: 15.50914}
+        - {x: 11.50001, y: -15.49086}
+        - {x: 9.500008, y: -19.49086}
+      physicsShape:
+      - - {x: 2.500008, y: 32.50914}
+        - {x: -2.499992, y: 32.50914}
+        - {x: -0.4999924, y: 12.50914}
+        - {x: -5.499992, y: -22.49086}
+        - {x: -11.49999, y: -27.49086}
+        - {x: -11.49999, y: -32.49086}
+        - {x: -6.499992, y: -32.49086}
+        - {x: 9.500008, y: -19.49086}
+        - {x: 11.50001, y: -15.49086}
+        - {x: 11.50001, y: 15.50914}
+        - {x: 9.500008, y: 27.50914}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_charged_attackLVL3_projectile_vanish_anim_4
+      rect:
+        serializedVersion: 2
+        x: 606.0129
+        y: 45.01291
+        width: 14.91097
+        height: 58.88839
+      alignment: 9
+      pivot: {x: -2.012809, y: 0.3224249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.46843, y: -29.45711}
+        - {x: -7.46843, y: 3.542891}
+        - {x: -7.46843, y: 29.54289}
+        - {x: 3.53157, y: 29.54289}
+        - {x: 7.53157, y: 16.54289}
+        - {x: 7.53157, y: -20.45711}
+        - {x: 0.5315704, y: -29.45711}
+      physicsShape:
+      - - {x: -7.46843, y: 29.54289}
+        - {x: -7.46843, y: 3.542891}
+        - {x: -4.46843, y: -29.45711}
+        - {x: 0.5315704, y: -29.45711}
+        - {x: 7.53157, y: -20.45711}
+        - {x: 7.53157, y: 16.54289}
+        - {x: 3.53157, y: 29.54289}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_charged_attackLVL3_projectile_vanish_anim_5
+      rect:
+        serializedVersion: 2
+        x: 737.0335
+        y: 47.05132
+        width: 11.89038
+        height: 52.79933
+      alignment: 9
+      pivot: {x: -2.778171, y: 0.3210019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.978699, y: -19.45098}
+        - {x: -5.978699, y: 10.54902}
+        - {x: -5.978699, y: 24.54902}
+        - {x: -4.978699, y: 26.54902}
+        - {x: -1.978699, y: 26.54902}
+        - {x: 5.021301, y: 15.54902}
+        - {x: 6.021301, y: 9.549019}
+        - {x: 6.021301, y: -14.45098}
+        - {x: 3.021301, y: -19.45098}
+        - {x: 0.02130127, y: -20.45098}
+      - - {x: -2.978699, y: -26.45098}
+        - {x: -4.978699, y: -23.45098}
+        - {x: -2.978699, y: -21.45098}
+        - {x: 0.02130127, y: -22.45098}
+        - {x: 0.02130127, y: -25.45098}
+      physicsShape:
+      - - {x: -2.978699, y: -26.45098}
+        - {x: 0.02130127, y: -25.45098}
+        - {x: 0.02130127, y: -22.45098}
+        - {x: -2.978699, y: -21.45098}
+        - {x: -4.978699, y: -23.45098}
+      - - {x: -1.978699, y: 26.54902}
+        - {x: -4.978699, y: 26.54902}
+        - {x: -5.978699, y: 24.54902}
+        - {x: -5.978699, y: 10.54902}
+        - {x: -2.978699, y: -19.45098}
+        - {x: 0.02130127, y: -20.45098}
+        - {x: 3.021301, y: -19.45098}
+        - {x: 6.021301, y: -14.45098}
+        - {x: 6.021301, y: 9.549019}
+        - {x: 5.021301, y: 15.54902}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_charged_attackLVL3_projectile_vanish_anim_6
+      rect:
+        serializedVersion: 2
+        x: 869.0129
+        y: 57.05132
+        width: 7.910973
+        height: 34.79933
+      alignment: 9
+      pivot: {x: -4.678684, y: 0.1996787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.9684258, y: -3.450981}
+        - {x: -3.968426, y: 12.54902}
+        - {x: -3.968426, y: 14.54902}
+        - {x: -2.968426, y: 17.54902}
+        - {x: 0.03157425, y: 17.54902}
+        - {x: 3.031574, y: 11.54902}
+        - {x: 4.031574, y: 2.549019}
+        - {x: 4.031574, y: -4.450981}
+        - {x: 1.031574, y: -5.450981}
+      - - {x: 0.03157425, y: -11.45098}
+        - {x: -1.968426, y: -9.450981}
+        - {x: -1.968426, y: -6.450981}
+        - {x: 1.031574, y: -5.450981}
+        - {x: 3.031574, y: -7.450981}
+        - {x: 3.031574, y: -10.45098}
+      - - {x: -0.9684258, y: -17.45098}
+        - {x: -2.968426, y: -14.45098}
+        - {x: -0.9684258, y: -12.45098}
+        - {x: 2.031574, y: -13.45098}
+        - {x: 2.031574, y: -16.45098}
+      physicsShape:
+      - - {x: -0.9684258, y: -17.45098}
+        - {x: 2.031574, y: -16.45098}
+        - {x: 2.031574, y: -13.45098}
+        - {x: -0.9684258, y: -12.45098}
+        - {x: -2.968426, y: -14.45098}
+      - - {x: -1.968426, y: -9.450981}
+        - {x: 0.03157425, y: -11.45098}
+        - {x: 3.031574, y: -10.45098}
+        - {x: 3.031574, y: -7.450981}
+        - {x: 1.031574, y: -5.450981}
+        - {x: -1.968426, y: -6.450981}
+      - - {x: -3.968426, y: 14.54902}
+        - {x: -3.968426, y: 12.54902}
+        - {x: -0.9684258, y: -3.450981}
+        - {x: 1.031574, y: -5.450981}
+        - {x: 4.031574, y: -4.450981}
+        - {x: 4.031574, y: 2.549019}
+        - {x: 3.031574, y: 11.54902}
+        - {x: 0.03157425, y: 17.54902}
+        - {x: -2.968426, y: 17.54902}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

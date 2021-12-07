@@ -1,0 +1,1953 @@
+fileFormatVersion: 2
+guid: ba5ad88c0881f644fab428092d74883b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_lever_action_up_anim_0
+  - first:
+      213: 21300002
+    second: penitent_lever_action_up_anim_1
+  - first:
+      213: 21300004
+    second: penitent_lever_action_up_anim_2
+  - first:
+      213: 21300006
+    second: penitent_lever_action_up_anim_3
+  - first:
+      213: 21300008
+    second: penitent_lever_action_up_anim_4
+  - first:
+      213: 21300010
+    second: penitent_lever_action_up_anim_5
+  - first:
+      213: 21300012
+    second: penitent_lever_action_up_anim_6
+  - first:
+      213: 21300014
+    second: penitent_lever_action_up_anim_7
+  - first:
+      213: 21300016
+    second: penitent_lever_action_up_anim_8
+  - first:
+      213: 21300018
+    second: penitent_lever_action_up_anim_9
+  - first:
+      213: 21300020
+    second: penitent_lever_action_up_anim_10
+  - first:
+      213: 21300022
+    second: penitent_lever_action_up_anim_11
+  - first:
+      213: 21300024
+    second: penitent_lever_action_up_anim_12
+  - first:
+      213: 21300026
+    second: penitent_lever_action_up_anim_13
+  - first:
+      213: 21300028
+    second: penitent_lever_action_up_anim_14
+  - first:
+      213: 21300030
+    second: penitent_lever_action_up_anim_15
+  - first:
+      213: 21300032
+    second: penitent_lever_action_up_anim_16
+  - first:
+      213: 21300034
+    second: penitent_lever_action_up_anim_17
+  - first:
+      213: 21300036
+    second: penitent_lever_action_up_anim_18
+  - first:
+      213: 21300038
+    second: penitent_lever_action_up_anim_19
+  - first:
+      213: 21300040
+    second: penitent_lever_action_up_anim_20
+  - first:
+      213: 21300042
+    second: penitent_lever_action_up_anim_21
+  - first:
+      213: 21300044
+    second: penitent_lever_action_up_anim_22
+  - first:
+      213: 21300046
+    second: penitent_lever_action_up_anim_23
+  - first:
+      213: 21300048
+    second: penitent_lever_action_up_anim_24
+  - first:
+      213: 21300050
+    second: penitent_lever_action_up_anim_25
+  - first:
+      213: 21300052
+    second: penitent_lever_action_up_anim_26
+  - first:
+      213: 21300054
+    second: penitent_lever_action_up_anim_27
+  - first:
+      213: 21300056
+    second: penitent_lever_action_up_anim_28
+  - first:
+      213: 21300058
+    second: penitent_lever_action_up_anim_29
+  - first:
+      213: 21300060
+    second: penitent_lever_action_up_anim_30
+  - first:
+      213: 21300062
+    second: penitent_lever_action_up_anim_31
+  - first:
+      213: 21300064
+    second: penitent_lever_action_up_anim_32
+  - first:
+      213: 21300066
+    second: penitent_lever_action_up_anim_33
+  - first:
+      213: 21300068
+    second: penitent_lever_action_up_anim_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7301492, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -36}
+        - {x: -33.5, y: -32}
+        - {x: -33.5, y: -23}
+        - {x: 10.5, y: 36}
+        - {x: 23.5, y: 36}
+        - {x: 33.5, y: -9}
+        - {x: 33.5, y: -36}
+      physicsShape:
+      - - {x: 33.5, y: -26}
+        - {x: 32.5, y: -20}
+        - {x: 30.5, y: 2}
+        - {x: 21.5, y: 17}
+        - {x: 19.5, y: 32}
+        - {x: 18.5, y: 36}
+        - {x: 12.5, y: 36}
+        - {x: 9.5, y: 16}
+        - {x: -3.5, y: 5}
+        - {x: -5.5, y: -6}
+        - {x: -32.5, y: -22}
+        - {x: -33.5, y: -24}
+        - {x: -33.5, y: -30}
+        - {x: -16.5, y: -26}
+        - {x: -13.5, y: -30}
+        - {x: -6.5, y: -35}
+        - {x: -6.5, y: -36}
+        - {x: 4.5, y: -36}
+        - {x: 14.5, y: -22}
+        - {x: 24.5, y: -36}
+        - {x: 33.5, y: -36}
+      - - {x: 4.5, y: -12}
+        - {x: 3.5, y: -12}
+        - {x: 1.5, y: -14}
+        - {x: 2.5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7563636, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -36.5}
+        - {x: -33, y: -32.5}
+        - {x: -33, y: -3.5}
+        - {x: 12, y: 36.5}
+        - {x: 33, y: 36.5}
+        - {x: 33, y: -36.5}
+      physicsShape:
+      - - {x: 33, y: -36.5}
+        - {x: 33, y: -27.5}
+        - {x: 32, y: -21.5}
+        - {x: 30, y: 3.5}
+        - {x: 25, y: 13.5}
+        - {x: 21, y: 36.5}
+        - {x: 15, y: 36.5}
+        - {x: 9, y: 14.5}
+        - {x: -2, y: 1.5}
+        - {x: -5, y: -4.5}
+        - {x: -30, y: -21.5}
+        - {x: -33, y: -25.5}
+        - {x: -33, y: -31.5}
+        - {x: -16, y: -30.5}
+        - {x: -5, y: -31.5}
+        - {x: -5, y: -36.5}
+        - {x: 6, y: -36.5}
+        - {x: 10, y: -26.5}
+        - {x: 19, y: -27.5}
+        - {x: 24, y: -36.5}
+      - - {x: 0, y: -15.5}
+        - {x: 6, y: -9.5}
+        - {x: 8, y: -6.5}
+        - {x: 6, y: -7.5}
+        - {x: -1, y: -14.5}
+        - {x: -1, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7729032, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -36.5}
+        - {x: -31, y: -36.5}
+        - {x: -31, y: -26.5}
+        - {x: 13, y: 36.5}
+        - {x: 24, y: 36.5}
+        - {x: 31, y: -11.5}
+      physicsShape:
+      - - {x: 31, y: -36.5}
+        - {x: 31, y: -27.5}
+        - {x: 30, y: -21.5}
+        - {x: 30, y: -2.5}
+        - {x: 22, y: 36.5}
+        - {x: 14, y: 36.5}
+        - {x: 8, y: 17.5}
+        - {x: -2, y: 7.5}
+        - {x: -16, y: -8.5}
+        - {x: -31, y: -26.5}
+        - {x: -31, y: -32.5}
+        - {x: -28, y: -33.5}
+        - {x: -11, y: -26.5}
+        - {x: 0, y: -21.5}
+        - {x: -5, y: -35.5}
+        - {x: -5, y: -36.5}
+        - {x: 7, y: -36.5}
+        - {x: 20, y: -28.5}
+        - {x: 22, y: -36.5}
+      - - {x: 5, y: -7.5}
+        - {x: 2, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7827451, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -37.5}
+        - {x: -25.5, y: -37.5}
+        - {x: -25.5, y: -26.5}
+        - {x: -23.5, y: -16.5}
+        - {x: 10.5, y: 37.5}
+        - {x: 17.5, y: 37.5}
+        - {x: 25.5, y: 10.5}
+      physicsShape:
+      - - {x: 25.5, y: -30.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 25.5, y: -15.5}
+        - {x: 25.5, y: -6.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 16.5, y: 37.5}
+        - {x: 10.5, y: 37.5}
+        - {x: 2.5, y: 15.5}
+        - {x: -23.5, y: -16.5}
+        - {x: -25.5, y: -26.5}
+        - {x: -25.5, y: -37.5}
+        - {x: -23.5, y: -37.5}
+        - {x: -15.5, y: -29.5}
+        - {x: -10.5, y: -20.5}
+        - {x: -3.5, y: -22.5}
+        - {x: -6.5, y: -34.5}
+        - {x: -7.5, y: -37.5}
+        - {x: 2.5, y: -37.5}
+        - {x: 9.5, y: -22.5}
+        - {x: 14.5, y: -37.5}
+        - {x: 25.5, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 236
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7709091, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -38.5}
+        - {x: -11, y: -36.5}
+        - {x: -10, y: -31.5}
+        - {x: -14, y: -39.5}
+        - {x: -20, y: -39.5}
+        - {x: -22, y: -35.5}
+        - {x: -22, y: -9.5}
+        - {x: 2, y: 39.5}
+        - {x: 22, y: 39.5}
+        - {x: 22, y: -38.5}
+        - {x: 13, y: -38.5}
+        - {x: 0, y: -36.5}
+        - {x: -2, y: -38.5}
+      physicsShape:
+      - - {x: -8, y: -38.5}
+        - {x: -2, y: -38.5}
+        - {x: 0, y: -36.5}
+        - {x: 3, y: -26.5}
+        - {x: 9, y: -36.5}
+        - {x: 13, y: -38.5}
+        - {x: 19, y: -38.5}
+        - {x: 20, y: -35.5}
+        - {x: 17, y: -8.5}
+        - {x: 22, y: -6.5}
+        - {x: 22, y: 2.5}
+        - {x: 17, y: 7.5}
+        - {x: 15, y: 39.5}
+        - {x: 8, y: 39.5}
+        - {x: 4, y: 25.5}
+        - {x: -7, y: 10.5}
+        - {x: -13, y: -6.5}
+        - {x: -22, y: -14.5}
+        - {x: -22, y: -31.5}
+        - {x: -20, y: -39.5}
+        - {x: -14, y: -39.5}
+        - {x: -10, y: -31.5}
+        - {x: -5, y: -14.5}
+        - {x: -11, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 74
+        width: 48
+        height: 81
+      alignment: 9
+      pivot: {x: 0.7691666, y: 0.0617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -40.5}
+        - {x: -24, y: -30.5}
+        - {x: -24, y: -10.5}
+        - {x: 4, y: 40.5}
+        - {x: 13, y: 40.5}
+        - {x: 24, y: 8.5}
+        - {x: 24, y: -15.5}
+        - {x: 12, y: -36.5}
+        - {x: 0, y: -40.5}
+      physicsShape:
+      - - {x: 24, y: -6.5}
+        - {x: 24, y: 0.5}
+        - {x: 13, y: 8.5}
+        - {x: 13, y: 40.5}
+        - {x: 6, y: 40.5}
+        - {x: -2, y: 18.5}
+        - {x: -9, y: 11.5}
+        - {x: -13, y: 0.5}
+        - {x: -24, y: -12.5}
+        - {x: -24, y: -25.5}
+        - {x: -13, y: -40.5}
+        - {x: 0, y: -40.5}
+        - {x: 12, y: -36.5}
+        - {x: 13, y: -34.5}
+        - {x: 12, y: -31.5}
+        - {x: 14, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 226
+        width: 41
+        height: 72
+      alignment: 9
+      pivot: {x: 0.827317, y: 0.05555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -36}
+        - {x: -20.5, y: -31}
+        - {x: -20.5, y: 4}
+        - {x: -18.5, y: 16}
+        - {x: 7.5, y: 36}
+        - {x: 20.5, y: 36}
+        - {x: 20.5, y: -5}
+        - {x: 15.5, y: -21}
+        - {x: 9.5, y: -36}
+      physicsShape:
+      - - {x: 18.5, y: 17}
+        - {x: 20.5, y: 29}
+        - {x: 20.5, y: 36}
+        - {x: 11.5, y: 36}
+        - {x: -9.5, y: 12}
+        - {x: -15.5, y: -6}
+        - {x: -20.5, y: -10}
+        - {x: -20.5, y: -16}
+        - {x: -16.5, y: -16}
+        - {x: -1.5, y: -12}
+        - {x: -8.5, y: -27}
+        - {x: -6.5, y: -36}
+        - {x: 8.5, y: -36}
+        - {x: 13.5, y: -21}
+        - {x: 20.5, y: -4}
+        - {x: 20.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 74
+        width: 44
+        height: 72
+      alignment: 9
+      pivot: {x: 0.8163636, y: 0.06944445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.999985, y: -35}
+        - {x: -21.99998, y: -23}
+        - {x: -21.99998, y: -5}
+        - {x: -11.99998, y: 14}
+        - {x: 15.00002, y: 36}
+        - {x: 22.00002, y: 36}
+        - {x: 22.00002, y: -36}
+        - {x: -0.9999847, y: -36}
+      physicsShape:
+      - - {x: 22.00002, y: -1}
+        - {x: 22.00002, y: 3}
+        - {x: 17.00002, y: 9}
+        - {x: 22.00002, y: 23}
+        - {x: 22.00002, y: 36}
+        - {x: 17.00002, y: 36}
+        - {x: 9.000015, y: 29}
+        - {x: -4.999985, y: 12}
+        - {x: -4.999985, y: 0}
+        - {x: -21.99998, y: -8}
+        - {x: -21.99998, y: -15}
+        - {x: -17.99998, y: -16}
+        - {x: -3.999985, y: -20}
+        - {x: -8.999985, y: -26}
+        - {x: -5.999985, y: -34}
+        - {x: 2.000015, y: -33}
+        - {x: 5.000015, y: -32}
+        - {x: 12.00002, y: -19}
+        - {x: 17.00002, y: -34}
+        - {x: 19.00002, y: -36}
+        - {x: 22.00002, y: -36}
+        - {x: 22.00002, y: -23}
+        - {x: 18.00002, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 45
+        height: 69
+      alignment: 9
+      pivot: {x: 0.8871111, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.50002, y: -34.5}
+        - {x: 11.50002, y: -23.5}
+        - {x: 7.500015, y: -30.5}
+        - {x: 7.500015, y: -31.5}
+        - {x: 4.500015, y: -34.5}
+        - {x: -8.499985, y: -34.5}
+        - {x: -22.49998, y: -20.5}
+        - {x: -22.49998, y: -3.5}
+        - {x: 9.500015, y: 32.5}
+        - {x: 14.50002, y: 34.5}
+        - {x: 22.50002, y: 34.5}
+        - {x: 22.50002, y: -34.5}
+      physicsShape:
+      - - {x: 22.50002, y: 26.5}
+        - {x: 21.50002, y: 34.5}
+        - {x: 16.50002, y: 34.5}
+        - {x: 12.50002, y: 30.5}
+        - {x: -5.499985, y: 13.5}
+        - {x: -9.499985, y: -1.5}
+        - {x: -22.49998, y: -3.5}
+        - {x: -22.49998, y: -11.5}
+        - {x: -4.499985, y: -13.5}
+        - {x: -11.49998, y: -22.5}
+        - {x: -9.499985, y: -33.5}
+        - {x: -4.499985, y: -34.5}
+        - {x: 0.5000153, y: -34.5}
+        - {x: 5.500015, y: -33.5}
+        - {x: 7.500015, y: -31.5}
+        - {x: 7.500015, y: -30.5}
+        - {x: 13.50002, y: -20.5}
+        - {x: 11.50002, y: -22.5}
+        - {x: 18.50002, y: -34.5}
+        - {x: 22.50002, y: -34.5}
+        - {x: 22.50002, y: -3.5}
+        - {x: 16.50002, y: 9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 149
+        width: 46
+        height: 63
+      alignment: 9
+      pivot: {x: 0.8895652, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -20.5}
+        - {x: 9, y: -31.5}
+        - {x: -12, y: -31.5}
+        - {x: -13, y: -20.5}
+        - {x: -20, y: -24.5}
+        - {x: -23, y: -24.5}
+        - {x: -23, y: -16.5}
+        - {x: -6, y: 9.5}
+        - {x: 15, y: 31.5}
+        - {x: 21, y: 31.5}
+        - {x: 23, y: 11.5}
+        - {x: 23, y: -27.5}
+        - {x: 22, y: -27.5}
+        - {x: 17, y: -22.5}
+        - {x: 12, y: -6.5}
+        - {x: 10, y: -11.5}
+        - {x: 15, y: -16.5}
+      physicsShape:
+      - - {x: 12, y: -6.5}
+        - {x: 17, y: -22.5}
+        - {x: 22, y: -27.5}
+        - {x: 23, y: -27.5}
+        - {x: 23, y: 6.5}
+        - {x: 19, y: 19.5}
+        - {x: 21, y: 23.5}
+        - {x: 20, y: 31.5}
+        - {x: 15, y: 31.5}
+        - {x: -6, y: 9.5}
+        - {x: -23, y: -16.5}
+        - {x: -23, y: -24.5}
+        - {x: -20, y: -24.5}
+        - {x: -13, y: -20.5}
+        - {x: -13, y: -22.5}
+        - {x: -12, y: -31.5}
+        - {x: 9, y: -31.5}
+        - {x: 15, y: -20.5}
+        - {x: 15, y: -16.5}
+        - {x: 10, y: -11.5}
+      - - {x: -1, y: -25.5}
+        - {x: 1, y: -21.5}
+        - {x: -3, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5702857, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -29}
+        - {x: -35, y: -29}
+        - {x: -35, y: -11}
+        - {x: -12, y: 29}
+        - {x: 7, y: 29}
+        - {x: 35, y: -3}
+      physicsShape:
+      - - {x: 3, y: 0}
+        - {x: 32, y: -18}
+        - {x: 35, y: -18}
+        - {x: 35, y: -12}
+        - {x: 18, y: 3}
+        - {x: 14, y: 12}
+        - {x: 4, y: 17}
+        - {x: 5, y: 25}
+        - {x: 4, y: 29}
+        - {x: -4, y: 29}
+        - {x: -10, y: 22}
+        - {x: -30, y: -4}
+        - {x: -35, y: -13}
+        - {x: -35, y: -25}
+        - {x: -32, y: -26}
+        - {x: -27, y: -21}
+        - {x: -24, y: -29}
+        - {x: -4, y: -29}
+        - {x: -5, y: -25}
+        - {x: 1, y: -12}
+        - {x: -8, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 74
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.7076364, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.49998, y: -27.5}
+        - {x: -27.49998, y: -27.5}
+        - {x: -27.49998, y: -9.5}
+        - {x: -10.49998, y: 25.5}
+        - {x: -6.499985, y: 27.5}
+        - {x: 3.500015, y: 27.5}
+        - {x: 27.50002, y: -6.5}
+        - {x: 27.50002, y: -22.5}
+        - {x: 19.50002, y: -27.5}
+        - {x: -21.49998, y: -27.5}
+        - {x: -23.49998, y: -26.5}
+      physicsShape:
+      - - {x: 5.500015, y: -10.5}
+        - {x: -3.499985, y: -6.5}
+        - {x: 2.500015, y: -2.5}
+        - {x: 16.50002, y: -14.5}
+        - {x: 24.50002, y: -18.5}
+        - {x: 27.50002, y: -18.5}
+        - {x: 27.50002, y: -11.5}
+        - {x: 3.500015, y: 11.5}
+        - {x: -0.4999847, y: 27.5}
+        - {x: -5.499985, y: 27.5}
+        - {x: -9.499985, y: 24.5}
+        - {x: -20.49998, y: 4.5}
+        - {x: -27.49998, y: -12.5}
+        - {x: -27.49998, y: -27.5}
+        - {x: -24.49998, y: -27.5}
+        - {x: -23.49998, y: -26.5}
+        - {x: -21.49998, y: -27.5}
+        - {x: 1.500015, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 58
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6882758, y: 0.01612903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.00002, y: -31}
+        - {x: -28.99998, y: -31}
+        - {x: -28.99998, y: -8}
+        - {x: -16.99998, y: 23}
+        - {x: -14.99998, y: 31}
+        - {x: -5.999985, y: 31}
+        - {x: 29.00002, y: -5}
+      physicsShape:
+      - - {x: 23.00002, y: -14}
+        - {x: 29.00002, y: -15}
+        - {x: 29.00002, y: -10}
+        - {x: 27.00002, y: -8}
+        - {x: -0.9999847, y: 7}
+        - {x: -8.999985, y: 10}
+        - {x: -6.999985, y: 22}
+        - {x: -8.999985, y: 31}
+        - {x: -14.99998, y: 31}
+        - {x: -16.99998, y: 23}
+        - {x: -24.99998, y: 1}
+        - {x: -28.99998, y: -19}
+        - {x: -28.99998, y: -31}
+        - {x: 1.000015, y: -31}
+        - {x: 2.000015, y: -30}
+        - {x: 9.000015, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 56
+        height: 62
+      alignment: 9
+      pivot: {x: 0.695, y: 0.01612903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -31}
+        - {x: -28, y: -31}
+        - {x: -28, y: -4}
+        - {x: -24, y: 22}
+        - {x: -22, y: 31}
+        - {x: -14, y: 31}
+        - {x: 28, y: 7}
+        - {x: 28, y: -9}
+        - {x: 11, y: -24}
+        - {x: 3, y: -31}
+        - {x: -19, y: -31}
+        - {x: -22, y: -29}
+      physicsShape:
+      - - {x: 1, y: -30}
+        - {x: 0, y: -27}
+        - {x: 0, y: -14}
+        - {x: -1, y: -7}
+        - {x: 28, y: -8}
+        - {x: 28, y: -2}
+        - {x: 25, y: 0}
+        - {x: 3, y: 3}
+        - {x: -1, y: 7}
+        - {x: -13, y: 11}
+        - {x: -16, y: 31}
+        - {x: -22, y: 31}
+        - {x: -24, y: 22}
+        - {x: -28, y: -4}
+        - {x: -28, y: -31}
+        - {x: -23, y: -31}
+        - {x: -22, y: -29}
+        - {x: -19, y: -31}
+        - {x: 0, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 56
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6771428, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.99998, y: -31.5}
+        - {x: -27.99998, y: -31.5}
+        - {x: -27.99998, y: 10.5}
+        - {x: -25.99998, y: 31.5}
+        - {x: -15.99998, y: 31.5}
+        - {x: 28.00002, y: 8.5}
+        - {x: 28.00002, y: -22.5}
+        - {x: 13.00002, y: -31.5}
+        - {x: -20.99998, y: -31.5}
+        - {x: -21.99998, y: -28.5}
+      physicsShape:
+      - - {x: 1.000015, y: -31.5}
+        - {x: 4.000015, y: -13.5}
+        - {x: 5.000015, y: -4.5}
+        - {x: 1.000015, y: 0.5}
+        - {x: 28.00002, y: 0.5}
+        - {x: 28.00002, y: 6.5}
+        - {x: 0.00001525879, y: 11.5}
+        - {x: -9.999985, y: 11.5}
+        - {x: -17.99998, y: 31.5}
+        - {x: -23.99998, y: 31.5}
+        - {x: -26.99998, y: 22.5}
+        - {x: -27.99998, y: 5.5}
+        - {x: -27.99998, y: -31.5}
+        - {x: -22.99998, y: -31.5}
+        - {x: -21.99998, y: -28.5}
+        - {x: -20.99998, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 56
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6235714, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.00001525879, y: -34.5}
+        - {x: -23.99998, y: -34.5}
+        - {x: -22.99998, y: -30.5}
+        - {x: -21.99998, y: -27.5}
+        - {x: -23.99998, y: -32.5}
+        - {x: -27.99998, y: -31.5}
+        - {x: -27.99998, y: 11.5}
+        - {x: -23.99998, y: 34.5}
+        - {x: -15.99998, y: 34.5}
+        - {x: 28.00002, y: 18.5}
+        - {x: 28.00002, y: -1.5}
+      physicsShape:
+      - - {x: 2.000015, y: -0.5}
+        - {x: 28.00002, y: 4.5}
+        - {x: 28.00002, y: 12.5}
+        - {x: -4.999985, y: 15.5}
+        - {x: -14.99998, y: 19.5}
+        - {x: -17.99998, y: 34.5}
+        - {x: -23.99998, y: 34.5}
+        - {x: -27.99998, y: 11.5}
+        - {x: -27.99998, y: -31.5}
+        - {x: -23.99998, y: -32.5}
+        - {x: -21.99998, y: -27.5}
+        - {x: -22.99998, y: -30.5}
+        - {x: -23.99998, y: -34.5}
+        - {x: -2.999985, y: -34.5}
+        - {x: -0.9999847, y: -22.5}
+        - {x: -3.999985, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.515862, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -35}
+        - {x: -29, y: -35}
+        - {x: -29, y: 32}
+        - {x: -28, y: 35}
+        - {x: -10, y: 35}
+        - {x: 29, y: 12}
+        - {x: 29, y: 3}
+      physicsShape:
+      - - {x: 2, y: 1}
+        - {x: 29, y: 4}
+        - {x: 29, y: 10}
+        - {x: -11, y: 17}
+        - {x: -14, y: 35}
+        - {x: -19, y: 35}
+        - {x: -29, y: 8}
+        - {x: -29, y: -32}
+        - {x: -25, y: -35}
+        - {x: -9, y: -35}
+        - {x: -8, y: -33}
+        - {x: -1, y: -16}
+        - {x: -11, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 64
+        height: 73
+      alignment: 9
+      pivot: {x: 0.420625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -36.5}
+        - {x: -32, y: -36.5}
+        - {x: -32, y: 19.5}
+        - {x: -26, y: 36.5}
+        - {x: -10, y: 36.5}
+        - {x: 32, y: 15.5}
+        - {x: 32, y: -25.5}
+      physicsShape:
+      - - {x: 2, y: 4.5}
+        - {x: 27, y: 0.5}
+        - {x: 32, y: 0.5}
+        - {x: 32, y: 6.5}
+        - {x: 29, y: 8.5}
+        - {x: 7, y: 11.5}
+        - {x: -12, y: 36.5}
+        - {x: -20, y: 36.5}
+        - {x: -22, y: 29.5}
+        - {x: -30, y: 5.5}
+        - {x: -30, y: 0.5}
+        - {x: -32, y: -7.5}
+        - {x: -32, y: -28.5}
+        - {x: -28, y: -29.5}
+        - {x: -27, y: -35.5}
+        - {x: -26, y: -36.5}
+        - {x: -14, y: -36.5}
+        - {x: -9, y: -20.5}
+        - {x: -14, y: -9.5}
+        - {x: 0, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3986667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -37}
+        - {x: -30, y: -37}
+        - {x: -30, y: 13}
+        - {x: -25, y: 37}
+        - {x: -10, y: 37}
+        - {x: 30, y: 4}
+        - {x: 30, y: -33}
+      physicsShape:
+      - - {x: 9, y: -1}
+        - {x: 30, y: -7}
+        - {x: 30, y: -1}
+        - {x: 29, y: 1}
+        - {x: -5, y: 19}
+        - {x: -10, y: 28}
+        - {x: -12, y: 37}
+        - {x: -18, y: 37}
+        - {x: -20, y: 29}
+        - {x: -21, y: 22}
+        - {x: -28, y: 6}
+        - {x: -30, y: -2}
+        - {x: -30, y: -34}
+        - {x: -27, y: -37}
+        - {x: -10, y: -37}
+        - {x: -9, y: -23}
+        - {x: -1, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 55
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4167272, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.499985, y: -35.5}
+        - {x: -25.49998, y: -35.5}
+        - {x: -25.49998, y: -31.5}
+        - {x: -23.49998, y: -22.5}
+        - {x: -25.49998, y: -24.5}
+        - {x: -27.49998, y: -25.5}
+        - {x: -27.49998, y: -6.5}
+        - {x: -25.49998, y: 9.5}
+        - {x: -16.49998, y: 27.5}
+        - {x: -10.49998, y: 35.5}
+        - {x: -2.499985, y: 35.5}
+        - {x: 5.500015, y: 17.5}
+        - {x: 27.50002, y: -5.5}
+        - {x: 27.50002, y: -12.5}
+        - {x: -4.499985, y: -32.5}
+        - {x: -4.499985, y: -34.5}
+      physicsShape:
+      - - {x: 3.500015, y: 4.5}
+        - {x: 21.50002, y: -11.5}
+        - {x: 27.50002, y: -11.5}
+        - {x: 27.50002, y: -5.5}
+        - {x: 5.500015, y: 17.5}
+        - {x: -2.499985, y: 23.5}
+        - {x: -3.499985, y: 35.5}
+        - {x: -10.49998, y: 35.5}
+        - {x: -16.49998, y: 27.5}
+        - {x: -23.49998, y: 8.5}
+        - {x: -27.49998, y: -10.5}
+        - {x: -27.49998, y: -24.5}
+        - {x: -25.49998, y: -24.5}
+        - {x: -23.49998, y: -22.5}
+        - {x: -25.49998, y: -31.5}
+        - {x: -25.49998, y: -35.5}
+        - {x: -5.499985, y: -35.5}
+        - {x: -4.499985, y: -34.5}
+        - {x: -4.499985, y: -32.5}
+        - {x: -8.499985, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 74
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4754545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.000015, y: -35}
+        - {x: -21.99998, y: -35}
+        - {x: -21.99998, y: -29}
+        - {x: -17.99998, y: -22}
+        - {x: -19.99998, y: -24}
+        - {x: -21.99998, y: -24}
+        - {x: -21.99998, y: 8}
+        - {x: -10.99998, y: 35}
+        - {x: 10.00002, y: 35}
+        - {x: 22.00002, y: -3}
+        - {x: 22.00002, y: -26}
+        - {x: 5.000015, y: -32}
+        - {x: 5.000015, y: -34}
+      physicsShape:
+      - - {x: 0.00001525879, y: -6}
+        - {x: 21.00002, y: -17}
+        - {x: 22.00002, y: -17}
+        - {x: 22.00002, y: -4}
+        - {x: 9.000015, y: 17}
+        - {x: 5.000015, y: 35}
+        - {x: -4.999985, y: 35}
+        - {x: -20.99998, y: 10}
+        - {x: -21.99998, y: 1}
+        - {x: -21.99998, y: -24}
+        - {x: -19.99998, y: -24}
+        - {x: -17.99998, y: -22}
+        - {x: -21.99998, y: -29}
+        - {x: -21.99998, y: -35}
+        - {x: 4.000015, y: -35}
+        - {x: 5.000015, y: -34}
+        - {x: 5.000015, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 74
+        width: 47
+        height: 69
+      alignment: 9
+      pivot: {x: 0.466383, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.50002, y: -34.5}
+        - {x: -23.49998, y: -34.5}
+        - {x: -23.49998, y: 3.5}
+        - {x: -16.49998, y: 33.5}
+        - {x: -6.499985, y: 34.5}
+        - {x: 6.500015, y: 34.5}
+        - {x: 21.50002, y: 0.5}
+        - {x: 23.50002, y: -6.5}
+        - {x: 23.50002, y: -25.5}
+      physicsShape:
+      - - {x: 11.50002, y: -5.5}
+        - {x: 22.50002, y: -17.5}
+        - {x: 23.50002, y: -18.5}
+        - {x: 23.50002, y: -6.5}
+        - {x: 21.50002, y: 0.5}
+        - {x: 14.50002, y: 10.5}
+        - {x: 5.500015, y: 34.5}
+        - {x: 0.5000153, y: 34.5}
+        - {x: -3.499985, y: 31.5}
+        - {x: -5.499985, y: 26.5}
+        - {x: -14.49998, y: 8.5}
+        - {x: -23.49998, y: -10.5}
+        - {x: -23.49998, y: -24.5}
+        - {x: -20.49998, y: -25.5}
+        - {x: -23.49998, y: -29.5}
+        - {x: -23.49998, y: -30.5}
+        - {x: -22.49998, y: -34.5}
+        - {x: 5.500015, y: -34.5}
+        - {x: 5.500015, y: -33.5}
+        - {x: 2.500015, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 298
+        width: 38
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5768421, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -34.5}
+        - {x: -18, y: -34.5}
+        - {x: -18, y: -32.5}
+        - {x: -15, y: -22.5}
+        - {x: -17, y: -23.5}
+        - {x: -19, y: -23.5}
+        - {x: -19, y: -8.5}
+        - {x: -17, y: -0.5}
+        - {x: 3, y: 34.5}
+        - {x: 11, y: 34.5}
+        - {x: 19, y: 11.5}
+        - {x: 19, y: -21.5}
+        - {x: 10, y: -21.5}
+        - {x: 10, y: -33.5}
+        - {x: 9, y: -34.5}
+        - {x: -1, y: -34.5}
+        - {x: -2, y: -33.5}
+        - {x: -3, y: -24.5}
+      physicsShape:
+      - - {x: 9, y: -34.5}
+        - {x: 10, y: -33.5}
+        - {x: 10, y: -21.5}
+        - {x: 8, y: -8.5}
+        - {x: 18, y: -19.5}
+        - {x: 19, y: -19.5}
+        - {x: 19, y: 11.5}
+        - {x: 11, y: 34.5}
+        - {x: 5, y: 34.5}
+        - {x: 2, y: 31.5}
+        - {x: -14, y: -1.5}
+        - {x: -19, y: -11.5}
+        - {x: -19, y: -23.5}
+        - {x: -17, y: -23.5}
+        - {x: -15, y: -22.5}
+        - {x: -18, y: -32.5}
+        - {x: -18, y: -34.5}
+        - {x: -8, y: -34.5}
+        - {x: -3, y: -24.5}
+        - {x: -2, y: -33.5}
+        - {x: -1, y: -34.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 387
+        width: 43
+        height: 77
+      alignment: 9
+      pivot: {x: 0.7190697, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: -38.5}
+        - {x: -21.5, y: -38.5}
+        - {x: -21.5, y: 6.5}
+        - {x: 5.5, y: 38.5}
+        - {x: 13.5, y: 38.5}
+        - {x: 21.5, y: 18.5}
+        - {x: 21.5, y: -26.5}
+      physicsShape:
+      - - {x: 15.5, y: -30.5}
+        - {x: 21.5, y: -22.5}
+        - {x: 21.5, y: 10.5}
+        - {x: 17.5, y: 21.5}
+        - {x: 11.5, y: 38.5}
+        - {x: 5.5, y: 38.5}
+        - {x: -5.5, y: 12.5}
+        - {x: -4.5, y: -5.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -21.5, y: -23.5}
+        - {x: -8.5, y: -23.5}
+        - {x: -10.5, y: -35.5}
+        - {x: -10.5, y: -38.5}
+        - {x: -1.5, y: -38.5}
+        - {x: 4.5, y: -27.5}
+        - {x: 4.5, y: -38.5}
+        - {x: 18.5, y: -38.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 394
+        width: 44
+        height: 77
+      alignment: 9
+      pivot: {x: 0.7254545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -38.5}
+        - {x: -22, y: -27.5}
+        - {x: -22, y: 3.5}
+        - {x: -2, y: 38.5}
+        - {x: 9, y: 38.5}
+        - {x: 9, y: 20.5}
+        - {x: 11, y: 24.5}
+        - {x: 19, y: 22.5}
+        - {x: 22, y: 15.5}
+        - {x: 22, y: -30.5}
+        - {x: 21, y: -38.5}
+      physicsShape:
+      - - {x: 22, y: 11.5}
+        - {x: 19, y: 22.5}
+        - {x: 11, y: 24.5}
+        - {x: 9, y: 20.5}
+        - {x: 9, y: 18.5}
+        - {x: 9, y: 38.5}
+        - {x: 3, y: 38.5}
+        - {x: -9, y: 3.5}
+        - {x: -6, y: -5.5}
+        - {x: -22, y: -15.5}
+        - {x: -22, y: -24.5}
+        - {x: -9, y: -28.5}
+        - {x: -10, y: -38.5}
+        - {x: 19, y: -38.5}
+        - {x: 21, y: -21.5}
+        - {x: 22, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 149
+        width: 44
+        height: 77
+      alignment: 9
+      pivot: {x: 0.7254545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -38.5}
+        - {x: -22, y: -26.5}
+        - {x: -22, y: -4.5}
+        - {x: -3, y: 38.5}
+        - {x: 22, y: 38.5}
+        - {x: 22, y: -38.5}
+      physicsShape:
+      - - {x: 21, y: -27.5}
+        - {x: 22, y: -27.5}
+        - {x: 22, y: 9.5}
+        - {x: 18, y: 18.5}
+        - {x: 8, y: 18.5}
+        - {x: 6, y: 38.5}
+        - {x: -1, y: 38.5}
+        - {x: -11, y: 12.5}
+        - {x: -11, y: 2.5}
+        - {x: -22, y: -12.5}
+        - {x: -22, y: -24.5}
+        - {x: -9, y: -28.5}
+        - {x: -10, y: -38.5}
+        - {x: 17, y: -38.5}
+        - {x: 17, y: -37.5}
+        - {x: 13, y: -26.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 149
+        width: 41
+        height: 77
+      alignment: 9
+      pivot: {x: 0.7785366, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -38.5}
+        - {x: -20.5, y: -34.5}
+        - {x: -20.5, y: 5.5}
+        - {x: 0.5, y: 38.5}
+        - {x: 7.5, y: 38.5}
+        - {x: 18.5, y: 18.5}
+        - {x: 20.5, y: 13.5}
+        - {x: 20.5, y: -38.5}
+        - {x: 19.5, y: -38.5}
+        - {x: 18.5, y: -37.5}
+        - {x: 18.5, y: -38.5}
+      physicsShape:
+      - - {x: 20.5, y: -38.5}
+        - {x: 20.5, y: 13.5}
+        - {x: 18.5, y: 18.5}
+        - {x: 8.5, y: 15.5}
+        - {x: 7.5, y: 38.5}
+        - {x: 1.5, y: 38.5}
+        - {x: -1.5, y: 29.5}
+        - {x: -8.5, y: 12.5}
+        - {x: -8.5, y: -4.5}
+        - {x: -4.5, y: -7.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -20.5, y: -24.5}
+        - {x: -7.5, y: -28.5}
+        - {x: -8.5, y: -38.5}
+        - {x: 18.5, y: -38.5}
+        - {x: 18.5, y: -37.5}
+        - {x: 19.5, y: -38.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 308
+        width: 42
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7838095, y: 0.02531646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -39.5}
+        - {x: -21, y: -39.5}
+        - {x: -21, y: -0.5}
+        - {x: -2, y: 39.5}
+        - {x: 19, y: 39.5}
+        - {x: 21, y: 29.5}
+      physicsShape:
+      - - {x: 21, y: 3.5}
+        - {x: 21, y: 15.5}
+        - {x: 10, y: 20.5}
+        - {x: 9, y: 39.5}
+        - {x: 2, y: 39.5}
+        - {x: -11, y: 7.5}
+        - {x: -8, y: -3.5}
+        - {x: -21, y: -14.5}
+        - {x: -21, y: -21.5}
+        - {x: -19, y: -21.5}
+        - {x: -3, y: -15.5}
+        - {x: -10, y: -38.5}
+        - {x: -7, y: -39.5}
+        - {x: 1, y: -39.5}
+        - {x: 5, y: -27.5}
+        - {x: 7, y: -37.5}
+        - {x: 10, y: -39.5}
+        - {x: 20, y: -39.5}
+        - {x: 20, y: -34.5}
+        - {x: 16, y: -18.5}
+        - {x: 19, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 226
+        width: 41
+        height: 82
+      alignment: 9
+      pivot: {x: 0.827317, y: 0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -34}
+        - {x: 9.5, y: -34}
+        - {x: 8.5, y: -41}
+        - {x: -7.5, y: -41}
+        - {x: -20.5, y: -24}
+        - {x: -20.5, y: 7}
+        - {x: -4.5, y: 41}
+        - {x: 11.5, y: 41}
+        - {x: 20.5, y: 30}
+        - {x: 20.5, y: -40}
+        - {x: 10.5, y: -36}
+      physicsShape:
+      - - {x: 10.5, y: -36}
+        - {x: 20.5, y: -40}
+        - {x: 20.5, y: 25}
+        - {x: 11.5, y: 41}
+        - {x: 4.5, y: 41}
+        - {x: -10.5, y: 6}
+        - {x: -20.5, y: -12}
+        - {x: -20.5, y: -20}
+        - {x: -18.5, y: -20}
+        - {x: -5.5, y: -17}
+        - {x: -7.5, y: -41}
+        - {x: 8.5, y: -41}
+        - {x: 9.5, y: -33}
+        - {x: 8.5, y: -28}
+        - {x: 9.5, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 155
+        width: 44
+        height: 81
+      alignment: 9
+      pivot: {x: 0.7709091, y: 0.0617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -40.5}
+        - {x: -22, y: -28.5}
+        - {x: -22, y: -9.5}
+        - {x: -3, y: 40.5}
+        - {x: 12, y: 40.5}
+        - {x: 22, y: 27.5}
+        - {x: 22, y: -34.5}
+        - {x: 12, y: -40.5}
+      physicsShape:
+      - - {x: 19, y: -34.5}
+        - {x: 16, y: -22.5}
+        - {x: 22, y: -0.5}
+        - {x: 22, y: 8.5}
+        - {x: 11, y: 16.5}
+        - {x: 11, y: 40.5}
+        - {x: 4, y: 40.5}
+        - {x: -6, y: 19.5}
+        - {x: -10, y: -0.5}
+        - {x: -22, y: -13.5}
+        - {x: -22, y: -25.5}
+        - {x: -11, y: -40.5}
+        - {x: 3, y: -40.5}
+        - {x: 9, y: -36.5}
+        - {x: 12, y: -37.5}
+        - {x: 18, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 315
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7481818, y: 0.03797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -38.5}
+        - {x: -11, y: -36.5}
+        - {x: -10, y: -31.5}
+        - {x: -14, y: -39.5}
+        - {x: -20, y: -39.5}
+        - {x: -22, y: -34.5}
+        - {x: -22, y: -12.5}
+        - {x: 2, y: 37.5}
+        - {x: 6, y: 39.5}
+        - {x: 12, y: 39.5}
+        - {x: 22, y: 15.5}
+        - {x: 22, y: -26.5}
+        - {x: 20, y: -35.5}
+        - {x: 19, y: -38.5}
+        - {x: 13, y: -38.5}
+        - {x: 0, y: -36.5}
+        - {x: -2, y: -38.5}
+      physicsShape:
+      - - {x: -8, y: -38.5}
+        - {x: -2, y: -38.5}
+        - {x: 0, y: -36.5}
+        - {x: 3, y: -26.5}
+        - {x: 9, y: -36.5}
+        - {x: 13, y: -38.5}
+        - {x: 19, y: -38.5}
+        - {x: 20, y: -35.5}
+        - {x: 17, y: -8.5}
+        - {x: 22, y: -6.5}
+        - {x: 22, y: 1.5}
+        - {x: 12, y: 13.5}
+        - {x: 12, y: 39.5}
+        - {x: 7, y: 39.5}
+        - {x: 5, y: 35.5}
+        - {x: -11, y: -2.5}
+        - {x: -22, y: -14.5}
+        - {x: -22, y: -29.5}
+        - {x: -20, y: -35.5}
+        - {x: -20, y: -39.5}
+        - {x: -14, y: -39.5}
+        - {x: -10, y: -31.5}
+        - {x: -5, y: -14.5}
+        - {x: -11, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 74
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7631372, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -37.5}
+        - {x: -25.5, y: -37.5}
+        - {x: -25.5, y: -26.5}
+        - {x: -23.5, y: -16.5}
+        - {x: 10.5, y: 37.5}
+        - {x: 17.5, y: 37.5}
+        - {x: 25.5, y: 10.5}
+      physicsShape:
+      - - {x: 25.5, y: -30.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 25.5, y: -15.5}
+        - {x: 25.5, y: -6.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 16.5, y: 37.5}
+        - {x: 10.5, y: 37.5}
+        - {x: 2.5, y: 15.5}
+        - {x: -23.5, y: -16.5}
+        - {x: -25.5, y: -26.5}
+        - {x: -25.5, y: -37.5}
+        - {x: -23.5, y: -37.5}
+        - {x: -15.5, y: -29.5}
+        - {x: -10.5, y: -20.5}
+        - {x: -3.5, y: -22.5}
+        - {x: -6.5, y: -34.5}
+        - {x: -7.5, y: -37.5}
+        - {x: 2.5, y: -37.5}
+        - {x: 9.5, y: -22.5}
+        - {x: 14.5, y: -37.5}
+        - {x: 25.5, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7567742, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -36.5}
+        - {x: -31, y: -36.5}
+        - {x: -31, y: -26.5}
+        - {x: 13, y: 36.5}
+        - {x: 24, y: 36.5}
+        - {x: 31, y: -11.5}
+      physicsShape:
+      - - {x: 31, y: -36.5}
+        - {x: 31, y: -27.5}
+        - {x: 30, y: -21.5}
+        - {x: 30, y: -2.5}
+        - {x: 22, y: 36.5}
+        - {x: 14, y: 36.5}
+        - {x: 8, y: 17.5}
+        - {x: -2, y: 7.5}
+        - {x: -16, y: -8.5}
+        - {x: -31, y: -26.5}
+        - {x: -31, y: -32.5}
+        - {x: -28, y: -33.5}
+        - {x: -11, y: -26.5}
+        - {x: 0, y: -21.5}
+        - {x: -5, y: -35.5}
+        - {x: -5, y: -36.5}
+        - {x: 7, y: -36.5}
+        - {x: 20, y: -28.5}
+        - {x: 22, y: -36.5}
+      - - {x: 5, y: -7.5}
+        - {x: 2, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7412121, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -36.5}
+        - {x: -33, y: -32.5}
+        - {x: -33, y: -3.5}
+        - {x: 12, y: 36.5}
+        - {x: 33, y: 36.5}
+        - {x: 33, y: -36.5}
+      physicsShape:
+      - - {x: 33, y: -36.5}
+        - {x: 33, y: -27.5}
+        - {x: 32, y: -21.5}
+        - {x: 30, y: 3.5}
+        - {x: 25, y: 13.5}
+        - {x: 21, y: 36.5}
+        - {x: 15, y: 36.5}
+        - {x: 9, y: 14.5}
+        - {x: -2, y: 1.5}
+        - {x: -5, y: -4.5}
+        - {x: -30, y: -21.5}
+        - {x: -33, y: -25.5}
+        - {x: -33, y: -31.5}
+        - {x: -16, y: -30.5}
+        - {x: -5, y: -31.5}
+        - {x: -5, y: -36.5}
+        - {x: 6, y: -36.5}
+        - {x: 10, y: -26.5}
+        - {x: 19, y: -27.5}
+        - {x: 24, y: -36.5}
+      - - {x: 0, y: -15.5}
+        - {x: 6, y: -9.5}
+        - {x: 8, y: -6.5}
+        - {x: 6, y: -7.5}
+        - {x: -1, y: -14.5}
+        - {x: -1, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_lever_action_up_anim_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7301492, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -36}
+        - {x: -33.5, y: -32}
+        - {x: -33.5, y: -23}
+        - {x: 10.5, y: 36}
+        - {x: 23.5, y: 36}
+        - {x: 33.5, y: -9}
+        - {x: 33.5, y: -36}
+      physicsShape:
+      - - {x: 33.5, y: -26}
+        - {x: 32.5, y: -20}
+        - {x: 30.5, y: 2}
+        - {x: 21.5, y: 17}
+        - {x: 19.5, y: 32}
+        - {x: 18.5, y: 36}
+        - {x: 12.5, y: 36}
+        - {x: 9.5, y: 16}
+        - {x: -3.5, y: 5}
+        - {x: -5.5, y: -6}
+        - {x: -32.5, y: -22}
+        - {x: -33.5, y: -24}
+        - {x: -33.5, y: -30}
+        - {x: -16.5, y: -26}
+        - {x: -13.5, y: -30}
+        - {x: -6.5, y: -35}
+        - {x: -6.5, y: -36}
+        - {x: 4.5, y: -36}
+        - {x: 14.5, y: -22}
+        - {x: 24.5, y: -36}
+        - {x: 33.5, y: -36}
+      - - {x: 4.5, y: -12}
+        - {x: 3.5, y: -12}
+        - {x: 1.5, y: -14}
+        - {x: 2.5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

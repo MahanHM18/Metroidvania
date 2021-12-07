@@ -1,0 +1,2268 @@
+fileFormatVersion: 2
+guid: f5a1509fcb696804f8d38cacced34bdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_risingFromFallen_anim_0
+  - first:
+      213: 21300002
+    second: penitent_risingFromFallen_anim_1
+  - first:
+      213: 21300004
+    second: penitent_risingFromFallen_anim_2
+  - first:
+      213: 21300006
+    second: penitent_risingFromFallen_anim_3
+  - first:
+      213: 21300008
+    second: penitent_risingFromFallen_anim_4
+  - first:
+      213: 21300010
+    second: penitent_risingFromFallen_anim_5
+  - first:
+      213: 21300012
+    second: penitent_risingFromFallen_anim_6
+  - first:
+      213: 21300014
+    second: penitent_risingFromFallen_anim_7
+  - first:
+      213: 21300016
+    second: penitent_risingFromFallen_anim_8
+  - first:
+      213: 21300018
+    second: penitent_risingFromFallen_anim_9
+  - first:
+      213: 21300020
+    second: penitent_risingFromFallen_anim_10
+  - first:
+      213: 21300022
+    second: penitent_risingFromFallen_anim_11
+  - first:
+      213: 21300024
+    second: penitent_risingFromFallen_anim_12
+  - first:
+      213: 21300026
+    second: penitent_risingFromFallen_anim_13
+  - first:
+      213: 21300028
+    second: penitent_risingFromFallen_anim_14
+  - first:
+      213: 21300030
+    second: penitent_risingFromFallen_anim_15
+  - first:
+      213: 21300032
+    second: penitent_risingFromFallen_anim_16
+  - first:
+      213: 21300034
+    second: penitent_risingFromFallen_anim_17
+  - first:
+      213: 21300036
+    second: penitent_risingFromFallen_anim_18
+  - first:
+      213: 21300038
+    second: penitent_risingFromFallen_anim_19
+  - first:
+      213: 21300040
+    second: penitent_risingFromFallen_anim_20
+  - first:
+      213: 21300042
+    second: penitent_risingFromFallen_anim_21
+  - first:
+      213: 21300044
+    second: penitent_risingFromFallen_anim_22
+  - first:
+      213: 21300046
+    second: penitent_risingFromFallen_anim_23
+  - first:
+      213: 21300048
+    second: penitent_risingFromFallen_anim_24
+  - first:
+      213: 21300050
+    second: penitent_risingFromFallen_anim_25
+  - first:
+      213: 21300052
+    second: penitent_risingFromFallen_anim_26
+  - first:
+      213: 21300054
+    second: penitent_risingFromFallen_anim_27
+  - first:
+      213: 21300056
+    second: penitent_risingFromFallen_anim_28
+  - first:
+      213: 21300058
+    second: penitent_risingFromFallen_anim_29
+  - first:
+      213: 21300060
+    second: penitent_risingFromFallen_anim_30
+  - first:
+      213: 21300062
+    second: penitent_risingFromFallen_anim_31
+  - first:
+      213: 21300064
+    second: penitent_risingFromFallen_anim_32
+  - first:
+      213: 21300066
+    second: penitent_risingFromFallen_anim_33
+  - first:
+      213: 21300068
+    second: penitent_risingFromFallen_anim_34
+  - first:
+      213: 21300070
+    second: penitent_risingFromFallen_anim_35
+  - first:
+      213: 21300072
+    second: penitent_risingFromFallen_anim_36
+  - first:
+      213: 21300074
+    second: penitent_risingFromFallen_anim_37
+  - first:
+      213: 21300076
+    second: penitent_risingFromFallen_anim_38
+  - first:
+      213: 21300078
+    second: penitent_risingFromFallen_anim_39
+  - first:
+      213: 21300080
+    second: penitent_risingFromFallen_anim_40
+  - first:
+      213: 21300082
+    second: penitent_risingFromFallen_anim_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 896
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_0
+      rect:
+        serializedVersion: 2
+        x: 23.0335
+        y: 646.0267
+        width: 86.93975
+        height: 21.90597
+      alignment: 9
+      pivot: {x: 0.4815117, y: 0.4552762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.49662, y: -10.97972}
+        - {x: -43.50338, y: -10.97972}
+        - {x: -43.50338, y: -0.9797192}
+        - {x: -24.50338, y: 11.02028}
+        - {x: 20.49662, y: 11.02028}
+        - {x: 40.49662, y: 9.020281}
+        - {x: 43.49662, y: 7.020281}
+        - {x: 43.49662, y: -8.979719}
+      physicsShape:
+      - - {x: 39.49662, y: 7.020281}
+        - {x: 20.49662, y: 10.02028}
+        - {x: 9.496624, y: 11.02028}
+        - {x: -7.503376, y: 11.02028}
+        - {x: -17.50338, y: 10.02028}
+        - {x: -30.50338, y: 6.020281}
+        - {x: -43.50338, y: -3.979719}
+        - {x: -43.50338, y: -5.979719}
+        - {x: -42.50338, y: -7.979719}
+        - {x: -37.50338, y: -8.979719}
+        - {x: -25.50338, y: -10.97972}
+        - {x: 0.496624, y: -10.97972}
+        - {x: 13.49662, y: -8.979719}
+        - {x: 40.49662, y: -3.979719}
+        - {x: 43.49662, y: -1.979719}
+        - {x: 43.49662, y: 1.020281}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_1
+      rect:
+        serializedVersion: 2
+        x: 151.0335
+        y: 646.0267
+        width: 86.89038
+        height: 21.90597
+      alignment: 9
+      pivot: {x: 0.4817851, y: 0.4552762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.47869, y: -7.979719}
+        - {x: -43.47869, y: -6.979719}
+        - {x: -43.47869, y: 0.02028084}
+        - {x: -32.47869, y: 11.02028}
+        - {x: 28.52131, y: 11.02028}
+        - {x: 43.52131, y: 8.020281}
+        - {x: 43.52131, y: -2.979719}
+        - {x: 31.52131, y: -6.979719}
+        - {x: 12.52131, y: -8.979719}
+        - {x: -2.478691, y: -10.97972}
+        - {x: -25.47869, y: -10.97972}
+        - {x: -37.47869, y: -8.979719}
+      physicsShape:
+      - - {x: 35.52131, y: 9.020281}
+        - {x: 9.521309, y: 11.02028}
+        - {x: -22.47869, y: 11.02028}
+        - {x: -43.47869, y: -1.979719}
+        - {x: -43.47869, y: -6.979719}
+        - {x: -42.47869, y: -7.979719}
+        - {x: -37.47869, y: -8.979719}
+        - {x: -25.47869, y: -10.97972}
+        - {x: -2.478691, y: -10.97972}
+        - {x: 12.52131, y: -8.979719}
+        - {x: 31.52131, y: -6.979719}
+        - {x: 43.52131, y: -2.979719}
+        - {x: 43.52131, y: 2.020281}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_2
+      rect:
+        serializedVersion: 2
+        x: 279.0335
+        y: 646.0267
+        width: 86.89038
+        height: 21.90597
+      alignment: 9
+      pivot: {x: 0.4817851, y: 0.4552762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.47869, y: -10.97972}
+        - {x: -43.47869, y: -9.979719}
+        - {x: -43.47869, y: -0.9797192}
+        - {x: -28.47869, y: 11.02028}
+        - {x: 35.52131, y: 11.02028}
+        - {x: 43.52131, y: 3.020281}
+        - {x: 43.52131, y: -10.97972}
+      physicsShape:
+      - - {x: 34.52131, y: 9.020281}
+        - {x: 13.52131, y: 11.02028}
+        - {x: -20.47869, y: 11.02028}
+        - {x: -23.47869, y: 10.02028}
+        - {x: -40.47869, y: -0.9797192}
+        - {x: -43.47869, y: -4.979719}
+        - {x: -42.47869, y: -7.979719}
+        - {x: -37.47869, y: -8.979719}
+        - {x: -25.47869, y: -10.97972}
+        - {x: 11.52131, y: -10.97972}
+        - {x: 42.52131, y: -5.979719}
+        - {x: 43.52131, y: -2.979719}
+        - {x: 43.52131, y: 3.020281}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_3
+      rect:
+        serializedVersion: 2
+        x: 407.0335
+        y: 646.0267
+        width: 86.95359
+        height: 22.89713
+      alignment: 9
+      pivot: {x: 0.4814349, y: 0.4355684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.4897, y: -11.4753}
+        - {x: -43.5103, y: -11.4753}
+        - {x: -43.5103, y: -4.475298}
+        - {x: -31.5103, y: 7.524702}
+        - {x: -8.510296, y: 11.5247}
+        - {x: 20.4897, y: 11.5247}
+        - {x: 33.4897, y: 7.524702}
+        - {x: 42.4897, y: 1.524702}
+        - {x: 43.4897, y: -1.475298}
+      physicsShape:
+      - - {x: 42.4897, y: 1.524702}
+        - {x: 33.4897, y: 7.524702}
+        - {x: 17.4897, y: 11.5247}
+        - {x: -6.510296, y: 11.5247}
+        - {x: -12.5103, y: 10.5247}
+        - {x: -30.5103, y: 5.524702}
+        - {x: -43.5103, y: -4.475298}
+        - {x: -43.5103, y: -6.475298}
+        - {x: -42.5103, y: -8.475298}
+        - {x: -26.5103, y: -11.4753}
+        - {x: 9.489704, y: -11.4753}
+        - {x: 23.4897, y: -7.475298}
+        - {x: 41.4897, y: -4.475298}
+        - {x: 43.4897, y: -1.475298}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_4
+      rect:
+        serializedVersion: 2
+        x: 535.0335
+        y: 646.0267
+        width: 86.95359
+        height: 23.93034
+      alignment: 9
+      pivot: {x: 0.4814349, y: 0.4167624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5103, y: -8.991904}
+        - {x: -43.5103, y: -5.991904}
+        - {x: -43.5103, y: 2.008096}
+        - {x: -18.5103, y: 12.0081}
+        - {x: 30.4897, y: 12.0081}
+        - {x: 43.4897, y: 5.008096}
+        - {x: 43.4897, y: -2.991904}
+        - {x: 42.4897, y: -6.991904}
+        - {x: 2.489704, y: -11.9919}
+        - {x: -27.5103, y: -11.9919}
+      physicsShape:
+      - - {x: 22.4897, y: 12.0081}
+        - {x: -9.510296, y: 12.0081}
+        - {x: -26.5103, y: 9.008096}
+        - {x: -40.5103, y: -1.991904}
+        - {x: -43.5103, y: -5.991904}
+        - {x: -42.5103, y: -8.991904}
+        - {x: -37.5103, y: -9.991904}
+        - {x: -25.5103, y: -11.9919}
+        - {x: 1.489704, y: -11.9919}
+        - {x: 8.489704, y: -10.9919}
+        - {x: 40.4897, y: -4.991904}
+        - {x: 43.4897, y: -1.991904}
+        - {x: 43.4897, y: 2.008096}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_5
+      rect:
+        serializedVersion: 2
+        x: 663.0335
+        y: 646.0267
+        width: 85.95359
+        height: 23.9465
+      alignment: 9
+      pivot: {x: 0.487036, y: 0.4164812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.9897, y: -11.99998}
+        - {x: -43.0103, y: -11.99998}
+        - {x: -43.0103, y: -5.999983}
+        - {x: -40.0103, y: -1.999983}
+        - {x: -29.0103, y: 6.000017}
+        - {x: -1.010296, y: 12.00002}
+        - {x: 23.9897, y: 12.00002}
+        - {x: 41.9897, y: 1.000017}
+        - {x: 42.9897, y: -1.999983}
+        - {x: 40.9897, y: -5.999983}
+      physicsShape:
+      - - {x: 41.9897, y: 1.000017}
+        - {x: 23.9897, y: 12.00002}
+        - {x: -1.010296, y: 12.00002}
+        - {x: -29.0103, y: 6.000017}
+        - {x: -40.0103, y: -1.999983}
+        - {x: -43.0103, y: -5.999983}
+        - {x: -42.0103, y: -8.999983}
+        - {x: -26.0103, y: -11.99998}
+        - {x: 7.989704, y: -11.99998}
+        - {x: 15.9897, y: -6.999983}
+        - {x: 40.9897, y: -5.999983}
+        - {x: 42.9897, y: -1.999983}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_6
+      rect:
+        serializedVersion: 2
+        x: 791.0335
+        y: 646.0267
+        width: 85.95359
+        height: 24.9465
+      alignment: 9
+      pivot: {x: 0.487036, y: 0.3997862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.9897, y: -12.49998}
+        - {x: -43.0103, y: -12.49998}
+        - {x: -43.0103, y: -6.499983}
+        - {x: -41.0103, y: -1.499983}
+        - {x: -29.0103, y: 6.500017}
+        - {x: -0.01029587, y: 12.50002}
+        - {x: 29.9897, y: 12.50002}
+        - {x: 42.9897, y: 3.500017}
+        - {x: 42.9897, y: -4.499983}
+      physicsShape:
+      - - {x: 42.9897, y: 1.500017}
+        - {x: 41.9897, y: 2.500017}
+        - {x: 22.9897, y: 12.50002}
+        - {x: -0.01029587, y: 12.50002}
+        - {x: -28.0103, y: 6.500017}
+        - {x: -40.0103, y: -2.499983}
+        - {x: -43.0103, y: -6.499983}
+        - {x: -42.0103, y: -9.499983}
+        - {x: -26.0103, y: -12.49998}
+        - {x: 3.989704, y: -12.49998}
+        - {x: 10.9897, y: -3.499983}
+        - {x: 29.9897, y: -7.499983}
+        - {x: 42.9897, y: -2.499983}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_7
+      rect:
+        serializedVersion: 2
+        x: 23.0335
+        y: 519.0267
+        width: 86.95359
+        height: 24.93034
+      alignment: 9
+      pivot: {x: 0.481435, y: 0.3599336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.4897, y: -12.4919}
+        - {x: -43.5103, y: -12.4919}
+        - {x: -43.5103, y: -7.491904}
+        - {x: -29.5103, y: 7.508096}
+        - {x: -2.510296, y: 12.5081}
+        - {x: 30.4897, y: 12.5081}
+        - {x: 39.4897, y: 8.508096}
+        - {x: 43.4897, y: 3.508096}
+        - {x: 43.4897, y: -0.4919043}
+      physicsShape:
+      - - {x: 40.4897, y: -0.4919043}
+        - {x: 43.4897, y: 1.508096}
+        - {x: 43.4897, y: 3.508096}
+        - {x: 39.4897, y: 8.508096}
+        - {x: 24.4897, y: 12.5081}
+        - {x: 1.489704, y: 12.5081}
+        - {x: -14.5103, y: 5.508096}
+        - {x: -27.5103, y: 5.508096}
+        - {x: -40.5103, y: -3.491904}
+        - {x: -43.5103, y: -7.491904}
+        - {x: -42.5103, y: -11.4919}
+        - {x: -31.5103, y: -12.4919}
+        - {x: -1.510296, y: -12.4919}
+        - {x: 6.489704, y: -8.491904}
+        - {x: 21.4897, y: -4.491904}
+        - {x: 29.4897, y: -4.491904}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_8
+      rect:
+        serializedVersion: 2
+        x: 153.0335
+        y: 521.0761
+        width: 83.91518
+        height: 28.84776
+      alignment: 9
+      pivot: {x: 0.4750332, y: 0.2400148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.00891, y: -14.49999}
+        - {x: -41.99109, y: -14.49999}
+        - {x: -41.99109, y: -10.49999}
+        - {x: -25.99109, y: 0.5000105}
+        - {x: 3.008907, y: 14.50001}
+        - {x: 41.00891, y: 14.50001}
+        - {x: 42.00891, y: 11.50001}
+      physicsShape:
+      - - {x: 42.00891, y: 11.50001}
+        - {x: 41.00891, y: 14.50001}
+        - {x: 27.00891, y: 14.50001}
+        - {x: 11.00891, y: 13.50001}
+        - {x: 8.008907, y: 14.50001}
+        - {x: 4.008907, y: 14.50001}
+        - {x: -9.991093, y: 4.50001}
+        - {x: -25.99109, y: 0.5000105}
+        - {x: -41.99109, y: -10.49999}
+        - {x: -41.99109, y: -14.49999}
+        - {x: -17.99109, y: -14.49999}
+        - {x: -5.991093, y: -13.49999}
+        - {x: 7.008907, y: -10.49999}
+        - {x: 12.00891, y: -6.49999}
+        - {x: 28.00891, y: -11.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_9
+      rect:
+        serializedVersion: 2
+        x: 282.0129
+        y: 521.0335
+        width: 81.91096
+        height: 38.96246
+      alignment: 9
+      pivot: {x: 0.4746995, y: 0.1788001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.03162, y: -19.51474}
+        - {x: -40.96838, y: -19.51474}
+        - {x: -40.96838, y: -14.51474}
+        - {x: -24.96838, y: 0.4852619}
+        - {x: -6.968384, y: 14.48526}
+        - {x: 32.03162, y: 16.48526}
+        - {x: 38.03162, y: 19.48526}
+        - {x: 41.03162, y: 19.48526}
+        - {x: 41.03162, y: 15.48526}
+      physicsShape:
+      - - {x: 26.03162, y: -10.51474}
+        - {x: 41.03162, y: 16.48526}
+        - {x: 41.03162, y: 18.48526}
+        - {x: 38.03162, y: 19.48526}
+        - {x: 32.03162, y: 16.48526}
+        - {x: -6.968384, y: 14.48526}
+        - {x: -24.96838, y: 0.4852619}
+        - {x: -40.96838, y: -14.51474}
+        - {x: -40.96838, y: -19.51474}
+        - {x: -29.96838, y: -19.51474}
+        - {x: -20.96838, y: -18.51474}
+        - {x: -1.968384, y: -19.51474}
+        - {x: 16.03162, y: -19.51474}
+        - {x: 23.03162, y: -18.51474}
+        - {x: 26.03162, y: -11.51474}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_10
+      rect:
+        serializedVersion: 2
+        x: 415.0761
+        y: 521.0761
+        width: 73.84776
+        height: 38.91984
+      alignment: 9
+      pivot: {x: 0.4579677, y: 0.1779013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.99998, y: -19.53603}
+        - {x: -36.99998, y: -17.53603}
+        - {x: -36.99998, y: -6.53603}
+        - {x: -34.99998, y: 2.46397}
+        - {x: -15.99998, y: 19.46397}
+        - {x: 37.00002, y: 19.46397}
+        - {x: 37.00002, y: -2.53603}
+        - {x: 27.00002, y: -19.53603}
+      physicsShape:
+      - - {x: 26.00002, y: -12.53603}
+        - {x: 23.00002, y: 0.4639702}
+        - {x: 37.00002, y: 15.46397}
+        - {x: 37.00002, y: 18.46397}
+        - {x: 34.00002, y: 19.46397}
+        - {x: 33.00002, y: 19.46397}
+        - {x: 18.00002, y: 12.46397}
+        - {x: -1.999985, y: 19.46397}
+        - {x: -5.999985, y: 19.46397}
+        - {x: -19.99998, y: 10.46397}
+        - {x: -23.99998, y: 3.46397}
+        - {x: -30.99998, y: -0.5360298}
+        - {x: -36.99998, y: -11.53603}
+        - {x: -36.99998, y: -17.53603}
+        - {x: -35.99998, y: -19.53603}
+        - {x: -29.99998, y: -19.53603}
+        - {x: -15.99998, y: -15.53603}
+        - {x: -2.999985, y: -17.53603}
+        - {x: 8.000015, y: -14.53603}
+        - {x: 21.00002, y: -16.53603}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_11
+      rect:
+        serializedVersion: 2
+        x: 551.0761
+        y: 521.0761
+        width: 63.84776
+        height: 44.84776
+      alignment: 9
+      pivot: {x: 0.4043978, y: 0.1543865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.00002, y: -18.49999}
+        - {x: 10.00002, y: -14.49999}
+        - {x: 8.000017, y: -17.49999}
+        - {x: -10.99998, y: -22.49999}
+        - {x: -30.99998, y: -22.49999}
+        - {x: -31.99998, y: -21.49999}
+        - {x: -31.99998, y: 6.500011}
+        - {x: -25.99998, y: 22.50001}
+        - {x: 10.00002, y: 22.50001}
+        - {x: 29.00002, y: 17.50001}
+        - {x: 32.00002, y: 14.50001}
+        - {x: 32.00002, y: 3.500011}
+        - {x: 26.00002, y: -16.49999}
+      physicsShape:
+      - - {x: 10.00002, y: -10.49999}
+        - {x: 10.00002, y: -14.49999}
+        - {x: 12.00002, y: -16.49999}
+        - {x: 18.00002, y: -17.49999}
+        - {x: 24.00002, y: -15.49999}
+        - {x: 32.00002, y: 6.500011}
+        - {x: 32.00002, y: 15.50001}
+        - {x: 29.00002, y: 16.50001}
+        - {x: 23.00002, y: 13.50001}
+        - {x: -6.999983, y: 11.50001}
+        - {x: -11.99998, y: 22.50001}
+        - {x: -19.99998, y: 22.50001}
+        - {x: -31.99998, y: 3.500011}
+        - {x: -31.99998, y: -21.49999}
+        - {x: -30.99998, y: -22.49999}
+        - {x: -22.99998, y: -22.49999}
+        - {x: -19.99998, y: -19.49999}
+        - {x: 8.000017, y: -17.49999}
+        - {x: 10.00002, y: -14.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_12
+      rect:
+        serializedVersion: 2
+        x: 679.0761
+        y: 524.0129
+        width: 63.84776
+        height: 48.91096
+      alignment: 9
+      pivot: {x: 0.4043978, y: 0.08151671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.00002, y: -23.46842}
+        - {x: 10.00002, y: -19.46842}
+        - {x: 7.000017, y: -22.46842}
+        - {x: -2.999983, y: -24.46842}
+        - {x: -31.99998, y: -24.46842}
+        - {x: -31.99998, y: 9.531578}
+        - {x: -24.99998, y: 22.53158}
+        - {x: -17.99998, y: 24.53158}
+        - {x: -8.999983, y: 24.53158}
+        - {x: 32.00002, y: 15.53158}
+        - {x: 32.00002, y: -0.4684219}
+        - {x: 25.00002, y: -21.46842}
+      physicsShape:
+      - - {x: 11.00002, y: -23.46842}
+        - {x: 25.00002, y: -21.46842}
+        - {x: 23.00002, y: -4.468422}
+        - {x: 32.00002, y: 7.531578}
+        - {x: 32.00002, y: 13.53158}
+        - {x: 11.00002, y: 8.531578}
+        - {x: -11.99998, y: 21.53158}
+        - {x: -12.99998, y: 24.53158}
+        - {x: -17.99998, y: 24.53158}
+        - {x: -24.99998, y: 22.53158}
+        - {x: -23.99998, y: 4.531578}
+        - {x: -31.99998, y: -0.4684219}
+        - {x: -31.99998, y: -24.46842}
+        - {x: -2.999983, y: -24.46842}
+        - {x: 7.000017, y: -22.46842}
+        - {x: 10.00002, y: -19.46842}
+        - {x: 10.00002, y: -15.46842}
+        - {x: 10.00002, y: -19.46842}
+      - - {x: -13.99998, y: 2.531578}
+        - {x: -11.99998, y: 0.5315781}
+        - {x: -12.99998, y: 0.5315781}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_13
+      rect:
+        serializedVersion: 2
+        x: 807.0761
+        y: 525.0429
+        width: 64.84776
+        height: 48.88097
+      alignment: 9
+      pivot: {x: 0.3981616, y: 0.06049578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.50002, y: -24.48339}
+        - {x: 9.500015, y: -20.48339}
+        - {x: 7.500015, y: -23.48339}
+        - {x: 4.500015, y: -24.48339}
+        - {x: -32.49998, y: -24.48339}
+        - {x: -32.49998, y: 24.51661}
+        - {x: -6.499985, y: 24.51661}
+        - {x: 0.5000153, y: 22.51661}
+        - {x: 29.50002, y: 16.51661}
+        - {x: 32.50002, y: 15.51661}
+        - {x: 32.50002, y: 12.51661}
+        - {x: 24.50002, y: -22.48339}
+        - {x: 12.50002, y: -24.48339}
+      physicsShape:
+      - - {x: 10.50002, y: -24.48339}
+        - {x: 12.50002, y: -24.48339}
+        - {x: 24.50002, y: -22.48339}
+        - {x: 20.50002, y: -1.483393}
+        - {x: 32.50002, y: 12.51661}
+        - {x: 32.50002, y: 15.51661}
+        - {x: 29.50002, y: 16.51661}
+        - {x: -6.499985, y: 8.516607}
+        - {x: -13.49998, y: 24.51661}
+        - {x: -19.49998, y: 24.51661}
+        - {x: -25.49998, y: 22.51661}
+        - {x: -24.49998, y: 4.516607}
+        - {x: -32.49998, y: -1.483393}
+        - {x: -32.49998, y: -24.48339}
+        - {x: 4.500015, y: -24.48339}
+        - {x: 7.500015, y: -23.48339}
+        - {x: 9.500015, y: -20.48339}
+        - {x: 9.500015, y: -16.48339}
+        - {x: 9.500015, y: -20.48339}
+      - - {x: -14.49998, y: 3.516607}
+        - {x: -12.49998, y: 1.516607}
+        - {x: -12.49998, y: -0.4833927}
+        - {x: -13.49998, y: -0.4833927}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_14
+      rect:
+        serializedVersion: 2
+        x: 39.07612
+        y: 397.0268
+        width: 64.84776
+        height: 49.89713
+      alignment: 9
+      pivot: {x: 0.3981615, y: 0.05958732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -22.97533}
+        - {x: 9.499996, y: -20.97533}
+        - {x: 7.499996, y: -23.97533}
+        - {x: 4.499996, y: -24.97533}
+        - {x: -32.5, y: -24.97533}
+        - {x: -32.5, y: 15.02467}
+        - {x: -21.5, y: 25.02467}
+        - {x: -9.500004, y: 25.02467}
+        - {x: 32.5, y: 17.02467}
+        - {x: 32.5, y: 10.02467}
+        - {x: 23.5, y: -21.97533}
+        - {x: 17.5, y: -23.97533}
+      physicsShape:
+      - - {x: 11.5, y: -22.97533}
+        - {x: 17.5, y: -23.97533}
+        - {x: 23.5, y: -21.97533}
+        - {x: 32.5, y: 13.02467}
+        - {x: 32.5, y: 16.02467}
+        - {x: 29.5, y: 17.02467}
+        - {x: 7.499996, y: 8.024673}
+        - {x: -15.5, y: 25.02467}
+        - {x: -18.5, y: 25.02467}
+        - {x: -23.5, y: 22.02467}
+        - {x: -25.5, y: 13.02467}
+        - {x: -32.5, y: -4.975327}
+        - {x: -32.5, y: -11.97533}
+        - {x: -28.5, y: -24.97533}
+        - {x: -2.500004, y: -24.97533}
+        - {x: 7.499996, y: -23.97533}
+        - {x: 9.499996, y: -20.97533}
+        - {x: 9.499996, y: -16.97533}
+        - {x: 9.499996, y: -20.97533}
+      - - {x: -14.5, y: 4.024673}
+        - {x: -12.5, y: 2.024673}
+        - {x: -12.5, y: -0.9753265}
+        - {x: -13.5, y: -0.9753265}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_15
+      rect:
+        serializedVersion: 2
+        x: 167.0761
+        y: 396.0761
+        width: 64.84776
+        height: 44.91096
+      alignment: 9
+      pivot: {x: 0.3981614, y: 0.0873704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -20.53159}
+        - {x: 9.5, y: -17.53159}
+        - {x: 7.5, y: -20.53159}
+        - {x: -4.5, y: -22.53159}
+        - {x: -32.5, y: -22.53159}
+        - {x: -32.5, y: 18.46841}
+        - {x: -29.5, y: 22.46841}
+        - {x: 29.5, y: 22.46841}
+        - {x: 32.5, y: 21.46841}
+        - {x: 32.5, y: 18.46841}
+        - {x: 26.5, y: -20.53159}
+      physicsShape:
+      - - {x: 9.5, y: -17.53159}
+        - {x: 10.5, y: -20.53159}
+        - {x: 25.5, y: -20.53159}
+        - {x: 17.5, y: 1.468407}
+        - {x: 32.5, y: 18.46841}
+        - {x: 32.5, y: 21.46841}
+        - {x: 29.5, y: 22.46841}
+        - {x: 10.5, y: 11.46841}
+        - {x: -14.5, y: 22.46841}
+        - {x: -25.5, y: 18.46841}
+        - {x: -22.5, y: -2.531593}
+        - {x: -29.5, y: -2.531593}
+        - {x: -32.5, y: -3.531593}
+        - {x: -32.5, y: -10.53159}
+        - {x: -30.5, y: -22.53159}
+        - {x: -6.5, y: -22.53159}
+        - {x: 6.5, y: -20.53159}
+        - {x: 9.5, y: -17.53159}
+        - {x: 9.5, y: -13.53159}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_16
+      rect:
+        serializedVersion: 2
+        x: 295.0761
+        y: 396.0761
+        width: 64.84776
+        height: 43.91096
+      alignment: 9
+      pivot: {x: 0.3981616, y: 0.08936012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.50002, y: -19.03159}
+        - {x: 9.500015, y: -17.03159}
+        - {x: 7.500015, y: -20.03159}
+        - {x: -5.499985, y: -22.03159}
+        - {x: -32.49998, y: -22.03159}
+        - {x: -32.49998, y: 14.96841}
+        - {x: -25.49998, y: 21.96841}
+        - {x: 32.50002, y: 21.96841}
+        - {x: 32.50002, y: 3.968407}
+        - {x: 24.50002, y: -19.03159}
+        - {x: 17.50002, y: -20.03159}
+      physicsShape:
+      - - {x: 11.50002, y: -19.03159}
+        - {x: 17.50002, y: -20.03159}
+        - {x: 24.50002, y: -19.03159}
+        - {x: 21.50002, y: -0.03159332}
+        - {x: 32.50002, y: 17.96841}
+        - {x: 32.50002, y: 21.96841}
+        - {x: 29.50002, y: 21.96841}
+        - {x: 12.50002, y: 11.96841}
+        - {x: -9.499985, y: 8.968407}
+        - {x: -13.49998, y: 21.96841}
+        - {x: -16.49998, y: 21.96841}
+        - {x: -25.49998, y: 18.96841}
+        - {x: -23.49998, y: -0.03159332}
+        - {x: -32.49998, y: -3.031593}
+        - {x: -32.49998, y: -15.03159}
+        - {x: -30.49998, y: -22.03159}
+        - {x: -5.499985, y: -22.03159}
+        - {x: 7.500015, y: -20.03159}
+        - {x: 9.500015, y: -17.03159}
+        - {x: 9.500015, y: -13.03159}
+        - {x: 9.500015, y: -17.03159}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_17
+      rect:
+        serializedVersion: 2
+        x: 423.0761
+        y: 396.0761
+        width: 64.84776
+        height: 42.84776
+      alignment: 9
+      pivot: {x: 0.3981616, y: 0.09157747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.50002, y: -20.49999}
+        - {x: 9.500015, y: -16.49999}
+        - {x: 7.500015, y: -20.49999}
+        - {x: -3.499985, y: -21.49999}
+        - {x: -30.49998, y: -21.49999}
+        - {x: -32.49998, y: -10.49999}
+        - {x: -32.49998, y: -0.4999886}
+        - {x: -25.49998, y: 19.50001}
+        - {x: -21.49998, y: 21.50001}
+        - {x: 18.50002, y: 21.50001}
+        - {x: 32.50002, y: 20.50001}
+        - {x: 32.50002, y: 11.50001}
+        - {x: 26.50002, y: -18.49999}
+      physicsShape:
+      - - {x: 9.500015, y: -16.49999}
+        - {x: 10.50002, y: -20.49999}
+        - {x: 25.50002, y: -18.49999}
+        - {x: 19.50002, y: 0.5000114}
+        - {x: 32.50002, y: 16.50001}
+        - {x: 32.50002, y: 19.50001}
+        - {x: 29.50002, y: 20.50001}
+        - {x: 9.500015, y: 10.50001}
+        - {x: -10.49998, y: 21.50001}
+        - {x: -19.49998, y: 21.50001}
+        - {x: -25.49998, y: 19.50001}
+        - {x: -29.49998, y: -1.499989}
+        - {x: -32.49998, y: -2.499989}
+        - {x: -32.49998, y: -9.499989}
+        - {x: -30.49998, y: -21.49999}
+        - {x: -6.499985, y: -21.49999}
+        - {x: 6.500015, y: -19.49999}
+        - {x: 9.500015, y: -16.49999}
+        - {x: 9.500015, y: -12.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_18
+      rect:
+        serializedVersion: 2
+        x: 551.0761
+        y: 396.0761
+        width: 64.84776
+        height: 42.84776
+      alignment: 9
+      pivot: {x: 0.3981616, y: 0.09157747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.50002, y: -18.49999}
+        - {x: 9.500015, y: -16.49999}
+        - {x: 7.500015, y: -20.49999}
+        - {x: 2.500015, y: -21.49999}
+        - {x: -32.49998, y: -21.49999}
+        - {x: -32.49998, y: 21.50001}
+        - {x: 4.500015, y: 21.50001}
+        - {x: 32.50002, y: 18.50001}
+        - {x: 32.50002, y: 5.500011}
+        - {x: 19.50002, y: -21.49999}
+        - {x: 15.50002, y: -21.49999}
+      physicsShape:
+      - - {x: 9.500015, y: -16.49999}
+        - {x: 11.50002, y: -18.49999}
+        - {x: 17.50002, y: -19.49999}
+        - {x: 21.50002, y: -16.49999}
+        - {x: 21.50002, y: 1.500011}
+        - {x: 32.50002, y: 11.50001}
+        - {x: 32.50002, y: 14.50001}
+        - {x: 29.50002, y: 15.50001}
+        - {x: 6.500015, y: 10.50001}
+        - {x: -11.49998, y: 21.50001}
+        - {x: -19.49998, y: 21.50001}
+        - {x: -25.49998, y: 19.50001}
+        - {x: -29.49998, y: -1.499989}
+        - {x: -32.49998, y: -2.499989}
+        - {x: -32.49998, y: -9.499989}
+        - {x: -30.49998, y: -21.49999}
+        - {x: -6.499985, y: -21.49999}
+        - {x: 6.500015, y: -19.49999}
+        - {x: 9.500015, y: -16.49999}
+        - {x: 9.500015, y: -12.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_19
+      rect:
+        serializedVersion: 2
+        x: 679.0761
+        y: 396.0761
+        width: 64.84776
+        height: 42.84776
+      alignment: 9
+      pivot: {x: 0.3981616, y: 0.09157747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.50002, y: -18.49999}
+        - {x: 9.500015, y: -16.49999}
+        - {x: 7.500015, y: -20.49999}
+        - {x: -3.499985, y: -21.49999}
+        - {x: -32.49998, y: -21.49999}
+        - {x: -32.49998, y: 19.50001}
+        - {x: -30.49998, y: 21.50001}
+        - {x: 24.50002, y: 21.50001}
+        - {x: 32.50002, y: 17.50001}
+        - {x: 32.50002, y: 3.500011}
+        - {x: 26.50002, y: -9.499989}
+        - {x: 18.50002, y: -21.49999}
+        - {x: 17.50002, y: -21.49999}
+      physicsShape:
+      - - {x: 11.50002, y: -18.49999}
+        - {x: 17.50002, y: -21.49999}
+        - {x: 18.50002, y: -21.49999}
+        - {x: 26.50002, y: -9.499989}
+        - {x: 32.50002, y: 11.50001}
+        - {x: 32.50002, y: 13.50001}
+        - {x: 29.50002, y: 14.50001}
+        - {x: 15.50002, y: 8.500011}
+        - {x: -7.499985, y: 8.500011}
+        - {x: -13.49998, y: 21.50001}
+        - {x: -19.49998, y: 21.50001}
+        - {x: -25.49998, y: 19.50001}
+        - {x: -29.49998, y: -1.499989}
+        - {x: -32.49998, y: -2.499989}
+        - {x: -32.49998, y: -11.49999}
+        - {x: -30.49998, y: -21.49999}
+        - {x: -3.499985, y: -21.49999}
+        - {x: 7.500015, y: -20.49999}
+        - {x: 9.500015, y: -16.49999}
+        - {x: 9.500015, y: -12.49999}
+        - {x: 9.500015, y: -16.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_20
+      rect:
+        serializedVersion: 2
+        x: 807.0761
+        y: 396.0761
+        width: 65.84776
+        height: 45.91096
+      alignment: 9
+      pivot: {x: 0.392115, y: 0.08546736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.99998, y: 22.96841}
+        - {x: 33.00002, y: 22.96841}
+        - {x: 33.00002, y: 7.968407}
+        - {x: 24.00002, y: -20.03159}
+        - {x: 10.00002, y: -22.03159}
+        - {x: 9.000015, y: -18.03159}
+        - {x: 7.000015, y: -21.03159}
+        - {x: -5.999985, y: -23.03159}
+        - {x: -30.99998, y: -23.03159}
+        - {x: -32.99998, y: -12.03159}
+        - {x: -32.99998, y: -2.031593}
+      physicsShape:
+      - - {x: 9.000015, y: -18.03159}
+        - {x: 10.00002, y: -22.03159}
+        - {x: 24.00002, y: -20.03159}
+        - {x: 23.00002, y: -8.031593}
+        - {x: 33.00002, y: 16.96841}
+        - {x: 33.00002, y: 21.96841}
+        - {x: 30.00002, y: 22.96841}
+        - {x: 13.00002, y: 11.96841}
+        - {x: -7.999985, y: 9.968407}
+        - {x: -15.99998, y: 21.96841}
+        - {x: -19.99998, y: 20.96841}
+        - {x: -24.99998, y: 17.96841}
+        - {x: -24.99998, y: 7.968407}
+        - {x: -32.99998, y: -3.031593}
+        - {x: -32.99998, y: -11.03159}
+        - {x: -30.99998, y: -23.03159}
+        - {x: -6.999985, y: -23.03159}
+        - {x: 6.000015, y: -21.03159}
+        - {x: 9.000015, y: -18.03159}
+        - {x: 9.000015, y: -14.03159}
+      - - {x: -12.99998, y: 1.968407}
+        - {x: -13.99998, y: 1.968407}
+        - {x: -13.99998, y: 0.9684067}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_21
+      rect:
+        serializedVersion: 2
+        x: 39.07612
+        y: 268.0761
+        width: 65.84776
+        height: 47.91096
+      alignment: 9
+      pivot: {x: 0.3921148, y: 0.08189961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 21.96841}
+        - {x: -9.000004, y: 23.96841}
+        - {x: 33, y: 23.96841}
+        - {x: 33, y: 4.968407}
+        - {x: 31, y: -0.03159332}
+        - {x: 20, y: -24.03159}
+        - {x: 13, y: -24.03159}
+        - {x: 8.999996, y: -19.03159}
+        - {x: 7.999996, y: -24.03159}
+        - {x: -33, y: -24.03159}
+      physicsShape:
+      - - {x: 8.999996, y: -5.031593}
+        - {x: 8.999996, y: -19.03159}
+        - {x: 11, y: -21.03159}
+        - {x: 17, y: -22.03159}
+        - {x: 22, y: -20.03159}
+        - {x: 24, y: 2.968407}
+        - {x: 33, y: 15.96841}
+        - {x: 33, y: 23.96841}
+        - {x: 30, y: 23.96841}
+        - {x: 8.999996, y: 16.96841}
+        - {x: -16, y: 20.96841}
+        - {x: -20, y: 19.96841}
+        - {x: -25, y: 16.96841}
+        - {x: -25, y: 6.968407}
+        - {x: -33, y: -4.031593}
+        - {x: -33, y: -12.03159}
+        - {x: -30, y: -24.03159}
+        - {x: 7.999996, y: -24.03159}
+        - {x: 8.999996, y: -19.03159}
+        - {x: 8.999996, y: -15.03159}
+        - {x: 5.999996, y: -8.031593}
+      - - {x: -13, y: 0.9684067}
+        - {x: -14, y: 0.9684067}
+        - {x: -14, y: -0.03159332}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_22
+      rect:
+        serializedVersion: 2
+        x: 167.0761
+        y: 268.0761
+        width: 57.83239
+        height: 53.91097
+      alignment: 9
+      pivot: {x: 0.4464605, y: 0.07278461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.00768, y: -27.0316}
+        - {x: -28.99232, y: -27.0316}
+        - {x: -28.99232, y: 8.968403}
+        - {x: -20.99232, y: 26.9684}
+        - {x: 29.00768, y: 26.9684}
+        - {x: 29.00768, y: -19.0316}
+        - {x: 28.00768, y: -24.0316}
+        - {x: 14.00768, y: -26.0316}
+        - {x: 13.00768, y: -22.0316}
+      physicsShape:
+      - - {x: 13.00768, y: -10.0316}
+        - {x: 13.00768, y: -22.0316}
+        - {x: 14.00768, y: -26.0316}
+        - {x: 28.00768, y: -24.0316}
+        - {x: 23.00768, y: 7.968403}
+        - {x: 29.00768, y: 22.9684}
+        - {x: 29.00768, y: 25.9684}
+        - {x: 26.00768, y: 26.9684}
+        - {x: -3.992315, y: 7.968403}
+        - {x: -12.99232, y: 16.9684}
+        - {x: -15.99232, y: 16.9684}
+        - {x: -20.99232, y: 13.9684}
+        - {x: -20.99232, y: 3.968403}
+        - {x: -28.99232, y: -2.031597}
+        - {x: -28.99232, y: -27.0316}
+        - {x: 11.00768, y: -27.0316}
+        - {x: 13.00768, y: -22.0316}
+        - {x: 13.00768, y: -18.0316}
+        - {x: 10.00768, y: -11.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_23
+      rect:
+        serializedVersion: 2
+        x: 295.0761
+        y: 268.0761
+        width: 53.84776
+        height: 58.91097
+      alignment: 9
+      pivot: {x: 0.479498, y: 0.0666071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.000017, y: -29.5316}
+        - {x: -26.99998, y: -29.5316}
+        - {x: -26.99998, y: 9.468403}
+        - {x: -5.999983, y: 29.4684}
+        - {x: 21.00002, y: 29.4684}
+        - {x: 24.00002, y: 28.4684}
+        - {x: 27.00002, y: -5.531597}
+        - {x: 27.00002, y: -22.5316}
+        - {x: 20.00002, y: -28.5316}
+      physicsShape:
+      - - {x: 19.00002, y: 0.4684029}
+        - {x: 22.00002, y: 16.4684}
+        - {x: 24.00002, y: 28.4684}
+        - {x: 21.00002, y: 29.4684}
+        - {x: 19.00002, y: 29.4684}
+        - {x: 15.00002, y: 24.4684}
+        - {x: 4.000017, y: 12.4684}
+        - {x: -5.999983, y: 5.468403}
+        - {x: -6.999983, y: 12.4684}
+        - {x: -14.99998, y: 16.4684}
+        - {x: -18.99998, y: 11.4684}
+        - {x: -18.99998, y: 1.468403}
+        - {x: -16.99998, y: -8.531597}
+        - {x: -23.99998, y: -9.531597}
+        - {x: -26.99998, y: -10.5316}
+        - {x: -26.99998, y: -14.5316}
+        - {x: -21.99998, y: -29.5316}
+        - {x: -7.999983, y: -29.5316}
+        - {x: 19.00002, y: -26.5316}
+        - {x: 27.00002, y: -22.5316}
+        - {x: 27.00002, y: -18.5316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_24
+      rect:
+        serializedVersion: 2
+        x: 423.0761
+        y: 268.0761
+        width: 49.84776
+        height: 63.91097
+      alignment: 9
+      pivot: {x: 0.517975, y: 0.06139617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.000015, y: -32.0316}
+        - {x: -24.99998, y: -32.0316}
+        - {x: -24.99998, y: -0.03159714}
+        - {x: -14.99998, y: 17.9684}
+        - {x: 4.000015, y: 30.9684}
+        - {x: 5.000015, y: 31.9684}
+        - {x: 9.000015, y: 31.9684}
+        - {x: 12.00002, y: 26.9684}
+        - {x: 25.00002, y: -17.0316}
+        - {x: 25.00002, y: -23.0316}
+        - {x: 14.00002, y: -30.0316}
+      physicsShape:
+      - - {x: 24.00002, y: -17.0316}
+        - {x: 13.00002, y: 4.968403}
+        - {x: 12.00002, y: 26.9684}
+        - {x: 9.000015, y: 31.9684}
+        - {x: 5.000015, y: 31.9684}
+        - {x: 4.000015, y: 30.9684}
+        - {x: -1.999985, y: 8.968403}
+        - {x: -13.99998, y: 14.9684}
+        - {x: -17.99998, y: 3.968403}
+        - {x: -16.99998, y: -3.031597}
+        - {x: -24.99998, y: -13.0316}
+        - {x: -24.99998, y: -17.0316}
+        - {x: -19.99998, y: -32.0316}
+        - {x: -7.999985, y: -32.0316}
+        - {x: -5.999985, y: -31.0316}
+        - {x: 14.00002, y: -30.0316}
+        - {x: 18.00002, y: -28.0316}
+        - {x: 25.00002, y: -21.0316}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_25
+      rect:
+        serializedVersion: 2
+        x: 550.0761
+        y: 268.0761
+        width: 47.91097
+        height: 63.80556
+      alignment: 9
+      pivot: {x: 0.5597861, y: 0.06149761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.968412, y: -31.97889}
+        - {x: -24.03159, y: -31.97889}
+        - {x: -24.03159, y: 14.02111}
+        - {x: -14.03159, y: 32.02111}
+        - {x: -1.031588, y: 32.02111}
+        - {x: 23.96841, y: -10.97889}
+        - {x: 23.96841, y: -18.97889}
+        - {x: 21.96841, y: -28.97889}
+      physicsShape:
+      - - {x: 8.968412, y: 9.021111}
+        - {x: -1.031588, y: 32.02111}
+        - {x: -6.031588, y: 32.02111}
+        - {x: -9.031588, y: 17.02111}
+        - {x: -11.03159, y: 13.02111}
+        - {x: -18.03159, y: 5.021111}
+        - {x: -15.03159, y: -10.97889}
+        - {x: -21.03159, y: -11.97889}
+        - {x: -24.03159, y: -12.97889}
+        - {x: -24.03159, y: -16.97889}
+        - {x: -23.03159, y: -19.97889}
+        - {x: -18.03159, y: -31.97889}
+        - {x: 7.968412, y: -31.97889}
+        - {x: 21.96841, y: -28.97889}
+        - {x: 23.96841, y: -12.97889}
+        - {x: 21.96841, y: -7.978889}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_26
+      rect:
+        serializedVersion: 2
+        x: 677.0761
+        y: 268.0761
+        width: 46.88097
+        height: 64.80556
+      alignment: 9
+      pivot: {x: 0.5934155, y: 0.06054865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.516586, y: -29.47889}
+        - {x: -3.516586, y: -25.47889}
+        - {x: -3.516586, y: -32.47889}
+        - {x: -19.51659, y: -32.47889}
+        - {x: -23.51659, y: -29.47889}
+        - {x: -23.51659, y: 0.5211105}
+        - {x: -8.516586, y: 32.52111}
+        - {x: -2.516586, y: 32.52111}
+        - {x: 23.48341, y: -3.478889}
+        - {x: 23.48341, y: -29.47889}
+        - {x: 9.483414, y: -32.47889}
+        - {x: 2.483414, y: -32.47889}
+      physicsShape:
+      - - {x: -1.516586, y: -29.47889}
+        - {x: 2.483414, y: -32.47889}
+        - {x: 9.483414, y: -32.47889}
+        - {x: 23.48341, y: -29.47889}
+        - {x: 20.48341, y: -20.47889}
+        - {x: 23.48341, y: -16.47889}
+        - {x: 23.48341, y: -4.478889}
+        - {x: 12.48341, y: 8.521111}
+        - {x: -2.516586, y: 32.52111}
+        - {x: -7.516586, y: 32.52111}
+        - {x: -10.51659, y: 15.52111}
+        - {x: -18.51659, y: 5.521111}
+        - {x: -23.51659, y: -6.478889}
+        - {x: -23.51659, y: -24.47889}
+        - {x: -18.51659, y: -32.47889}
+        - {x: -5.516586, y: -32.47889}
+        - {x: -3.516586, y: -30.47889}
+        - {x: -3.516586, y: -20.47889}
+        - {x: -3.516586, y: -25.47889}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_27
+      rect:
+        serializedVersion: 2
+        x: 801.0761
+        y: 268.0761
+        width: 49.84776
+        height: 68.80556
+      alignment: 9
+      pivot: {x: 0.6383415, y: 0.05702867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.00002, y: -34.47889}
+        - {x: -24.99998, y: -34.47889}
+        - {x: -24.99998, y: -2.478889}
+        - {x: -7.999983, y: 34.52111}
+        - {x: 5.000017, y: 34.52111}
+        - {x: 25.00002, y: -8.478889}
+        - {x: 25.00002, y: -32.47889}
+      physicsShape:
+      - - {x: 24.00002, y: -24.47889}
+        - {x: 25.00002, y: -19.47889}
+        - {x: 25.00002, y: -9.478889}
+        - {x: 8.000017, y: 11.52111}
+        - {x: -0.9999828, y: 34.52111}
+        - {x: -3.999983, y: 34.52111}
+        - {x: -7.999983, y: 31.52111}
+        - {x: -6.999983, y: 12.52111}
+        - {x: -14.99998, y: 1.521111}
+        - {x: -13.99998, y: -9.478889}
+        - {x: -8.999983, y: -12.47889}
+        - {x: -24.99998, y: -22.47889}
+        - {x: -24.99998, y: -27.47889}
+        - {x: -20.99998, y: -29.47889}
+        - {x: -12.99998, y: -34.47889}
+        - {x: -0.9999828, y: -34.47889}
+        - {x: 1.000017, y: -28.47889}
+        - {x: 8.000017, y: -33.47889}
+        - {x: 18.00002, y: -32.47889}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_28
+      rect:
+        serializedVersion: 2
+        x: 32.07612
+        y: 140.0761
+        width: 45.84776
+        height: 71.80556
+      alignment: 9
+      pivot: {x: 0.7158448, y: 0.05464583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -35.9789}
+        - {x: -23, y: -32.9789}
+        - {x: -23, y: -16.9789}
+        - {x: -21, y: -2.978905}
+        - {x: -6.000002, y: 36.0211}
+        - {x: -0.000001907349, y: 36.0211}
+        - {x: 23, y: -2.978905}
+        - {x: 23, y: -24.9789}
+        - {x: 19, y: -35.9789}
+      physicsShape:
+      - - {x: 17, y: 3.021095}
+        - {x: 9.999998, y: 13.0211}
+        - {x: -0.000001907349, y: 36.0211}
+        - {x: -2.000002, y: 36.0211}
+        - {x: -6.000002, y: 33.0211}
+        - {x: -11, y: 8.021095}
+        - {x: -14, y: -2.978905}
+        - {x: -11, y: -9.978905}
+        - {x: -8.000002, y: -12.9789}
+        - {x: -23, y: -20.9789}
+        - {x: -23, y: -24.9789}
+        - {x: -22, y: -28.9789}
+        - {x: -13, y: -29.9789}
+        - {x: -10, y: -35.9789}
+        - {x: 5.999998, y: -35.9789}
+        - {x: 18, y: -33.9789}
+        - {x: 23, y: -24.9789}
+        - {x: 23, y: -8.978905}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_29
+      rect:
+        serializedVersion: 2
+        x: 159.0761
+        y: 140.0761
+        width: 43.89713
+        height: 74.91097
+      alignment: 9
+      pivot: {x: 0.7704348, y: 0.05238049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.02468, y: -37.53161}
+        - {x: -22.02468, y: -36.53161}
+        - {x: -22.02468, y: 5.468388}
+        - {x: 0.9753151, y: 37.46839}
+        - {x: 13.97532, y: 37.46839}
+        - {x: 21.97532, y: 17.46839}
+        - {x: 21.97532, y: -37.53161}
+      physicsShape:
+      - - {x: 21.97532, y: -29.53161}
+        - {x: 21.97532, y: -5.531612}
+        - {x: 20.97532, y: 1.468388}
+        - {x: 10.97532, y: 16.46839}
+        - {x: 8.975315, y: 36.46839}
+        - {x: 5.975315, y: 37.46839}
+        - {x: 0.9753151, y: 37.46839}
+        - {x: -2.024685, y: 16.46839}
+        - {x: -13.02468, y: 2.468388}
+        - {x: -6.024685, y: -11.53161}
+        - {x: -22.02468, y: -19.53161}
+        - {x: -22.02468, y: -23.53161}
+        - {x: -21.02468, y: -27.53161}
+        - {x: -12.02468, y: -28.53161}
+        - {x: -10.02468, y: -37.53161}
+        - {x: 4.975315, y: -37.53161}
+        - {x: 9.975315, y: -33.53161}
+        - {x: 13.97532, y: -35.53161}
+        - {x: 19.97532, y: -35.53161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_30
+      rect:
+        serializedVersion: 2
+        x: 286.0761
+        y: 140.0761
+        width: 43.91097
+        height: 75.91097
+      alignment: 9
+      pivot: {x: 0.7929657, y: 0.05169047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.03159, y: -38.03161}
+        - {x: -22.03159, y: -30.03161}
+        - {x: -22.03159, y: -14.03161}
+        - {x: -20.03159, y: 4.968388}
+        - {x: 8.96841, y: 37.96839}
+        - {x: 15.96841, y: 37.96839}
+        - {x: 21.96841, y: 6.968388}
+        - {x: 21.96841, y: -38.03161}
+      physicsShape:
+      - - {x: 20.96841, y: -36.03161}
+        - {x: 21.96841, y: -34.03161}
+        - {x: 21.96841, y: -28.03161}
+        - {x: 19.96841, y: 1.968388}
+        - {x: 14.96841, y: 35.96839}
+        - {x: 12.96841, y: 37.96839}
+        - {x: 8.96841, y: 36.96839}
+        - {x: 0.9684105, y: 15.96839}
+        - {x: -12.03159, y: 3.968388}
+        - {x: -8.03159, y: -10.03161}
+        - {x: -22.03159, y: -20.03161}
+        - {x: -22.03159, y: -24.03161}
+        - {x: -21.03159, y: -28.03161}
+        - {x: -11.03159, y: -31.03161}
+        - {x: -9.03159, y: -38.03161}
+        - {x: 4.96841, y: -38.03161}
+        - {x: 6.96841, y: -23.03161}
+        - {x: 9.96841, y: -33.03161}
+        - {x: 13.96841, y: -36.03161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_31
+      rect:
+        serializedVersion: 2
+        x: 414.0761
+        y: 140.0761
+        width: 43.91097
+        height: 74.91097
+      alignment: 9
+      pivot: {x: 0.7929657, y: 0.05238049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.03159, y: -37.53161}
+        - {x: -22.03159, y: -29.53161}
+        - {x: -22.03159, y: -9.531612}
+        - {x: -11.03159, y: 3.468388}
+        - {x: 17.96841, y: 37.46839}
+        - {x: 20.96841, y: 37.46839}
+        - {x: 21.96841, y: 36.46839}
+        - {x: 21.96841, y: -33.53161}
+        - {x: 20.96841, y: -35.53161}
+        - {x: 14.96841, y: -37.53161}
+      physicsShape:
+      - - {x: 20.96841, y: -35.53161}
+        - {x: 21.96841, y: -33.53161}
+        - {x: 21.96841, y: 36.46839}
+        - {x: 20.96841, y: 37.46839}
+        - {x: 17.96841, y: 37.46839}
+        - {x: 1.96841, y: 16.46839}
+        - {x: -11.03159, y: 3.468388}
+        - {x: -4.03159, y: -10.53161}
+        - {x: -22.03159, y: -19.53161}
+        - {x: -22.03159, y: -23.53161}
+        - {x: -21.03159, y: -27.53161}
+        - {x: -8.03159, y: -29.53161}
+        - {x: -10.03159, y: -34.53161}
+        - {x: -6.03159, y: -36.53161}
+        - {x: -3.03159, y: -37.53161}
+        - {x: 4.96841, y: -37.53161}
+        - {x: 6.96841, y: -22.53161}
+        - {x: 9.96841, y: -32.53161}
+        - {x: 13.96841, y: -35.53161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_32
+      rect:
+        serializedVersion: 2
+        x: 542.0761
+        y: 140.0761
+        width: 46.84776
+        height: 70.91097
+      alignment: 9
+      pivot: {x: 0.7432563, y: 0.05533522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.50002, y: -35.53161}
+        - {x: -23.49998, y: -35.53161}
+        - {x: -23.49998, y: -0.5316124}
+        - {x: 1.500015, y: 35.46839}
+        - {x: 23.50002, y: 35.46839}
+        - {x: 23.50002, y: -1.531612}
+      physicsShape:
+      - - {x: 22.50002, y: 22.46839}
+        - {x: 23.50002, y: 29.46839}
+        - {x: 23.50002, y: 34.46839}
+        - {x: 21.50002, y: 35.46839}
+        - {x: 19.50002, y: 35.46839}
+        - {x: 15.50002, y: 30.46839}
+        - {x: 4.500015, y: 19.46839}
+        - {x: -13.49998, y: 3.468388}
+        - {x: -5.499985, y: -8.531612}
+        - {x: -23.49998, y: -18.53161}
+        - {x: -23.49998, y: -23.53161}
+        - {x: -18.49998, y: -25.53161}
+        - {x: -11.49998, y: -28.53161}
+        - {x: -8.499985, y: -35.53161}
+        - {x: 2.500015, y: -35.53161}
+        - {x: 3.500015, y: -33.53161}
+        - {x: 20.50002, y: -34.53161}
+        - {x: 22.50002, y: -15.53161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_33
+      rect:
+        serializedVersion: 2
+        x: 670.0761
+        y: 140.0761
+        width: 52.8324
+        height: 65.91097
+      alignment: 9
+      pivot: {x: 0.6590633, y: 0.05953294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5077, y: -33.03161}
+        - {x: -26.4923, y: -33.03161}
+        - {x: -26.4923, y: 4.968388}
+        - {x: -3.492302, y: 32.96839}
+        - {x: 26.5077, y: 32.96839}
+        - {x: 26.5077, y: -24.03161}
+      physicsShape:
+      - - {x: 17.5077, y: -32.03161}
+        - {x: 20.5077, y: -13.03161}
+        - {x: 18.5077, y: 4.968388}
+        - {x: 26.5077, y: 26.96839}
+        - {x: 26.5077, y: 32.96839}
+        - {x: 23.5077, y: 32.96839}
+        - {x: -4.492302, y: 14.96839}
+        - {x: -15.4923, y: 4.968388}
+        - {x: -10.4923, y: -6.031612}
+        - {x: -26.4923, y: -16.03161}
+        - {x: -26.4923, y: -24.03161}
+        - {x: -18.4923, y: -26.03161}
+        - {x: -13.4923, y: -33.03161}
+        - {x: 0.5076981, y: -33.03161}
+        - {x: 2.507698, y: -21.03161}
+        - {x: 7.507698, y: -33.03161}
+        - {x: 15.5077, y: -33.03161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_34
+      rect:
+        serializedVersion: 2
+        x: 798.0761
+        y: 140.0761
+        width: 60.84776
+        height: 61.91097
+      alignment: 9
+      pivot: {x: 0.5722461, y: 0.0633793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.50002, y: -31.03161}
+        - {x: -30.49998, y: -31.03161}
+        - {x: -30.49998, y: 11.96839}
+        - {x: -19.49998, y: 30.96839}
+        - {x: 27.50002, y: 30.96839}
+        - {x: 30.50002, y: 29.96839}
+        - {x: 30.50002, y: 0.9683876}
+      physicsShape:
+      - - {x: 15.50002, y: 8.968388}
+        - {x: 30.50002, y: 26.96839}
+        - {x: 30.50002, y: 29.96839}
+        - {x: 27.50002, y: 30.96839}
+        - {x: -0.4999847, y: 15.96839}
+        - {x: -0.4999847, y: 25.96839}
+        - {x: -6.499985, y: 30.96839}
+        - {x: -8.499985, y: 30.96839}
+        - {x: -22.49998, y: 9.968388}
+        - {x: -19.49998, y: -3.031612}
+        - {x: -30.49998, y: -12.03161}
+        - {x: -30.49998, y: -21.03161}
+        - {x: -21.49998, y: -22.03161}
+        - {x: -17.49998, y: -31.03161}
+        - {x: 8.500015, y: -31.03161}
+        - {x: 12.50002, y: -29.03161}
+        - {x: 17.50002, y: -16.03161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_35
+      rect:
+        serializedVersion: 2
+        x: 30.07612
+        y: 13.04291
+        width: 59.84776
+        height: 62.94418
+      alignment: 9
+      pivot: {x: 0.5818076, y: 0.04697959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -31.515}
+        - {x: -30, y: -28.515}
+        - {x: -30, y: -0.5149994}
+        - {x: -23, y: 20.485}
+        - {x: -4, y: 27.485}
+        - {x: 27, y: 31.485}
+        - {x: 30, y: 30.485}
+        - {x: 30, y: 27.485}
+        - {x: 19, y: -31.515}
+      physicsShape:
+      - - {x: 30, y: 27.485}
+        - {x: 30, y: 30.485}
+        - {x: 27, y: 31.485}
+        - {x: 2, y: 17.485}
+        - {x: -4, y: 27.485}
+        - {x: -18, y: 17.485}
+        - {x: -18, y: 7.485001}
+        - {x: -10, y: -4.514999}
+        - {x: -30, y: -14.515}
+        - {x: -30, y: -27.515}
+        - {x: -26, y: -31.515}
+        - {x: 16, y: -31.515}
+        - {x: 16, y: -27.515}
+        - {x: 18, y: 4.485001}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_36
+      rect:
+        serializedVersion: 2
+        x: 158.0761
+        y: 13.04291
+        width: 58.84776
+        height: 63.94418
+      alignment: 9
+      pivot: {x: 0.5916942, y: 0.0462449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -32.015}
+        - {x: -29.5, y: -27.015}
+        - {x: -29.5, y: -3.014999}
+        - {x: -23.5, y: 21.985}
+        - {x: 17.5, y: 31.985}
+        - {x: 28.5, y: 31.985}
+        - {x: 29.5, y: 30.985}
+        - {x: 29.5, y: 2.985001}
+        - {x: 22.5, y: -32.015}
+      physicsShape:
+      - - {x: 18.5, y: 3.985001}
+        - {x: 12.5, y: 10.985}
+        - {x: 29.5, y: 27.985}
+        - {x: 29.5, y: 30.985}
+        - {x: 26.5, y: 31.985}
+        - {x: 1.5, y: 17.985}
+        - {x: -6.5, y: 23.985}
+        - {x: -19.5, y: 17.985}
+        - {x: -29.5, y: -8.014999}
+        - {x: -29.5, y: -20.015}
+        - {x: -24.5, y: -22.015}
+        - {x: -16.5, y: -32.015}
+        - {x: -9.5, y: -32.015}
+        - {x: -4.5, y: -30.015}
+        - {x: 0.5, y: -20.015}
+        - {x: 6.5, y: -32.015}
+        - {x: 17.5, y: -32.015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_37
+      rect:
+        serializedVersion: 2
+        x: 287.0761
+        y: 10.07612
+        width: 50.8324
+        height: 69.91097
+      alignment: 9
+      pivot: {x: 0.6653216, y: 0.08473462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.4923, y: -35.03161}
+        - {x: -25.4923, y: -24.03161}
+        - {x: -25.4923, y: -7.031607}
+        - {x: -19.4923, y: 26.96839}
+        - {x: 14.5077, y: 34.96839}
+        - {x: 25.5077, y: 34.96839}
+        - {x: 25.5077, y: -23.03161}
+        - {x: 24.5077, y: -34.03161}
+        - {x: 18.5077, y: -35.03161}
+      physicsShape:
+      - - {x: 24.5077, y: -34.03161}
+        - {x: 23.5077, y: -14.03161}
+        - {x: 17.5077, y: 13.96839}
+        - {x: 25.5077, y: 30.96839}
+        - {x: 25.5077, y: 33.96839}
+        - {x: 22.5077, y: 34.96839}
+        - {x: 2.507698, y: 18.96839}
+        - {x: -2.492302, y: 20.96839}
+        - {x: -11.4923, y: 18.96839}
+        - {x: -17.4923, y: -3.031607}
+        - {x: -25.4923, y: -15.03161}
+        - {x: -25.4923, y: -21.03161}
+        - {x: -13.4923, y: -35.03161}
+        - {x: -10.4923, y: -35.03161}
+        - {x: -1.492302, y: -30.03161}
+        - {x: 4.507698, y: -16.03161}
+        - {x: 11.5077, y: -29.03161}
+        - {x: 16.5077, y: -31.03161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_38
+      rect:
+        serializedVersion: 2
+        x: 411.0761
+        y: 10.07612
+        width: 56.91097
+        height: 73.91097
+      alignment: 9
+      pivot: {x: 0.6645448, y: 0.08014885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.46841, y: -37.03161}
+        - {x: -28.53159, y: -37.03161}
+        - {x: -28.53159, y: -24.03161}
+        - {x: -8.53159, y: 14.96839}
+        - {x: 17.46841, y: 36.96839}
+        - {x: 22.46841, y: 36.96839}
+        - {x: 24.46841, y: 35.96839}
+        - {x: 28.46841, y: 5.968393}
+      physicsShape:
+      - - {x: -2.53159, y: -35.03161}
+        - {x: 7.46841, y: -17.03161}
+        - {x: 15.46841, y: -32.03161}
+        - {x: 28.46841, y: -35.03161}
+        - {x: 28.46841, y: -30.03161}
+        - {x: 22.46841, y: -16.03161}
+        - {x: 21.46841, y: -2.031607}
+        - {x: 19.46841, y: 2.968393}
+        - {x: 24.46841, y: 35.96839}
+        - {x: 22.46841, y: 36.96839}
+        - {x: 18.46841, y: 36.96839}
+        - {x: 5.46841, y: 20.96839}
+        - {x: -4.53159, y: 17.96839}
+        - {x: -7.53159, y: 14.96839}
+        - {x: -14.53159, y: -5.031607}
+        - {x: -16.53159, y: -11.03161}
+        - {x: -23.53159, y: -17.03161}
+        - {x: -28.53159, y: -28.03161}
+        - {x: -28.53159, y: -36.03161}
+        - {x: -27.53159, y: -37.03161}
+        - {x: -23.53159, y: -37.03161}
+        - {x: -10.53159, y: -20.03161}
+        - {x: -12.53159, y: -28.03161}
+        - {x: -10.53159, y: -34.03161}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_39
+      rect:
+        serializedVersion: 2
+        x: 531.0129
+        y: 14.02675
+        width: 66.97418
+        height: 74.96034
+      alignment: 9
+      pivot: {x: 0.6850858, y: 0.02632391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.49998, y: -37.50692}
+        - {x: -33.50002, y: -37.50692}
+        - {x: -33.50002, y: -17.50692}
+        - {x: 12.49998, y: 37.49308}
+        - {x: 23.49998, y: 37.49308}
+        - {x: 33.49998, y: -27.50692}
+        - {x: 33.49998, y: -35.50692}
+      physicsShape:
+      - - {x: 32.49998, y: -37.50692}
+        - {x: 33.49998, y: -34.50692}
+        - {x: 24.49998, y: -17.50692}
+        - {x: 27.49998, y: -8.506924}
+        - {x: 20.49998, y: 14.49308}
+        - {x: 22.49998, y: 30.49308}
+        - {x: 21.49998, y: 37.49308}
+        - {x: 17.49998, y: 37.49308}
+        - {x: 12.49998, y: 32.49308}
+        - {x: 9.499977, y: 18.49308}
+        - {x: 0.4999771, y: 12.49308}
+        - {x: -5.500023, y: 0.4930763}
+        - {x: -5.500023, y: -7.506924}
+        - {x: -33.50002, y: -30.50692}
+        - {x: -33.50002, y: -37.50692}
+        - {x: -13.50002, y: -29.50692}
+        - {x: -8.500023, y: -37.50692}
+        - {x: 1.499977, y: -37.50692}
+        - {x: 7.499977, y: -27.50692}
+        - {x: 12.49998, y: -24.50692}
+        - {x: 23.49998, y: -37.50692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_40
+      rect:
+        serializedVersion: 2
+        x: 657.0129
+        y: 14.02675
+        width: 68.97418
+        height: 74.96034
+      alignment: 9
+      pivot: {x: 0.6942172, y: 0.02632391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.49998, y: -37.50692}
+        - {x: -34.50002, y: -37.50692}
+        - {x: -34.50002, y: -24.50692}
+        - {x: -14.50002, y: 14.49308}
+        - {x: 15.49998, y: 37.49308}
+        - {x: 26.49998, y: 37.49308}
+        - {x: 34.49998, y: -5.506924}
+      physicsShape:
+      - - {x: 33.49998, y: -37.50692}
+        - {x: 34.49998, y: -34.50692}
+        - {x: 29.49998, y: -13.50692}
+        - {x: 21.49998, y: 36.49308}
+        - {x: 18.49998, y: 37.49308}
+        - {x: 15.49998, y: 36.49308}
+        - {x: -4.500023, y: 8.493076}
+        - {x: -12.50002, y: -11.50692}
+        - {x: -31.50002, y: -24.50692}
+        - {x: -34.50002, y: -28.50692}
+        - {x: -34.50002, y: -33.50692}
+        - {x: -15.50002, y: -31.50692}
+        - {x: -9.500023, y: -37.50692}
+        - {x: 1.499977, y: -37.50692}
+        - {x: 5.499977, y: -35.50692}
+        - {x: 12.49998, y: -21.50692}
+        - {x: 23.49998, y: -35.50692}
+        - {x: 26.49998, y: -37.50692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_41
+      rect:
+        serializedVersion: 2
+        x: 783.0129
+        y: 14.02675
+        width: 70.97418
+        height: 75.96034
+      alignment: 9
+      pivot: {x: 0.702834, y: 0.02597736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.49998, y: -38.00692}
+        - {x: -25.50002, y: -38.00692}
+        - {x: -35.50002, y: -32.00692}
+        - {x: -35.50002, y: -12.00692}
+        - {x: 7.499977, y: 37.99308}
+        - {x: 23.49998, y: 37.99308}
+        - {x: 31.49998, y: 1.99308}
+        - {x: 35.49998, y: -32.00692}
+      physicsShape:
+      - - {x: 35.49998, y: -38.00692}
+        - {x: 35.49998, y: -35.00692}
+        - {x: 33.49998, y: -21.00692}
+        - {x: 31.49998, y: 1.99308}
+        - {x: 20.49998, y: 16.99308}
+        - {x: 20.49998, y: 32.99308}
+        - {x: 17.49998, y: 37.99308}
+        - {x: 12.49998, y: 37.99308}
+        - {x: 9.499977, y: 15.99308}
+        - {x: -3.500023, y: 4.99308}
+        - {x: -5.500023, y: -6.00692}
+        - {x: -32.50002, y: -22.00692}
+        - {x: -35.50002, y: -26.00692}
+        - {x: -34.50002, y: -29.00692}
+        - {x: -29.50002, y: -29.00692}
+        - {x: -15.50002, y: -27.00692}
+        - {x: -9.500023, y: -29.00692}
+        - {x: -5.500023, y: -38.00692}
+        - {x: 3.499977, y: -38.00692}
+        - {x: 14.49998, y: -22.00692}
+        - {x: 22.49998, y: -37.00692}
+        - {x: 24.49998, y: -38.00692}
+      - - {x: 4.499977, y: -12.00692}
+        - {x: 3.499977, y: -12.00692}
+        - {x: 1.499977, y: -14.00692}
+        - {x: 2.499977, y: -15.00692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

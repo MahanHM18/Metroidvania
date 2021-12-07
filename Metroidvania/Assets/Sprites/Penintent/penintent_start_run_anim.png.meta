@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 1180cdfa4dcc2ef4687d9d0e4e807767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penintent_start_run_anim_0
+  - first:
+      213: 21300002
+    second: penintent_start_run_anim_1
+  - first:
+      213: 21300004
+    second: penintent_start_run_anim_2
+  - first:
+      213: 21300006
+    second: penintent_start_run_anim_3
+  - first:
+      213: 21300008
+    second: penintent_start_run_anim_4
+  - first:
+      213: 21300010
+    second: penintent_start_run_anim_5
+  - first:
+      213: 21300012
+    second: penintent_start_run_anim_6
+  - first:
+      213: 21300014
+    second: penintent_start_run_anim_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penintent_start_run_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.7190589, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -35}
+        - {x: -34, y: -35}
+        - {x: -34, y: -14}
+        - {x: 0, y: 35}
+        - {x: 25, y: 35}
+        - {x: 34, y: -7}
+      physicsShape:
+      - - {x: 34, y: -35}
+        - {x: 34, y: -28}
+        - {x: 32, y: -20}
+        - {x: 32, y: -3}
+        - {x: 25, y: 12}
+        - {x: 21, y: 35}
+        - {x: 15, y: 35}
+        - {x: 6, y: 13}
+        - {x: -8, y: 12}
+        - {x: -9, y: -9}
+        - {x: -33, y: -22}
+        - {x: -34, y: -24}
+        - {x: -34, y: -29}
+        - {x: -14, y: -29}
+        - {x: -7, y: -35}
+        - {x: 4, y: -35}
+        - {x: 8, y: -27}
+        - {x: 14, y: -25}
+        - {x: 26, y: -35}
+      - - {x: 4, y: -12}
+        - {x: 1, y: -13}
+        - {x: 1, y: -14}
+        - {x: 2, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6999404, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -34}
+        - {x: -33.5, y: -34}
+        - {x: -33.5, y: -24}
+        - {x: -32.5, y: -22}
+        - {x: -8.500004, y: -9}
+        - {x: -0.5000038, y: -2}
+        - {x: 2.499996, y: -1}
+        - {x: 0.4999962, y: -1}
+        - {x: -3.500004, y: 3}
+        - {x: -7.500004, y: 10}
+        - {x: 13.5, y: 34}
+        - {x: 22.5, y: 34}
+        - {x: 33.5, y: 9}
+      physicsShape:
+      - - {x: 33.5, y: -24}
+        - {x: 32.5, y: -19}
+        - {x: 32.5, y: 2}
+        - {x: 22.5, y: 34}
+        - {x: 14.5, y: 34}
+        - {x: 7.499996, y: 14}
+        - {x: -7.500004, y: 10}
+        - {x: -3.500004, y: 3}
+        - {x: 0.4999962, y: -1}
+        - {x: 2.499996, y: -1}
+        - {x: -0.5000038, y: -2}
+        - {x: -8.500004, y: -9}
+        - {x: -32.5, y: -22}
+        - {x: -33.5, y: -24}
+        - {x: -33.5, y: -29}
+        - {x: -13.5, y: -34}
+        - {x: 8.499996, y: -34}
+        - {x: 14.5, y: -23}
+        - {x: 24.5, y: -34}
+        - {x: 33.5, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.695394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.99999, y: -28.5}
+        - {x: -32.99999, y: -28.5}
+        - {x: -32.99999, y: -6.5}
+        - {x: 0.000007629395, y: 33.5}
+        - {x: 26.00001, y: 33.5}
+        - {x: 33.00001, y: 19.5}
+        - {x: 33.00001, y: -10.5}
+        - {x: 28.00001, y: -11.5}
+        - {x: 24.00001, y: -6.5}
+        - {x: 26.00001, y: -9.5}
+        - {x: 26.00001, y: -13.5}
+        - {x: 33.00001, y: -17.5}
+        - {x: 33.00001, y: -33.5}
+        - {x: -12.99999, y: -33.5}
+      physicsShape:
+      - - {x: 33.00001, y: -17.5}
+        - {x: 26.00001, y: -13.5}
+        - {x: 26.00001, y: -9.5}
+        - {x: 24.00001, y: -6.5}
+        - {x: 28.00001, y: -11.5}
+        - {x: 33.00001, y: -10.5}
+        - {x: 33.00001, y: 4.5}
+        - {x: 28.00001, y: 9.5}
+        - {x: 26.00001, y: 33.5}
+        - {x: 20.00001, y: 33.5}
+        - {x: -9.999992, y: 6.5}
+        - {x: -32.99999, y: -22.5}
+        - {x: -32.99999, y: -28.5}
+        - {x: -28.99999, y: -28.5}
+        - {x: -12.99999, y: -33.5}
+        - {x: 9.000008, y: -33.5}
+        - {x: 15.00001, y: -31.5}
+        - {x: 20.00001, y: -33.5}
+        - {x: 33.00001, y: -33.5}
+      - - {x: 5.000008, y: -11.5}
+        - {x: 4.000008, y: -11.5}
+        - {x: 2.000008, y: -13.5}
+        - {x: 3.000008, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.685015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -33}
+        - {x: -33.5, y: -30}
+        - {x: -33.5, y: -21}
+        - {x: 19.5, y: 34}
+        - {x: 30.5, y: 34}
+        - {x: 33.5, y: 14}
+        - {x: 33.5, y: -34}
+        - {x: -10.5, y: -34}
+      physicsShape:
+      - - {x: 33.5, y: 5}
+        - {x: 27.5, y: 12}
+        - {x: 27.5, y: 34}
+        - {x: 20.5, y: 34}
+        - {x: 12.5, y: 14}
+        - {x: -2.5, y: 8}
+        - {x: -9.5, y: -7}
+        - {x: -33.5, y: -22}
+        - {x: -33.5, y: -29}
+        - {x: -15.5, y: -25}
+        - {x: -12.5, y: -29}
+        - {x: -1.5, y: -34}
+        - {x: 4.5, y: -34}
+        - {x: 16.5, y: -23}
+        - {x: 19.5, y: -34}
+        - {x: 31.5, y: -34}
+        - {x: 31.5, y: -32}
+        - {x: 27.5, y: -11}
+        - {x: 33.5, y: -11}
+      - - {x: -0.5, y: -16}
+        - {x: 2.5, y: -14}
+        - {x: 6.5, y: -11}
+        - {x: 9.5, y: -8}
+        - {x: 8.5, y: -6}
+        - {x: -1.5, y: -15}
+        - {x: -1.5, y: -16}
+      - - {x: 23.5, y: -5}
+        - {x: 22.5, y: -6}
+        - {x: 25.5, y: -7}
+        - {x: 25.5, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 71
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6464226, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.49999, y: -34.5}
+        - {x: -35.49999, y: -32.5}
+        - {x: -35.49999, y: -19.5}
+        - {x: -34.49999, y: -17.5}
+        - {x: 19.50001, y: 34.5}
+        - {x: 27.50001, y: 34.5}
+        - {x: 35.50001, y: 23.5}
+        - {x: 35.50001, y: -31.5}
+        - {x: 31.50001, y: -34.5}
+      physicsShape:
+      - - {x: 29.50001, y: 11.5}
+        - {x: 27.50001, y: 34.5}
+        - {x: 22.50001, y: 34.5}
+        - {x: 19.50001, y: 31.5}
+        - {x: 14.50001, y: 12.5}
+        - {x: -0.4999924, y: 7.5}
+        - {x: -11.49999, y: -7.5}
+        - {x: -34.49999, y: -18.5}
+        - {x: -35.49999, y: -20.5}
+        - {x: -35.49999, y: -25.5}
+        - {x: -31.49999, y: -25.5}
+        - {x: -15.49999, y: -19.5}
+        - {x: -16.49999, y: -24.5}
+        - {x: -11.49999, y: -26.5}
+        - {x: 0.5000076, y: -32.5}
+        - {x: 11.50001, y: -34.5}
+        - {x: 26.50001, y: -34.5}
+        - {x: 23.50001, y: -13.5}
+        - {x: 35.50001, y: -9.5}
+        - {x: 35.50001, y: -0.5}
+      - - {x: 4.500008, y: -18.5}
+        - {x: 5.500008, y: -17.5}
+        - {x: -0.4999924, y: -19.5}
+        - {x: 0.5000076, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6651595, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 32}
+        - {x: 26.5, y: 35}
+        - {x: 31.5, y: 35}
+        - {x: 34.5, y: 15}
+        - {x: 34.5, y: -8}
+        - {x: 29.5, y: -8}
+        - {x: 24.5, y: -3}
+        - {x: 26.5, y: -6}
+        - {x: 27.5, y: -9}
+        - {x: 25.5, y: -21}
+        - {x: 19.5, y: -35}
+        - {x: 0.5, y: -35}
+        - {x: -34.5, y: -28}
+        - {x: -34.5, y: -19}
+      physicsShape:
+      - - {x: 24.5, y: -3}
+        - {x: 29.5, y: -8}
+        - {x: 34.5, y: -8}
+        - {x: 34.5, y: 15}
+        - {x: 31.5, y: 35}
+        - {x: 26.5, y: 35}
+        - {x: 23.5, y: 32}
+        - {x: 21.5, y: 20}
+        - {x: 5.5, y: 11}
+        - {x: -9.5, y: -5}
+        - {x: -33.5, y: -18}
+        - {x: -34.5, y: -20}
+        - {x: -34.5, y: -27}
+        - {x: -4.5, y: -24}
+        - {x: 5.5, y: -35}
+        - {x: 19.5, y: -35}
+        - {x: 25.5, y: -21}
+        - {x: 27.5, y: -9}
+        - {x: 26.5, y: -6}
+      - - {x: 5.5, y: -8}
+        - {x: 8.5, y: -5}
+        - {x: 7.5, y: -5}
+        - {x: 8.5, y: -6}
+        - {x: 6.5, y: -7}
+        - {x: 3.5, y: -9}
+        - {x: 0.5, y: -9}
+        - {x: -0.5, y: -11}
+        - {x: 1.5, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6525128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -34.5}
+        - {x: -39, y: -34.5}
+        - {x: -39, y: -11.5}
+        - {x: -9, y: 34.5}
+        - {x: 33, y: 34.5}
+        - {x: 39, y: 22.5}
+        - {x: 39, y: -26.5}
+      physicsShape:
+      - - {x: 26, y: -4.5}
+        - {x: 39, y: -8.5}
+        - {x: 39, y: 6.5}
+        - {x: 36, y: 14.5}
+        - {x: 33, y: 34.5}
+        - {x: 28, y: 34.5}
+        - {x: 26, y: 31.5}
+        - {x: 15, y: 18.5}
+        - {x: -1, y: 12.5}
+        - {x: -39, y: -12.5}
+        - {x: -39, y: -18.5}
+        - {x: -35, y: -18.5}
+        - {x: -1, y: -15.5}
+        - {x: -5, y: -26.5}
+        - {x: -5, y: -30.5}
+        - {x: -3, y: -34.5}
+        - {x: 6, y: -34.5}
+        - {x: 6, y: -33.5}
+        - {x: 10, y: -32.5}
+        - {x: 26, y: -16.5}
+      - - {x: -1, y: -1.5}
+        - {x: 1, y: -1.5}
+        - {x: 3, y: 0.5}
+        - {x: 8, y: 0.5}
+        - {x: 8, y: 1.5}
+        - {x: 5, y: -2.5}
+        - {x: 4, y: -3.5}
+        - {x: -3, y: -3.5}
+        - {x: -7, y: -5.5}
+        - {x: -6, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 76
+        height: 65
+      alignment: 9
+      pivot: {x: 0.6696842, y: -0.09230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -32.5}
+        - {x: -15, y: -17.5}
+        - {x: -12, y: -9.5}
+        - {x: -5.999996, y: -6.5}
+        - {x: -34, y: -15.5}
+        - {x: -38, y: -15.5}
+        - {x: -38, y: -9.5}
+        - {x: 23, y: 31.5}
+        - {x: 26, y: 32.5}
+        - {x: 35, y: 32.5}
+        - {x: 38, y: 12.5}
+        - {x: 38, y: -13.5}
+        - {x: 31, y: -32.5}
+      physicsShape:
+      - - {x: 17, y: -32.5}
+        - {x: 29, y: -32.5}
+        - {x: 25, y: -8.5}
+        - {x: 38, y: -12.5}
+        - {x: 38, y: -3.5}
+        - {x: 35, y: -1.5}
+        - {x: 33, y: 32.5}
+        - {x: 28, y: 32.5}
+        - {x: 26, y: 29.5}
+        - {x: 20, y: 11.5}
+        - {x: 9.000004, y: 16.5}
+        - {x: 1.000004, y: 6.5}
+        - {x: -8.999996, y: 3.5}
+        - {x: -19, y: -1.5}
+        - {x: -35, y: -7.5}
+        - {x: -38, y: -10.5}
+        - {x: -38, y: -15.5}
+        - {x: -34, y: -15.5}
+        - {x: -5.999996, y: -6.5}
+        - {x: -12, y: -9.5}
+        - {x: -15, y: -17.5}
+        - {x: -13, y: -21.5}
+        - {x: -11, y: -21.5}
+        - {x: -11, y: -32.5}
+        - {x: -3.999996, y: -32.5}
+        - {x: 7.000004, y: -26.5}
+        - {x: 12, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

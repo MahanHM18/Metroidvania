@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: e26617221bd10464bb383696eebf83d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_crouch_up_anim_0
+  - first:
+      213: 21300002
+    second: penitent_crouch_up_anim_1
+  - first:
+      213: 21300004
+    second: penitent_crouch_up_anim_2
+  - first:
+      213: 21300006
+    second: penitent_crouch_up_anim_3
+  - first:
+      213: 21300008
+    second: penitent_crouch_up_anim_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_crouch_up_anim_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 81
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7641482, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.50001, y: -25.5}
+        - {x: -12.49999, y: -25.5}
+        - {x: -10.49999, y: -16.5}
+        - {x: -33.49999, y: -25.5}
+        - {x: -40.49999, y: -25.5}
+        - {x: -40.49999, y: -17.5}
+        - {x: 22.50001, y: 25.5}
+        - {x: 31.50001, y: 25.5}
+        - {x: 40.50001, y: -9.5}
+      physicsShape:
+      - - {x: 40.50001, y: -25.5}
+        - {x: 40.50001, y: -18.5}
+        - {x: 35.50001, y: -0.5}
+        - {x: 31.50001, y: 25.5}
+        - {x: 24.50001, y: 25.5}
+        - {x: 12.50001, y: 7.5}
+        - {x: -12.49999, y: -2.5}
+        - {x: -40.49999, y: -20.5}
+        - {x: -40.49999, y: -25.5}
+        - {x: -33.49999, y: -25.5}
+        - {x: -10.49999, y: -16.5}
+        - {x: -12.49999, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouch_up_anim_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 76
+        height: 60
+      alignment: 9
+      pivot: {x: 0.7486317, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -30}
+        - {x: -14, y: -30}
+        - {x: -14, y: -23}
+        - {x: -8.000004, y: -17}
+        - {x: -34, y: -28}
+        - {x: -38, y: -28}
+        - {x: -38, y: -22}
+        - {x: 20, y: 26}
+        - {x: 22, y: 30}
+        - {x: 27, y: 30}
+        - {x: 38, y: -15}
+        - {x: 38, y: -30}
+        - {x: 17, y: -30}
+      physicsShape:
+      - - {x: 38, y: -20}
+        - {x: 32, y: 7}
+        - {x: 27, y: 30}
+        - {x: 22, y: 30}
+        - {x: 20, y: 26}
+        - {x: 9.999996, y: 8}
+        - {x: -13, y: -7}
+        - {x: -38, y: -22}
+        - {x: -38, y: -28}
+        - {x: -34, y: -28}
+        - {x: -8.000004, y: -17}
+        - {x: -14, y: -23}
+        - {x: -14, y: -30}
+        - {x: 11, y: -30}
+        - {x: 16, y: -23}
+        - {x: 29, y: -30}
+        - {x: 38, y: -30}
+      - - {x: 17, y: -30}
+        - {x: 17, y: -28}
+        - {x: 14, y: -27}
+        - {x: 12, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouch_up_anim_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 75
+        height: 65
+      alignment: 9
+      pivot: {x: 0.74528, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.49999, y: -32.5}
+        - {x: -19.49999, y: -30.5}
+        - {x: -13.49999, y: -23.5}
+        - {x: -7.499992, y: -17.5}
+        - {x: -33.49999, y: -28.5}
+        - {x: -37.49999, y: -28.5}
+        - {x: -37.49999, y: -21.5}
+        - {x: 17.50001, y: 32.5}
+        - {x: 27.50001, y: 32.5}
+        - {x: 37.50001, y: -13.5}
+        - {x: 37.50001, y: -32.5}
+      physicsShape:
+      - - {x: 37.50001, y: -16.5}
+        - {x: 28.50001, y: 9.5}
+        - {x: 25.50001, y: 32.5}
+        - {x: 18.50001, y: 32.5}
+        - {x: 13.50001, y: 18.5}
+        - {x: 5.500008, y: 5.5}
+        - {x: -12.49999, y: -7.5}
+        - {x: -37.49999, y: -22.5}
+        - {x: -37.49999, y: -28.5}
+        - {x: -33.49999, y: -28.5}
+        - {x: -7.499992, y: -17.5}
+        - {x: -13.49999, y: -23.5}
+        - {x: -19.49999, y: -30.5}
+        - {x: -16.49999, y: -32.5}
+        - {x: 8.500008, y: -32.5}
+        - {x: 17.50001, y: -23.5}
+        - {x: 28.50001, y: -32.5}
+        - {x: 37.50001, y: -32.5}
+      - - {x: 23.50001, y: -8.5}
+        - {x: 24.50001, y: -7.5}
+        - {x: 23.50001, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouch_up_anim_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 68
+      alignment: 9
+      pivot: {x: 0.7418379, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -34}
+        - {x: -19, y: -28}
+        - {x: -14, y: -23}
+        - {x: -7, y: -18}
+        - {x: -33, y: -29}
+        - {x: -37, y: -29}
+        - {x: -37, y: -24}
+        - {x: 15, y: 31}
+        - {x: 18, y: 34}
+        - {x: 26, y: 34}
+        - {x: 37, y: -14}
+        - {x: 37, y: -34}
+      physicsShape:
+      - - {x: 37, y: -22}
+        - {x: 34, y: -6}
+        - {x: 25, y: 13}
+        - {x: 23, y: 34}
+        - {x: 18, y: 34}
+        - {x: 15, y: 31}
+        - {x: 12, y: 14}
+        - {x: -36, y: -22}
+        - {x: -37, y: -24}
+        - {x: -37, y: -29}
+        - {x: -33, y: -29}
+        - {x: -7, y: -18}
+        - {x: -14, y: -23}
+        - {x: -19, y: -28}
+        - {x: -11, y: -34}
+        - {x: 9, y: -34}
+        - {x: 16, y: -22}
+        - {x: 28, y: -34}
+        - {x: 37, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouch_up_anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7148657, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -36}
+        - {x: -33.5, y: -33}
+        - {x: -33.5, y: 4}
+        - {x: 6.5, y: 36}
+        - {x: 33.5, y: 36}
+        - {x: 33.5, y: -36}
+      physicsShape:
+      - - {x: 33.5, y: -26}
+        - {x: 32.5, y: -20}
+        - {x: 30.5, y: 2}
+        - {x: 21.5, y: 17}
+        - {x: 19.5, y: 32}
+        - {x: 18.5, y: 36}
+        - {x: 13.5, y: 36}
+        - {x: 10.5, y: 27}
+        - {x: -2.5, y: 2}
+        - {x: -9.5, y: -9}
+        - {x: -33.5, y: -23}
+        - {x: -33.5, y: -30}
+        - {x: -16.5, y: -26}
+        - {x: -13.5, y: -30}
+        - {x: -6.5, y: -35}
+        - {x: -6.5, y: -36}
+        - {x: 4.5, y: -36}
+        - {x: 14.5, y: -22}
+        - {x: 24.5, y: -36}
+        - {x: 33.5, y: -36}
+      - - {x: 4.5, y: -12}
+        - {x: 3.5, y: -12}
+        - {x: 1.5, y: -14}
+        - {x: 2.5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

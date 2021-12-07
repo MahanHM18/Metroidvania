@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: e25b2b43edc07354fa8802297b76a0f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_crouchslash_noslashes_anim_0
+  - first:
+      213: 21300002
+    second: penitent_crouchslash_noslashes_anim_1
+  - first:
+      213: 21300004
+    second: penitent_crouchslash_noslashes_anim_2
+  - first:
+      213: 21300006
+    second: penitent_crouchslash_noslashes_anim_3
+  - first:
+      213: 21300008
+    second: penitent_crouchslash_noslashes_anim_4
+  - first:
+      213: 21300010
+    second: penitent_crouchslash_noslashes_anim_5
+  - first:
+      213: 21300012
+    second: penitent_crouchslash_noslashes_anim_6
+  - first:
+      213: 21300014
+    second: penitent_crouchslash_noslashes_anim_7
+  - first:
+      213: 21300016
+    second: penitent_crouchslash_noslashes_anim_8
+  - first:
+      213: 21300018
+    second: penitent_crouchslash_noslashes_anim_9
+  - first:
+      213: 21300020
+    second: penitent_crouchslash_noslashes_anim_10
+  - first:
+      213: 21300022
+    second: penitent_crouchslash_noslashes_anim_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 77
+        height: 52
+      alignment: 9
+      pivot: {x: 0.7535815, y: 0.0003561974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -26}
+        - {x: -38.5, y: -26}
+        - {x: -38.5, y: -19}
+        - {x: 21.5, y: 25}
+        - {x: 23.5, y: 26}
+        - {x: 29.5, y: 26}
+        - {x: 38.5, y: -4}
+      physicsShape:
+      - - {x: 22.5, y: -25}
+        - {x: 26.5, y: -26}
+        - {x: 38.5, y: -26}
+        - {x: 38.5, y: -18}
+        - {x: 33.5, y: 0}
+        - {x: 29.5, y: 26}
+        - {x: 24.5, y: 26}
+        - {x: 23.5, y: 24}
+        - {x: 13.5, y: 8.999998}
+        - {x: -0.5, y: 3}
+        - {x: -2.5, y: -3}
+        - {x: -38.5, y: -21}
+        - {x: -38.5, y: -26}
+        - {x: 21.5, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 55
+        width: 74
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7435915, y: 0.0003494766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -26.5}
+        - {x: -37, y: -26.5}
+        - {x: -37, y: -22.5}
+        - {x: 22, y: 26.5}
+        - {x: 28, y: 26.5}
+        - {x: 34, y: 1.499998}
+        - {x: 37, y: -14.5}
+      physicsShape:
+      - - {x: 37, y: -26.5}
+        - {x: 37, y: -14.5}
+        - {x: 34, y: 1.499998}
+        - {x: 28, y: 26.5}
+        - {x: 23, y: 26.5}
+        - {x: 22, y: 24.5}
+        - {x: 17, y: 6.499998}
+        - {x: 12, y: 9.499998}
+        - {x: -1.000004, y: 2.499998}
+        - {x: -18, y: -14.5}
+        - {x: -34, y: -20.5}
+        - {x: -37, y: -23.5}
+        - {x: -37, y: -26.5}
+        - {x: 17, y: -26.5}
+        - {x: 18, y: -22.5}
+        - {x: 27, y: -26.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.740079, y: 0.0003430049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -27}
+        - {x: -36.5, y: -24}
+        - {x: -36.5, y: -7}
+        - {x: 17.5, y: 27}
+        - {x: 35.5, y: 27}
+        - {x: 36.5, y: 19}
+        - {x: 36.5, y: -27}
+      physicsShape:
+      - - {x: 36.5, y: -3}
+        - {x: 28.5, y: 5.999998}
+        - {x: 28.5, y: 27}
+        - {x: 23.5, y: 27}
+        - {x: 22.5, y: 25}
+        - {x: 15.5, y: 5.999998}
+        - {x: 7.5, y: 9.999998}
+        - {x: -8.5, y: -6}
+        - {x: -30.5, y: -16}
+        - {x: -36.5, y: -19}
+        - {x: -36.5, y: -24}
+        - {x: -18.5, y: -27}
+        - {x: 36.5, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 55
+      alignment: 9
+      pivot: {x: 0.740079, y: 0.0003367684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -27.5}
+        - {x: -36.5, y: -27.5}
+        - {x: -36.5, y: -16.5}
+        - {x: 23.5, y: 25.5}
+        - {x: 24.5, y: 27.5}
+        - {x: 34.5, y: 27.5}
+        - {x: 36.5, y: 16.5}
+      physicsShape:
+      - - {x: 36.5, y: -1.5}
+        - {x: 29.5, y: 6.499998}
+        - {x: 29.5, y: 27.5}
+        - {x: 24.5, y: 27.5}
+        - {x: 23.5, y: 25.5}
+        - {x: 8.5, y: 9.499998}
+        - {x: -36.5, y: -16.5}
+        - {x: -36.5, y: -25.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -13.5, y: -22.5}
+        - {x: -13.5, y: -27.5}
+        - {x: 14.5, y: -27.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 25.5, y: -27.5}
+        - {x: 36.5, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 58
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5349271, y: 0.000324952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -7.500002}
+        - {x: -29, y: -7.500002}
+        - {x: -29, y: 5.499998}
+        - {x: 9, y: 28.5}
+        - {x: 25, y: 28.5}
+        - {x: 29, y: 15.5}
+        - {x: 29, y: -8.500002}
+        - {x: 21, y: -11.5}
+        - {x: 17, y: -9.500002}
+        - {x: 21, y: -12.5}
+        - {x: 25, y: -28.5}
+        - {x: -29, y: -28.5}
+        - {x: -29, y: -25.5}
+      physicsShape:
+      - - {x: 21, y: -11.5}
+        - {x: 29, y: -8.500002}
+        - {x: 29, y: 9.499998}
+        - {x: 18, y: 28.5}
+        - {x: 12, y: 28.5}
+        - {x: -29, y: -1.500002}
+        - {x: -29, y: -7.500002}
+        - {x: -25, y: -7.500002}
+        - {x: -17, y: -13.5}
+        - {x: -29, y: -27.5}
+        - {x: -29, y: -28.5}
+        - {x: 25, y: -28.5}
+        - {x: 21, y: -12.5}
+        - {x: 17, y: -9.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 162
+        width: 51
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5103093, y: 0.0002987462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -31}
+        - {x: -25.5, y: -14}
+        - {x: -25.5, y: 13}
+        - {x: 0.5000019, y: 31}
+        - {x: 22.5, y: 31}
+        - {x: 25.5, y: 26}
+        - {x: 25.5, y: -25}
+        - {x: 22.5, y: -31}
+      physicsShape:
+      - - {x: 25.5, y: -18}
+        - {x: 25.5, y: 12}
+        - {x: 24.5, y: 13}
+        - {x: 12.5, y: 14}
+        - {x: 12.5, y: 31}
+        - {x: 7.500002, y: 31}
+        - {x: 4.500002, y: 27}
+        - {x: 2.500002, y: 17}
+        - {x: -21.5, y: 13}
+        - {x: -25.5, y: 12}
+        - {x: -25.5, y: -1.000002}
+        - {x: -15.5, y: -31}
+        - {x: 21.5, y: -31}
+        - {x: 21.5, y: -30}
+        - {x: 23.5, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 68
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5739084, y: 0.03480211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -29}
+        - {x: -34, y: -18}
+        - {x: -34, y: -12}
+        - {x: 30, y: 29}
+        - {x: 34, y: 29}
+        - {x: 34, y: -19}
+        - {x: 26, y: -29}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: 34, y: 29}
+        - {x: 30, y: 29}
+        - {x: 12, y: 12}
+        - {x: -12, y: -5.000002}
+        - {x: -24, y: -7.000002}
+        - {x: -34, y: -12}
+        - {x: -34, y: -17}
+        - {x: -3, y: -14}
+        - {x: 2, y: -29}
+        - {x: 23, y: -29}
+        - {x: 27, y: -27}
+        - {x: 25, y: -18}
+        - {x: 33, y: -10}
+        - {x: 30, y: 0.9999981}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 62
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5165447, y: 0.01756073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -29}
+        - {x: -4, y: -12}
+        - {x: 1, y: -10}
+        - {x: 2, y: -10}
+        - {x: -2, y: -9.000002}
+        - {x: -2, y: -10}
+        - {x: -27, y: -10}
+        - {x: -31, y: -9.000002}
+        - {x: -31, y: -4.000002}
+        - {x: -29, y: -2.000002}
+        - {x: 27, y: 29}
+        - {x: 31, y: 29}
+        - {x: 31, y: -13}
+        - {x: 23, y: -29}
+      physicsShape:
+      - - {x: 27, y: 29}
+        - {x: -29, y: -2.000002}
+        - {x: -31, y: -4.000002}
+        - {x: -31, y: -9.000002}
+        - {x: -27, y: -10}
+        - {x: -2, y: -10}
+        - {x: -2, y: -9.000002}
+        - {x: 2, y: -10}
+        - {x: 3, y: -10}
+        - {x: 1, y: -10}
+        - {x: -4, y: -12}
+        - {x: -3, y: -29}
+        - {x: 23, y: -29}
+        - {x: 31, y: -13}
+        - {x: 31, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 108
+        width: 49
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5515464, y: 0.01726309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -29.5}
+        - {x: -24.5, y: -24.5}
+        - {x: -24.5, y: 2.499998}
+        - {x: -0.4999981, y: 29.5}
+        - {x: 24.5, y: 29.5}
+        - {x: 24.5, y: -29.5}
+      physicsShape:
+      - - {x: 21.5, y: 29.5}
+        - {x: 18.5, y: 22.5}
+        - {x: 13.5, y: 11.5}
+        - {x: -3.499998, y: 2.499998}
+        - {x: -21.5, y: 1.499998}
+        - {x: -24.5, y: -0.5000019}
+        - {x: -24.5, y: -5.500002}
+        - {x: -22.5, y: -7.500002}
+        - {x: -6.499998, y: -28.5}
+        - {x: -5.499998, y: -29.5}
+        - {x: 24.5, y: -29.5}
+        - {x: 24.5, y: 29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 167
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0.3561283, y: 0.0003036436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -30.5}
+        - {x: -22.5, y: -29.5}
+        - {x: -22.5, y: 21.5}
+        - {x: -9.5, y: 30.5}
+        - {x: 22.5, y: 30.5}
+        - {x: 22.5, y: -30.5}
+      physicsShape:
+      - - {x: 22.5, y: -8.500002}
+        - {x: 22.5, y: 0.4999981}
+        - {x: 16.5, y: 10.5}
+        - {x: 10.5, y: 30.5}
+        - {x: 4.5, y: 30.5}
+        - {x: -4.5, y: 7.499998}
+        - {x: -19.5, y: 5.499998}
+        - {x: -22.5, y: 3.499998}
+        - {x: -22.5, y: -24.5}
+        - {x: -21.5, y: -30.5}
+        - {x: 14.5, y: -30.5}
+        - {x: 14.5, y: -29.5}
+        - {x: 15.5, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 108
+        width: 47
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5537398, y: 0.000324952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -20.5, y: -4.500002}
+        - {x: 12.5, y: 28.5}
+        - {x: 19.5, y: 28.5}
+        - {x: 23.5, y: 24.5}
+      physicsShape:
+      - - {x: 23.5, y: 20.5}
+        - {x: 18.5, y: 28.5}
+        - {x: 13.5, y: 28.5}
+        - {x: 10.5, y: 19.5}
+        - {x: -10.5, y: 3.499998}
+        - {x: -19.5, y: -5.500002}
+        - {x: -19.5, y: -9.500002}
+        - {x: -23.5, y: -20.5}
+        - {x: -23.5, y: -28.5}
+        - {x: 23.5, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crouchslash_noslashes_anim_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 108
+        width: 72
+        height: 54
+      alignment: 9
+      pivot: {x: 0.736469, y: 0.0003430049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -11}
+        - {x: -36, y: -10}
+        - {x: -36, y: -5.000002}
+        - {x: 22, y: 27}
+        - {x: 28, y: 27}
+        - {x: 36, y: -16}
+        - {x: 36, y: -27}
+        - {x: -18, y: -27}
+      physicsShape:
+      - - {x: 31, y: -2.000002}
+        - {x: 28, y: 5.999998}
+        - {x: 28, y: 27}
+        - {x: 23, y: 27}
+        - {x: 22, y: 25}
+        - {x: 15, y: 5.999998}
+        - {x: 8, y: 6.999998}
+        - {x: -9, y: -3.000002}
+        - {x: -32, y: -4.000002}
+        - {x: -36, y: -5.000002}
+        - {x: -36, y: -10}
+        - {x: -34, y: -11}
+        - {x: -2, y: -15}
+        - {x: -15, y: -22}
+        - {x: -15, y: -27}
+        - {x: 36, y: -27}
+        - {x: 36, y: -23}
+        - {x: 34, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

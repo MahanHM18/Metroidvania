@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 3cd2549c8e1245b4ca69b7cb93e336d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_crossing_opendoor_out_anim_fixed_1
+  - first:
+      213: 21300002
+    second: penitent_crossing_opendoor_out_anim_fixed_2
+  - first:
+      213: 21300004
+    second: penitent_crossing_opendoor_out_anim_fixed_3
+  - first:
+      213: 21300006
+    second: penitent_crossing_opendoor_out_anim_fixed_4
+  - first:
+      213: 21300008
+    second: penitent_crossing_opendoor_out_anim_fixed_5
+  - first:
+      213: 21300010
+    second: penitent_crossing_opendoor_out_anim_fixed_6
+  - first:
+      213: 21300012
+    second: penitent_crossing_opendoor_out_anim_fixed_7
+  - first:
+      213: 21300014
+    second: penitent_crossing_opendoor_out_anim_fixed_8
+  - first:
+      213: 21300016
+    second: penitent_crossing_opendoor_out_anim_fixed_9
+  - first:
+      213: 21300018
+    second: penitent_crossing_opendoor_out_anim_fixed_10
+  - first:
+      213: 21300020
+    second: penitent_crossing_opendoor_out_anim_fixed_11
+  - first:
+      213: 21300022
+    second: penitent_crossing_opendoor_out_anim_fixed_12
+  - first:
+      213: 21300024
+    second: penitent_crossing_opendoor_out_anim_fixed_13
+  - first:
+      213: 21300026
+    second: penitent_crossing_opendoor_out_anim_fixed_14
+  - first:
+      213: 21300028
+    second: penitent_crossing_opendoor_out_anim_fixed_15
+  - first:
+      213: 21300030
+    second: penitent_crossing_opendoor_out_anim_fixed_16
+  - first:
+      213: 21300032
+    second: penitent_crossing_opendoor_out_anim_fixed_17
+  - first:
+      213: 21300034
+    second: penitent_crossing_opendoor_out_anim_fixed_18
+  - first:
+      213: 21300036
+    second: penitent_crossing_opendoor_out_anim_fixed_19
+  - first:
+      213: 21300038
+    second: penitent_crossing_opendoor_out_anim_fixed_20
+  - first:
+      213: 21300040
+    second: penitent_crossing_opendoor_out_anim_fixed_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7598485, y: 0.005345201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -36.5}
+        - {x: -33, y: -32.5}
+        - {x: -33, y: -3.5}
+        - {x: 12, y: 36.5}
+        - {x: 33, y: 36.5}
+        - {x: 33, y: -36.5}
+      physicsShape:
+      - - {x: 33, y: -36.5}
+        - {x: 33, y: -27.5}
+        - {x: 32, y: -21.5}
+        - {x: 30, y: 3.5}
+        - {x: 25, y: 13.5}
+        - {x: 21, y: 36.5}
+        - {x: 15, y: 36.5}
+        - {x: 9, y: 14.5}
+        - {x: -2, y: 1.5}
+        - {x: -5, y: -4.5}
+        - {x: -30, y: -21.5}
+        - {x: -33, y: -25.5}
+        - {x: -33, y: -31.5}
+        - {x: -16, y: -30.5}
+        - {x: -5, y: -31.5}
+        - {x: -5, y: -36.5}
+        - {x: 6, y: -36.5}
+        - {x: 10, y: -26.5}
+        - {x: 19, y: -27.5}
+        - {x: 24, y: -36.5}
+      - - {x: 0, y: -15.5}
+        - {x: 6, y: -9.5}
+        - {x: 8, y: -6.5}
+        - {x: 6, y: -7.5}
+        - {x: -1, y: -14.5}
+        - {x: -1, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.7766129, y: 0.005345201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -36.5}
+        - {x: -31, y: -36.5}
+        - {x: -31, y: -26.5}
+        - {x: 13, y: 36.5}
+        - {x: 24, y: 36.5}
+        - {x: 31, y: -11.5}
+      physicsShape:
+      - - {x: 31, y: -36.5}
+        - {x: 31, y: -27.5}
+        - {x: 30, y: -21.5}
+        - {x: 30, y: -2.5}
+        - {x: 22, y: 36.5}
+        - {x: 14, y: 36.5}
+        - {x: 8, y: 17.5}
+        - {x: -2, y: 7.5}
+        - {x: -16, y: -8.5}
+        - {x: -31, y: -26.5}
+        - {x: -31, y: -32.5}
+        - {x: -28, y: -33.5}
+        - {x: -11, y: -26.5}
+        - {x: 0, y: -21.5}
+        - {x: -5, y: -35.5}
+        - {x: -5, y: -36.5}
+        - {x: 7, y: -36.5}
+        - {x: 20, y: -28.5}
+        - {x: 22, y: -36.5}
+      - - {x: 5, y: -7.5}
+        - {x: 2, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7872549, y: 0.005202662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.50001, y: -37.5}
+        - {x: -25.49999, y: -37.5}
+        - {x: -25.49999, y: -26.5}
+        - {x: -23.49999, y: -16.5}
+        - {x: 10.50001, y: 37.5}
+        - {x: 17.50001, y: 37.5}
+        - {x: 25.50001, y: 10.5}
+      physicsShape:
+      - - {x: 25.50001, y: -30.5}
+        - {x: 21.50001, y: -17.5}
+        - {x: 25.50001, y: -15.5}
+        - {x: 25.50001, y: -6.5}
+        - {x: 16.50001, y: 13.5}
+        - {x: 16.50001, y: 37.5}
+        - {x: 10.50001, y: 37.5}
+        - {x: 2.500008, y: 15.5}
+        - {x: -23.49999, y: -16.5}
+        - {x: -25.49999, y: -26.5}
+        - {x: -25.49999, y: -37.5}
+        - {x: -23.49999, y: -37.5}
+        - {x: -15.49999, y: -29.5}
+        - {x: -10.49999, y: -20.5}
+        - {x: -3.499992, y: -22.5}
+        - {x: -6.499992, y: -34.5}
+        - {x: -7.499992, y: -37.5}
+        - {x: 2.500008, y: -37.5}
+        - {x: 9.500008, y: -22.5}
+        - {x: 14.50001, y: -37.5}
+        - {x: 25.50001, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 43
+        height: 79
+      alignment: 9
+      pivot: {x: 0.7941861, y: 0.04291392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499992, y: -38.5}
+        - {x: -10.49999, y: -36.5}
+        - {x: -9.499992, y: -31.5}
+        - {x: -13.49999, y: -39.5}
+        - {x: -19.49999, y: -39.5}
+        - {x: -21.49999, y: -34.5}
+        - {x: -21.49999, y: -12.5}
+        - {x: 2.500008, y: 37.5}
+        - {x: 6.500008, y: 39.5}
+        - {x: 12.50001, y: 39.5}
+        - {x: 21.50001, y: 10.5}
+        - {x: 21.50001, y: -32.5}
+        - {x: 19.50001, y: -38.5}
+        - {x: 13.50001, y: -38.5}
+        - {x: 0.5000076, y: -36.5}
+        - {x: -1.499992, y: -38.5}
+      physicsShape:
+      - - {x: -7.499992, y: -38.5}
+        - {x: -1.499992, y: -38.5}
+        - {x: 0.5000076, y: -36.5}
+        - {x: 3.500008, y: -26.5}
+        - {x: 9.500008, y: -36.5}
+        - {x: 13.50001, y: -38.5}
+        - {x: 19.50001, y: -38.5}
+        - {x: 20.50001, y: -35.5}
+        - {x: 15.50001, y: -10.5}
+        - {x: 21.50001, y: -9.5}
+        - {x: 21.50001, y: 1.5}
+        - {x: 12.50001, y: 13.5}
+        - {x: 12.50001, y: 39.5}
+        - {x: 7.500008, y: 39.5}
+        - {x: 5.500008, y: 35.5}
+        - {x: -10.49999, y: -2.5}
+        - {x: -21.49999, y: -14.5}
+        - {x: -21.49999, y: -29.5}
+        - {x: -19.49999, y: -35.5}
+        - {x: -19.49999, y: -39.5}
+        - {x: -13.49999, y: -39.5}
+        - {x: -9.499992, y: -31.5}
+        - {x: -4.499992, y: -14.5}
+        - {x: -10.49999, y: -36.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 29
+        height: 71
+      alignment: 9
+      pivot: {x: 0.8327587, y: 0.04774929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.49999, y: -35.5}
+        - {x: -14.49999, y: 35.5}
+        - {x: 14.50001, y: 35.5}
+        - {x: 14.50001, y: -35.5}
+      physicsShape:
+      - - {x: 14.50001, y: 35.5}
+        - {x: 9.500008, y: 35.5}
+        - {x: 6.500008, y: 32.5}
+        - {x: -6.499992, y: 11.5}
+        - {x: -14.49999, y: -9.5}
+        - {x: -14.49999, y: -22.5}
+        - {x: -12.49999, y: -22.5}
+        - {x: -10.49999, y: -21.5}
+        - {x: -14.49999, y: -29.5}
+        - {x: -14.49999, y: -30.5}
+        - {x: -12.49999, y: -35.5}
+        - {x: 11.50001, y: -35.5}
+        - {x: 12.50001, y: -32.5}
+        - {x: 10.50001, y: -5.5}
+        - {x: 14.50001, y: -5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 32
+        height: 73
+      alignment: 9
+      pivot: {x: 0.8171875, y: 0.07383835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.99999, y: -34.5}
+        - {x: -15.99999, y: -26.5}
+        - {x: -13.99999, y: -23.5}
+        - {x: -15.99999, y: -22.5}
+        - {x: -15.99999, y: -8.499998}
+        - {x: -8.999992, y: 11.5}
+        - {x: 4.000008, y: 36.5}
+        - {x: 14.00001, y: 36.5}
+        - {x: 16.00001, y: -1.499998}
+        - {x: 16.00001, y: -36.5}
+        - {x: 12.00001, y: -36.5}
+        - {x: 10.00001, y: -34.5}
+        - {x: 8.000008, y: -28.5}
+        - {x: 8.000008, y: -30.5}
+        - {x: 6.000008, y: -32.5}
+      physicsShape:
+      - - {x: 15.00001, y: 10.5}
+        - {x: 14.00001, y: 36.5}
+        - {x: 7.000008, y: 36.5}
+        - {x: 1.000008, y: 28.5}
+        - {x: -6.999992, y: 10.5}
+        - {x: -15.99999, y: -8.499998}
+        - {x: -15.99999, y: -22.5}
+        - {x: -12.99999, y: -23.5}
+        - {x: -8.999992, y: -16.5}
+        - {x: -15.99999, y: -26.5}
+        - {x: -12.99999, y: -34.5}
+        - {x: 6.000008, y: -32.5}
+        - {x: 8.000008, y: -30.5}
+        - {x: 8.000008, y: -28.5}
+        - {x: 10.00001, y: -34.5}
+        - {x: 12.00001, y: -36.5}
+        - {x: 16.00001, y: -36.5}
+        - {x: 16.00001, y: -4.499998}
+      - - {x: -4.999992, y: -28.5}
+        - {x: -4.999992, y: -27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 45
+        height: 66
+      alignment: 9
+      pivot: {x: 0.4477778, y: 0.005912116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -33}
+        - {x: -22.5, y: -33}
+        - {x: -22.5, y: 5}
+        - {x: -12.5, y: 33}
+        - {x: 4.5, y: 33}
+        - {x: 22.5, y: -17}
+      physicsShape:
+      - - {x: 18.5, y: -33}
+        - {x: 22.5, y: -33}
+        - {x: 22.5, y: -22}
+        - {x: 9.5, y: -2}
+        - {x: 3.5, y: 1}
+        - {x: 3.5, y: 33}
+        - {x: -4.5, y: 33}
+        - {x: -10.5, y: 25}
+        - {x: -18.5, y: 10}
+        - {x: -22.5, y: -9}
+        - {x: -22.5, y: -23}
+        - {x: -20.5, y: -23}
+        - {x: -20.5, y: -28}
+        - {x: -19.5, y: -33}
+        - {x: -5.5, y: -33}
+        - {x: -4.5, y: -32}
+        - {x: -4.5, y: -30}
+        - {x: -1.5, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 145
+        width: 55
+        height: 74
+      alignment: 9
+      pivot: {x: 0.2754546, y: 0.005272968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -37}
+        - {x: -27.5, y: -18}
+        - {x: -27.5, y: 10}
+        - {x: -20.5, y: 32}
+        - {x: -18.5, y: 37}
+        - {x: -13.5, y: 37}
+        - {x: 27.5, y: -16}
+        - {x: 27.5, y: -28}
+        - {x: -3.5, y: -37}
+      physicsShape:
+      - - {x: 27.5, y: -18}
+        - {x: 1.5, y: -2}
+        - {x: -10.5, y: 12}
+        - {x: -13.5, y: 37}
+        - {x: -18.5, y: 37}
+        - {x: -20.5, y: 32}
+        - {x: -27.5, y: 10}
+        - {x: -27.5, y: -18}
+        - {x: -25.5, y: -37}
+        - {x: -7.5, y: -37}
+        - {x: 0.5, y: -14}
+        - {x: 23.5, y: -24}
+        - {x: 27.5, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 57
+        height: 78
+      alignment: 9
+      pivot: {x: 0.2833334, y: 0.00500256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -39}
+        - {x: -28.5, y: -39}
+        - {x: -28.5, y: 13}
+        - {x: -20.5, y: 34}
+        - {x: -18.5, y: 39}
+        - {x: -13.5, y: 39}
+        - {x: 28.5, y: -13}
+      physicsShape:
+      - - {x: 28.5, y: -23}
+        - {x: 28.5, y: -17}
+        - {x: 2.5, y: -1}
+        - {x: -13.5, y: 19}
+        - {x: -12.5, y: 30}
+        - {x: -13.5, y: 39}
+        - {x: -18.5, y: 39}
+        - {x: -20.5, y: 34}
+        - {x: -28.5, y: 13}
+        - {x: -28.5, y: -30}
+        - {x: -24.5, y: -39}
+        - {x: -10.5, y: -39}
+        - {x: -3.5, y: -37}
+        - {x: -5.5, y: -12}
+        - {x: -0.5, y: -13}
+        - {x: 24.5, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 50
+        height: 79
+      alignment: 9
+      pivot: {x: 0.343, y: 0.004939236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -39.5}
+        - {x: -25, y: -39.5}
+        - {x: -25, y: 18.5}
+        - {x: -15, y: 39.5}
+        - {x: -10, y: 39.5}
+        - {x: 25, y: -28.5}
+        - {x: 25, y: -35.5}
+      physicsShape:
+      - - {x: 25, y: -35.5}
+        - {x: 25, y: -29.5}
+        - {x: 10, y: -13.5}
+        - {x: 7, y: -5.5}
+        - {x: -6, y: 15.5}
+        - {x: -10, y: 39.5}
+        - {x: -15, y: 39.5}
+        - {x: -17, y: 34.5}
+        - {x: -25, y: 8.5}
+        - {x: -25, y: -29.5}
+        - {x: -20, y: -39.5}
+        - {x: -10, y: -39.5}
+        - {x: -1, y: -32.5}
+        - {x: 0, y: -13.5}
+        - {x: 23, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 223
+        width: 45
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4033334, y: 0.004939236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: -39.5}
+        - {x: -22.5, y: -39.5}
+        - {x: -22.5, y: 36.5}
+        - {x: -21.5, y: 39.5}
+        - {x: -0.5, y: 39.5}
+        - {x: 22.5, y: -21.5}
+      physicsShape:
+      - - {x: 22.5, y: -39.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 9.5, y: -5.5}
+        - {x: 1.5, y: 9.5}
+        - {x: -4.5, y: 21.5}
+        - {x: -6.5, y: 39.5}
+        - {x: -12.5, y: 39.5}
+        - {x: -13.5, y: 36.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -22.5, y: 8.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -18.5, y: -39.5}
+        - {x: -6.5, y: -39.5}
+        - {x: 1.5, y: -30.5}
+        - {x: 4.5, y: -18.5}
+        - {x: 20.5, y: -38.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 145
+        width: 41
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4670732, y: -0.02146401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.49999, y: -37.5}
+        - {x: -20.49999, y: -24.5}
+        - {x: -20.49999, y: 20.5}
+        - {x: -10.49999, y: 37.5}
+        - {x: 3.500008, y: 37.5}
+        - {x: 20.50001, y: -12.5}
+        - {x: 20.50001, y: -37.5}
+      physicsShape:
+      - - {x: 13.50001, y: -29.5}
+        - {x: 18.50001, y: -36.5}
+        - {x: 20.50001, y: -36.5}
+        - {x: 20.50001, y: -22.5}
+        - {x: 13.50001, y: -3.5}
+        - {x: 6.500008, y: 2.5}
+        - {x: -1.499992, y: 23.5}
+        - {x: -2.499992, y: 37.5}
+        - {x: -10.49999, y: 37.5}
+        - {x: -15.49999, y: 15.5}
+        - {x: -20.49999, y: 8.5}
+        - {x: -20.49999, y: -15.5}
+        - {x: -18.49999, y: -23.5}
+        - {x: -13.49999, y: -37.5}
+        - {x: -5.499992, y: -37.5}
+        - {x: -4.499992, y: -34.5}
+        - {x: 5.500008, y: -30.5}
+        - {x: 7.500008, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 35
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5471429, y: -0.03624723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.49999, y: -35}
+        - {x: -17.49999, y: -27}
+        - {x: -17.49999, y: 16}
+        - {x: -6.499992, y: 36}
+        - {x: 2.500008, y: 36}
+        - {x: 16.50001, y: -4}
+        - {x: 17.50001, y: -9}
+        - {x: 17.50001, y: -36}
+        - {x: -11.49999, y: -36}
+      physicsShape:
+      - - {x: 10.50001, y: 6}
+        - {x: 7.500008, y: 12}
+        - {x: 4.500008, y: 21}
+        - {x: 1.500008, y: 36}
+        - {x: -6.499992, y: 36}
+        - {x: -9.499992, y: 27}
+        - {x: -17.49999, y: 12}
+        - {x: -17.49999, y: -14}
+        - {x: -11.49999, y: -32}
+        - {x: -8.499992, y: -36}
+        - {x: 5.500008, y: -33}
+        - {x: 7.500008, y: -30}
+        - {x: 14.50001, y: -36}
+        - {x: 17.50001, y: -36}
+        - {x: 17.50001, y: -16}
+        - {x: 15.50001, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 34
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5632353, y: -0.0530853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.99999, y: -31}
+        - {x: -16.99999, y: -18}
+        - {x: -16.99999, y: 20}
+        - {x: -13.99999, y: 32}
+        - {x: -7.999992, y: 34}
+        - {x: 6.000008, y: 34}
+        - {x: 15.00001, y: -3}
+        - {x: 17.00001, y: -14}
+        - {x: 17.00001, y: -34}
+        - {x: 1.000008, y: -34}
+      physicsShape:
+      - - {x: 8.000008, y: 15}
+        - {x: 3.000008, y: 34}
+        - {x: -5.999992, y: 34}
+        - {x: -6.999992, y: 29}
+        - {x: -16.99999, y: 11}
+        - {x: -16.99999, y: -6}
+        - {x: -15.99999, y: -7}
+        - {x: -10.99999, y: -31}
+        - {x: 6.000008, y: -30}
+        - {x: 8.000008, y: -29}
+        - {x: 14.00001, y: -34}
+        - {x: 17.00001, y: -34}
+        - {x: 17.00001, y: -14}
+        - {x: 15.00001, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 32
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5984375, y: -0.07435162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.999992, y: -31}
+        - {x: -15.99999, y: -17}
+        - {x: -15.99999, y: 25}
+        - {x: -9.999992, y: 31}
+        - {x: 15.00001, y: 31}
+        - {x: 16.00001, y: 24}
+        - {x: 16.00001, y: -31}
+      physicsShape:
+      - - {x: 6.000008, y: 31}
+        - {x: -4.999992, y: 31}
+        - {x: -15.99999, y: 19}
+        - {x: -15.99999, y: -7}
+        - {x: -12.99999, y: -14}
+        - {x: -7.999992, y: -23}
+        - {x: 1.000008, y: -29}
+        - {x: 10.00001, y: -27}
+        - {x: 11.00001, y: -30}
+        - {x: 13.00001, y: -31}
+        - {x: 16.00001, y: -31}
+        - {x: 16.00001, y: 6}
+        - {x: 9.000008, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 27
+        height: 55
+      alignment: 9
+      pivot: {x: 0.7092593, y: -0.1019964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.49999, y: -27.5}
+        - {x: -13.49999, y: 27.5}
+        - {x: 13.50001, y: 27.5}
+        - {x: 13.50001, y: -27.5}
+      physicsShape:
+      - - {x: -9.499992, y: 27.5}
+        - {x: -13.49999, y: 22.5}
+        - {x: -13.49999, y: -2.5}
+        - {x: -8.499992, y: -14.5}
+        - {x: 0.5000076, y: -22.5}
+        - {x: 8.500008, y: -27.5}
+        - {x: 13.50001, y: -27.5}
+        - {x: 13.50001, y: 14.5}
+        - {x: 8.500008, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 72
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6596155, y: -0.155302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.99999, y: -24.5}
+        - {x: -12.99999, y: 24.5}
+        - {x: 13.00001, y: 24.5}
+        - {x: 13.00001, y: -24.5}
+      physicsShape:
+      - - {x: -12.99999, y: 24.5}
+        - {x: -12.99999, y: -0.5}
+        - {x: -10.99999, y: -13.5}
+        - {x: 4.000008, y: -19.5}
+        - {x: 9.000008, y: -24.5}
+        - {x: 13.00001, y: -24.5}
+        - {x: 13.00001, y: 15.5}
+        - {x: 10.00001, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 72
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6312501, y: -0.2526143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.99999, y: -21}
+        - {x: -11.99999, y: 21}
+        - {x: 12.00001, y: 21}
+        - {x: 12.00001, y: -21}
+      physicsShape:
+      - - {x: -11.99999, y: 21}
+        - {x: -11.99999, y: -5.999998}
+        - {x: -10.99999, y: -13}
+        - {x: -0.9999924, y: -18}
+        - {x: 2.000008, y: -12}
+        - {x: 8.000008, y: -21}
+        - {x: 12.00001, y: -21}
+        - {x: 12.00001, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 72
+        width: 19
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5868422, y: -0.36028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.499992, y: -17.5}
+        - {x: -9.499992, y: 17.5}
+        - {x: 9.500008, y: 17.5}
+        - {x: 9.500008, y: -17.5}
+      physicsShape:
+      - - {x: -9.499992, y: 17.5}
+        - {x: -9.499992, y: -13.5}
+        - {x: -5.499992, y: -13.5}
+        - {x: -2.499992, y: -10.5}
+        - {x: 5.500008, y: -17.5}
+        - {x: 9.500008, y: -17.5}
+        - {x: 9.500008, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5868422, y: -0.5035419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.499992, y: -15.5}
+        - {x: -9.499992, y: 15.5}
+        - {x: 9.500008, y: 15.5}
+        - {x: 9.500008, y: -15.5}
+      physicsShape:
+      - - {x: -9.499992, y: -14.5}
+        - {x: -8.499992, y: -15.5}
+        - {x: 9.500008, y: -15.5}
+        - {x: 9.500008, y: 15.5}
+        - {x: -9.499992, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_crossing_opendoor_out_anim_fixed_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 19
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5868422, y: -1.089433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.499992, y: -8.999998}
+        - {x: -9.499992, y: 9.000002}
+        - {x: 9.500008, y: 9.000002}
+        - {x: 9.500008, y: -8.999998}
+      physicsShape:
+      - - {x: -9.499992, y: 9.000002}
+        - {x: -9.499992, y: -8.999998}
+        - {x: 9.500008, y: -8.999998}
+        - {x: 9.500008, y: 9.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

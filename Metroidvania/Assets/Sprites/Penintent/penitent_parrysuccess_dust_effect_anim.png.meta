@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 5cc8ab38904219046a92304bb59d1bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: penitent_parrysuccess_dust_effect_anim_0
+  - first:
+      213: 21300002
+    second: penitent_parrysuccess_dust_effect_anim_1
+  - first:
+      213: 21300004
+    second: penitent_parrysuccess_dust_effect_anim_2
+  - first:
+      213: 21300006
+    second: penitent_parrysuccess_dust_effect_anim_3
+  - first:
+      213: 21300008
+    second: penitent_parrysuccess_dust_effect_anim_4
+  - first:
+      213: 21300010
+    second: penitent_parrysuccess_dust_effect_anim_5
+  - first:
+      213: 21300012
+    second: penitent_parrysuccess_dust_effect_anim_6
+  - first:
+      213: 21300014
+    second: penitent_parrysuccess_dust_effect_anim_7
+  - first:
+      213: 21300016
+    second: penitent_parrysuccess_dust_effect_anim_8
+  - first:
+      213: 21300018
+    second: penitent_parrysuccess_dust_effect_anim_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 68
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -7}
+        - {x: -34, y: 7}
+        - {x: 34, y: 7}
+        - {x: 34, y: -7}
+      physicsShape:
+      - - {x: 9, y: 7}
+        - {x: -2, y: 5}
+        - {x: -11, y: 7}
+        - {x: -34, y: 7}
+        - {x: -34, y: -3}
+        - {x: -30, y: -7}
+        - {x: 31, y: -7}
+        - {x: 34, y: -5}
+        - {x: 34, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 68
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.2142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -7}
+        - {x: -34, y: 7}
+        - {x: 34, y: 7}
+        - {x: 34, y: -7}
+      physicsShape:
+      - - {x: 9, y: 7}
+        - {x: -2, y: 5}
+        - {x: -11, y: 7}
+        - {x: -34, y: 7}
+        - {x: -34, y: -3}
+        - {x: -30, y: -7}
+        - {x: 31, y: -7}
+        - {x: 34, y: -5}
+        - {x: 34, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 73
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -7.5}
+        - {x: -36.5, y: 7.5}
+        - {x: 36.5, y: 7.5}
+        - {x: 36.5, y: -7.5}
+      physicsShape:
+      - - {x: 16.5, y: 7.5}
+        - {x: -3.5, y: 1.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -36.5, y: 7.5}
+        - {x: -36.5, y: -1.5}
+        - {x: -29.5, y: -7.5}
+        - {x: 32.5, y: -7.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: 6.5}
+        - {x: 35.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 73
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -7.5}
+        - {x: -36.5, y: 7.5}
+        - {x: 36.5, y: 7.5}
+        - {x: 36.5, y: -7.5}
+      physicsShape:
+      - - {x: 16.5, y: 7.5}
+        - {x: -3.5, y: 1.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -36.5, y: 7.5}
+        - {x: -36.5, y: -1.5}
+        - {x: -29.5, y: -7.5}
+        - {x: 32.5, y: -7.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: 6.5}
+        - {x: 35.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 79
+        height: 20
+      alignment: 9
+      pivot: {x: 0.556962, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -10}
+        - {x: -39.5, y: 10}
+        - {x: 39.5, y: 10}
+        - {x: 39.5, y: -10}
+      physicsShape:
+      - - {x: 32.5, y: 10}
+        - {x: 28.5, y: 10}
+        - {x: 22.5, y: 0}
+        - {x: -11.5, y: -4}
+        - {x: -24.5, y: 7}
+        - {x: -24.5, y: 10}
+        - {x: -39.5, y: 10}
+        - {x: -39.5, y: -3}
+        - {x: -25.5, y: -10}
+        - {x: 28.5, y: -10}
+        - {x: 35.5, y: -9}
+        - {x: 39.5, y: -4}
+        - {x: 39.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 79
+        height: 20
+      alignment: 9
+      pivot: {x: 0.556962, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -10}
+        - {x: -39.5, y: 10}
+        - {x: 39.5, y: 10}
+        - {x: 39.5, y: -10}
+      physicsShape:
+      - - {x: 32.5, y: 10}
+        - {x: 28.5, y: 10}
+        - {x: 22.5, y: 0}
+        - {x: -11.5, y: -4}
+        - {x: -24.5, y: 7}
+        - {x: -24.5, y: 10}
+        - {x: -39.5, y: 10}
+        - {x: -39.5, y: -3}
+        - {x: -25.5, y: -10}
+        - {x: 28.5, y: -10}
+        - {x: 35.5, y: -9}
+        - {x: 39.5, y: -4}
+        - {x: 39.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 88
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5568182, y: 0.1363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -11}
+        - {x: -44, y: 11}
+        - {x: 44, y: 11}
+        - {x: 44, y: -11}
+      physicsShape:
+      - - {x: -12, y: -6}
+        - {x: -13, y: -9}
+        - {x: -11, y: -11}
+        - {x: 11, y: -11}
+        - {x: 10, y: -8}
+        - {x: 3, y: -6}
+      - - {x: -24, y: 10}
+        - {x: -27, y: 11}
+        - {x: -43, y: 11}
+        - {x: -44, y: 8}
+        - {x: -44, y: -4}
+        - {x: -42, y: -5}
+        - {x: -39, y: -5}
+        - {x: -37, y: -3}
+        - {x: -37, y: -2}
+        - {x: -35, y: -7}
+        - {x: -30, y: -9}
+        - {x: -25, y: -7}
+        - {x: -23, y: -11}
+        - {x: -17, y: -11}
+        - {x: -13, y: -7}
+        - {x: -13, y: -6}
+        - {x: -20, y: 2}
+      - - {x: 33, y: 9}
+        - {x: 15, y: -5}
+        - {x: 13, y: -7}
+        - {x: 13, y: -8}
+        - {x: 14, y: -11}
+        - {x: 29, y: -11}
+        - {x: 44, y: -6}
+        - {x: 44, y: 7}
+        - {x: 39, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5978261, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -12.5}
+        - {x: -46, y: 12.5}
+        - {x: 46, y: 12.5}
+        - {x: 46, y: -12.5}
+      physicsShape:
+      - - {x: -1, y: -12.5}
+        - {x: -2, y: -9.5}
+        - {x: -7, y: -9.5}
+        - {x: -8, y: -12.5}
+      - - {x: -1, y: -11.5}
+        - {x: -1, y: -12.5}
+        - {x: 10, y: -12.5}
+        - {x: 9, y: -9.5}
+        - {x: 6, y: -8.5}
+        - {x: 3, y: -8.5}
+      - - {x: 18, y: -10.5}
+        - {x: 19, y: -12.5}
+        - {x: 23, y: -12.5}
+        - {x: 24, y: -11.5}
+        - {x: 23, y: -8.5}
+        - {x: 20, y: -8.5}
+      - - {x: -20, y: -9.5}
+        - {x: -19, y: -12.5}
+        - {x: -16, y: -12.5}
+        - {x: -14, y: -10.5}
+        - {x: -15, y: -7.5}
+        - {x: -18, y: -7.5}
+      - - {x: 35, y: 2.5}
+        - {x: 31, y: 2.5}
+        - {x: 23, y: -4.5}
+        - {x: 23, y: -10.5}
+        - {x: 26, y: -11.5}
+        - {x: 32, y: -11.5}
+        - {x: 36, y: -7.5}
+        - {x: 36, y: 1.5}
+      - - {x: -31, y: -7.5}
+        - {x: -30, y: -10.5}
+        - {x: -26, y: -10.5}
+        - {x: -24, y: -8.5}
+        - {x: -25, y: -5.5}
+        - {x: -29, y: -5.5}
+      - - {x: -39, y: -5.5}
+        - {x: -38, y: -8.5}
+        - {x: -35, y: -8.5}
+        - {x: -33, y: -6.5}
+        - {x: -34, y: -3.5}
+        - {x: -37, y: -3.5}
+      - - {x: -18, y: 3.5}
+        - {x: -21, y: 3.5}
+        - {x: -23, y: 1.5}
+        - {x: -23, y: -1.5}
+        - {x: -17, y: -7.5}
+        - {x: -11, y: -7.5}
+        - {x: -10, y: -6.5}
+        - {x: -10, y: -2.5}
+        - {x: -14, y: 1.5}
+      - - {x: 39, y: -5.5}
+        - {x: 42, y: -4.5}
+        - {x: 42, y: -1.5}
+        - {x: 39, y: -0.5}
+        - {x: 37, y: -2.5}
+      - - {x: -43, y: -1.5}
+        - {x: -43, y: 1.5}
+        - {x: -46, y: 2.5}
+        - {x: -46, y: -2.5}
+      - - {x: -38, y: 12.5}
+        - {x: -40, y: 11.5}
+        - {x: -40, y: 9.5}
+        - {x: -37, y: 4.5}
+        - {x: -29, y: 1.5}
+        - {x: -21, y: 1.5}
+        - {x: -21, y: 11.5}
+        - {x: -22, y: 12.5}
+      - - {x: 41, y: 11.5}
+        - {x: 37, y: 7.5}
+        - {x: 36, y: 3.5}
+        - {x: 38, y: 1.5}
+        - {x: 45, y: 1.5}
+        - {x: 46, y: 2.5}
+        - {x: 46, y: 9.5}
+        - {x: 44, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 83
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5542169, y: -0.2105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: -9.5}
+        - {x: -41.5, y: 9.5}
+        - {x: 41.5, y: 9.5}
+        - {x: 41.5, y: -9.5}
+      physicsShape:
+      - - {x: 25.5, y: -2.5}
+        - {x: 21.5, y: -2.5}
+        - {x: 19.5, y: -6.5}
+        - {x: 19.5, y: -9.5}
+        - {x: 24.5, y: -9.5}
+        - {x: 27.5, y: -5.5}
+        - {x: 27.5, y: -3.5}
+      - - {x: -21.5, y: -8.5}
+        - {x: -18.5, y: -7.5}
+        - {x: -18.5, y: -4.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -23.5, y: -5.5}
+      - - {x: -41.5, y: 9.5}
+        - {x: -41.5, y: 1.5}
+        - {x: -36.5, y: -0.5}
+        - {x: -25.5, y: -5.5}
+        - {x: -22.5, y: -5.5}
+        - {x: -22.5, y: 3.5}
+        - {x: -23.5, y: 6.5}
+        - {x: -26.5, y: 9.5}
+      - - {x: 28.5, y: -4.5}
+        - {x: 31.5, y: -3.5}
+        - {x: 31.5, y: -0.5}
+        - {x: 28.5, y: 0.5}
+        - {x: 26.5, y: -1.5}
+      - - {x: 36.5, y: 8.5}
+        - {x: 33.5, y: 5.5}
+        - {x: 33.5, y: 1.5}
+        - {x: 40.5, y: -0.5}
+        - {x: 41.5, y: -0.5}
+        - {x: 41.5, y: 7.5}
+        - {x: 40.5, y: 8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parrysuccess_dust_effect_anim_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 84
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5714286, y: -0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -8}
+        - {x: -42, y: 8}
+        - {x: 42, y: 8}
+        - {x: 42, y: -8}
+      physicsShape:
+      - - {x: 28, y: -8}
+        - {x: 28, y: -6}
+        - {x: 25, y: -5}
+        - {x: 23, y: -8}
+      - - {x: -24, y: -8}
+        - {x: -21, y: -7}
+        - {x: -21, y: -4}
+        - {x: -24, y: -3}
+        - {x: -26, y: -5}
+      - - {x: 30, y: -6}
+        - {x: 33, y: -5}
+        - {x: 33, y: -2}
+        - {x: 30, y: -1}
+        - {x: 28, y: -3}
+      - - {x: -42, y: 8}
+        - {x: -42, y: 3}
+        - {x: -39, y: 0}
+        - {x: -34, y: -4}
+        - {x: -26, y: -4}
+        - {x: -26, y: 5}
+        - {x: -31, y: 8}
+      - - {x: 38, y: 7}
+        - {x: 34, y: 4}
+        - {x: 35, y: 1}
+        - {x: 41, y: -1}
+        - {x: 42, y: -1}
+        - {x: 42, y: 6}
+        - {x: 41, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
