@@ -12,7 +12,7 @@ public class PenitentMovement : MonoBehaviour
     private float _stepTimer;
     private BoxCollider2D _boxCollider2D;
 
-    private bool IsGrounded { get { return Physics2D.BoxCast(_boxCollider2D.bounds.center, _boxCollider2D.size, 0, Vector2.down, 0.1f, GroundLayer); } }
+    public bool IsGrounded { get { return Physics2D.BoxCast(_boxCollider2D.bounds.center, _boxCollider2D.size, 0, Vector2.down, 0.1f, GroundLayer); } }
     private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
