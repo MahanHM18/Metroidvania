@@ -15,12 +15,13 @@ public class PenitentAnimation : MonoBehaviour
     {
         _anim = GetComponent<Animator>();
         _input = GetComponent<PenitentInput>();
-        _movement = GetComponent<PenitentMovement>();  
+        _movement = GetComponent<PenitentMovement>();
 
     }
 
     void Start()
     {
+        _movement.Jump += () => { _anim.SetTrigger(JUMP); };
     }
 
     private void FixedUpdate()

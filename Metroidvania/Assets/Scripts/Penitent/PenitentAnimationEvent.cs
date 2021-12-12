@@ -15,4 +15,8 @@ public class PenitentAnimationEvent : MonoBehaviour
     { 
         _audio.PlayFootStep();
     }
+    private void PlayLand()
+    {
+        _audio.PlayLand(LandSFX.Normal);
+    }
 }
