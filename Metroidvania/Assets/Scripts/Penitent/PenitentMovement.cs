@@ -12,6 +12,9 @@ public class PenitentMovement : MonoBehaviour
     private float _stepTimer;
     private BoxCollider2D _boxCollider2D;
 
+    public delegate void JumpDelegate();
+    public static event JumpDelegate Jump; 
+
     public bool IsGrounded { get { return Physics2D.BoxCast(_boxCollider2D.bounds.center, _boxCollider2D.size, 0, Vector2.down, 0.1f, GroundLayer); } }
     private void Awake()
     {
@@ -22,6 +25,7 @@ public class PenitentMovement : MonoBehaviour
     void Start()
     {
         Speed = MoveSpeed;
+        Jump += () => { _rb.velocity = new Vector2(_rb.velocity.x, JumpForce); };
     }
 
 
@@ -71,6 +75,7 @@ public class PenitentMovement : MonoBehaviour
             if (IsGrounded)
             {
                 _rb.velocity = new Vector2(_rb.velocity.x, JumpForce);
+                GetComponent<Animator>().SetTrigger("Jump");
             }
         }
     }
