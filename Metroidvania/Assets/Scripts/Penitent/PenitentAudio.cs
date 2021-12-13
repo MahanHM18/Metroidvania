@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class PenitentAudio : MonoBehaviour
 {
-    [Header("///////////// Simple SFX")]
-    [SerializeField] private AudioClip JumpSFX;
 
     private AudioSource _runAudio;
     private AudioSource _landAudio;
     private AudioSource _jumpAudio;
+    private AudioSource _dashAudio;
 
     private PenitentMovement _movement;
 
@@ -19,10 +18,10 @@ public class PenitentAudio : MonoBehaviour
         _landAudio = transform.GetChild(1).GetComponent<AudioSource>();
         _jumpAudio = transform.GetChild(2).GetComponent<AudioSource>();
         _movement = transform.parent.GetComponent<PenitentMovement>();
+        _dashAudio = transform.GetChild(3).GetComponent<AudioSource>();
     }
     private void Start()
     {
-        _jumpAudio.clip = JumpSFX;
         _movement.Jump += PlayJumpSFX;
     }
     public void PlayFootStep()
@@ -42,6 +41,11 @@ public class PenitentAudio : MonoBehaviour
     private void PlayJumpSFX()
     {
         _jumpAudio.Play();
+    }
+
+    public void PlayDash()
+    {
+        _dashAudio.Play();
     }
 
 }

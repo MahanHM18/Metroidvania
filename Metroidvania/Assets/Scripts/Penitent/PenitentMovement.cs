@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PenitentMovement : AbstractPenitentMovement
 {
-    [SerializeField] private float MoveSpeed, SoftTime, JumpForce;
+    [SerializeField] private float MoveSpeed, SoftTime, JumpForce, DashTime, DashSpeed;
     [HideInInspector] public float Speed;
     private PenitentInput _input;
 
@@ -14,7 +14,10 @@ public class PenitentMovement : AbstractPenitentMovement
     private PenitentAnimation _anim;
 
     public event JumpDelegate Jump;
+    private float sfTimer;
     public bool IsCrouch { get; private set; }
+    public bool IsDash { get; set; }
+    private bool canDash;
 
     protected override void OnAwake()
     {
@@ -28,23 +31,28 @@ public class PenitentMovement : AbstractPenitentMovement
         Jump += () => { AddForce(new Vector2(0, JumpForce)); };
         base.OnStart();
         Speed = MoveSpeed;
+        canDash = true;
     }
 
     protected override void OnUpdate()
     {
+        PlayerDash();
+        PlayerCrouch();
         PlayerMovement();
         PlayerJump();
         LandRunSFX();
-        PlayerCrouch();
+
     }
 
     private void PlayerMovement()
     {
-        if (_input.LeftKey)
+        if (IsDash)
+            return;
+        if (_input.LeftKey && !_input.RighttKey)
         {
             Flip(Dir.Left);
         }
-        else if (_input.RighttKey)
+        else if (_input.RighttKey && !_input.LeftKey)
         {
             Flip(Dir.Right);
         }
@@ -89,23 +97,66 @@ public class PenitentMovement : AbstractPenitentMovement
 
     private void LandRunSFX()
     {
+        Jump += () => { sfTimer = 0.1f; };
         if (!IsGrounded)
-            canPlayLandRunSFX = true;
-
-        if (IsGrounded && canPlayLandRunSFX && !_anim.IsPlaying("clip_player_start_run"))
         {
+            canPlayLandRunSFX = true;
+            sfTimer = 0.1f;
+        }
+
+        if (IsGrounded && canPlayLandRunSFX && (_input.LeftKey || _input.RighttKey) && sfTimer > 0 && _rb.velocity.y < 0)
+        {
+
             canPlayLandRunSFX = false;
             _audio.PlayLand(LandSFX.Running);
         }
+        if (IsGrounded && sfTimer >= 0)
+            sfTimer -= Time.deltaTime;
+
     }
     private void PlayerCrouch()
     {
+        if (IsDash)
+            return;
         Jump += () => { IsCrouch = false; };
         if (!IsGrounded)
+        {
+            IsCrouch = false;
             return;
+        }
+
         if (_input.CrouchKey)
             IsCrouch = true;
         else
             IsCrouch = false;
+    }
+
+    private void PlayerDash()
+    {
+        if (IsDash)
+        {
+            _rb.velocity = new Vector2(DashSpeed * transform.localScale.x, _rb.velocity.y);
+            _rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+        }
+
+        Jump += () => { IsDash = false; canDash = true; };
+        if (!IsGrounded)
+        {
+            IsDash = false;
+            canDash = true;
+            return;
+        }
+        if (_input.DashKey && canDash && IsGrounded)
+        {
+            StartCoroutine(dash());
+        }
+    }
+
+    IEnumerator dash()
+    {
+        IsDash = true;
+        canDash = false;
+        yield return new WaitForSeconds(DashTime);
+        canDash = true;
     }
 }

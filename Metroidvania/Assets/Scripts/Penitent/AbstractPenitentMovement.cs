@@ -42,7 +42,7 @@ public abstract class AbstractPenitentMovement : MonoBehaviour
     { 
     
     }
-    public bool IsGrounded { get { return Physics2D.BoxCast(_boxCollider2D.bounds.center, _boxCollider2D.size, 0, Vector2.down, 0.1f, GroundLayer); } }
+    public bool IsGrounded { get { return Physics2D.BoxCast(_boxCollider2D.bounds.center, _boxCollider2D.size, 0, Vector2.down, 0.2f, GroundLayer); } }
     protected void Stop(float softTime)
     {
         IsRunning = false;

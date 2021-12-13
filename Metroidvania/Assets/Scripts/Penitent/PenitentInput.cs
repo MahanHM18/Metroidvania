@@ -8,6 +8,7 @@ public class PenitentInput : MonoBehaviour
     public bool RighttKey { get { return Input.GetKey(KeyCode.RightArrow); } }
     
     public bool CrouchKey { get { return Input.GetKey(KeyCode.DownArrow); } }
+    public bool DashKey { get { return Input.GetKeyDown(KeyCode.C);} }
 
     public bool Jump { get { return Input.GetKeyDown(KeyCode.V);  } }
 
