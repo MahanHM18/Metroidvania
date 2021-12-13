@@ -23,12 +23,12 @@ public class LandClip : MonoBehaviour
         {
             case LandSFX.Normal:
                 {
-                    _audio.clip = MerbleSFX[1];
+                    _audio.clip = MerbleSFX[0];
                 }
                 break;
             case LandSFX.Running:
                 {
-                    _audio.clip = MerbleSFX[0];
+                    _audio.clip = MerbleSFX[1];
                 }
                 break;
         }

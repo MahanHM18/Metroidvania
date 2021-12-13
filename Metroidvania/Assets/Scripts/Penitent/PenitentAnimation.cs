@@ -11,6 +11,7 @@ public class PenitentAnimation : MonoBehaviour
     private const string ISRUNNIG = "IsRunning";
     private const string ISGROUNDED = "IsGrounded";
     private const string JUMP = "Jump";
+    private const string ISCROUCH = "IsCrouch";
     private void Awake()
     {
         _anim = GetComponent<Animator>();
@@ -42,5 +43,11 @@ public class PenitentAnimation : MonoBehaviour
     {
         _anim.SetBool(ISRUNNIG, PlayerRun());
         _anim.SetBool(ISGROUNDED, _movement.IsGrounded);
+        _anim.SetBool(ISCROUCH, _movement.IsCrouch);
+    }
+
+    public bool IsPlaying(string name)
+    {
+        return _anim.GetCurrentAnimatorStateInfo(0).IsName(name);
     }
 }
