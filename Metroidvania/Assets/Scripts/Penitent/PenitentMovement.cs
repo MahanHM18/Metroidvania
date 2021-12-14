@@ -12,6 +12,7 @@ public class PenitentMovement : AbstractPenitentMovement
     private bool canPlayLandRunSFX;
     private PenitentAudio _audio;
     private PenitentAnimation _anim;
+    private PenitentAttack _attack;
 
     public event JumpDelegate Jump;
     private float sfTimer;
@@ -19,12 +20,14 @@ public class PenitentMovement : AbstractPenitentMovement
     public bool IsDash { get; set; }
     private bool canDash;
 
+
     protected override void OnAwake()
     {
         base.OnAwake();
         _input = GetComponent<PenitentInput>();
         _audio = transform.GetChild(1).GetComponent<PenitentAudio>();
         _anim = GetComponent<PenitentAnimation>();
+        _attack = GetComponent<PenitentAttack>();
     }
     protected override void OnStart()
     {
@@ -46,6 +49,11 @@ public class PenitentMovement : AbstractPenitentMovement
 
     private void PlayerMovement()
     {
+        if (_attack.IsAttack && IsGrounded)
+        {
+            _rb.velocity = new Vector2(0,_rb.velocity.y);
+            return;
+        }
         if (IsDash)
             return;
         if (_input.LeftKey && !_input.RighttKey)
@@ -58,7 +66,7 @@ public class PenitentMovement : AbstractPenitentMovement
         }
 
 
-        if (IsCrouch)
+        if (IsCrouch )
         {
             Stop(SoftTime);
             return;
@@ -68,7 +76,7 @@ public class PenitentMovement : AbstractPenitentMovement
         {
             Stop(SoftTime);
         }
-        else if (_input.RighttKey)
+        else if (_input.RighttKey )
         {
 
             Run(Dir.Right, Speed);
@@ -86,7 +94,7 @@ public class PenitentMovement : AbstractPenitentMovement
     }
     private void PlayerJump()
     {
-        if (_input.Jump)
+        if (_input.JumpKey && !_attack.IsAttack)
         {
             if (IsGrounded)
             {
@@ -116,7 +124,7 @@ public class PenitentMovement : AbstractPenitentMovement
     }
     private void PlayerCrouch()
     {
-        if (IsDash)
+        if (IsDash || _attack.IsAttack)
             return;
         Jump += () => { IsCrouch = false; };
         if (!IsGrounded)

@@ -9,6 +9,7 @@ public class PenitentAudio : MonoBehaviour
     private AudioSource _landAudio;
     private AudioSource _jumpAudio;
     private AudioSource _dashAudio;
+    private SlashClip _slashAudio;
 
     private PenitentMovement _movement;
 
@@ -19,6 +20,7 @@ public class PenitentAudio : MonoBehaviour
         _jumpAudio = transform.GetChild(2).GetComponent<AudioSource>();
         _movement = transform.parent.GetComponent<PenitentMovement>();
         _dashAudio = transform.GetChild(3).GetComponent<AudioSource>();
+        _slashAudio = transform.GetChild(4).GetComponent<SlashClip>();
     }
     private void Start()
     {
@@ -46,6 +48,12 @@ public class PenitentAudio : MonoBehaviour
     public void PlayDash()
     {
         _dashAudio.Play();
+    }
+
+    public void PlaySlash()
+    { 
+        
+        _slashAudio.PlayRandomSFX();
     }
 
 }

@@ -6,10 +6,14 @@ public class PenitentAnimationEvent : MonoBehaviour
 {
     private PenitentAudio _audio;
     private PenitentMovement _movement;
+    private PenitentAnimation _anim;
+    private PenitentAttack _attack;
     private void Awake()
     {
         _audio = transform.GetChild(1).GetComponent<PenitentAudio>();
         _movement = GetComponent<PenitentMovement>();
+        _anim = GetComponent<PenitentAnimation>();
+        _attack = GetComponent<PenitentAttack>();
     }
 
     private void PlayFootStep()
@@ -28,5 +32,19 @@ public class PenitentAnimationEvent : MonoBehaviour
     private void Dash()
     {
         _audio.PlayDash();
+    }
+
+    private void CanLand()
+    {
+        _anim.canLand = true;
+    }
+
+    private void EndAttack()
+    {
+        _attack.IsAttack = false;
+    }
+    private void AttackSfX()
+    {
+        _audio.PlaySlash();
     }
 }
