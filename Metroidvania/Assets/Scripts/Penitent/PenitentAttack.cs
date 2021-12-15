@@ -14,6 +14,8 @@ public class PenitentAttack : MonoBehaviour
 
     public delegate void DAttack();
     public event DAttack Attack;
+
+    public bool HitEnemy { get; set; }
     private void Awake()
     {
         _movement = GetComponent<PenitentMovement>();
@@ -36,7 +38,12 @@ public class PenitentAttack : MonoBehaviour
     {
         if (!_movement.IsGrounded)
             IsAttack = false;
-        if (!IsAttack && _input.AttackKey && !_movement.IsDash)
+        if (!IsAttack && _input.AttackKey && !_movement.IsDash && !HitEnemy)
+        {
+            Attack();
+            StartCoroutine(GroundAttack());
+        }
+        else if (_input.AttackKey && !_movement.IsDash && HitEnemy)
         {
             Attack();
             StartCoroutine(GroundAttack());

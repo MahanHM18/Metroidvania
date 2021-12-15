@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: clip_player_crouch_start
+  m_Name: clip_player_attack_2
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,17 +20,15 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 21300000, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - time: 0.083333336
-      value: {fileID: 21300002, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - time: 0.16666667
-      value: {fileID: 21300004, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - time: 0.25
-      value: {fileID: 21300006, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - time: 0.33333334
-      value: {fileID: 21300008, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - time: 0.41666666
-      value: {fileID: 21300010, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
+      value: {fileID: 21300018, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - time: 0.016666668
+      value: {fileID: 21300020, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - time: 0.033333335
+      value: {fileID: 21300022, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - time: 0.05
+      value: {fileID: 21300024, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - time: 0.06666667
+      value: {fileID: 21300026, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
     attribute: m_Sprite
     path: Sprite
     classID: 212
@@ -50,18 +48,17 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - {fileID: 21300002, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - {fileID: 21300004, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - {fileID: 21300006, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - {fileID: 21300008, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
-    - {fileID: 21300010, guid: 5c8b626fc9baa924899043fa03cb9172, type: 3}
+    - {fileID: 21300018, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - {fileID: 21300020, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - {fileID: 21300022, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - {fileID: 21300024, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
+    - {fileID: 21300026, guid: fc0772568cdd6e14198de47a18dc77d7, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.43333334
+    m_StopTime: 0.083333336
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -80,4 +77,11 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.016666668
+    functionName: AttackSfX
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

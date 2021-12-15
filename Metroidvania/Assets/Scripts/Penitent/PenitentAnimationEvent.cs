@@ -8,12 +8,14 @@ public class PenitentAnimationEvent : MonoBehaviour
     private PenitentMovement _movement;
     private PenitentAnimation _anim;
     private PenitentAttack _attack;
+    private GameObject _attackCollider;
     private void Awake()
     {
         _audio = transform.GetChild(1).GetComponent<PenitentAudio>();
         _movement = GetComponent<PenitentMovement>();
         _anim = GetComponent<PenitentAnimation>();
         _attack = GetComponent<PenitentAttack>();
+        _attackCollider = transform.GetChild(2).gameObject;
     }
 
     private void PlayFootStep()
@@ -45,6 +47,8 @@ public class PenitentAnimationEvent : MonoBehaviour
     }
     private void AttackSfX()
     {
+        _attackCollider.SetActive(false);
+        _attackCollider.SetActive(true);
         _audio.PlaySlash();
     }
 }

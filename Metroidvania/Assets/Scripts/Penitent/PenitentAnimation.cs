@@ -19,6 +19,7 @@ public class PenitentAnimation : MonoBehaviour
     private const string CANLAND = "CanLand";
     private const string ATTACK = "Attack";
     private const string UP = "Up";
+    private const string HITENEMY = "HitEnemy";
     private void Awake()
     {
         _anim = GetComponent<Animator>();
@@ -56,6 +57,7 @@ public class PenitentAnimation : MonoBehaviour
         _anim.SetBool(ISDASH, _movement.IsDash);
         _anim.SetBool(CANLAND, canLand);
         _anim.SetBool(UP, _input.UpKey);
+        _anim.SetBool(HITENEMY, _attack.HitEnemy);
 
         if (_movement.IsGrounded)
             canLand = false;
