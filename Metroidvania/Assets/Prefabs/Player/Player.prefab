@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1065914771}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.755, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4722373432250807255}
@@ -59,6 +59,96 @@ Transform:
   m_Children: []
   m_Father: {fileID: 4722373432250807255}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2414976332606310222
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3986004415011149966}
+  m_Layer: 0
+  m_Name: DashEndDustPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3986004415011149966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2414976332606310222}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4722373432250807255}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2727925442791894350
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2303768631695920357}
+  m_Layer: 0
+  m_Name: DashStartDustPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2303768631695920357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2727925442791894350}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4722373432250807255}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4012226260225466425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7903482934796965542}
+  m_Layer: 0
+  m_Name: JumpDustPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7903482934796965542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4012226260225466425}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.783, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4722373432250807255}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4722373431343226664
 GameObject:
@@ -465,6 +555,8 @@ MonoBehaviour:
   DashTime: 2
   DashSpeed: 8
   Speed: 0
+  JumpDustPoint: {fileID: 7903482934796965542}
+  JumpDust: {fileID: 3671356803976469185, guid: 37583206d47ca8a43bf7f25ce69184ff, type: 3}
 --- !u!114 &4722373431518804220
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -508,6 +600,10 @@ MonoBehaviour:
   RunStopDust: {fileID: 5097902135504006293, guid: 7c869cafc4d68e24ab9a11a4a97f771b, type: 3}
   LandDustPoint: {fileID: 1065914772}
   LandDust: {fileID: 4921180597385523394, guid: 3cb8c0effce8a844e9d350d1c5db750e, type: 3}
+  DashStartDustPoint: {fileID: 2303768631695920357}
+  DashStartDust: {fileID: 5796003074797821608, guid: 7bc7f6fb6dbb8c84184ea174bc2fff23, type: 3}
+  DashEndDustPoint: {fileID: 3986004415011149966}
+  DashEndDust: {fileID: 7599262435432362836, guid: f13d0fe232e9b3b448f7a24135481c33, type: 3}
 --- !u!114 &4722373431518804219
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -520,7 +616,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab357b2fa966bd94c9f7bcd5ac4a53f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AttackTimer: 0.3
+  AttackTimer: 0.4
   AirAttack: 0
 --- !u!1 &4722373432114838105
 GameObject:
@@ -788,6 +884,9 @@ Transform:
   - {fileID: 4722373432342550352}
   - {fileID: 5131723507884600902}
   - {fileID: 1065914772}
+  - {fileID: 7903482934796965542}
+  - {fileID: 2303768631695920357}
+  - {fileID: 3986004415011149966}
   m_Father: {fileID: 4722373431518804160}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

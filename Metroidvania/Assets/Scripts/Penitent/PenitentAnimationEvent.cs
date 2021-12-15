@@ -19,6 +19,12 @@ public class PenitentAnimationEvent : MonoBehaviour
     [SerializeField] private Transform LandDustPoint;
     [SerializeField] private GameObject LandDust;
 
+    [SerializeField] private Transform DashStartDustPoint;
+    [SerializeField] private GameObject DashStartDust;
+
+    [SerializeField] private Transform DashEndDustPoint;
+    [SerializeField] private GameObject DashEndDust;
+
     private void Awake()
     {
         _audio = transform.GetChild(1).GetComponent<PenitentAudio>();
@@ -81,6 +87,20 @@ public class PenitentAnimationEvent : MonoBehaviour
         GameObject dust = Instantiate(LandDust, LandDustPoint.position, Quaternion.identity) as GameObject;
         dust.transform.localScale = new Vector2(_movement.transform.localScale.x, 1);
         Destroy(dust, 0.3f);
+    }
+
+    private void CreateDashStartDust()
+    {
+        GameObject dust = Instantiate(DashStartDust, DashStartDustPoint.position, Quaternion.identity) as GameObject;
+        dust.transform.localScale = new Vector2(_movement.transform.localScale.x, 1);
+        Destroy(dust, 0.5f);
+    }
+
+    private void CreateDashEndDust()
+    {
+        GameObject dust = Instantiate(DashEndDust, DashEndDustPoint.position, Quaternion.identity) as GameObject;
+        dust.transform.localScale = new Vector2(_movement.transform.localScale.x, 1);
+        Destroy(dust, 0.5f);
     }
 
 }

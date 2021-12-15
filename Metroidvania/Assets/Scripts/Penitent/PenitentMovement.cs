@@ -20,7 +20,8 @@ public class PenitentMovement : AbstractPenitentMovement
     public bool IsDash { get; set; }
     private bool canDash;
 
-
+    [SerializeField] private Transform JumpDustPoint;
+    [SerializeField] private GameObject JumpDust;
     protected override void OnAwake()
     {
         base.OnAwake();
@@ -35,6 +36,7 @@ public class PenitentMovement : AbstractPenitentMovement
         base.OnStart();
         Speed = MoveSpeed;
         canDash = true;
+        Jump += JumpDustEffect;
     }
 
     protected override void OnUpdate()
@@ -166,5 +168,11 @@ public class PenitentMovement : AbstractPenitentMovement
         canDash = false;
         yield return new WaitForSeconds(DashTime);
         canDash = true;
+    }
+
+    private void JumpDustEffect()
+    { 
+        GameObject dust = Instantiate(JumpDust,JumpDustPoint.position,Quaternion.identity);
+        Destroy(dust, 0.2f);
     }
 }

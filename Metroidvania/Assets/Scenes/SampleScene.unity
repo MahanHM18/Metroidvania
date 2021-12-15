@@ -1474,9 +1474,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1065914772, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
+    - target: {fileID: 2303768631695920357, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 2303768631695920357, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.755
+      value: -0.762
+      objectReference: {fileID: 0}
+    - target: {fileID: 3986004415011149966, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.741
+      objectReference: {fileID: 0}
+    - target: {fileID: 3986004415011149966, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.762
       objectReference: {fileID: 0}
     - target: {fileID: 4722373431518804160, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
       propertyPath: m_RootOrder
@@ -1525,10 +1537,6 @@ PrefabInstance:
     - target: {fileID: 4722373431518804162, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 4722373431518804219, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
-      propertyPath: AttackTimer
-      value: 0.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c5c983cc787f6d498470682c9b78bca, type: 3}
