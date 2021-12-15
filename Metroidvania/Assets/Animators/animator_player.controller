@@ -351,7 +351,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: clip_player_attack_3
-  m_Speed: 2.3
+  m_Speed: 3
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 6397951832903474430}
@@ -2565,7 +2565,7 @@ AnimatorStateTransition:
   serializedVersion: 3
   m_TransitionDuration: 0
   m_TransitionOffset: 0
-  m_ExitTime: 2
+  m_ExitTime: 1
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0

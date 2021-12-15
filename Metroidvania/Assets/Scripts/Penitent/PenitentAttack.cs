@@ -9,6 +9,7 @@ public class PenitentAttack : MonoBehaviour
     private PenitentInput _input;
     private PenitentAudio _audio;
     public int AirAttack;
+    private PenitentAnimation _animation;
 
     public bool IsAttack { get; set; }
 
@@ -21,6 +22,7 @@ public class PenitentAttack : MonoBehaviour
         _movement = GetComponent<PenitentMovement>();
         _input = GetComponent<PenitentInput>();
         _audio = transform.GetChild(1).GetComponent<PenitentAudio>();
+        _animation = GetComponent<PenitentAnimation>();
 
     }
     void Start()
@@ -32,6 +34,10 @@ public class PenitentAttack : MonoBehaviour
     void Update()
     {
         PlayerAttack();
+        if (_animation.IsPlaying("clip_player_attack") || _animation.IsPlaying("clip_player_attack_2") || _animation.IsPlaying("clip_player_attack_3"))
+            IsAttack = true;
+        else
+            IsAttack = false;
     }
 
     void PlayerAttack()
@@ -41,19 +47,21 @@ public class PenitentAttack : MonoBehaviour
         if (!IsAttack && _input.AttackKey && !_movement.IsDash && !HitEnemy)
         {
             Attack();
-            StartCoroutine(GroundAttack());
+
+            StartCoroutine(GroundAttack(AttackTimer));
         }
         else if (_input.AttackKey && !_movement.IsDash && HitEnemy)
         {
             Attack();
-            StartCoroutine(GroundAttack());
+
+            StartCoroutine(GroundAttack(AttackTimer * 2));
         }
     }
 
-    IEnumerator GroundAttack()
+    IEnumerator GroundAttack(float t)
     {
-        IsAttack = true;
-        yield return new WaitForSeconds(AttackTimer);
-        IsAttack = false;
+        yield return new WaitForSeconds(t);
     }
+
+
 }
