@@ -34,7 +34,7 @@ public class PenitentAttack : MonoBehaviour
     void Update()
     {
         PlayerAttack();
-        if (_animation.IsPlaying("clip_player_attack") || _animation.IsPlaying("clip_player_attack_2") || _animation.IsPlaying("clip_player_attack_3"))
+        if (_animation.IsPlaying("clip_player_attack") || _animation.IsPlaying("clip_player_attack_2") || _animation.IsPlaying("clip_player_attack_3") || _animation.IsPlaying("clip_player_upward_attack"))
             IsAttack = true;
         else
             IsAttack = false;
