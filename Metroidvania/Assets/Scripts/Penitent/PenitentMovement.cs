@@ -175,4 +175,5 @@ public class PenitentMovement : AbstractPenitentMovement
         GameObject dust = Instantiate(JumpDust,JumpDustPoint.position,Quaternion.identity);
         Destroy(dust, 0.2f);
     }
+
 }

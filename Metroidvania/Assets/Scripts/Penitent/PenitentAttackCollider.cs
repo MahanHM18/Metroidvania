@@ -39,4 +39,6 @@ public class PenitentAttackCollider : MonoBehaviour
             transform.parent.GetComponent<PenitentAttack>().HitEnemy = false;
         }
     }
+
+    
 }
